@@ -1,0 +1,524 @@
+5.01. 1 kcal = 4,185 kJ je množství tepla, nutné pro ohřátí 1 kg vody o 1 °C. Pak pro ohřátí 2 hl vody ke koupeli z 10 °C na 40 °C potřebujeme energii přibližně:
+a) 7 kWh
+b) 25 MJ
+c) 6000 kcal
+d) 6000 kJ
+Správná odpověď: a, b, c
+
+5.02. 1. termodynamický zákon:
+a) platí pouze pro neživé systémy
+b) je zákonem zachování energie
+c) říká, že entropie neustále roste
+d) platí pro živé i neživé systémy
+Správná odpověď: b, d
+
+5.03. Adiabatický děj v plynu je takový děj, kdy:
+a) má plyn při kruhovém ději stoprocentní účinnost
+b) se nemění vnitřní energie plynu
+c) ideální plyn s okolím mění pouze teplo a nekoná, ani nepřijímá práci
+d) nenastává výměna tepla plynu s okolím
+Správná odpověď: d
+
+5.04. Během jednoho cyklu termodynamického kruhového děje je (Q1 – teplo přijaté od ohřívače, Q2 – teplo odevzdané chladiči):
+a) celkové přijaté teplo Q = Q1 − Q2 vždy rovno nule
+b) vždy celková práce W vykonaná pracovní látkou rovna nule
+c) celková práce W, kterou vykoná pracovní látka, rovna W = Q1 − Q2
+d) celková práce W, kterou vykoná pracovní látka, rovna W = Q2 − Q1
+Správná odpověď: c
+
+5.05. Druhý termodynamický zákon říká, že (Q1 – teplo přijaté od ohřívače, Q2 – teplo odevzdané chladiči):
+a) veškeré přijaté teplo lze využít ke konání práce
+b) účinnost tepelného stroje je nejvýše rovna 1 − Q2 / Q1
+c) účinnost tepelného stroje je Q2 / Q1
+d) nelze sestrojit stroj, který by trvale konal práci, aniž by přitom spotřeboval ekvivalentní množství jiné energie
+Správná odpověď: b
+
+5.06. Hustotou molekul rozumíme počet molekul v jednotce objemu. Tlak ideálního plynu:
+a) je nepřímo úměrný hustotě molekul ideálního plynu
+b) je přímo úměrný hustotě molekul ideálního plynu
+c) nezávisí na hustotě molekul ideálního plynu
+d) je vždy nulový
+Správná odpověď: b
+
+5.07. Charlesův zákon popisuje:
+a) děj, při kterém je objem konstantní
+b) děj, při kterém se nekoná práce
+c) vztah p / T = konst.
+d) vztah p2 = (p1 / T1) · T2
+Správná odpověď: a, b, c, d
+
+5.08. Ideální plyn:
+a) teplo pouze přijímá
+b) při rozpínání nekoná práci
+c) je nestlačitelný
+d) je dokonale stlačitelný a bez vnitřního tření
+Správná odpověď: d
+
+5.09. Izochorický děj je děj, při kterém:
+a) součin tlaku a objemu p · V je konstantní
+b) teplota T je konstantní
+c) tlak p je konstantní
+d) objem V je konstantní
+Správná odpověď: d
+
+5.10. Jak se změní střední kinetická energie, kterou má molekula ideálního plynu v důsledku svého neuspořádaného pohybu, jestliže se termodynamická teplota zvětší 3×?
+a) 9× vzroste
+b) nezmění se, protože kinetická energie na teplotě nezávisí
+c) 3× klesne
+d) 3× vzroste
+Správná odpověď: d
+
+5.11. Jaký fyzikální pojem přibližně odpovídá uvedenému případu:
+a) izolovaná termodynamická soustava – kapalina v termosce
+b) rovnovážný děj – průchod plynu turbínou
+c) rovnovážný stav – stav plynu v uzavřené nádobě při konstantní teplotě
+d) rovnovážný stav soustavy – stav plynu v uzavřené nádobě, kterému je dodáváno teplo
+Správná odpověď: a, c
+
+5.12. Je možné, aby plyn předal studenějšímu tělesu teplo 200 J a vykonal přitom práci 300 J?
+a) ne
+b) ano
+c) pouze mezi pevnými látkami
+d) pouze za normálních podmínek
+Správná odpověď: b
+
+5.13. Je-li T1 teplota horké páry a T2 teplota ochlazené páry, která je použita jako médium v cyklicky pracujícím tepelném stroji, pak je ideální účinnost η tepelného stroje:
+a) η = (T2 − T1) / T1
+b) η = (T2 − T1) / T2
+c) η = T2 / T1
+d) η = (T1 − T2) / T1
+Správná odpověď: d
+
+5.14. Je-li teplota dvou ideálních plynů stejná:
+a) pak molekuly obou plynů mají stejnou střední kvadratickou rychlost
+b) pak oba plyny jsou z molekul o stejné hmotnosti
+c) pak molekuly obou plynů mají stejnou střední kinetickou energii
+d) pak oba plyny mají stejný počet molekul
+Správná odpověď: c
+
+5.15. Jednotka J · K−1 přísluší veličině:
+a) měrné tepelné kapacitě
+b) výhřevnosti
+c) tepelné kapacitě
+d) molární tepelné kapacitě
+Správná odpověď: c
+
+5.16. Jednotka J · kg−1 přísluší veličině:
+a) měrné tepelné kapacitě
+b) výhřevnosti
+c) tepelné kapacitě
+d) molární tepelné kapacitě
+Správná odpověď: b
+
+5.17. Jednotkou energie není:
+a) joule
+b) kalorie
+c) kilowatthodina
+d) watt
+Správná odpověď: d
+
+5.18. Jednotkou látkového množství je:
+a) kg ·mol−1
+b) m3 ·mol−1
+c) mol
+d) 1 (bezrozměrná jednotka)
+Správná odpověď: c
+
+5.19. Jednotkou měrné tepelné kapacity je:
+a) J · kg−1
+b) J · kg
+c) J · kg−1 · K−1
+d) J · kg · K
+Správná odpověď: c
+
+5.20. Jednotkou tepelné kapacity je:
+a) J · kg−1
+b) J · K
+c) J
+d) J · K−1
+Správná odpověď: d
+
+5.21. Jednotkou tepla v soustavě SI je:
+a) joule
+b) kilokalorie
+c) newton
+d) kalorie
+Správná odpověď: a
+
+5.22. Jednotku měrné tepelné kapacity lze pomocí základních jednotek soustavy SI vyjádřit jako:
+a) m2 · K−2 · s−2
+b) m2 · K−1 · s−2
+c) m2 · kg · K−1 · s−2
+d) m · K−1 · s−1
+Správná odpověď: b
+
+5.23. K zajištění chodu cyklicky pracujícího tepelného stroje:
+a) postačí systém ohřívač–stroj za předpokladu dostatečně vysoké teploty ohřívače
+b) postačí vždy systém ohřívač–stroj
+c) je nutný systém ohřívač–stroj–chladič
+d) postačí systém stroj–chladič
+Správná odpověď: c
+
+5.24. Ke změně vnitřní energie ideálního plynu může docházet:
+a) konáním práce nebo tepelnou výměnou
+b) pouze při změně teploty
+c) pouze tepelnou výměnou
+d) pouze konáním práce
+Správná odpověď: a, b
+
+5.25. Kompresi plynu můžeme označit za adiabatickou, jestliže:
+a) teplota je konstantní
+b) s okolím neprobíhá výměna tepla
+c) objem plynu se zmenší
+d) komprese proběhne velmi rychle
+Správná odpověď: b, d
+
+5.26. Množství tepla určujeme v přístrojích, které se nazývají:
+a) kalorimetry
+b) teploměry
+c) akumulátory
+d) termistory
+Správná odpověď: a
+
+5.27. Molekuly dané látky:
+a) mají stejnou hybnost jen za normálních podmínek
+b) mají stejnou hybnost jen ve stavu tepelné rovnováhy
+c) mají vždy stejnou hybnost
+d) mají různou hybnost, statisticky rozloženou kolem střední hodnoty, která odpovídá teplotě
+Správná odpověď: d
+
+5.28. Nemožnost sestrojení stroje zvaného perpetuum mobile druhého druhu vyplývá
+a) z 1. termodynamického zákona
+b) z 2. termodynamického zákona
+c) ze zákona zachování energie
+d) ze zákona zachování hybnosti
+Správná odpověď: b
+
+5.29. O 2. termodynamickém zákonu platí:
+a) plyne z něj, že entropie izolované termodynamické soustavy nemůže růst
+b) plyne z něj, že entropie izolované termodynamické soustavy nemůže klesat
+c) živé systémy jej neporušují, nebot’ jejich entropie neklesá
+d) živé systémy jej neporušují, nebot’ jde o systémy otevřené
+Správná odpověď: b, d
+
+5.30. O termodynamickém kruhovém ději (tj. cyklicky pracujícím tepelném stroji) platí:
+a) vhodnou volbou jednotlivých dílčích dějů kruhového cyklu lze veškeré teplo převzaté od ohřívače přeměnit v práci
+b) jeho účinnost může být větší než 1
+c) jeho účinnost je rovna 1
+d) po ukončení jednoho cyklu kruhového děje je celková změna vnitřní energie pracovní látky nulová
+Správná odpověď: d
+
+5.31. Plyn předal studenějšímu tělesu teplo 200 J a vykonal přitom práci 300 J. Jak se změní při tomto ději teplota plynu?
+a) teplota vzroste
+b) teplota se sníží
+c) teplota může kolísat
+d) teplota se nezmění
+Správná odpověď: b
+
+5.32. Plyn ve válci s pístem vykoná práci W = 400 MJ při adiabatickém ději. Jak se změní při tomto ději teplota plynu?
+a) teplota bude oscilovat
+b) teplota vzroste
+c) teplota se nezmění
+d) teplota se sníží
+Správná odpověď: d
+
+5.33. Ideálně se chovající jednoatomové plyny o stejném objemu, teplotě a tlaku mají:
+a) přibližně stejný počet molekul
+b) stejnou hmotnost
+c) stejnou střední kinetickou energii svých atomů
+d) stejnou teplotu tání
+Správná odpověď: a, c
+
+5.34. Vzácné plyny o stejném objemu za standartních podmínek mají:
+a) přibližně stejný počet molekul
+b) stejnou hmotnost
+c) stejnou střední kinetickou energii svých atomů
+d) stejnou teplotu tání
+Správná odpověď: a, c
+
+5.35. Poissonova konstanta κ = cp / cv má u plynů hodnotu:
+a) v uzavřeném intervalu ⟨0, 1⟩
+b) v polouzavřeném intervalu (0, 1⟩
+c) vždy větší než 1
+d) vždy menší než 1
+Správná odpověď: c
+
+5.36. Práce vykonaná ideálním plynem při izobarické expanzi při tlaku 0,1 MPa, při které se zvětšil objem ze 7 l na 8 l, má hodnotu:
+a) 1000 J
+b) 100 J
+c) 75 J
+d) jinou, než výše uvedeno
+Správná odpověď: b
+
+5.37. Pro adiabatický děj v ideálním plynu platí Poissonův zákon, ve kterém se vyskytuje Poissonova konstanta. Rozměr Poissonovy konstanty je:
+a) Pa
+b) J · kg−1 · K−1
+c) J ·mol−1 · K−1
+d) 1
+Správná odpověď: d
+
+5.38. Pro cyklicky pracující tepelný stroj platí:
+a) k zajištění jeho chodu je nutný systém ohřívač–stroj–chladič
+b) k zajištění jeho chodu postačí systém ohřívač–stroj
+c) účinnost ideálního Carnotova stroje závisí pouze na teplotách ohřívače a chladiče
+d) účinnost reálných tepelných strojů je nižší než účinnost Carnotova stroje, protože v nich probíhají nevratné procesy
+Správná odpověď: a, c, d
+
+5.39. Pro děje v ideálním plynu platí:
+a) izochorický děj – změna vnitřní energie plynu je rovna přijatému teplu
+b) adiabatický děj – vnitřní energie plynu se nemění
+c) izobarický děj – přijaté teplo je rovno součtu přírůstku vnitřní energie a mechanické práce, kterou plyn vykoná
+d) izotermický děj – mechanická práce plynu je rovna přijatému teplu
+Správná odpověď: a, c, d
+
+5.40. Pro ideální plyn platí:
+a) je zjednodušeným modelem reálného plynu
+b) je tvořen molekulami, které na sebe působí přitažlivými a odpudivými silami
+c) obsahuje molekuly (částice), jejichž rozměr je oproti vzájemným středním vzdálenostem zanedbatelný
+d) nepodléhá za žádných podmínek fázovým změnám
+Správná odpověď: a, c, d
+
+5.41. Pro práci W vykonanou plynem při stálém tlaku p platí (∆T je změna teploty plynu, ∆V je změna objemu plynu):
+a) W je vždy rovna nule
+b) W = p · ∆T
+c) W = p · ∆V
+d) W = p · ∆T · ∆V
+Správná odpověď: c
+
+5.42. Pro soustavu, která je ve stavu termodynamické rovnováhy (v rovnovážném stavu), platí:
+a) vnitřní energie soustavy se nemění
+b) kinetická energie každé jednotlivé částice je konstantní
+c) teplota soustavy je konstantní
+d) střední kinetická energie částic se rovná nule
+Správná odpověď: a, c
+
+5.43. Pro šíření tepla platí:
+a) nemůže se šířit elektromagnetickým vlněním
+b) může se šířit sdílením (přímým kontaktem těles)
+c) může se šířit prouděním
+d) může se šířit sáláním (vyzařováním)
+Správná odpověď: b, c, d
+
+5.44. Pro teploměry platí:
+a) teploměry slouží k přímému měření množství tepla
+b) ve rtut’ovém teploměru používáme rtut’ v pevném skupenství
+c) rtut’ový teploměr využívá závislost objemu rtuti na teplotě
+d) rtut’ový teploměr nelze používat při tak nízkých teplotách, kdy rtut’ v kapiláře už není v kapalném skupenství
+Správná odpověď: c, d
+
+5.45. Pro vnitřní energii tělesa platí, že:
+a) je dána součtem kinetické a potenciální energie částic tělesa
+b) se může měnit konáním práce
+c) její změna je při adiabatickém ději rovna nule
+d) je pro ideální plyn lineární funkcí absolutní teploty tak, že U(T ) = 3/2N ·k ·T
+Správná odpověď: a, b, d
+
+5.46. První termodynamický zákon (první termodynamickou větu) lze vyjádřit rovnicí (Q – teplo, m – hmotnost, c – měrná tepelná kapacita, T – termodynamická teplota, U – vnitřní energie, W– práce, p – tlak, V – objem plynu, N – počet molekul, k – Boltzmannova konstanta):
+a) ∆Q = m · c · ∆T
+b) ∆U = ∆W + ∆Q
+c) p · V = N · k · T
+d) c = ∆Q / ∆T
+Správná odpověď: b
+
+5.47. Při adiabatickém ději:
+a) plyn nekoná práci
+b) plyn může konat práci pouze na úkor své vnitřní energie
+c) vnitřní energie se mění pouze tepelnou výměnou
+d) vždy zůstává konstantní teplota i objem
+Správná odpověď: b
+
+5.48. Při izochorickém ději:
+a) plyn koná práci pouze na úkor své vnitřní energie
+b) se nemění vnitřní energie plynu
+c) plyn nekoná mechanickou práci
+d) nedochází k tepelné výměně
+Správná odpověď: c
+
+5.49. Při izotermickém ději:
+a) nedochází k tepelné výměně
+b) plyn práci nekoná
+c) se nemění teplota
+d) plyn koná práci při současném vzrůstu teploty
+Správná odpověď: c
+
+5.50. Přibližné vyjádření téže teploty ve °C a v K (s přesností na celé stupně):
+a) t = −30 °C, T  303 K
+b) t = −243 °C, T  30 K
+c) t = +30 °C, T  243 K
+d) t = −3 °C, T  270 K
+Správná odpověď: b, d
+
+5.51. Přibližné vyjádření téže teploty ve °C a v K (s přesností na celé stupně):
+a) t = 10 °C, T  263 K
+b) t = 263 °C, T  10 K
+c) t = 283 °C, T  10 K
+d) t = 10 °C, T  283 K
+Správná odpověď: d
+
+5.52. Přibližné vyjádření téže teploty ve °C a v K (s přesností na celé stupně):
+a) t = 50 °C, T  323 K
+b) t = −18 °C, T  247 K
+c) T = 323 K, t  −50 °C
+d) t = 0 °C, T  273 K
+Správná odpověď: a, d
+
+5.53. Rovnovážný děj:
+a) je děj, při kterém se nemění stavové veličiny
+b) je děj, při kterém se nemění žádné veličiny
+c) si představujeme jako posloupnost rovnovážných stavů, přičemž stavové veličiny se mění libovolně rychle
+d) je děj, při němž se stavové veličiny mění dostatečně pomalu, takže stav systému můžeme v každém okamžiku považovat za rovnovážný
+Správná odpověď: d
+
+5.54. Rovnovážný stav:
+a) odpovídá nejpravděpodobnějšímu uspořádání systému
+b) je stav, do kterého termodynamický systém dospěje, vyvíjí-li se izolován od svého okolí
+c) nastává po vydání tepla soustavou
+d) je stav, v němž má entropie dané soustavy maximální hodnotu
+Správná odpověď: a, b, d
+
+5.55. Tělesa, která jsou při vzájemném dotyku ve stavu termodynamické rovnováhy:
+a) mají stejné teplo
+b) mají stejnou teplotu
+c) mají stejnou potenciální energii
+d) mají naprosto stejné fyzikální vlastnosti
+Správná odpověď: b
+
+5.56. Tepelný stroj pracuje s ohřívačem o teplotě 100 °C a chladičem o teplotě 20 °C. Ideální účinnost tohoto stroje je:
+a) 80 %
+b) 21 %
+c) 4 %
+d) 0,21
+Správná odpověď: b, d
+
+5.57. Teplo je:
+a) stavová veličina udávaná v kelvinech
+b) forma energie, podmíněná kinetickou energií molekul
+c) stavová veličina, která je určena rychlostí neuspořádaného pohybu molekul
+d) fyzikálně-chemická veličina vyjadřující reakční schopnosti molekul
+Správná odpověď: b
+
+5.58. Teplo se může šířit:
+a) vedením (kondukcí) v tepelně vodivých materiálech
+b) prouděním (konvekcí) v tekutinách
+c) vyzařováním (radiací) neboli sáláním
+d) vakuem
+Správná odpověď: a, b, c, d
+
+5.59. Teplota 0 K:
+a) odpovídá teplotě tání ledu při tlaku 101,3 kPa
+b) je teplota, při které tuhne tekutý vodík
+c) odpovídá teplotě 273,15 °C
+d) je stav látky, jehož nelze úplně dosáhnout, při němž by ustal tepelný pohyb molekul
+Správná odpověď: d
+
+5.60. Teplota 37,5 °C má na termodynamické stupnici hodnotu:
+a) 310,65 K
+b) 37,5 K
+c) −37,5 K
+d) 298,34 K)
+Správná odpověď: a
+
+5.61. Teplota kapalného dusíku je 77 K, to odpovídá teplotě přibližně:
+a) −4 °C
+b) −196 °C
+c) 350 °C
+d) −77 °C
+Správná odpověď: b
+
+5.62. Teplota lidského těla je přibližně:
+a) −236 K
+b) 236 K
+c) 37 K
+d) 310 K
+Správná odpověď: d
+
+5.63. Teplota plynu:
+a) je nezávislá na jakékoliv veličině
+b) je mírou střední kinetické energie molekul
+c) je mírou střední potenciální energie molekul
+d) nezávisí na kinetické energii molekul
+Správná odpověď: b
+
+5.64. Teplota plynu:
+a) nezávisí na kinetické energii molekul
+b) roste, jestliže se zvyšuje střední kvadratická rychlost molekul plynu
+c) roste, jestliže se zvyšuje střední kinetická energie molekul plynu
+d) je nezávislá na jakékoliv veličině
+Správná odpověď: b, c
+
+5.65. Teplota termodynamické absolutní nuly je:
+a) teplota trojného bodu vodíku
+b) teplota trojného bodu vody
+c) teplota, při které tuhne tekutý vodík
+d) stav látky, jehož nelze úplně dosáhnout, při němž by ustal tepelný pohyb molekul
+Správná odpověď: d
+
+5.66. Termodynamická stavová veličina:
+a) je souhrnný název pro síly působící na soustavu
+b) popisuje pohyb soustavy, např. rychlost
+c) je veličina, která určuje stav soustavy
+d) je každá fyzikální veličina
+Správná odpověď: c
+
+5.67. Tlak ideálního plynu:
+a) je přímo úměrný druhé mocnině střední kvadratické rychlosti jeho molekul
+b) je nepřímo úměrný druhé mocnině střední kvadratické rychlosti jeho molekul
+c) nezávisí na střední kvadratické rychlosti jeho molekul
+d) je vždy nulový
+Správná odpověď: a
+
+5.68. Účinnost stroje je:
+a) výkon za 1 s
+b) poměr mezi vykonanou prací a dodanou energií
+c) práce za 1 s
+d) celková práce, kterou je stroj schopen vykonat
+Správná odpověď: b
+
+5.69. Univerzální plynová konstanta R se rovná přibližně:
+a) R  8,31 J ·mol−1 · K−1
+b) R  9,81 m · s−2
+c) R  1,6 J
+d) R  8,31 W ·m−2 · K−1
+Správná odpověď: a
+
+5.70. Uvažujme termodynamický cyklický děj v systému složeném z tepelného stroje a rezervoárů (zásobníků) se stabilní teplotou. Po skončení jednoho cyklu kruhového děje:
+a) se teplota stroje vždy sníží
+b) je změna vnitřní energie stroje nulová
+c) je vždy celková vykonaná práce nulová
+d) se teplota stroje vždy zvýší
+Správná odpověď: b
+
+5.71. V tepelně izolované uzavřené místnosti je zapnutá prázdná lednička se stále otevřenými dvířky. Které tvrzení je správné?
+a) teplota v místnosti se nemění
+b) teplota v místnosti roste
+c) teplota v místnosti klesá
+d) teplota v místnosti dosáhne 0 °C a již se nezmění
+Správná odpověď: b
+
+5.72. Ve vzduchoprázdném (např. kosmickém) prostoru pro šíření tepla z jednoho tělesa na druhé platí (tělesa se navzájem nedotýkají):
+a) teplo se může šířit pouze vyzařováním (radiací)
+b) teplo se nemůže šířit vůbec
+c) předávání tepla je možné pouze mezi absolutně černými tělesy
+d) předávání tepla vyzařováním je ovlivňováno vlastnostmi povrchů těles
+Správná odpověď: a, d
+
+5.73. Vnitřní energie je:
+a) součet celkové kinetické energie neuspořádaně se pohybujících částic tělesa a celkové potenciální energie vzájemné polohy těchto částic
+b) pouze energie nukleonů v atomovém jádře
+c) rovna celkové potenciální energii vzájemné polohy částic
+d) rovna celkové kinetické energii neuspořádaně se pohybujících částic tělesa
+Správná odpověď: a
+
+5.74. Základem kinetické teorie stavby látek jsou tři experimentálně ověřené poznatky. Označte tvrzení, které k nim nepatří a není pravdivé:
+a) látka kteréhokoliv skupenství se skládá z částic
+b) částice na sebe nepůsobí žádnými silami
+c) částice na sebe navzájem působí přitažlivými a odpudivými silami
+d) částice se v látce pohybují
+Správná odpověď: b
+
+5.75. Zapište jednotku tepelné kapacity v základních jednotkách soustavy SI:
+a) m2 · kg · K−1 · s−2
+b) m2 · K · s−2
+c) m2 · kg · °C · s−2
+d) m2 · K−1 · s−2
+Správná odpověď: a

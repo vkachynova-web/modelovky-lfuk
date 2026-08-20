@@ -1,0 +1,384 @@
+Atom kyslíku má v peroxidech oxidační číslo:
+a) 0
+b) –II
+c) II
+d) –I
+Správná odpověď: d
+
+Kyslík má ve sloučeninách H2O a HgO oxidační číslo/a:
+a) –I
+b) –II
+c) I
+d) II a –II
+Správná odpověď: b
+
+Které z uvedených sloučenin obsahují atom síry s oxidačním číslem VI?
+a) H2SO3
+b) H2S
+c) H2S2O7
+d) H2SO4
+Správná odpověď: c, d
+
+Jaké je oxidační číslo síry ve sloučenině H2S?
+a) II
+b) –II
+c) 0
+d) –I
+Správná odpověď: b
+
+Dusík tvoří s kyslíkem oxidy, v nichž mohou mít atomy dusíku oxidační číslo:
+a) I, II, III, IV, V
+b) I, II, III, IV, V, VI
+c) –III, –I, I, II, III, IV, V
+d) pouze I, III, V
+Správná odpověď: a
+
+Dusík může mít ve svých sloučeninách s jinými prvky oxidační číslo:
+a) pouze –I, II, III, IV, V
+b) pouze –III, III, V
+c) –I, II, III, IV, V, VI
+d) –III, –II, –I, I, II, III, IV, V
+Správná odpověď: d
+
+Které z uvedených sloučenin obsahují atom dusíku s oxidačním číslem V?
+a) Ca(NO3)2
+b) KNO2
+c) N2O5
+d) NH4OH
+Správná odpověď: a, c
+
+Které z uvedených sloučenin obsahují atom fosforu s oxidačním číslem V?
+a) H3PO3
+b) PH3
+c) H4P2O7
+d) H3PO4
+Správná odpověď: c, d
+
+Oxidační číslo fosforu v molekule P4 je:
+a) 0
+b) V
+c) III
+d) IV
+Správná odpověď: a
+
+Fosfor má ve svých nejběžnějších sloučeninách s jinými prvky oxidační číslo:
+a) pouze V
+b) –III, –I, III, V, VI
+c) –III, III, V
+d) pouze III, V
+Správná odpověď: c
+
+Fosfor nemá ve svých sloučeninách oxidační číslo:
+a) V
+b) III
+c) –III
+d) VII
+Správná odpověď: d
+
+Které z uvedených sloučenin obsahují atom fosforu s oxidačním číslem pět?
+a) P2O5
+b) NH4PO2
+c) H4P2O7
+d) H3PO3
+Správná odpověď: a, c
+
+Které z uvedených sloučenin obsahují atom fosforu s oxidačním číslem tři?
+a) K3PO3
+b) Na3PO4
+c) P4O10
+d) H4P2O5
+Správná odpověď: a, d
+
+Fluor může mít ve svých sloučeninách oxidační číslo:
+a) –I, III, V, VII
+b) pouze +I
+c) III, V, VII
+d) pouze –I
+Správná odpověď: d
+
+Který z halogenů může mít, kromě nuly, jen oxidační číslo –I?
+a) Cl
+b) Br
+c) F
+d) I
+Správná odpověď: c
+
+Které z uvedených sloučenin obsahují atom chloru s oxidačním číslem V?
+a) HClO4
+b) PCl5
+c) NaClO3
+d) Cl2O5
+Správná odpověď: c, d
+
+Oxidační číslo atomu chloru může dosáhnout hodnoty nejvýše:
+a) VII
+b) V
+c) –I
+d) VIII
+Správná odpověď: a
+
+Oxidační číslo bromu může ve sloučeninách nabývat hodnot:
+a) –I, I, III, V, VII
+b) pouze I, III, V, VII
+c) pouze III, V
+d) –II, –I, I, II, III, IV, V, VI
+Správná odpověď: a
+
+Které z uvedených sloučenin obsahují atom jodu s oxidačním číslem V?
+a) Na5IO6
+b) Ca(IO3)2
+c) I2O5
+d) Mg(IO)2
+Správná odpověď: b, c
+
+Jaké je oxidační číslo chromu ve sloučenině K2Cr2O7?
+a) IV
+b) –VI
+c) VI
+d) V
+Správná odpověď: c
+
+V jakém oxidačním stupni se vyskytuje železo ve sloučenině Fe(HSO4)2?
+a) VI
+b) II
+c) III
+d) IV
+Správná odpověď: b
+
+Oxidační číslo může být:
+a) jenom kladné
+b) jenom záporné
+c) nula a záporné
+d) nula, kladné a záporné
+Správná odpověď: d
+
+Oxidační číslo alkalických kovů ve sloučeninách je:
+a) –I
+b) I
+c) –I nebo I
+d) –II
+Správná odpověď: b
+
+Oxidační číslo zinku ve všech sloučeninách je:
+a) II
+b) –II
+c) –II až II
+d)  –I až  –II
+Správná odpověď: a
+
+Jaké je oxidační číslo chloru v chlorečnanu draselném?
+a) –I
+b) V
+c) –V
+d) I
+Správná odpověď: b
+
+Jaké je oxidační číslo kyslíku v molekule O3?
+a) –II
+b) –I
+c) 0
+d) II
+Správná odpověď: c
+
+Jaké je oxidační číslo kyslíku ve sloučenině H2O2?
+a) –II
+b) –I
+c) 0
+d) I
+Správná odpověď: b
+
+Součet hodnot oxidačních čísel atomů všech prvků v elektricky neutrální sloučenině se rovná:
+a) 1,602 · 10–19 C
+b) nule
+c) počtu protonů
+d) počtu elementárních nábojů
+Správná odpověď: a
+
+Jako redukční činidlo označujeme látku, která v redoxní reakci:
+a) zvyšuje svoje oxidační číslo
+b) snižuje svoje oxidační číslo
+c) předává elektrony
+d) přijímá elektrony
+Správná odpověď: b
+
+Redukční činidlo je při oxidačně-redukční reakci:
+a) redukováno
+b) neutralizováno
+c) oxidováno
+d) disociováno
+Správná odpověď: c
+
+Z uvedených látek je silným redukčním činidlem:
+a) kyslík
+b) sodík
+c) kyselina dusičná
+d) chlor
+Správná odpověď: a
+
+Z následujících látek vyznačte ty, jejichž atomy se snadno oxidují:
+a) chlor
+b) sodík
+c) manganistan draselný
+d) kyselina dusičná
+Správná odpověď: b
+
+Jako oxidační činidlo označujeme látku, která v redoxní reakci:
+a) zvyšuje svoje oxidační číslo
+b) snižuje svoje oxidační číslo
+c) přijímá elektrony
+d) předává elektrony
+Správná odpověď: b
+
+Z uvedených látek vyznačte látky, které se snadno redukují:
+a) uhlík
+b) manganistan draselný
+c) hliník
+d) vápník
+Správná odpověď: b
+
+Oxidační činidlo je při oxidačně-redukční reakci:
+a) redukováno
+b) disociováno
+c) oxidováno
+d) neutralizováno
+Správná odpověď: c
+
+Z uvedených látek je silným oxidačním činidlem:
+a) uhlík
+b) manganistan draselný
+c) chlor
+d) sodík
+Správná odpověď: c
+
+Reakce MnVII + 5 e– → MnII je příkladem:
+a) disociace
+b) redukce
+c) substituce
+d) oxidace
+Správná odpověď: d
+
+Reakce Cl2 + 2 e– → 2 Cl– je příkladem:
+a) redukce
+b) adice
+c) oxidace
+d) disociace
+Správná odpověď: b
+
+Reakce 2 Na+ + 2 e– → 2 Na je příkladem:
+a) redukce
+b) disociace
+c) oxidace
+d) neutralizace
+Správná odpověď: b
+
+Reakce 2 Cl– → Cl2 + 2 e– je příkladem:
+a) oxidace
+b) protonace
+c) redukce
+d) disociace
+Správná odpověď: a
+
+Vyberte správná tvrzení. V reakci Zn + 2 HCl → ZnCl2 + H2:
+a) vodíkový kationt působí jako oxidační činidlo
+b) zinek působí jako oxidační činidlo
+c) se kationt vodíku redukuje a zinek se oxiduje
+d) se zinek redukuje a chlor se oxiduje
+Správná odpověď: a, c
+
+Vyberte správná tvrzení. V reakci CuSO4 + Fe → FeSO4 + Cu:
+a) se kationt měďnatý redukuje a železo se oxiduje
+b) železo je činidlem oxidačním
+c) železo je činidlem redukčním
+d) se kationt měďnatý oxiduje a železo se redukuje
+Správná odpověď: a, c
+
+Kolik elektronů je vyměněno, jestliže ion S–II se přemění na SVI:
+a) 6 elektronů
+b) 8 elektronů
+c) 2 elektrony
+d) 4 elektrony
+Správná odpověď: b
+
+Průvodním znakem oxidace atomu prvku je:
+a) konstantnost oxidačního čísla
+b) pokles jeho oxidačního čísla
+c) vzrůst jeho oxidačního čísla
+d) změna jeho protonového čísla
+Správná odpověď: c
+
+Průvodním znakem redukce atomu prvku je:
+a) vzrůst jeho oxidačního čísla
+b) neměnnost oxidačního čísla
+c) pokles jeho atomového čísla
+d) pokles jeho oxidačního čísla
+Správná odpověď: d
+
+Kolik elektronů je vyměněno, jestliže ion As–III se přemění na AsIII?
+a) 4 elektrony
+b) 6 elektronů
+c) 3 elektrony
+d) 5 elektronů
+Správná odpověď: b
+
+Oxidaci můžeme charakterizovat jako:
+a) zvyšování oxidačního čísla atomů
+b) hydrogenaci
+c) snižování oxidačního čísla atomů
+d) ztrátu elektronů
+Správná odpověď: a, d
+
+Redukci můžeme charakterizovat jako:
+a) snižování oxidačního čísla atomů
+b) přijímání elektronů
+c) zvyšování oxidačního čísla atomů
+d) dehydrogenaci
+Správná odpověď: a, b
+
+Redukci můžeme charakterizovat jako:
+a) hydrogenaci
+b) přijetí elektronů
+c) dehydrogenaci
+d) hydrataci
+Správná odpověď: a, b
+
+Redoxní rovnováhu charakterizuje:
+a) rovnovážná konstanta
+b) disociační konstanta
+c) součin rozpustnosti
+d) iontový součin vody
+Správná odpověď: a
+
+Sulfan má ve všech oxidačně-redukčních reakcích účinky:
+a) oxidační
+b) neutralizační
+c) redukční
+d) inhibiční
+Správná odpověď: c
+
+SO2 může být činidlem:
+a) oxidačním i redukčním
+b) pouze redukčním
+c) pouze oxidačním
+d) zásadotvorným
+Správná odpověď: a
+
+Která z následujících tvrzení o koncentrované kyselině sírové jsou správná?
+a) s vodou se mísí omezeně
+b) může působit jako oxidační činidlo
+c) má silné redukční účinky
+d) má dehydratační účinky
+Správná odpověď: b, d
+
+Oxid uhelnatý má většinou účinky:
+a) redukční
+b) hydrolytické
+c) oxidační
+d) někdy oxidační a někdy redukční, záleží na pH
+Správná odpověď: a
+
+Oxidaci nemůžeme charakterizovat jako:
+a) hydrogenaci
+b) dehydrogenaci
+c) slučování prvků s kyslíkem
+d) ztrátu elektronů
+Správná odpověď: a

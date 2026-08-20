@@ -1,0 +1,55 @@
+Nukleotidy v RNA jsou složeny:
+a) z dusíkaté báze, cukru a fosfátu
+b) pouze z fosfátu a cukru
+c) pouze z dusíkaté báze a cukru
+d) pouze z dusíkaté báze a fosfátu
+Správná odpověď: a
+
+Nukleosid je tvořen:
+a) jen purinovou nebo pyrimidinovou bází
+b) pouze purinovou nebo pyrimidinovou bází a cukernou složkou
+c) purinovou nebo pyrimidinovou bází a kyselinou fosforečnou
+d) purinovou nebo pyrimidinovou bází, sacharidem a kyselinou fosforečnou
+Správná odpověď: b
+
+Mezi monosacharidy, které jsou součástí nukleových kyselin, patří:
+a) 2-deoxy-D-ribóza
+b) D-ribóza
+c) D-ribulóza
+d) L-ribóza
+Správná odpověď: a, b
+
+Základní monosacharidovou složkou RNA je:
+a) L-ribóza
+b) D-glukóza
+c) D-ribulóza
+d) D-ribóza
+Správná odpověď: d
+
+Které pyrimidinové báze jsou součástí nukleových kyselin?
+a) cytosin
+b) uracil
+c) guanin
+d) thymin
+Správná odpověď: a, b, d
+
+Které purinové báze jsou součástí nukleových kyselin?
+a) adenin
+b) cytosin
+c) thymin
+d) guanin
+Správná odpověď: a, d
+
+Adenosin se skládá:
+a) z adeninu, ribózy a kyseliny fosforečné
+b) pouze z adeninu a ribózy
+c) pouze z ribózy a kyseliny fosforečné
+d) pouze z adeninu a kyseliny fosforečné
+Správná odpověď: b
+
+Sekundární struktura DNA je tvořena:
+a) jednoduchou šroubovicí
+b) pořadím nukleotidů
+c) dvojitou šroubovicí
+d) jednoduchou i dvojitou šroubovicí
+Správná odpověď: c

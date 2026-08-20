@@ -1,0 +1,552 @@
+7.01. Ampér je jednotkou:
+a) elektrického náboje
+b) elektrického napětí
+c) elektrického proudu
+d) elektrického odporu
+Správná odpověď: c
+
+7.02. Ampérhodina je jednotkou:
+a) proudu
+b) proudového výkonu
+c) náboje
+d) energie
+Správná odpověď: c
+
+7.03. Ampérovo pravidlo pravé ruky slouží k určení:
+a) orientace indukčních čar magnetického pole vodiče, kterým protéká elektrický proud
+b) velikosti proudu, který protéká vodičem, jenž vytváří magnetické pole
+c) velikosti magnetické síly v daném místě magnetického pole
+d) velikosti magnetické indukce magnetického pole vodiče, kterým protéká elektrický proud
+Správná odpověď: a
+
+7.04. Ampérovo pravidlo pravé ruky zní:
+a) uchopíme-li vodič do pravé ruky tak, že palec ukazuje směr proudu, pak prsty ukazují orientaci magnetických indukčních čar
+b) velikost proudu, který protéká vodičem, je přímo úměrná délce vodiče
+c) směr magnetické síly, která působí na jeden z rovnoběžných vodičů s proudem, závisí na směru proudu v druhém vodiči
+d) uchopíme-li vodič do pravé ruky tak, že palec ukazuje proti směru proudu, pak prsty ukazují orientaci elektrického pole
+Správná odpověď: a
+
+7.05. Coulombův zákon vyjadřuje sílu:
+a) magnetickou
+b) která je nepřímo úměrná druhé mocnině vzdálenosti mezi elektrickými náboji
+c) gravitační
+d) elektrostatickou
+Správná odpověď: b, d
+
+7.06. Čtyři stejně velké paralelně zapojené rezistory R budou elektricky ekvivalentní jednomu rezistoru o hodnotě:
+a) R/4
+b) R/2
+c) 4R
+d) R1/4
+Správná odpověď: a
+
+7.07. Defibrilátor obnovuje pravidelnou srdeční činnost pomocí přesně dávkovaného elektrického výboje z kondenzátoru. Na jaké napětí musí být nabit kondenzátor o kapacitě 2 mF, abychom dosáhli výboje o energii 250 J?
+a) 125 V
+b) 250 V
+c) 500 V
+d) 1 kV
+Správná odpověď: c
+
+7.08. Dvojpólové rotory alternátorů jsou obvykle konstruovány na frekvenci otáčení 3000 otáček za minutu. Tomu odpovídá frekvence:
+a) 100 Hz
+b) 30 Hz
+c) 300 Hz
+d) 50 Hz
+Správná odpověď: d
+
+7.09. Ekvipotenciální hladinou rozumíme:
+a) hodnotu maximální energie daného nabitého kondenzátoru
+b) prostor mezi jádrem a obalem atomu
+c) množinu všech bodů, kterým odpovídá v daném elektrickém poli stejná hodnota elektrického potenciálu
+d) velikost náboje na povrchu nabitého tělesa
+Správná odpověď: c
+
+7.10. Elektrický proud prochází mezi dvěma elektrodami elektrolytem s konstantní vodivostí. Pokud elektrody od sebe vzdálíme, nebo pokud snížíme hladinu elektrolytu pod horní okraj elektrod, proud se zmenší. Odpor elektrolytického vodiče tedy splňuje vztah (ρ – měrný elektrický odpor elektrolytu, d – vzdálenost elektrod, S – plocha té části elektrody, která je ponořena do elektrolytu):
+a) R = 1 / (ρ · S )
+b) R = ρ · d · S
+c) R = ρ · d / S
+d) R = 1 / (ρ · d · S )
+Správná odpověď: c
+
+7.11. Elektrickým obvodem o odporu R prochází proud I po dobu t. Určete velikost Joulova tepla QJ:
+a) QJ = R · I2 / 2
+b) QJ = R2 · I · t
+c) QJ = R · I · t
+d) QJ = R · I2 · t
+Správná odpověď: d
+
+7.12. Elektroda spojená s kladným pólem zdroje se nazývá:
+a) anion
+b) anoda
+c) katoda
+d) minus pól
+Správná odpověď: b
+
+7.13. Elektroda spojená se záporným pólem zdroje se nazývá:
+a) katoda
+b) anoda
+c) plus pól
+d) anion
+Správná odpověď: a
+
+7.14. Elektronvolt (eV) je jednotkou:
+a) napětí
+b) náboje
+c) energie
+d) frekvence
+Správná odpověď: c
+
+7.15. Faradayův zákon elektrolýzy má tvar m = A · Q, kde Q je náboj, m je hmotnost vyloučené látky a A je elektrochemický ekvivalent dané látky. Jaký je rozměr veličiny A v soustavě SI?
+a) kg · A−1 · s−1
+b) kg · A−1 ·m · s−2
+c) kg · A−1 ·m · s
+d) kg · A · s
+Správná odpověď: a
+
+7.16. Faradayův zákon říká, že hmotnost m vyloučené látky při elektrolýze:
+a) nezávisí na náboji Q, který prošel elektrolytem
+b) je přímo úměrná náboji Q, který prošel elektrolytem
+c) je nepřímo úměrná náboji Q, který prošel elektrolytem
+d) je přímo úměrná množství elektrolytu
+Správná odpověď: b
+
+7.17. Infrazářič o příkonu 800 W byl zapnutý po dobu 150 minut. Množství spotřebované elektrické energie je:
+a) 7,2 MJ
+b) 120 W · h
+c) 2 kWh
+d) 72 · 105 W · s
+Správná odpověď: a, c, d
+
+7.18. Jak nejlépe odstíníme deskový kondenzátor od vlivů vnějšího elektrického pole?
+a) vakuem
+b) dielektrikem
+c) uzemněným krytem z vodivého materiálu
+d) izolační kapalinou (např. olejem)
+Správná odpověď: c
+
+7.19. Jednotka zdánlivého výkonu je:
+a) V · A2
+b) V · A
+c) V2 · A
+d) V · A−1
+Správná odpověď: b
+
+7.20. Jednotkou elektrického napětí je:
+a) ampér
+b) ohm
+c) volt
+d) coulomb
+Správná odpověď: c
+
+7.21. Jednotkou elektrického odporu je:
+a) ampér
+b) ohm
+c) volt
+d) coulomb
+Správná odpověď: b
+
+7.22. Jednotkou kapacitance je:
+a) Ω
+b) T
+c) F−1
+d) F
+Správná odpověď: a
+
+7.23. Jednotkou magnetického indukčního toku Φ je:
+a) farad
+b) tesla
+c) henry
+d) weber
+Správná odpověď: d
+
+7.24. Jednotkou rezistance je:
+a) Ω−1
+b) T
+c) H
+d) Ω
+Správná odpověď: d
+
+7.25. Kapacita deskového kondenzátoru se při zvětšení vzdálenosti jeho desek:
+a) zvětší
+b) zmenší
+c) bude zmenšovat nepřímo úměrně vzhledem ke vzdálenosti
+d) nezmění
+Správná odpověď: b, c
+
+7.26. Kondenzátor defibrilátoru 5 mF je nabit na 400 V, tudíž:
+a) jeho energie je 400 J
+b) jeho náboj je 2 C
+c) jeho energie je 800 J
+d) jeho náboj je nepřímo úměrný napětí
+Správná odpověď: a, b
+
+7.27. Mějme dva odpory o velikosti 1 kΩ a jeden o velikosti 500Ω. Výsledná vodivost jejich paralelní kombinace bude:
+a) 4 mS
+b) 2,5 mS
+c) rovna převrácené hodnotě součtu velikostí jednotlivých odporů
+d) rovna součtu převrácených hodnot jednotlivých odporů
+Správná odpověď: a, d
+
+7.28. Mějme dva odpory o velikosti 1 kΩ a jeden o velikosti 500Ω. Výsledná vodivost jejich sériové kombinace bude:
+a) 400 µS
+b) 2,5 mS
+c) rovna převrácené hodnotě součtu velikostí jednotlivých odporů
+d) rovna součtu převrácených hodnot jednotlivých odporů
+Správná odpověď: a, c
+
+7.29. Mějme dva odpory o velikosti 1 kΩ a jeden o velikosti 500Ω. Výsledný odpor jejich paralelní kombinace bude:
+a) 250Ω
+b) 2,5 kΩ
+c) rovný převrácené hodnotě součtu jejich velikostí
+d) rovný součtu jejich převrácených hodnot
+Správná odpověď: a
+
+7.30. Mějme dva odpory o velikosti 1 kΩ a jeden o velikosti 500Ω. Výsledný odpor jejich sériové kombinace bude:
+a) 250Ω
+b) 2,5 kΩ
+c) rovný převrácené hodnotě součtu jejich velikostí
+d) rovný součtu jejich převrácených hodnot
+Správná odpověď: b
+
+7.31. Mějme tři odpory s vodivostmi 1 mS, 10 mS a 0,1 S zapojené paralelně. Výsledná vodivost kombinace bude:
+a) 0,111 S
+b) 111 kΩ
+c) daná součtem jednotlivých vodivostí
+d) daná součtem převrácených hodnot jednotlivých odporů, vypočtených ze zadaných vodivostí
+Správná odpověď: a, b, c, d
+
+7.32. Na rezistoru s konstantní velikostí R průchodem proudu I vzniká napětí U, přičemž příkon P se mění v teplo. Pak platí vztahy:
+a) U = I · R
+b) P = I2 · R
+c) P = U2 / R
+d) I = U / R
+Správná odpověď: a, b, c, d
+
+7.33. Na rezistoru s konstantní velikostí R průchodem proudu I vzniká napětí U, přičemž příkon P se mění v teplo. Pak:
+a) vztah mezi proudem a napětím určuje Ohmův zákon
+b) příkon je kvadratickou funkcí napětí
+c) příkon je kvadratickou funkcí proudu
+d) proud je lineární funkcí napětí
+Správná odpověď: a, b, c, d
+
+7.34. Na rezistoru s konstantní velikostí R průchodem proudu I vzniká napětí U, přičemž příkon P se za čas t promění v teplo QJ. Pak platí vztahy:
+a) QJ = U · I · t
+b) QJ = I2 · R · t
+c) QJ = t · U2 / R √
+d) I = QJ / (R · t)
+Správná odpověď: a, b, c, d
+
+7.35. Na žárovičce jsou údaje U = 2,4 V, I = 0,6 A. Odpor rozsvícené žárovičky tedy je:
+a) 4Ω
+b) 40Ω
+c) 1,4Ω
+d) 0,25Ω
+Správná odpověď: a
+
+7.36. Obvod má dvě paralelní větve, každá z nich dva odpory 2 kΩ v sérii. Jaký je celkový odpor kombinace?
+a) 1 kΩ
+b) 2 kΩ
+c) 4 kΩ
+d) 0,2 MΩ
+Správná odpověď: b
+
+7.37. Označte elektrickou veličinu, které přísluší jednotka coulomb:
+a) elektrický náboj
+b) elektrický odpor
+c) výkon elektrického proudu
+d) napětí
+Správná odpověď: a
+
+7.38. Označte nesprávné přiřazení mezi veličinou a její možnou jednotkou:
+a) jednotkou výkonu elektrického proudu je 1 W
+b) jednotkou měrného skupenského tepla je 1 J · kg−1
+c) jednotkou intenzity zvuku je 1 W ·m−2
+d) jednotkou povrchového napětí je 1 N ·m−2
+Správná odpověď: d
+
+7.39. Označte nesprávné tvrzení:
+a) ampérhodina je jednotkou elektrického náboje
+b) henry je jednotkou indukčnosti
+c) ohm je jednotkou reaktance
+d) ohm je jednotkou měrného odporu
+Správná odpověď: d
+
+7.40. Označte nesprávné tvrzení:
+a) ampérsekunda je jednotkou elektrického náboje
+b) watthodina je jednotkou energie
+c) elektronvolt je jednotkou energie
+d) ohm na metr je jednotkou měrného elektrického odporu
+Správná odpověď: d
+
+7.41. Označte nesprávné tvrzení:
+a) henry je jednotkou induktance
+b) volt na metr je jednotkou intenzity elektrického pole
+c) hertz je jednotkou frekvence
+d) kilowatthodina je jednotkou energie
+Správná odpověď: a
+
+7.42. Označte nesprávné tvrzení:
+a) weber je jednotkou magnetického indukčního toku
+b) farad je jednotkou kapacitance
+c) newton na coulomb je jednotkou intenzity elektrického pole
+d) volt je jednotkou elektromotorického napětí
+Správná odpověď: b
+
+7.43. Označte pravdivá tvrzení:
+a) tíha je vektor
+b) intenzita elektrického pole je skalár
+c) gravitační zrychlení je skalár
+d) síla je vektor
+Správná odpověď: a, d
+
+7.44. Označte správná tvrzení:
+a) velikost intenzity elektrického pole se zmenšuje s druhou mocninou vzdálenosti od bodového náboje, který pole vytváří
+b) velikost intenzity pole v okolí bodového náboje je nezávislá na vzdálenosti
+c) teče-li vodičem konstantní elektrický proud, pak množství náboje, které projde v daném místě vodičem, je přímo úměrné času
+d) množství náboje kondenzátoru je přímo úměrné napětí mezi jeho deskami
+Správná odpověď: a, c, d
+
+7.45. Označte správné tvrzení:
+a) voltampér je jednotkou zdánlivého výkonu
+b) Kelvinův stupeň je jednotkou tepla
+c) volt je jednotkou mechanického napětí
+d) weber je jednotkou magnetické indukce
+Správná odpověď: a
+
+7.46. Označte veličinu, která v Coulombově zákoně vyjadřuje vliv prostředí na vzájemnou sílu působící mezi dvěma elektrickými náboji:
+a) permeabilita
+b) permitivita
+c) modul pružnosti
+d) měrná tepelná kapacita
+Správná odpověď: b
+
+7.47. Pro kondenzátory platí:
+a) kapacita paralelního zapojení stejných kondenzátorů o kapacitě C je 2C
+b) kapacita sériového zapojení stejných kondenzátorů o kapacitě C je rovna C
+c) při paralelním zapojení kondenzátorů je výsledná kapacita rovna součtu kapacit
+d) při sériovém zapojení kontenzátorů je převrácené hodnota výsledné kapacity rovna součtu převrácených hodnot jednotlivých kapacit
+Správná odpověď: a, c, d
+
+7.48. Při elektrolýze:
+a) putují anionty směrem od anody ke katodě
+b) putují anionty směrem od katody k anodě
+c) anoda je připojena na kladný pól
+d) anoda je připojena na záporný pól
+Správná odpověď: b, c
+
+7.49. Při konstantní velikosti odporu je příkon, přeměněný v teplo:
+a) kvadraticky závislý na procházejícím proudu
+b) kvadraticky závislý na přiloženém napětí
+c) přímo úměrný procházejícímu proudu
+d) přímo úměrný přiloženému napětí
+Správná odpověď: a, b
+
+7.50. Při použití umělých náhrad z různých kovů by v těle pacienta mohlo dojít k nežádoucímu vzniku galvanického napětí. Abychom toto napětí snížili, volíme takové kovy, u nichž:
+a) je součet elektrochemických potenciálů co nejmenší
+b) je součin elektrochemických potenciálů napětí co nejmenší
+c) je rozdíl elektrochemických potenciálů napětí co nejmenší
+d) elektrochemické potenciály mají rozdílná znaménka
+Správná odpověď: c
+
+7.51. Při úrazu elektrickým napětím 600 V, trvajícím 0,5 s, předpokládáme-li pro jednoduchost stálý odpor těla 3 kΩ:
+a) procházel proud 200 mA
+b) se vyvinulo teplo 60 J
+c) procházel proud 2,5 A
+d) byl proud přímo úměrný velikosti odporu
+Správná odpověď: a, b
+
+7.52. Při zvětšení vzdálenosti desek odpojeného nabitého ideálního kondenzátoru na dvojnásobek:
+a) se zvětší jeho napětí také na dvojnásobek
+b) jeho kapacita klesne na polovinu
+c) se jeho náboj nezmění
+d) se nezmění intenzita elektrického pole mezi deskami
+Správná odpověď: a, b, c, d
+
+7.53. Příkon elektrického spotřebiče je 2000 W, užitečný výkon je 700 W. Účinnost spotřebiče je:
+a) 2,8
+b) 0,35
+c) 3,5 %
+d) 28 %
+Správná odpověď: b
+
+7.54. Reostat o proměnném odporu R je připojen k napětí U. Proud, který jím protéká:
+a) je při stálém napětí U přímo úměrný odporu R
+b) je při stálém napětí U nepřímo úměrný odporu R
+c) nezávisí na napětí U, pouze na odporu R
+d) můžeme změřit ohmmetrem
+Správná odpověď: b
+
+7.55. Rezistor o odporu R má na svorkách napětí U. Proud, který jím protéká:
+a) je při stálém odporu R přímo úměrný napětí U
+b) je při stálém odporu R nepřímo úměrný napětí U
+c) nezávisí na odporu R, pouze na napětí U
+d) můžeme změřit voltmetrem
+Správná odpověď: a
+
+7.56. Rozsvícená žárovička kapesní svítilny má odpor 5Ω a je zapojena na napětí 2,4 V. Protéká jí proud:
+a) 0,48 A
+b) 2,1 A
+c) 12 A
+d) 4,8 A
+Správná odpověď: a
+
+7.57. Siemens je jednotkou:
+a) elektrického odporu
+b) měrného odporu elektrického vodiče
+c) elektrické vodivosti
+d) měrné vodivosti
+Správná odpověď: c
+
+7.58. Současně s ionizací uvnitř plynu probíhá opačný děj, kdy se nesouhlasně nabité částice přitahují a vytvářejí opět neutrální molekuly. Tento děj se nazývá:
+a) rekombinace
+b) neutralizace
+c) disociace
+d) polymerace
+Správná odpověď: a
+
+7.59. Spojíme za sebou dvě kombinace dvou odporů, řazených vedle sebe. Všechny čtyři odpory mají stejnou velikost R. Odpor celé kombinace je:
+a) 2R
+b) 4R
+c) R/2
+d) R
+Správná odpověď: d
+
+7.60. Tesla je jednotkou:
+a) magnetické indukce
+b) indukčnosti
+c) induktance
+d) samoindukce
+Správná odpověď: a
+
+7.61. U podélného průtoku elektrického proudu tkáněmi je situace jako u paralelního řazení odporů. Odpor svaloviny je 10× menší než u tuku. Dle Joule-Lenzova zákona bude uvolněné teplo v tukové tkáni (v porovnání se svalovou):
+a) 10× větší
+b) 10× menší
+c) 100× menší
+d) 100× větší
+Správná odpověď: b
+
+7.62. U příčného průtoku elektrického proudu tkáněmi je situace jako u sériového řazení odporů. Odpor svaloviny je 10× menší než u tuku. Dle Joule-Lenzova zákona bude uvolněné teplo v tukové tkáni (v porovnání se svalovou):
+a) 10× větší
+b) 10× menší
+c) 100× menší
+d) 100× větší
+Správná odpověď: a
+
+7.63. V rentgenové lampě vzniká záření přeměnou kinetické energie letících elektronů, které dopadají na anodu. Jakou kinetickou energii mají elektrony, urychlované anodovým napětím 100 kV při dopadu na anodu, je-li anoda 5 cm od katody? (Náboj elektronu je 1,6 · 10−19 c):
+a) 100 keV
+b) 5 keV
+c) 1,6 · 10−14 J
+d) 16 fJ
+Správná odpověď: a, c, d
+
+7.64. Varná konvice má příkon 1150 W. Při napětí 230 V jí bude protékat proud:
+a) 0,5 A
+b) 2 A
+c) 0,2 A
+d) 5 A
+Správná odpověď: d
+
+7.65. Varná konvice určená pro napětí 230 V má příkon 2300 W; její odpor za provozu je:
+a) 23Ω
+b) 10Ω
+c) 529 kΩ
+d) 0,1Ω
+Správná odpověď: a
+
+7.66. Velikost intenzity elektrického pole bodového náboje:
+a) je klesající funkcí vzdálenosti
+b) se vzdáleností roste
+c) klesá se čtvercem vzdálenosti
+d) je nepřímo úměrná vzdálenosti
+Správná odpověď: a, c
+
+7.67. Velikost intenzity elektrického pole uvnitř vodivé nabité koule:
+a) je konstantní, ale nenulová
+b) je nulová
+c) závisí na kapacitě koule
+d) s rostoucím poloměrem koule roste
+Správná odpověď: b
+
+7.68. Vodivost G vlákna žárovky o odporu R:
+a) je závislá na teplotě
+b) je přímo úměrná odporu
+c) s odporem nesouvisí
+d) je převrácenou hodnotou odporu
+Správná odpověď: a, d
+
+7.69. Vodivost rezistoru 50Ω je:
+a) 20 mS
+b) 0,02Ω
+c) 0,02Ω−1
+d) (50Ω)−1
+Správná odpověď: a, c, d
+
+7.70. Výkon elektrického proudu I protékajícího odporem R je:
+a) I2 · R
+b) I / R
+c) I · R2
+d) I · R
+Správná odpověď: a
+
+7.71. Výsledná vodivost dvou stejných, paralelně zapojených rezistorů 50 kΩ je:
+a) 40 µS
+b) 25 kΩ
+c) 10 µS
+d) 25 kΩ
+Správná odpověď: a, d
+
+7.72. Výsledná vodivost dvou stejných, sériově zapojených rezistorů 50 kΩ je:
+a) 40 µS
+b) 100 kΩ
+c) 10 µS
+d) 100 kΩ−1
+Správná odpověď: c, d
+
+7.73. Výsledný odpor dvou stejných, paralelně zapojených rezistorů 500 kΩ je:
+a) 4 µS
+b) 0,25 MΩ
+c) 1 MΩ
+d) 250 kΩ
+Správná odpověď: b, d
+
+7.74. Výsledný odpor dvou stejných, paralelně zapojených rezistorů R je:
+a) R
+b) rovný jejich geometrickému průměru
+c) 2R
+d) R/2
+Správná odpověď: d
+
+7.75. Výsledný odpor dvou stejných, sériově zapojených rezistorů o odporu 50 kΩ je:
+a) 0,1 MΩ
+b) 25 kΩ
+c) 100 kΩ
+d) 50 kΩ
+Správná odpověď: a, c
+
+7.76. Výsledný odpor R dvou sériově zapojených rezistorů R1 = 50 kΩ a R2 = 0,1 MΩ je:
+a) 150 kΩ
+b) 0,15 MΩ
+c) 25 kΩ
+d) 33,3 kΩ
+Správná odpověď: a, b
+
+7.77. Výsledný odpor tří stejných, paralelně zapojených rezistorů R je:
+a) R / 3
+b) 3 · R
+c) R / (1/3)
+d) (1/3) · R
+Správná odpověď: a, d
+
+7.78. Žárovka má příkon 250 W. Napětí na svorkách žárovky je 230 V. Pak přibližně platí:
+a) žárovkou protéká proud 1,1 A
+b) žárovkou protéká proud 0,9 A
+c) odpor žárovky je 1,1Ω
+d) odpor žárovky je 0,9Ω
+Správná odpověď: a
+
+7.79. Ω · m je jednotkou:
+a) výkonu elektrického proudu
+b) účinnosti zdroje
+c) měrného odporu elektrického vodiče
+d) impulsu síly
+Správná odpověď: c

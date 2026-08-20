@@ -1,0 +1,538 @@
+10.01. Absolutní index lomu je definován jako:
+a) součin rychlosti světla ve vakuu a rychlosti světla v daném prostředí
+b) podíl rychlosti světla ve vakuu a rychlosti světla v daném prostředí
+c) podíl rychlostí světla ve dvou libovolných prostředích, na jejichž rozhraní dochází k lomu světla
+d) podíl úhlu lomu a úhlu dopadu
+Správná odpověď: b
+
+10.02. Aby normální oko za dobré viditelnosti na vzdálenost 1 km rozeznalo dva body, musí být od sebe vzdáleny alespoň (tg 1°  0,017, tg 1′  0,0003):
+a) 0,3 m
+b) 3 m
+c) 1,7 m
+d) 0,17 m
+Správná odpověď: a
+
+10.03. Barevná vada čoček spočívá v tom, že:
+a) čočky jsou nehomogenně zbarvené
+b) barevné složky bílého světla se lámou do různých ohnisek
+c) index lomu závisí na frekvenci světla
+d) barva očí je individuální
+Správná odpověď: b, c
+
+10.04. Brýle, v nichž jsou použity rozptylky:
+a) posunují výsledný obraz předmětu blíž k oční čočce
+b) posunují výsledný obraz předmětu dále od oční čočky
+c) korigují krátkozrakost
+d) korigují dalekozrakost
+Správná odpověď: b, c
+
+10.05. Čočky rozptylky:
+a) soustřed’ují dopadající rovnoběžné paprsky do jednoho bodu, tzv. ohniska čočky
+b) mají zápornou optickou mohutnost
+c) mají větší tloušt’ku ve středu než při okraji
+d) můžeme použít k zapálení papíru slunečním svitem
+Správná odpověď: b
+
+10.06. Čočky spojky:
+a) mají větší tloušt’ku při okraji než uprostřed
+b) mají zápornou optickou mohutnost
+c) soustřed’ují dopadající rovnoběžné paprsky do jednoho bodu, tzv. ohniska čočky
+d) využíváme pro jejich schopnost odrážet světlo
+Správná odpověď: c
+
+10.07. Dalekozraké oko:
+a) korigujeme spojkami
+b) korigujeme rozptylkami
+c) má nedostatečnou optickou mohutnost k zaostření blízkých předmětů
+d) vytváří obraz blízkého předmětu před sítnicí
+Správná odpověď: a, c
+
+10.08. Duté kulové zrcadlo má poloměr křivosti 5 m, ve vzdálenosti 10 m před zrcadlem je předmět o výšce 1 m; velikost převráceného obrazu předmětu potom je:
+a) 33 cm
+b) 3,3 m
+c) 20 cm
+d) 50 cm
+Správná odpověď: a
+
+10.09. Duté kulové zrcadlo má poloměr křivosti 5 m, ve vzdálenosti 10 m před zrcadlem leží předmět; potom je obrazová vzdálenost vytvořeného obrazu:
+a) 5 m
+b) −5 m
+c) 10 m
+d) 3,3 m
+Správná odpověď: d
+
+10.10. Duté zrcadlo:
+a) má ohniskovou vzdálenost f > 0
+b) vytváří vždy převrácený obraz předmětu
+c) vždy zmenšuje obraz předmětu
+d) má ohniskovou vzdálenost f < 0
+Správná odpověď: a
+
+10.11. Dvě rovinná zrcadla jsou umístěna tak, že svírají úhel 90°. V rovině kolmé k oběma zrcadlům dopadá na první ze zrcadel světelný paprsek, odrazí se od prvního a pak i od druhého zrcadla. Platí, že po odrazu světelného paprsku na obou zrcadlech jsou oba paprsky – dopadající a dvakrát odražený – navzájem rovnoběžné?
+a) paprsky nejsou nikdy rovnoběžné
+b) paprsky by byly rovnoběžné pouze při dopadu pod úhlem 45◦
+c) ano, paprsky jsou vždy rovnoběžné
+d) paprsky by byly rovnoběžné jen tehdy, pokud by zrcadla svírala úhel 45◦
+Správná odpověď: c
+
+10.12. Dvojvydutá čočka (ve vzduchu):
+a) má obě plochy konkávní
+b) je v opticky řidším prostředí rozptylkou
+c) vytváří vždy zvětšený obraz předmětu
+d) má obě plochy konvexní
+Správná odpověď: a, b
+
+10.13. Dvojvypuklá čočka (ve vzduchu):
+a) má obě plochy konvexní
+b) vytváří obraz pouze vzpřímený, skutečný
+c) je rozptylkou
+d) má obě plochy konkávní
+Správná odpověď: a
+
+10.14. Galileův (holandský) dalekohled:
+a) je tvořen kombinací spojky a rozptylky
+b) je tvořen spojkami
+c) vytváří obraz převrácený
+d) vytváří obraz vzpřímený a zmenšený
+Správná odpověď: a
+
+10.15. Index lomu vakua je:
+a) 2
+b) 0
+c) 1
+d) 3 · 108
+Správná odpověď: c
+
+10.16. Index lomu vzduchu za standardních podmínek je:
+a) blízký 1
+b) 1,4
+c) 2
+d) 0
+Správná odpověď: a
+
+10.17. Index lomu:
+a) je bezrozměrný
+b) se udává v m · s−1
+c) se udává v úhlových stupních
+d) se udává v radiánech
+Správná odpověď: a
+
+10.18. Jaké brýle musí ve vzduchu používat člověk, který při ponoření do vody vidí normálně?
+a) spojky
+b) rozptylky
+c) otázka nemá smysl, pod vodou člověk nemůže vidět ostře
+d) žádné brýle nepotřebuje
+Správná odpověď: b
+
+10.19. Jednotka s rozměrem m−1:
+a) je jednotkou optické mohutnosti
+b) je 1 Hz
+c) je jednotkou příčného zvětšení
+d) je jednotkou ohniskové vzdálenosti
+Správná odpověď: a
+
+10.20. Jednotkou optické mohutnosti čočky je:
+a) dioptrie
+b) metr
+c) stupeň
+d) kandela
+Správná odpověď: a
+
+10.21. Keplerův dalekohled:
+a) se skládá ze dvou spojek (objektivu a okuláru)
+b) se skládá ze spojky a rozptylky
+c) obraz vytvořený objektivem pozorujeme okulárem a je skutečný a přímý
+d) je zrcadlový hvězdářský dalekohled
+Správná odpověď: a
+
+10.22. Keplerův hvězdářský dalekohled:
+a) vytváří vzpřímený obraz
+b) je tvořen kombinací spojky a rozptylky
+c) je tvořen spojnou soustavou čoček
+d) využívá odrazu na dvou hranolech
+Správná odpověď: c
+
+10.23. Konvenční zraková vzdálenost je:
+a) větší než vzdálenost blízkého bodu normálního oka
+b) menší než vzdálenost blízkého bodu normálního oka
+c) menší než vzdálenost dalekého bodu normálního oka
+d) 25 cm
+Správná odpověď: a, c, d
+
+10.24. Konvenční zraková vzdálenost:
+a) je konvenčně stanovená vzdálenost, používaná např. při výpočtu zvětšení mikroskopu
+b) je největší vzdálenost, ze které vidíme ještě ostře
+c) je nejmenší vzdálenost, ze které vidíme ještě ostře
+d) je přibližně 15 cm před okem
+Správná odpověď: a
+
+10.25. Krátkozraké oko:
+a) vytváří obraz velmi vzdáleného předmětu teoreticky za sítnicí
+b) korigujeme spojkami
+c) má daleký bod v konečné vzdálenosti a blízký bod posunutý k oku
+d) má blízký bod posunutý od oka
+Správná odpověď: c
+
+10.26. Která z optických soustav má skutečné ohnisko?
+a) rovinné zrcadlo
+b) duté zrcadlo
+c) vypuklé zrcadlo
+d) spojná čočka
+Správná odpověď: b, d
+
+10.27. Lidské oko je nejcitlivější na světlo:
+a) červené
+b) žlutozelené
+c) bílé
+d) černé
+Správná odpověď: b
+
+10.28. Mějme tenkou dvojdutou (bikonkávní) čočku s poloměry křivosti r1 a r2 a indexem lomu n. Optická mohutnost této čočky (ve vzduchu):
+a) se vypočte ze vztahu ((n − 1) · (r1 + r2))−1
+b) je v závislosti na polomě(rech křivosti bud’ kladná, nebo záporná
+c) je záporná )
+d) se vypočte ze vztahu n · r−1 1 + r−1
+Správná odpověď: c
+
+10.29. Mezi základní předpoklady geometrické optiky nepatří:
+a) zákon záměnnosti chodu paprsků
+b) zákon odrazu
+c) zákon zachování rychlosti světla
+d) zákon přímočarého šíření paprsků
+Správná odpověď: c
+
+10.30. Mezní úhel je úhel:
+a) dopadu, při kterém je úhel lomu 0°
+b) odrazu, kterému odpovídá úhel dopadu 90°
+c) dopadu, při kterém dochází k úplnému odrazu, což může nastat, šíří-li se paprsek z prostředí opticky řidšího do prostředí opticky hustšího
+d) dopadu, při kterém je úhel lomu 90°, což může nastat, šíří-li se paprsek z prostředí opticky hustšího do prostředí opticky řidšího
+Správná odpověď: d
+
+10.31. Normální oko není schopno rozlišit dva body, jestliže je vidí pod zorným úhlem:
+a) 1 úhlový stupeň
+b) 2 úhlové minuty
+c) 1 úhlová vteřina
+d) 0,1 radiánu
+Správná odpověď: c
+
+10.32. O viditelném světle lze říci, že:
+a) je to elektromagnetické vlnění
+b) má vlnovou délku větší než UV záření
+c) má jinou fyzikální podstatu než vlny televizního signálu (jedná se o jiný druh vlnění)
+d) je ta část záření černého tělesa, která je vnímatelná zrakem
+Správná odpověď: a, b, d
+
+10.33. Obraz předmětu umístěného v nekonečné vzdálenosti od dutého kulového zrcadla na jeho optické ose:
+a) je skutečný a převrácený
+b) vznikne ve středu křivosti zrcadla
+c) vznikne v ohniskové rovině zrcadla
+d) nevznikne
+Správná odpověď: a, c
+
+10.34. Obraz vytvořený objektivem optického mikroskopu je:
+a) skutečný
+b) pozorován okulárem
+c) zvětšený
+d) přímý
+Správná odpověď: a, b, c
+
+10.35. Obraz vytvořený spojnou čočkou je podle polohy předmětu vzhledem k ohnisku:
+a) zvětšený nebo zmenšený, skutečný nebo neskutečný, vždy vzpřímený
+b) zvětšený nebo zmenšený, skutečný nebo neskutečný, vzpřímený nebo převrácený
+c) vždy zvětšený, skutečný, vzpřímený nebo převrácený
+d) vždy zvětšený, skutečný nebo neskutečný, převrácený
+Správná odpověď: b
+
+10.36. Oční čočka je:
+a) ploskodutá
+b) ploskovypuklá
+c) dvojvypuklá
+d) průsvitná
+Správná odpověď: c
+
+10.37. Ohnisková vzdálenost čočky je −50 cm. Optická mohutnost této čočky je:
+a) 2 D
+b) 5 D
+c) 1/2 D
+d) −2 D
+Správná odpověď: d
+
+10.38. Okulár mikroskopu:
+a) nelze použít jako okulár v dalekohledu
+b) neovlivňuje zvětšení mikroskopu
+c) je tvořen rozptylkami
+d) je spojnou soustavou, zde použitou jako lupa
+Správná odpověď: d
+
+10.39. Optická mohutnost čočky je −2 D:
+a) jde o spojku
+b) jde o rozptylku
+c) ohnisková vzdálenost je −2 m
+d) ohnisková vzdálenost je −0,5 m
+Správná odpověď: b, d
+
+10.40. Optická mohutnost čočky je:
+a) tloušt’ka čočky
+b) převrácená hodnota ohniskové vzdálenosti čočky
+c) veličina s jednotkou m−2
+d) nezávislá na poloměru křivosti optických ploch čočky
+Správná odpověď: b
+
+10.41. Optická mohutnost čočky:
+a) je ohnisková vzdálenost čočky udaná v metrech
+b) je bezrozměrná veličina
+c) je převrácená hodnota ohniskové vzdálenosti čočky v metrech
+d) má stejné znaménko jako ohnisková vzdálenost
+Správná odpověď: c, d
+
+10.42. Optická mohutnost spojné čočky je +5 D; ohnisková vzdálenost f této čočky je:
+a) 5 m
+b) 5 dm
+c) 2 m
+d) 20 cm
+Správná odpověď: d
+
+10.43. Optickým intervalem mikroskopu rozumíme:
+a) vzdálenost předmětového ohniska objektivu od obrazového ohniska okuláru
+b) vzdálenost předmětového ohniska okuláru od obrazového ohniska objektivu
+c) délku, o kterou lze posouvat tubusem mikroskopu
+d) délku mikroskopu
+Správná odpověď: b
+
+10.44. Otvorová vada:
+a) je důsledkem špatného zaostřování dalekohledů
+b) je důsledkem toho, že čočka nemá ideálně hladký povrch
+c) se vyskytuje u parabolického zrcadla a odstraňuje se tím, že uprostřed zrcadla užívaného k vyšetření ucha je otvor
+d) se vyskytuje u čoček a je důsledkem toho, že pro paprsky vzdálenější od optické osy vznikají odchylky od ideálního zobrazení (bod se zobrazuje jako neostrý kroužek)
+Správná odpověď: d
+
+10.45. Paraxiální paprsky jsou paprsky:
+a) procházející pouze středem čočky
+b) jdoucí přímo od zdroje světla (bez odrazu)
+c) kterými se přímka zobrazuje vždy jako bod
+d) jdoucí v blízkosti optické osy
+Správná odpověď: d
+
+10.46. Ploskovypuklá (plankonvexní) čočka má poloměr křivosti 25 cm a index lomu 1,5. Její ohnisková vzdálenost je přibližně:
+a) +50 cm
+b) −50 cm
+c) −2 D
+d) −20 cm
+Správná odpověď: a
+
+10.47. Podle Snellova zákona platí (ϵ1 – úhel dopadu, ϵ2 – úhel lomu, v1, v2 – rychlosti vlnění v prvním a ve druhém prostředí, n1, n2 – indexy lomu prvního a druhého prostředí):
+a) sin ϵ1 / sin ϵ2 = v2 / v1
+b) sin ϵ1 / sin ϵ2 = n2 / n1
+c) n1 · sin ϵ2 = n2 · sin v1
+d) v1 · sin ϵ2 = v2 · sin ϵ1
+Správná odpověď: b, d
+
+10.48. Podle znaménkové konvence je hodnota obrazové vzdálenosti a′ vždy záporná pro obraz vytvořený:
+a) rozptylnou čočkou
+b) spojnou čočkou
+c) dutým zrcadlem
+d) vypuklým zrcadlem
+Správná odpověď: a, d
+
+10.49. Podle znaménkové konvence je předmětová ohnisková vzdálenost kladná pro:
+a) dutá zrcadla
+b) vypuklá zrcadla
+c) spojné čočky
+d) rozptylné čočky
+Správná odpověď: a, c
+
+10.50. Princip zobrazení spojnou optickou soustavou, kdy se předmět umístěný dále, než činí dvojnásobek ohniskové vzdálenosti, zobrazí skutečný, zmenšený a převrácený, využívá:
+a) fotoaparát
+b) lupa
+c) lidské oko
+d) zpětné zrcátko u automobilu
+Správná odpověď: a, c
+
+10.51. Pro dutá a vypuklá kulová zrcadla a spojné a rozptylné čočky platí zobrazovací rovnice, která:
+a) má tvar 1/a + 1/a′ = 1/ f , kde f je ohnisková vzdálenost, a je vzdálenost předmětu a a′ je vzdálenost obrazu
+b) je společná pro uvedené typy zrcadel a čoček při dodržování znaménkové konvence
+c) u čoček předpokládá měření vzdáleností od hlavních bodů čočky
+d) u zrcadel předpokládá měření vzdáleností od vrcholu zrcadla
+Správná odpověď: a, b, c, d
+
+10.52. Pro příčné zvětšení kulového zrcadla platí (a – vzdálenost předmětu, a′ – vzdálenost obrazu, y – výška předmětu, y′ – výška obrazu, f – ohnisková vzdálenost):
+a) Z = − f / (a − f )
+b) Z = y′ / y
+c) Z = −a′ / a
+d) Z = a / f
+Správná odpověď: a, b, c
+
+10.53. Pro zobrazení spojnou čočkou platí (a – předmětová vzdálenost, f – ohnisková vzdálenost):
+a) jestliže a > 2 f , obraz je skutečný, zmenšený a převrácený
+b) jestliže a > 2 f , obraz je skutečný, zvětšený a převrácený
+c) jestliže a < f , obraz je skutečný, zvětšený a vzpřímený
+d) jestliže a < f , obraz je neskutečný, zvětšený a vzpřímený
+Správná odpověď: a, d
+
+10.54. Pro zobrazení spojnou čočkou platí (a – předmětová vzdálenost, f – ohnisková vzdálenost):
+a) jestliže a < f , obraz je neskutečný, zvětšený a vzpřímený
+b) jestliže a < f , obraz je neskutečný, zmenšený a převrácený
+c) jestliže a > f , obraz je neskutečný, zvětšený a vzpřímený
+d) obraz je vždy neskutečný, zmenšený a převrácený
+Správná odpověď: a
+
+10.55. Přemístíme-li křemennou spojnou čočku (n = 1,46) ze vzduchu (n = 1) do metylénjodidu (n = 1,74):
+a) funguje jako spojka
+b) absolutní hodnota její ohniskové vzdálenosti bude větší
+c) funguje jako rozptylka
+d) zmenší se její optická mohutnost
+Správná odpověď: b, c, d
+
+10.56. Přemístíme-li spojnou skleněnou čočku (n = 1,5) ze vzduchu (n = 1) do vody (n = 1,33):
+a) funguje jako rozptylka
+b) funguje jako spojka
+c) zmenší se její optická mohutnost
+d) zvětší se její ohnisková vzdálenost
+Správná odpověď: b, c, d
+
+10.57. Při sledování spektrálních čar vzdalující se hvězdy:
+a) dochází k červenému posunu
+b) pozorujeme Dopplerův efekt
+c) vlnové délky čar se zkracují
+d) zvyšuje se energie dopadajících fotonů
+Správná odpověď: a, b
+
+10.58. Přibližná hodnota rychlosti světla ve vakuu je:
+a) 340 m · s−1
+b) 3 · 108 km · s−1
+c) 3 · 108 km · h−1
+d) 3 · 108 m · s−1
+Správná odpověď: d
+
+10.59. Relativní index lomu:
+a) je vyjádřen poměrem rychlosti světla ve vakuu ku rychlosti světla v daném prostředí c / v
+b) je vyjádřen poměrem rychlostí světla v daných prostředích v1 / v2
+c) pokud je menší než 1 a sinus úhlu dopadu je větší nebo roven relativnímu indexu lomu, nastává úplný odraz
+d) při přechodu z opticky řidšího do opticky hustšího prostředí je větší než 1
+Správná odpověď: b, c, d
+
+10.60. Rovinné zrcadlo vytváří obraz, který je:
+a) zdánlivý, převrácený, zvětšený, souměrný s předmětem podle roviny zrcadla
+b) zdánlivý, vzpřímený, stejně veliký, souměrný s předmětem podle roviny zrcadla
+c) skutečný, převrácený, zmenšený
+d) skutečný, vzpřímený, stejně veliký, souměrný s předmětem podle roviny zrcadla
+Správná odpověď: b
+
+10.61. Rozlišovací schopnost mikroskopu:
+a) závisí pouze na intenzitě osvětlení
+b) je definována jako vzdálenost dvou bodů, které je ještě pozorovatel schopen rozlišit
+c) se nemůže změnit výměnou okuláru
+d) se nezmění záměnou objektivu a okuláru
+Správná odpověď: b
+
+10.62. Rychlost světla v prostředí o indexu lomu 2,0 je:
+a) 15 · 107 m/s
+b) 3 · 108 m/s
+c) 6 · 108 m/s
+d) 1,5 · 107 m/s
+Správná odpověď: a
+
+10.63. Rychlost šíření světla ve vodě je:
+a) závislá na frekvenci
+b) větší než ve vzduchu
+c) menší než ve vakuu
+d) závislá na barvě světla
+Správná odpověď: a, c, d
+
+10.64. Řádově porovnejte rychlost šíření světla a zvuku ve vzduchu. Rychlost zvuku je:
+a) tisíckrát menší než rychlost světla
+b) tisíckrát větší než rychlost světla
+c) milionkrát menší než rychlost světla
+d) stotisíckrát menší než rychlost světla
+Správná odpověď: c
+
+10.65. Spojná čočka má oba poloměry křivosti 20 cm a index lomu 1,5. Její optická mohutnost potom je:
+a) +5 D
+b) −5 D
+c) +0,5 D
+d) −1 D
+Správná odpověď: a
+
+10.66. Světelnost jednoduchého jednočočkového objektivu fotoaparátu:
+a) je dána poměrem mezi ohniskovou vzdáleností objektivu a citlivostí filmu
+b) závisí na intenzitě osvětlení fotografované scény
+c) udává poměr mezi průměrem vstupního otvoru a ohniskovou vzdáleností objektivu
+d) se dá zvýšit použitím fotografického blesku
+Správná odpověď: c
+
+10.67. Teplota na povrchu Slunce je přibližně:
+a) 1300 °C
+b) 6000 K
+c) 1000 K
+d) 27 000 K
+Správná odpověď: b
+
+10.68. Triedr je:
+a) dalekohled sestavený z parabolického zrcadla a čočky
+b) v principu Galileův (holandský) dalekohled
+c) v principu Kellerův dalekohled s přidanými hranoly
+d) hranol, pomocí kterého provádíme trojlom světla
+Správná odpověď: c
+
+10.69. Úplný (totální) odraz lze využít:
+a) u lupy
+b) u odrazného hranolu
+c) u optických vláken
+d) u triedru
+Správná odpověď: b, c, d
+
+10.70. Vyberte pravdivá tvrzení:
+a) oko není schopno rozlišit zrakové vjemy následující po sobě v intervalu 0,01 s
+b) normální oko je schopno rozlišit dva body, jestliže je vidí pod zorným úhlem větším než 1 úhlová minuta
+c) oko vnímá barvy nezávisle na intenzitě osvětlení
+d) normální oko není schopno rozlišit dva body, které vidí pod zorným úhlem 0,1 radiánu
+Správná odpověď: a, b
+
+10.71. Vyberte správný vzorec pro ohniskovou vzdálenost čočky o indexu lomu n ve vzduchu ( f – ohnisková vzdálenost; r1, r2 – poloměry křivosti čočky):
+a) 1/ f = (n − 1) · (1/r1 + 1/r2)
+b) f = (n − 1) · (1/r1 + 1/r2)
+c) f = (n − 1) · (r1 + r2)
+d) 1/ f = (n − 1) · (r1 + r2)
+Správná odpověď: a
+
+10.72. Vypuklé kulové zrcadlo má poloměr křivosti 5 m. Ve vzdálenosti 10 m před zrcadlem je předmět o výšce 1 m. Velikost obrazu předmětu je:
+a) 33 cm
+b) 3,3 m
+c) 20 cm
+d) 50 cm
+Správná odpověď: c
+
+10.73. Vypuklé kulové zrcadlo má poloměr křivosti 5 m. Ve vzdálenosti 10 m před zrcadlem je předmět, jehož zdánlivý obraz je od zrcadla vzdálen:
+a) 5 m
+b) 2 m
+c) 10 m
+d) 3,3 m
+Správná odpověď: b
+
+10.74. Vypuklé zrcadlo:
+a) může vytvářet skutečný i neskutečný (zdánlivý) obraz předmětu
+b) má ohniskovou vzdálenost f > 0
+c) vytváří vždy vzpřímený obraz předmětu
+d) vytváří vždy neskutečný (zdánlivý) obraz předmětu
+Správná odpověď: c, d
+
+10.75. Vzduchová bublina se chová ve vodě přibližně jako:
+a) spojka
+b) rozptylka
+c) spojka nebo rozptylka v závislosti na vlnové délce světla
+d) kulové zrcadlo
+Správná odpověď: b, d
+
+10.76. Ze zákona lomu sin α/sin β = n2 /n1 plyne, že pro úhel α rovný meznímu úhlu platí (α – úhel dopadu v prostředí s indexem lomu n1, β – úhel lomu v prostředí s indexem lomu n2):
+a) sinα = 0
+b) sinα = 1
+c) sinα = n2 / n1
+d) sinα = 1 / n2
+Správná odpověď: c
+
+10.77. Zrcadla:
+a) využívají lomu světla
+b) způsobují rozklad světla na jednotlivé barevné složky
+c) odrážejí světlo dle zákona odrazu (úhel dopadu světla je roven úhlu odrazu), přitom odraz světla nezáleží na vlnové délce
+d) nemohou správně fungovat ve vakuu
+Správná odpověď: c

@@ -1,0 +1,76 @@
+Určete hmotnost kyslíku, připadající v uhličitanu sodném na 50 gramů sodíku: Ar(Na) = 23, Ar(c) = 12, Ar(O) = 16
+a) 34,78 gramů kyslíku
+b) 52,17 gramů kyslíku
+c) 47,91 gramů kyslíku
+d) 104,34 gramů kyslíku
+Správná odpověď: b
+
+Určete hmotnost kyslíku, připadající v siřičitanu sodném na 10 g sodíku: Ar(Na) = 23, Ar(S) = 32, Ar(O) = 16
+a) 10,43 g
+b) 13,91 g
+c) 48,17 g
+d) 1,04 g
+Správná odpověď: a
+
+Určete hmotnost kyslíku, připadající na 20 g draslíku v síranu draselném: Ar(K) = 39, Ar(S) = 32, Ar(O) = 16
+a) 20,7 g
+b) 6,4 g
+c) 8,2 g
+d) 16,4 g
+Správná odpověď: d
+
+Určete hmotnost draslíku, připadající v manganistanu draselném na 50 gramů kyslíku: Ar(K) = 39, Ar(Mn) = 55, Ar(O) = 16
+a) 60,93 g draslíku
+b) 40,62 g draslíku
+c) 30,47 g draslíku
+d) 52,17 g draslíku
+Správná odpověď: c
+
+Určete hmotnost dusíku, připadající v dusičnanu sodném na 10 gramů sodíku: Ar(Na) = 23, Ar(N) = 14, Ar(O) = 16
+a) 3,04 gramů dusíku
+b) 12,17 gramů dusíku
+c) 20,87 gramů dusíku
+d) 6,09 gramů dusíku
+Správná odpověď: d
+
+Kolik gramů dusíku obsahuje 100 gramů síranu amonného? Ar(N) = 14, Ar(S) = 32, Ar(O) = 16, Ar(H) = 1
+a) 14,3 g
+b) 21,2 g
+c) 2,12 g
+d) 12,4  g
+Správná odpověď: b
+
+Kolik gramů dusíku obsahuje 100 gramů uhličitanu amonného? Ar(N) = 14, Ar(c) = 12, Ar(O) = 16, Ar(H) = 1
+a) 2,91 g
+b) 29,2 g
+c) 21,2 g
+d) 17,9 g
+Správná odpověď: c
+
+Kolik gramů krystalové vody obsahuje 15 gramů modré skalice CuSO4·5H2O? Ar(Cu) = 64, Ar(S) = 32, Ar(O) = 16, Ar(H) = 1
+a) 5,40 g
+b) 6,70 g
+c) 8,38 g
+d) 5,01 g
+Správná odpověď: b
+
+Kolik gramů krystalové vody obsahuje 12 gramů Glauberovy soli Na2SO4·10H2O? Ar(Na) = 23, Ar(S) = 32, Ar(O) = 16, Ar(H) = 1
+a) 6,7 g
+b) 7,2 g
+c) 1,35 g
+d) 8,6 g
+Správná odpověď: a
+
+Posuďte, která z uvedených sloučenin má nejnižší procentový obsah dusíku: Ar(N) = 14, Ar(S) = 32, Ar(Na) = 23, Ar(O) = 16, Ar(H) = 1, Ar(Cl) = 35
+a) chlorid amonný
+b) síran amonný
+c) dusičnan sodný
+d) dusitan sodný
+Správná odpověď: a
+
+Posuďte, která z uvedených sloučenin má nejvyšší procentový obsah dusíku: Ar (N) = 14, Ar(S) = 32, Ar(Na) = 23, Ar(O) = 16, Ar(H) = 1, Ar(Cl) = 35
+a) chlorid amonný
+b) dusitan sodný
+c) dusičnan sodný
+d) síran amonný
+Správná odpověď: d

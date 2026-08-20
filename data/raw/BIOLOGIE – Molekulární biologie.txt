@@ -1,0 +1,1049 @@
+155. Které z následujících dějů jsou součástí procesu replikace DNA?
+a) syntéza komplementárního řetězce řízená DNA-polymerázou
+b) tvorba krátkých úseků DNA (Okazakiho fragmentů), které jsou spojovány DNA-ligázou
+c) komplementární párování bází
+d) rozvinutí mateřské dvoušroubovice DNA
+Správná odpověď: a, b, c, d
+
+156. Centrální dogma molekulární biologie postuluje přenos genetické informace:
+a) z DNA do DNA při replikaci
+b) z proteinů do DNA
+c) z proteinů do polysacharidů
+d) z DNA do RNA
+Správná odpověď: a, d
+
+157. Kruhové molekuly DNA nacházíme:
+a) v buňkách bakterií
+b) u některých virů
+c) v chloroplastech
+d) v mitochondriích
+Správná odpověď: a, b, c, d
+
+158. Vyberte pravidla, která ve dvoušroubovici DNA platí pro poměrné zastoupení jednotlivých bází (A  – adenin, G  – guanin, C  – cytosin, T – thymin):
+a) A + G = T + C
+b) [A + G] / [T + C] = [A + C] / [G + T]
+c) A + T = C + G
+d) A + C = T + G
+Správná odpověď: a, b, d
+
+159. Promotor:
+a) je specifická nukleotidová sekvence umístěná před strukturním genem, která má význam při spuštění transkripce tohoto genu
+b) je specifický úsek DNA, který se vyskytuje u  prokaryotů a  chybí u eukaryotů
+c) je zvláštní triplet, na který při zahájení translace nasedá první molekula tRNA (nesoucí zpravidla metionin)
+d) je zvláštní triplet, jímž mRNA nasedá na ribozom při zahájení translace
+Správná odpověď: a
+
+160. Translace u eukaryot probíhá:
+a) v cytoplazmě
+b) uvnitř Golgiho komplexu
+c) v chloroplastech
+d) v mitochondriích
+Správná odpověď: a, c, d
+
+161. Které tvrzení o translaci není správné?
+a) jedna molekula mRNA může být překládána najednou na více ribozomech
+b) translace je přímá syntéza jednotlivých aminokyselin podle matrice (předlohy) DNA
+c) translace je syntéza polypeptidových řetězců podle matrice mRNA
+d) genetická informace v  ribozomu je čtena po trojicích (tripletech) nukleotidů
+Správná odpověď: b
+
+162. Vnesení cizí DNA do bakteriální buňky pomocí bakteriofága se nazývá:
+a) transgeneze
+b) konjugace
+c) transkripce
+d) transdukce
+Správná odpověď: d
+
+163. Polypeptidový řetězec bakteriální bílkoviny je tvořen 202 aminokyselinami. Jaká bude délka příslušné kódující sekvence příslušné mRNA (bez STOP kodonu)?
+a) 202 nukleotidy
+b) 303 nukleotidy
+c) 606 nukleotidů
+d) 101 nukleotid
+Správná odpověď: c
+
+164. Molekuly RNA u buněčných organismů:
+a) jsou většinou tvořeny jedním polynukleotidovým řetězcem
+b) obsahují ribonukleotidy
+c) jsou vždy tvořeny dvěma polynukleotidovými řetězci, které vytvářejí dvoušroubovici
+d) na rozdíl od DNA nikdy neobsahují komplementární páry bazí
+Správná odpověď: a, b
+
+165. Který z  následujících přenosů genetické informace je katalyzován zpětnou (reverzní) transkriptázou?
+a) z DNA do dceřiných molekul DNA (při replikaci)
+b) z RNA do molekuly proteinu
+c) z RNA do DNA
+d) z DNA do RNA
+Správná odpověď: c
+
+166. Které z uvedených molekul se přímo účastní procesu translace?
+a) tRNA
+b) hnRNA
+c) mRNA
+d) DNA-polymeráza
+Správná odpověď: a, c
+
+167. Vyberte nesprávné (popř. nesprávná) tvrzení:
+a) mRNA je produktem translace
+b) DNA kóduje mRNA, tRNA a rRNA
+c) rRNA vzniká reverzní transkripcí jakékoli jiné molekuly RNA
+d) ribozomy se účastní translace
+Správná odpověď: a, c
+
+168. Exony:
+a) jsou úseky genu, z  nichž se při posttranskripčních úpravách skládá mRNA
+b) jsou úseky genu, které nejsou replikovány
+c) jsou úseky genu, které se neúčastní translace
+d) jsou nekódující genomové sekvence, které nemají význam jako geny
+Správná odpověď: a
+
+169. Vyberte správné, popř. správná tvrzení o párování komplementárních bází:
+a) párování komplementárních bází se uplatňuje při replikaci DNA
+b) v DNA se páruje thymin (T) s adeninem (a)
+c) v DNA se purinové báze vždy párují s purinovými bázemi a pyrimidinové s pyrimidinovými
+d) v DNA se páruje guanin (G) s cytosinem (c)
+Správná odpověď: a, b, d
+
+170. Který z následujících úseků dvoušroubovice DNA je zapsán správně?
+a)	 5´- GGCTA – 3´ 3´- GGCTA – 5´
+b)	 5´- GGCTA – 3´ 3´- CCGAT – 5´
+c)	 5´- GGCUA – 3´ 3´- CCGAU – 5´
+d)	 5´- GGCTA – 3´ 5´- CCGAT – 3´
+Správná odpověď: b
+
+171. Molekuly DNA zodpovědné za mimojadernou dědičnost nacházíme:
+a) v jadérku
+b) v mitochondriích
+c) v plastidech
+d) v ribozomech
+Správná odpověď: b, c
+
+172. Které z uvedených procesů jsou zahrnuty v ústředním dogmatu molekulární biologie?
+a) transkripce
+b) transdukce
+c) translace
+d) transformace
+Správná odpověď: a, c
+
+173. Při mutaci, kdy je jeden nukleotid v DNA zaměněn jiným:
+a) může být do polypeptidu zařazena jiná aminokyselina
+b) může být syntéza polypeptidu ukončena
+c) může být do polypeptidu zařazena stejná aminokyselina jako ta, která byla kódována původní nemutovanou sekvencí
+d) se téměř vždy přeruší kontinuita DNA a dojde ke zlomu
+Správná odpověď: a, b, c
+
+174. Které komplementární páry bází běžně nacházíme v molekule RNA? (Vyberte variantu obsahující oba správné komplementární páry.)
+a) uracil (U) – cytosin (c), adenin (a) – thymin (T)
+b) cytosin (c) – guanin (G), thymin (T) – adenin (a)
+c) cytosin (c) – guanin (G), uracil (U) – adenin (a)
+d) cytosin (c) – guanin (G), thymin (T) – adenin (a)
+Správná odpověď: c
+
+175. Při replikaci DNA slouží jako matrice (předloha):
+a) dva řetězce DNA, přičemž obě nové dceřiné molekuly DNA mají oba polynukleotidové řetězce nově syntetizované
+b) mRNA, přičemž nová dceřiná dvoušroubovice DNA má jen jeden nově syntetizovaný řetězec
+c) jeden řetězec DNA, přičemž nová dceřiná molekula DNA má oba řetězce nově syntetizované
+d) dva řetězce DNA, přičemž obě nové dceřiné molekuly DNA mají jeden nově syntetizovaný řetězec, zatímco druhý je z mateřské molekuly
+Správná odpověď: d
+
+176. Molekuly tRNA se uplatňují při syntéze bílkovin v procesu:
+a) transkripce
+b) translace
+c) replikace
+d) reverzní transkripce
+Správná odpověď: b
+
+177. Molekuly hnRNA jsou v eukaryotní buňce syntetizovány v procesu:
+a) translace
+b) replikace
+c) transkripce
+d) reverzní transkripce
+Správná odpověď: c
+
+178. Aminokyseliny určené pro syntézu polypeptidového řetězce jsou specificky navázány na molekuly:
+a) tRNA, které dle svých antikodonů nasedají na mRNA procházející ribozomem
+b) tRNA, které komplementárně nasedají na kodony mRNA procházející ribozomem
+c) rRNA, které komplementárně nasedají na mRNA
+d) tRNA, které komplementárně nasedají na kodony rRNA procházející ribozomem
+Správná odpověď: a, b
+
+179. Restrikční endonukleázy:
+a) štěpí kovalentní vazby v řetězci DNA
+b) štěpí DNA jen v určitých sekvencích nukleotidů
+c) štěpí vodíkové vazby mezi bázemi DNA za vzniku dlouhých jednořetězců
+d) nespecificky štěpí DNA v různých sekvencích
+Správná odpověď: a, b
+
+180. Jako vektorové molekuly se v genovém inženýrství často používají:
+a) molekuly virové DNA
+b) molekuly plazmidové DNA
+c) molekuly mitochondriální DNA
+d) molekuly bakteriofágové DNA
+Správná odpověď: a, b, d
+
+181. Amesův test:
+a) hodnotí mutagenitu chemických látek s  využitím zvláštních kmenů bakterií
+b) je založen na indukci genových mutací u bakterií
+c) hodnotí chromozomové mutace u savčích buněk po aplikaci testované látky
+d) hodnotí genotoxicitu chemických látek na základě studií genetických poruch u exponovaných lidských populací
+Správná odpověď: a, b
+
+182. Co je to kodon?
+a) Triplet nukleotidů v  tRNA, určující zařazení jedné aminokyseliny do polypeptidového řetězce.
+b) Triplet nukleotidů v  rRNA, který vymezuje místo připojení tRNA k ribozomu.
+c) Triplet nukleotidů v mRNA, který určuje zařazení jedné aminokyseliny do polypeptidového řetězce.
+d) Triplet nukleotidů v mRNA, na nějž svým antikodonem komplementárně nasedá určitá tRNA.
+Správná odpověď: c, d
+
+183. Při replikaci DNA dochází k zařazování nukleotidů do nového řetězce na základě komplementarity bází:
+a) cytosin (c) – guanin (G), thymin (T) – adenin (a), guanin (G) – cytosin (c), adenin (a) – thymin (T) podle matrice DNA
+b) adenin (a) – guanin (G), cytosin (c) – thymin (T), guanin (G) – adenin (a), guanin (G) – cytosin (c) podle matrice DNA
+c) cytosin (c) – guanin (G), adenin (a) – uracil (U), guanin (G) – cytosin (c), uracil (U) – adenin (a) podle matrice mRNA
+d) guanin (G) – cytosin (c), thymin (T) – adenin (a), cytosin (c) – guanin (G), adenin (a) – thymin (T) podle matrice mRNA
+Správná odpověď: a
+
+184. Vyberte správné, popř. správná tvrzení o proteinech:
+a) Polypeptidový řetězec je složen z nukleotidů.
+b) Primární struktura proteinů má charakter α-helixu nebo β-skládaného listu
+c) Při utváření sekundární struktury proteinů se uplatňují také vodíkové můstky.
+d) Primární struktura proteinů je dána sekvencí aminokyselin.
+Správná odpověď: c, d
+
+185. Komplementární páry bází v DNA jsou:
+a) adenin (a) – thymin (T), guanin (G) – thymin (T), cytosin (c) – adenin (a), thymin (T) – cytosin (c)
+b) guanin (G) -cytosin (c), thymin (T) – adenin (a), cytosin (c) – guanin (G), adenin (a) – thymin (T)
+c) cytosin (c) – guanin (G), thymin (T) – adenin (a), guanin (G) – cytosin (c), uracil (U) – adenin (a)
+d) adenin (a) -thymin (T), thymin (T) – adenin (a), cytosin (c) – guanin (G), adenin (a) – uracil (U)
+Správná odpověď: b
+
+186. Vyberte správné (popř. správná) tvrzení o syntéze RNA:
+a) tento děj se odehrává výhradně v cytoplazmě
+b) tento děj se odehrává většinou v jádře, v menší míře také v mitochondriích a plastidech
+c) RNA-polymeráza katalyzuje spojování nukleotidů obsahujících adenin (a), cytosin (c), guanin (G) a uracil (U) podle matrice (předlohy) jednoho vlákna DNA
+d) RNA-polymeráza katalyzuje spojování nukleotidů obsahujících adenin (a), cytosin (c), guanin (G) a thymin (T) podle matrice (předlohy) mRNA
+Správná odpověď: b, c
+
+187. Translace je překlad genetické informace z:
+a) mRNA do tRNA
+b) mRNA do polypeptidového řetězce
+c) tRNA do mRNA
+d) rRNA do polypeptidového řetězce
+Správná odpověď: b
+
+188. Kodon je:
+a) jakýkoliv úsek DNA, který kóduje syntézu určité funkční molekuly RNA
+b) koncový úsek tRNA, na který se připojuje aminokyselina ve formě aminoacylu
+c) nukleotidový triplet v mRNA určující zařazení jedné aminokyseliny do polypeptidového řetězce
+d) skupina aminokyselin, které jsou (vzhledem k degeneraci genetického kódu) kódovány stejným antikodonem v mRNA
+Správná odpověď: c
+
+189. Ribozomová RNA se syntetizuje:
+a) ve volné cytoplazmě, spojuje se s bílkovinami a vytváří ribozomy
+b) v jádře (v oblasti jadérka), po spojení s bílkovinami tvoří ribozomy
+c) v hladkém endoplazmatickém retikulu a po spojení s bílkovinami vytváří z podjednotek zralé ribozomy
+d) v lysozomech, odkud přechází do cytoplazmy, spojuje se s bílkovinami a vytváří ribozomy
+Správná odpověď: b
+
+190. Molekuly DNA:
+a) jsou většinou tvořeny jedním polynukleotidovým vláknem, které se místy ohýbá a vytváří dvoušroubovicové struktury
+b) jsou většinou tvořeny dvěma polynukleotidovými řetězci, které jsou vzájemně spojeny na podkladě komplementárního párování bází
+c) obsahují 2-deoxy-D-ribózu
+d) obsahují pouze purinové báze, zatímco pyrimidinové jsou obsaženy v RNA
+Správná odpověď: b, c
+
+191. Vyberte správné, popř. správná tvrzení:
+a) Thymin a cytosin jsou pyrimidinové báze.
+b) Uracil patří mezi purinové báze.
+c) V polynukleotidovém řetězci DNA jsou organické báze přímo vázány na fosfátové skupiny pomocí fosfoglykosidické vazby.
+d) Uracil se páruje s adeninem
+Správná odpověď: a, d
+
+192. Při translaci se specifická aminokyselina přenáší fyzicky navázaná na:
+a) tRNA, která svým antikodonem nasedá na mRNA na ribozomu
+b) mRNA, která svým kodonem nasedá na tRNA na ribozomu
+c) rRNA, která svým antikodonem nasedá na mRNA na ribozomu
+d) tRNA, která svým kodonem nasedá na mRNA na ribozomu
+Správná odpověď: a
+
+193. Při syntéze bílkovin v buňce slouží jako matrice (předloha):
+a) mRNA, na níž komplementárním kodonem nasedá tRNA nesoucí specifickou aminokyselinu
+b) tRNA, na níž komplementárním kodonem nasedá mRNA nesoucí specifickou aminokyselinu
+c) mRNA, na níž komplementárním antikodonem nasedá tRNA nesoucí specifickou aminokyselinu
+d) tRNA, na níž komplementárním antikodonem nasedá mRNA nesoucí specifickou aminokyselinu
+Správná odpověď: c
+
+194. Vlastnosti určité bílkoviny závisí na:
+a) počtu a pořadí nepostradatelných aminokyselin v polypeptidovém řetězci a na jeho délce, ostatní aminokyseliny jsou bezvýznamné
+b) počtu a pořadí nepostradatelných aminokyselin a na vzájemném uspořádání fosfodiesterovýchvazeb v polypeptidovém řetězci
+c) počtu a pořadí všech aminokyselin v polypeptidovém řetězci a na jeho prostorovém uspořádání
+d) počtu všech aminokyselin v polypeptidovém řetězci, jejich pořadí nemá na jeho prostorové uspořádání a vlastnosti vliv
+Správná odpověď: c
+
+195. Řetězce nukleových kyselin jsou složeny z:
+a) nukleolů
+b) nukleoidů
+c) nukleotidů
+d) nukleinů
+Správná odpověď: c
+
+196. Tzv. iniciační (START) kodon:
+a) je součástí promotoru a označuje začátek transkripce
+b) nekóduje žádnou aminokyselinu
+c) u eukaryot kóduje při translaci zařazení metioninu
+d) označuje začátek replikace DNA
+Správná odpověď: c
+
+197. Který z uvedených enzymů řídí připojení aminokyseliny k molekule tRNA?
+a) DNA-ligáza
+b) RNA-polymeráza
+c) restrikční endonukleáza
+d) aminoacyl-tRNA syntetáza
+Správná odpověď: d
+
+198. Po replikaci DNA:
+a) má každá z nových molekul DNA obě vlákna nově nasyntetizovaná
+b) má každá z nových molekul DNA jedno vlákno nově nasytetizované a jedno vlákno původní
+c) jsou nové molekuly DNA složeny z úseků dvouřetězců nové a dvouřetězců staré DNA
+d) jsou nové molekuly mozaikou Okazakiho fragmentů, které vznikají štěpením nové i staré DNA
+Správná odpověď: b
+
+199. Při syntéze bílkovin v buňce slouží jako matrice (předloha):
+a) mRNA na ribozomu, na niž komplementárně nasedá tRNA nesoucí specifickou aminokyselinu
+b) mRNA na ribozomu, na niž antikodonem nasedá tRNA nesoucí specifickou aminokyselinu
+c) mRNA na ribozomu, na niž nasedá tRNA vážící na aminoacylovém konci určitou aminokyselinu
+d) mRNA, která je připojena k ribozomu a podle jejíchž kodonů nasedají příslušné tRNA s aminokyselinami
+Správná odpověď: a, b, c, d
+
+200. Nukleotidy tvořící RNA obsahují (neuvažujte tzv. minoritní báze):
+a) dusíkaté báze thymin (T), guanin (G), uracil (U), cytosin (c), cukr ribózu a fosfátovou skupinu
+b) dusíkaté báze uracil (U), cytosin (c), guanin (G), adenin (a), cukr ribózu a fosfátovou skupinu
+c) dusíkaté báze guanin (G), adenin (a), cytosin (c), thymin (T), cukr ribózu a fosfátovou skupinu
+d) dusíkaté báze guanin (G), adenin (a), uracil (U), thymin (T), cukr deoxyribózu a fosfátovou skupinu
+Správná odpověď: b
+
+201. Kolik různých variant kodonů můžeme obecně najít v  molekulách mRNA?
+a) 20
+b) 22
+c) 64
+d) 96
+Správná odpověď: c
+
+202. Kolik různých typů dusíkatých bazí nacházíme v nukleových kyselinách (tj. v DNA i v RNA dohromady)? (Neuvažujte tzv. minoritní báze.)
+a) 2 purinové báze a 2 pyrimidinové báze
+b) 2 purinové báze a 3 pyrimidinové báze
+c) 3 purinové báze a 2 pyrimidinové báze
+d) 3 purinové báze a 3 pyrimidinové báze
+Správná odpověď: b
+
+203. Která, popř. které z  uvedených aminokyselin obsahuje/obsahují ve své molekule síru?
+a) glycin
+b) methionin
+c) valin
+d) cystein
+Správná odpověď: b, d
+
+204. Pro dvouřetězcovou DNA (dsDNa) platí:
+a) nachází se pouze u eukaryotních organismů, u prokaryot chybí
+b) vyskytuje se výhradně v buňkách po skončení S-fáze, během dělení se opět mění na jednořetězcovou
+c) sekvenci bází druhého řetězce lze odvodit ze sekvence bází řetězce prvního
+d) na jednom řetězci se vždy vyskytují pouze purinové báze, na druhém výhradně pyrimidinové báze
+Správná odpověď: c
+
+205. Podíl guaninu (G) mezi bázemi v  bakteriálním plazmidu (kruhové dvouřetězcové molekule DNa) je 20%. Jaké jsou percentuální podíly ostatních bází?
+a) Adenin (a) 30%, thymin (T) 30%, cytosin (c) 20%.
+b) Adenin (a) 20%, thymin (T) 30%, cytosin (c) 30%.
+c) Adenin (a) 30%, uracil (U) 30%, cytosin (c) 20%.
+d) Podíl jednotlivých bází nelze z tohoto údaje jednoznačně stanovit.
+Správná odpověď: a
+
+206. Podíl cytosinu (c) mezi bázemi v chromozomové DNA určitého savce je 30%. Jaké jsou percentuální podíly ostatních bází?
+a) Adenin (a) 20%, thymin (T) 20%, guanin (G) 30%.
+b) Guanin (G) 20%, adenin (a) 20%, thymin (T) 30%
+c) Guanin (G) 30%, podíl adeninu (a) a thyminu (T) nelze jednoznačně stanovit.
+d) Adenin (a) 30%, thymin (T) 20%, guanin (G) 20%.
+Správná odpověď: a
+
+207. Známe-li percentuální podíl thyminu mezi ostatními bázemi ve dvojřetězcové DNA, můžeme z něj vypočítat:
+a) procentuální podíly všech ostatních tří bází
+b) pouze procentuální podíl adeninu (a); podíl zbývajících bází nelze odvodit
+c) pouze procentuální podíl cytosinu (c); podíl zbývajících bází nelze odvodit
+d) ani jedno z výše uvedených tvrzení není správné, neboť uvedený údaj k výpočtu podílu ostatních bází nestačí.
+Správná odpověď: a
+
+208. Jaká minimální informace o prvním řetězci postačuje k jednoznačnému odvození sekvence druhého řetězce dvouřetězcové DNA?
+a) je třeba znát délku řetězce a  v  něm přesné pozice bází guaninu (G) a cytosinu (c)
+b) je třeba znát délku řetězce a  v  něm přesné pozice bází guaninu (G) a adeninu (a)
+c) je třeba znát délku řetězce a v něm přesné pozice bází guaninu (G), cytosinu (c) a adeninu (a)
+d) je třeba znát délku řetězce a v něm přesné pozice všech čtyř bází
+Správná odpověď: c
+
+209. Které shodné vlastnosti mají DNA a RNA?
+a) jsou vždy dvouřetězcové
+b) jsou složeny z nukleotidů
+c) jsou překládány na ribozomech
+d) vyskytují se pouze v buněčném jádře
+Správná odpověď: b
+
+210. Které shodné vlastnosti mají DNA a RNA? (Neuvažujte tzv. minoritní báze.)
+a) obě obsahují adenin (a), guanin (G), thymin (T), cytosin (c) a uracil (U)
+b) obě obsahují adenin (a), guanin (G), thymin (T) a cytosin (c)
+c) obě obsahují adenin (a), guanin (G), cytosin (c) a uracil (U)
+d) obě obsahují adenin (a), guanin (G) a cytosin (c)
+Správná odpověď: d
+
+211. Které shodné vlastnosti mají DNA a proteiny?
+a) jsou vždy dvouřetězcové
+b) jsou to lineární polymery
+c) mohou se vyskytovat mimo buněčné jádro
+d) mohou se vyskytovat v buněčném jádře
+Správná odpověď: b, c, d
+
+212. Které shodné vlastnosti mají DNA a proteiny?
+a) mají vždy spirálovou strukturu
+b) vznikají v buněčném jádře
+c) váží se na ribozomy
+d) obsahují dusík vázaný v organických molekulách
+Správná odpověď: d
+
+213. Které shodné vlastnosti mají RNA a proteiny?
+a) mají vždy spirálovou strukturu
+b) vznikají v buněčném jádře
+c) mohou se vyskytovat mimo buněčné jádro
+d) mohou se vyskytovat v buněčném jádře
+Správná odpověď: c, d
+
+214. V živých organismech byl popsán tok genetické informace v tomto směru:
+a) sekvence DNA se syntetizuje podle sekvence proteinu
+b) sekvence RNA se syntetizuje podle sekvence proteinu
+c) sekvence proteinu se syntetizuje podle sekvence RNA
+d) sekvence RNA se syntetizuje podle sekvence DNA
+Správná odpověď: c, d
+
+215. Kodon je kombinace nukleotidů:
+a) kódující začlenění aminokyseliny do proteinu nebo ukončení jeho syntézy
+b) kódující syntézu antikodonu v molekule mRNA
+c) kódující začlenění antikodonu do molekuly tRNA
+d) kódující replikaci antikodonu v molekule tRNA
+Správná odpověď: a
+
+216. Antikodon je:
+a) sekvence v tRNA komplementární ke kodonu v mRNA
+b) sekvence nukleotidů terminačního kodonu
+c) sekvence rRNA v místě její interakce s mRNA
+d) sekvence aminokyselin odpovídající kódující oblasti mRNA
+Správná odpověď: a
+
+217. Genetický kód:
+a) je výrazně rozdílný u prokaryotních a eukaryotních organismů
+b) se v průběhu nedávné evoluce značně změnil
+c) není degenerovaný
+d) je univerzální
+Správná odpověď: d
+
+218. Vzhledem k povaze genetického kódu:
+a) se může podle jedné molekuly mRNA syntetizovat mnoho různých proteinů s odlišnou sekvencí aminokyselin
+b) určuje sekvence mRNA jednoznačně sekvenci podle ní syntetizovaného proteinu
+c) nelze ze sekvence proteinu jednoznačně určit sekvenci mRNA, která jej kóduje
+d) by mohl být týž protein kódován větším počtem mRNA s  různými sekvencemi
+Správná odpověď: b, c, d
+
+219. Které z následujících tvrzení je pravdivé?
+a) Každý kodon kóduje začlenění právě jedné aminokyseliny do proteinu (kromě STOP kodonů).
+b) Začlenění každé z 20 aminokyselin je kódováno právě jedním kodonem.
+c) Některé kodony kódují začlenění více různých aminokyselin (kromě STOP kodonů).
+d) Začlenění poslední aminokyseliny (methioninu) je kódováno STOP kodonem.
+Správná odpověď: a
+
+220. Genetický kód lze přirovnat k šifrovací tabulce, která určuje:
+a) která báze kóduje začlenění které aminokyseliny do proteinu
+b) který nukleotid kóduje začlenění které aminokyseliny do proteinu
+c) která kombinace tří bází kóduje začlenění které aminokyseliny do proteinu
+d) který kodon kóduje začlenění které aminokyseliny do proteinu
+Správná odpověď: c, d
+
+221. Tabulka genetického kódu nám dovolí jednoznačně odvodit:
+a) sekvenci aminokyselin, která je kódovaná danou posloupností kodonů
+b) konkrétní sekvenci nukleotidů mRNA, která kóduje daný protein
+c) sekvence nukleotidů všech tRNA, které kódují daný protein
+d) konkrétní sekvenci nukleotidů DNA, která kóduje daný protein
+Správná odpověď: a
+
+222. Tabulka genetického kódu obsahuje stejný počet:
+a) kodonů, jako je aminokyselin v proteinech (20)
+b) kodonů, jako je aminokyselin v proteinech (20), plus tři STOP kodony
+c) aminokyselin, jako je počet možných trojic bází
+d) ani jedno z ostatních tvrzení není správné
+Správná odpověď: d
+
+223. To, že prokaryotní a  eukaryotní organismy používají téměř stejný genetický kód:
+a) je podmíněno společným evolučním původem těchto dvou skupin
+b) svědčí pro to, že to je jediný teoreticky možný způsob jak zakódovat 20 aminokyselin pomocí tří bází
+c) svědčí pro nadbytečnost tRNA u současných forem života
+d) svědčí pro vznik prokaryotů z eukaryotů ztrátou jaderné membrány
+Správná odpověď: a
+
+224. Tzv. STOP kodon:
+a) označuje místo, kde končí replikace DNA
+b) je sekvence tří nukleotidů v DNA, kde končí syntéza RNA při transkripci
+c) je sekvence tří nukleotidů, která vzniká výhradně následkem mutace; v  normálních (nemutovaných) molekulách nukleových kyselin ji nenalézáme
+d) ani jedno z výše uvedených tvrzení není správné
+Správná odpověď: d
+
+225. Sekvence mRNA AUGCUGGUCAUA začíná iniciačním kodonem a neobsahuje STOP kodon. Co by mohla kódovat?
+a) začlenění dvanácti aminokyselin do proteinu
+b) začlenění čtyř aminokyselin do proteinu
+c) začlenění tří aminokyselin do proteinu
+d) počet aminokyselin nelze jednoznačně určit, neboť některé kodony se při translaci vzájemně překrývají
+Správná odpověď: b
+
+226. Nosičem genetické informace může/mohou být u různých typů virů:
+a) molekuly jednořetězcové RNA
+b) molekuly dvojřetězcové RNA
+c) lineární molekuly DNA
+d) kruhové molekuly DNA
+Správná odpověď: a, b, c, d
+
+227. Gen je:
+a) úsek molekuly rRNA, podle kterého se syntetizuje na ribozomu protein
+b) úsek molekuly DNA, který kóduje syntézu určité RNA nebo proteinu
+c) tvořen výhradně exony, intronové sekvence k němu neřadíme
+d) úsek DNA, který může kódovat výhradně protein, avšak nikoliv funkční RNA
+Správná odpověď: b
+
+228. Jaký je vztah mezi genem, alelou a sekvencí DNA?
+a) alela může mít více genů, které se mohou lišit sekvencí DNA
+b) gen může mít více alel, které se zpravidla liší sekvencí DNA
+c) gen může mít více alel, všechny alely jednoho genu ale musí mít stejnou sekvenci DNA
+d) alela může mít více genů, všechny geny jedné alely ale musí mít stejnou sekvenci DNA
+Správná odpověď: b
+
+229. Jaký je vztah mezi chromatidou, genem a alelou?
+a) jedna chromatida nese dvě alely určitého genu
+b) každá alela určitého genu se skládá ze dvou chromatid
+c) chromatida nese jednu alelu určitého genu
+d) chromatida nemůže nést současně gen i jeho alelu
+Správná odpověď: c
+
+230. Introny jsou:
+a) části sekvence genu, které jsou vyštěpeny v procesu úprav, jejichž výsledkem je mRNA
+b) části sekvence genu, které se nepřepisují z DNA do mRNA
+c) části sekvence genu, které se nereplikují při replikaci DNA
+d) úseky DNA oddělující jeden gen od druhého
+Správná odpověď: a
+
+231. V sekvenci DNA mezi různými lidmi je značná variabilita. Relativně největší variabilita je:
+a) v úsecích DNA, které kódují nějaký protein
+b) v úsecích DNA, které nekódují žádnou RNA nebo protein
+c) v úsecích DNA mezi geny
+d) v úsecích20260002 7, c3bDdae0d-ab6a-4105N-8a3f-4848ee30Ad6fc, 02.01.2026 ,15:28 :44 které kódují rRNA
+Správná odpověď: b, c
+
+232. Srovnáme-li aminokyselinovou sekvenci určitého proteinu, např. svalového myosinu, člověka a myši:
+a) nezjistíme vůbec žádnou podobnost, protože se jedná o různé biologické druhy
+b) nezjistíme vůbec žádnou podobnost, protože člověk a myš mají odlišný genetický kód
+c) zjistíme určitou podobnost, která je podmíněna evoluční příbuzností těchto dvou druhů
+d) zjistíme určitou podobnost, která ale nesouvisí s evolucí (neboť vajíčko ani spermie neobsahují myosin)
+Správná odpověď: c
+
+233. Pokud je aminokyselinová sekvence některých proteinů izolovaných z  různých organismů podobná, největší podobnost lze z níže uvedených párů předpokládat:
+a) mezi člověkem a klokanem
+b) mezi člověkem a psem
+c) mezi člověkem a ptakopyskem
+d) mezi člověkem a pštrosem
+Správná odpověď: b
+
+234. Populace mRNA v různých tkáních se liší kvalitativně i kvantitativně, protože:
+a) v buňkách různých tkání jsou přepisovány různé soubory genů
+b) při diferenciaci většiny tkání mizí z chromozomů buněk každé tkáně jiné úseky DNA, takže jednotlivé tkáně se pak značně liší svým karyotypem
+c) jsou v různých tkáních přítomny různé druhy ribozomů
+d) každá tkáň má svůj odlišný genetický kód
+Správná odpověď: a
+
+235. Vyberte správné, popř. správná tvrzení o syntéze proteinů v lidských buňkách a tkáních:
+a) Proteinové produkty lidských genů nemusí být syntetizovány ve všech tkáních ve stejném množství.
+b) Proteinové produkty všech lidských genů jsou syntetizovány ve všech tkáních bez rozdílu.
+c) Určité proteinové produkty lidských genů jsou syntetizovány pouze v některých tkáních.
+d) K  syntéze konkrétního proteinu dochází v  závislosti na funkci dané buňky a stupni její diferenciace.
+Správná odpověď: a, c, d
+
+236. K přepisu konkrétního genu z dvouřetězcové DNA do mRNA dochází takto:
+a) do mRNA se přepisuje vždy pouze jeden řetězec DNA
+b) protože jsou řetězce DNA komplementární, je jedno, který řetězec DNA se do mRNA přepisuje
+c) do mRNA se přepisují současně oba řetězce DNA
+d) do mRNA se přepisuje střídavě po jednom tripletu z obou řetězců DNA
+Správná odpověď: a
+
+237. Ribozom je
+a) nukleoproteinová struktura zabezpečující syntézu proteinů
+b) proteinová struktura v chromozomu obtáčená DNA
+c) proteinová struktura zabezpečující transkripci mRNA
+d) eukaryotický chromozom tvořený RNA, který přímo v jadérku produkuje proteiny
+Správná odpověď: a
+
+238. Ribozom je klíčovou strukturou pro:
+a) replikaci
+b) transkripci
+c) translaci
+d) proteosyntézu
+Správná odpověď: c, d
+
+239. Replikace DNA je:
+a) proces kopírování a zdvojování množství jaderné DNA před buněčným dělením
+b) jev, kdy dochází k opakování podobných sekvencí DNA u různých organismů, zejména evolučně příbuzných
+c) trávicí proces, při němž dochází k zužitkování DNA z potravy pro tvorbu DNA vlastní pro určitý organismus
+d) přenos genetické informace z DNA do mRNA
+Správná odpověď: a
+
+240. Transkripce je:
+a) proces kopírování a zdvojování množství jaderné DNA před buněčným dělením
+b) přenos genetické informace z mRNA do proteinu
+c) synonymum pro celý proces proteosyntézy
+d) přenos genetické informace z DNA do RNA
+Správná odpověď: d
+
+241. Translace je:
+a) přenos genetické informace z DNA do mRNA
+b) přenos genetické informace z mRNA do proteinu
+c) přenos genetické informace z rodičovské generace na generaci potomků
+d) typ chromozomové aberace, při které dochází k vzájemné výměně genetického materiálu mezi dvěma i více různými chromozomy
+Správná odpověď: b
+
+242. Musí se záměna jedné báze v jednom kodonu mRNA za jinou bázi vždy projevit na sekvenci aminokyselin proteinu?
+a) ne, protože začlenění některých aminokyselin je kódováno několika různými kodony
+b) ne, protože pouhá záměna jedné báze nikdy nezpůsobuje začlenění jiné aminokyseliny
+c) ne, protože důležitá je pouze změna sekvence v antikodonu
+d) ano, protože záměna báze v  kodonu vždy způsobuje začlenění jiné aminokyseliny
+Správná odpověď: a
+
+243. Musí se záměna jedné báze v jednom kodonu mRNA za jinou bázi vždy projevit na sekvenci aminokyselin proteinu?
+a) ne, protože sekvence aminokyselin není závislá na sekvenci mRNA ale na sekvenci tRNA
+b) ano, protože se jedná o mutaci
+c) ano, protože záměna báze v kodonu vždy způsobuje zastavení syntézy proteinu
+d) ne, protože často několik různých kodonů kóduje začlenění stejné aminokyseliny
+Správná odpověď: d
+
+244. Které mutace v mRNA se mohou projevit syntézou chybného proteinu?
+a) záměna jedné báze v jednom kodonu za jinou bázi
+b) vynechání (delece) jedné báze v jednom kodonu
+c) vložení (inserce) jedné báze v jednom kodonu
+d) záměna dvou bází ve dvou sousedních kodonech za jiné báze
+Správná odpověď: a, b, c, d
+
+245. Které mutace v mRNA se mohou projevit syntézou chybného proteinu?
+a) záměna jedné báze v jednom kodonu za jinou bázi
+b) záměna dvou bází v jednom kodonu za jiné báze
+c) záměna tří bází v jednom kodonu za jiné báze
+d) záměna dvou bází ve dvou sousedních kodonech za jiné báze
+Správná odpověď: a, b, c, d
+
+246. Které mutace v mRNA se mohou projevit syntézou chybného proteinu?
+a) vynechání (delece) jedné báze v jednom kodonu
+b) vynechání (delece) dvou bází v jednom kodonu
+c) vynechání (delece) tří bází v jednom kodonu
+d) vynechání (delece) dvou bází ve dvou sousedních kodonech
+Správná odpověď: a, b, c, d
+
+247. Které z následujících buněčných struktur obsahují nukleovou kyselinu?
+a) jadérko
+b) ribozom
+c) mitochondrie
+d) jádro
+Správná odpověď: a, b, c, d
+
+248. Každý nukleotid v DNA nebo RNA obsahuje:
+a) sulfhydrylovou (SH) skupinu
+b) fosfátovou skupinu
+c) aminokyselinovou jednotku
+d) purinovou nebo pyrimidinovou bázi
+Správná odpověď: b, d
+
+249. Molekuly označené jako hnRNA:
+a) se vyskytují v jádrech eukaryotických buněk
+b) vznikají sestřihem mRNA, pak přecházejí z jádra do cytoplazmy, kde se vážou na ribozomy
+c) jsou zpravidla primární transkripty, které podléhají dalším modifikacím
+d) obsahují exony i introny
+Správná odpověď: a, c, d
+
+250. Aminokyselinové složení proteinu je dáno:
+a) dostupností jednotlivých aminokyselin v potravě
+b) sekvencí genu kódujícího tento protein
+c) složením malé podjednotky ribozomu, na které k proteosyntéze dochází
+d) složením velké podjednotky ribozomu, na které k proteosyntéze dochází
+Správná odpověď: b
+
+251. Transgenním organismem rozumíme:
+a) synonymum pro polyploidní organismus
+b) organismus se stabilně přítomnou cizí DNA, která byla do něj uměle vložena
+c) organismus, který je ve všech genech heterozygotní
+d) evolučně přechodnou formu, v níž nacházíme některé původní genové sekvence (zděděné od předků) a některé nově utvořené genové formy
+Správná odpověď: b
+
+252. Které znaky jsou jedinečné pro proteosyntézu u prokaryot?
+a) jedna mRNA může nést sekvence několika různých genů
+b) jedna mRNA může být překládána více ribozomy současně
+c) translace může probíhat na mRNA, jejíž přepis ještě neskončil
+d) proteosyntéza probíhá v cytoplazmě
+Správná odpověď: a, c
+
+253. Proteiny, které plní nějakou funkci v buněčném jádře, jsou syntetizovány:
+a) na ribozomech uvnitř jádra přímou translací DNA
+b) translací rRNA na ribozomech uvnitř jadérka
+c) translací mRNA na ribozomech vně jádra a  dále jsou transportovány dovnitř
+d) přímo na nukleozomech, které v tomto případě plní funkci ribozomů
+Správná odpověď: c
+
+254. Při párování purinových a pyrimidinových bazí mezi protilehlými polynukleotidovými řetězci v dvoušroubovicové molekule DNA platí princip:
+a) kompartmentace
+b) komplementace
+c) kompletace
+d) komplementarity
+Správná odpověď: d
+
+255. Deoxyribonukleotidy jsou při syntéze DNA během replikace spojovány:
+a) RNA-polymerázou
+b) restrikční endonukleázou
+c) DNA-polymerázou
+d) DNA-transkriptázou
+Správná odpověď: c
+
+256. Metoda označovaná zkratkou PCR:
+a) slouží k rozštěpení DNA pomocí restrikčních endonukleáz
+b) se nazývá polymerázová řetězová reakce
+c) umožňuje zmnožení zkoumaného úseku DNA
+d) využívá zpravidla termostabilní DNA polymerázy
+Správná odpověď: b, c, d
+
+257. Ribonukleotidy jsou při syntéze RNA spojovány:
+a) RNA-transkriptázou
+b) RNA-polymerázou
+c) RNA-nukleázou
+d) reverzní transkriptázou
+Správná odpověď: b
+
+258. U retrovirů je matricí (předlohou) pro syntézu provirové DNA:
+a) prion
+b) DNA
+c) specifický retroprotein
+d) RNA
+Správná odpověď: d
+
+259. Vyberte správné, popř. správná tvrzení o hybridizaci (míněna je molekulárně genetická technika, nikoli křížení organismů):
+a) Principem hybridizace je zmnožení (amplifikace) zkoumané DNA.
+b) Pomocí hybridizace můžeme zjišťovat přítomnost hledané sekvence ve vzorku DNA.
+c) Ke každé hybridizaci potřebujeme minimálně dvojici primerů a termostabilní DNA polymerázu.
+d) Před hybridizací je potřeba DNA denaturovat.
+Správná odpověď: b, d
+
+260. Která (popř. které) sekvence není (popř. nejsou) typické pro standardní molekulu mRNA?
+a) CCCGGTAUGG
+b) CCCGGTATGG
+c) CCCGGUAUGG
+d) CCCGGUATGG
+Správná odpověď: a, b, d
+
+261. Výchozím materiálem pro tvorbu polypeptidových řetězců během translace jsou:
+a) volné aminokyseliny
+b) volné monosacharidy
+c) volné organické dusíkaté báze
+d) volné nukleotidy
+Správná odpověď: a
+
+262. Jako matrice (předloha) pro tvorbu polypeptidových řetězců slouží:
+a) bílkoviny samy
+b) rRNA
+c) mRNA
+d) tRNA
+Správná odpověď: c
+
+263. Vyberte správné, popř. správná tvrzení:
+a) Mitochondrie a chloroplasty neobsahují ribozomy.
+b) Ribozom je membránová organela krytá lipidovou dvojvrstvou.
+c) Translace probíhá v cytoplazmě na ribozomech.
+d) Prokaryotický ribozom obsahuje méně molekul rRNA než ribozom v cytoplazmě eukaryotických buněk.
+Správná odpověď: c, d
+
+264. Triplet nukleotidů v mRNA, určující zařazení jedné aminokyseliny do polypeptidového řetězce, se nazývá:
+a) triplon
+b) kodon
+c) triáda
+d) antikodon
+Správná odpověď: b
+
+265. Exprese genu:
+a) je převod genetické informace uložené v makromolekule DNA do fenotypového znaku organismu
+b) je laboratorní metoda sloužící ke stanovení sekvence nukleotidů v daném genu
+c) zahrnuje transkripci a translaci genu
+d) je synonymum pro replikaci DNA
+Správná odpověď: a, c
+
+266. Plazmidy:
+a) jsou menší kruhové molekuly DNA uložené v buňkách bakterií
+b) se replikují samostatně, nezávisle na bakteriálních chromozomech
+c) jsou organely přítomné v rostlinných buňkách
+d) obsahují geny uspořádané lineárně za sebou
+Správná odpověď: a, b, d
+
+267. Mimojaderné molekuly DNA:
+a) se nacházejí především v ribozomech
+b) se nacházejí v jiných organelách eukaryotických buněk než v jejich jádře
+c) nemusí obsahovat genetickou informaci pro všechny funkce organel, jejichž chromozomy tvoří
+d) nesou genetickou informaci důležitou pro funkci příslušné organely
+Správná odpověď: b, c, d
+
+268. Molekula DNA, která tvoří eukaryotní jaderný chromozom:
+a) má větší počet počátků replikace
+b) je lineární
+c) je cyklická (kruhová)
+d) má na obou svých koncích stejné sekvence, které vytvářejí telomery
+Správná odpověď: a, b, d
+
+269. Telomery:
+a) tvoří u eukaryot oba konce lineárních molekul chromozomové DNA
+b) jsou malé proteinové jednotky tvořící centromeru eukaryotických chromozomů
+c) jsou úseky DNA tvořené mnohonásobným opakováním poměrně krátkého motivu sekvence nukleotidů
+d) jsou místa na bakteriálních chromozomech, která označují konec replikace
+Správná odpověď: a, c
+
+270. V eukaryotním (jaderném) chromozomu:
+a) je DNA navázána na komplex bazických bílkovin zvaných histony
+b) je DNA navázána komplex kyselých proteinů zvaných proteomy
+c) vytváří DNA spolu s histony útvary zvané nukleozomy
+d) není DNA navázána na žádné proteiny, ale postupnou kondenzací tvoří útvary zvané nukleoidy
+Správná odpověď: a, c
+
+271. Messenger RNA (mRNa) u eukaryot:
+a) nese genetickou informaci o pořadí aminokyselin v bílkovině
+b) vzniká transkripcí určitého genu a následným sestřihem primárního transkriptu
+c) vzniká transkripcí, která je katalyzována DNA-polymerázou
+d) obsahuje kodony pro jednotlivé aminokyseliny v pořadí, které odpovídá pořadí aminokyselin v molekule proteinu
+Správná odpověď: a, b, d
+
+272. Ribozomová RNA se syntetizuje:
+a) v cytoplazmě
+b) v ribozomech
+c) v jadérku, které se nachází v jádře
+d) v lysozomech
+Správná odpověď: c
+
+273. Transferová RNA:
+a) přenáší informaci z DNA do mRNA
+b) přenáší specifickou aminokyselinu
+c) přenáší informaci z mRNA na rRNA
+d) nese antikodon
+Správná odpověď: b, d
+
+274. Transferová a mediátorová RNA se společně účastní:
+a) replikace
+b) translace
+c) transkripce
+d) reverzní transkripce
+Správná odpověď: b
+
+275. Mezi komplementárními bázemi v normální, nemutované dvoušroubovici DNA se navzájem vytvářejí:
+a) kovalentní vazby
+b) iontové vazby
+c) vodíkové vazby
+d) N-glykosidické vazby
+Správná odpověď: c
+
+276. Mezi jednotkami deoxyribózy a fosfátovými skupinami se v molekule DNA se vytvářejí:
+a) kovalentní vazby
+b) vodíkové vazby
+c) fosfodiesterové vazby
+d) peptidické vazby
+Správná odpověď: a, c
+
+277. Vyberte správné tvrzení o úloze aminokyselin při proteosyntéze:
+a) začlenění každé aminokyseliny je při syntéze polypeptidového řetězce kódováno vždy třemi po sobě následujícími bázemi v mRNA
+b) některé aminokyseliny mohou být kódovány několika různými triplety
+c) každá aminokyselina je kódována nejméně čtyřmi kodony
+d) některé aminokyseliny mohou být kódovány až 64 různými triplety
+Správná odpověď: a, b
+
+278. Proteosyntéza probíhá:
+a) ve vakuolách rostlin
+b) v mitochondriích
+c) v chloroplastech
+d) v lysozomech
+Správná odpověď: b, c
+
+279. Inzerce nukleotidu do kódující sekvence DNA:
+a) má za následek posun čtecího rámce
+b) má obvykle větší mutační účinek než záměna nukleotidů
+c) má obvykle zanedbatelný účinek
+d) má obvykle menší mutační účinek než záměna nukleotidů
+Správná odpověď: a, b
+
+280. Delece nukleotidu v kódující sekvenci DNA:
+a) má obvykle větší účinek než záměna nukleotidů
+b) má obvykle menší účinek než záměna nukleotidů
+c) má za následek posun čtecího rámce
+d) obvykle způsobuje předčasné zastavení transkripce
+Správná odpověď: a, c
+
+281. K čemu vede záměna nukleotidu v kódující sekvenci DNA?
+a) změněný triplet vždy kóduje zařazení jiné aminokyseliny než té, kterou kódoval původně
+b) do sekvence polypeptidu může být zařazena jiná aminokyselina
+c) může dojít k předčasnému zastavení proteosyntézy
+d) na příslušné místo polypeptidu nemůže být zařazena ta aminokyselina, kterou kódoval původní triplet
+Správná odpověď: b, c
+
+282. Úsek DNA, kde probíhá replikace, se nazývá:
+a) replisom
+b) replikon
+c) semireplikon
+d) transkriptom
+Správná odpověď: b
+
+283. Řetězec DNA, který tvoří předlohu, podle níž se syntetizuje nová DNA, se nazývá:
+a) transkriptom
+b) matrice
+c) templát
+d) prion
+Správná odpověď: b, c
+
+284. Replikace DNA probíhá současně na obou řetězcích:
+a) disperzivním způsobem
+b) semikonzervativním způsobem
+c) pseudokonzervativním způsobem
+d) konzervativním způsobem
+Správná odpověď: b
+
+285. Která z následujících tvrzení jsou pravdivá?
+a) replikace DNA probíhá za účasti DNA-polymeráz
+b) jako předlohy slouží při replikaci oba jednořetězce DNA
+c) jeden řetězec DNA je při replikaci syntetizován kontinuálně a  druhý diskontinuálně
+d) kontinuálně syntetizovaný řetězec je tvořen tzv. Okazakiho fragmenty
+Správná odpověď: a, b, c
+
+286. Vyberte nejpřesnější definici genomu:
+a) Genom je soubor genů v buňce, popř. organismu.
+b) Genom je soubor alel v buňce, popř. organismu.
+c) Genom je soubor všech molekul DNA v buňce, popř. organismu.
+d) Genom je soubor genů v dané populaci.
+Správná odpověď: c
+
+287. Která z následujících mutací je pravděpodobně nejnebezpečnější pro organismus?
+a) záměna páru bází
+b) delece tří po sobě následujících bází uprostřed kódující sekvence genu
+c) delece jedné báze na konci kódující sekvence genu
+d) inzerce jedné báze do kódující sekvence genu blízko jejího počátku
+Správná odpověď: d
+
+288. Které z následujících tvrzení o kodonech není pravdivé?
+a) Každý kodon se skládá ze tří bází, resp. nukleotidů.
+b) Téměř každý kodon kóduje dvě až čtyři aminokyseliny.
+c) Každý kodon kóduje nejvýše jednu aminokyselinu.
+d) STOP kodon kóduje terminační aminokyselinu (methionin)
+Správná odpověď: b, d
+
+289. Metoda zvaná DNA-fingerprinting:
+a) slouží zejména k přímé diagnostice mutací u monogenních chorob
+b) je zvláštní technika, která umožňuje izolovat DNA z otisků prstů
+c) umožňuje identifikaci osob v soudním lékařství
+d) se využívá také při paternitních sporech
+Správná odpověď: c, d
+
+290. Posunové mutace vznikají:
+a) inzercí nukleotidu
+b) delecí nukleotidu
+c) záměnou nukleotidu za jiný nukleotid
+d) delecí dvou po sobě následujících nukleotidů
+Správná odpověď: a, b, d
+
+291. Přerušení vodíkových vazeb mezi bázemi v komplementárních řetězcích molekul DNA se nazývá:
+a) deligace DNA
+b) difrakce DNA
+c) denaturace DNA
+d) renaturace DNA
+Správná odpověď: c
+
+292. Spojování komplementárních řetězců DNA se nazývá
+a) hybridizace DNA
+b) renaturace DNA
+c) denaturace DNA
+d) transkripce DNA
+Správná odpověď: a, b
+
+293. Ribonukleotid je tvořen:
+a) organickou bází, deoxyribózou a fosfátovou skupinou
+b) fosfátovou skupinou, deoxyribózou a aminokyselinou
+c) ribózou, fosfátovou skupinou a organickou bází
+d) ribózou, fosfátovou skupinou a aminokyselinou
+Správná odpověď: c
+
+294. RNA je syntetizována v živočišné buňce:
+a) v chloroplastech a v jádře
+b) v mitochondriích a v jádře
+c) v endoplazmatickém retikulu
+d) výhradně v jádře
+Správná odpověď: b
+
+295. Primární transkripty RNA, z  nichž v  eukaryotické buňce vznikají dalšími úpravami mRNA, se nazývají:
+a) homogenní jaderné RNA (honRNa)
+b) heterogenní jaderné RNA (hnRNa)
+c) malé jadérkové RNA (snoRNa)
+d) homogenní jaderné RNA (hmnRNa)
+Správná odpověď: b
+
+296. Jaký je důsledek ztráty (delece) jednoho nukleotidového páru v kódující oblasti DNA?
+a) genový produkt (polypeptid) nese na příslušném místě jinou aminokyselinu, jinak je normální
+b) všechny triplety v celém genu jsou bez ohledu na pozici chybně překládány
+c) gen je transkribován pouze k místu delece
+d) všechny triplety od místa delece dále jsou zpravidla chybně překládány
+Správná odpověď: d
+
+297. Který pár bází je v souladu s pravidly o párování bází ve dvoušroubovici DNA?
+a) A – G
+b) G – T
+c) A – T
+d) A – C
+Správná odpověď: c
+
+298. Které páry komplementárních bází se běžně vyskytují ve standardní dvouřetězcové DNA?
+a) G – C
+b) A – U
+c) A – T
+d) T – T
+Správná odpověď: a, c
+
+299. Vyberte správné, popř. správná tvrzení o kodonu:
+a) Kodon se skládá ze tří nukleotidů.
+b) Jeden kodon kóduje většinou 2-4 různé aminokyseliny.
+c) Kodon leží na jednom konci molekuly tRNA (tzv. kodonovém rameně).
+d) Kodon je základní jednotkou genetického kódu.
+Správná odpověď: a, d
+
+300. Při syntéze bílkovin v  buňce slouží na ribozomu jako matrice (předloha):
+a) mRNA, na níž svým kodonem komplementárně nasedá tRNA nesoucí specifickou aminokyselinu
+b) tRNA, na níž svým kodonem komplementárně nasedá mRNA nesoucí specifickou aminokyselinu
+c) mRNA, na níž svým antikodonem komplementárně nasedá tRNA nesoucí specifickou aminokyselinu
+d) tRNA, na níž svým antikodonem komplementárně nasedá mRNA nesoucí specifickou aminokyselinu
+Správná odpověď: c
+
+301. Která z uvedených molekul není přímo zahrnuta do procesu zvaného translace?
+a) mRNA
+b) DNA
+c) tRNA
+d) rRNA
+Správná odpověď: b
+
+302. Plazmidy:
+a) jsou cirkulární proteinové molekuly, které se vyskytují v cytoplazmě bakteriálních buněk
+b) jsou drobné membránové organely v bakteriálních buňkách
+c) se využívají v genovém inženýrství
+d) jsou cirkulární molekuly DNA
+Správná odpověď: c, d
+
+303. Základními chemickými jednotkami, jejichž propojením vznikají řetězce nukleových kyselin, jsou:
+a) nukleozomy
+b) nukleotidy
+c) nukleony
+d) nukleoidy
+Správná odpověď: b
+
+304. Která tvrzení o transkripci jsou správná?
+a) Při zahájení transkripce genu rozeznává RNA polymeráza úsek zvaný promotor.
+b) Při transkripci se přepisují pouze exonové sekvence, introny se netranskribují.
+c) U bakterií se při transkripci tvoří mRNA.
+d) Transkripce končí v oblasti DNA zvané dominátor.
+Správná odpověď: a, c

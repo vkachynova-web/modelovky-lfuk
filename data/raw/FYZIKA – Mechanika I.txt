@@ -1,0 +1,601 @@
+2.01. Co se stane s velikostí tažné síly vozidla v okamžiku, kdy automobil přechází z jízdy po vodorovné silnici na jízdu do kopce, jestliže výkon motoru zůstane stejný a zůstane zařazen stejný rychlostní stupeň?
+a) tažná síla motoru se nezmění
+b) tažná síla motoru se zmenší
+c) tažná síla motoru se zvětší při poklesu rychlosti a bude rychlosti nepřímo úměrná
+d) tažná síla motoru se nejprve zvětší, pak mírně poklesne a dále se již nemění
+Správná odpověď: c
+
+2.02. Cyklista se začal rozjíždět rovnoměrně zrychleným pohybem. Za první sekundu ujel 1 m. V průběhu druhé sekundy ujel:
+a) 1 m
+b) 2 m
+c) 3 m
+d) 4 m
+Správná odpověď: c
+
+2.03. Cyklista stál a pak se začal rozjíždět po vodorovné silnici. Přitom vyvíjel na pedály sílu, která při právě zařazeném převodu odpovídala hnací síle na obvodu kola 40 N. Je-li hmotnost cyklisty s kolem 50 kg, mohl ujet za 10 s maximálně:
+a) 60 m
+b) 120 m
+c) 80 m
+d) 40 m
+Správná odpověď: d
+
+2.04. Cyklista stál a pak se začal rozjíždět po vodorovné silnici. Přitom vyvíjel na pedály sílu, která při právě zařazeném převodu odpovídala hnací síle na obvodu kola 40 N. Je-li hmotnost cyklisty s kolem 50 kg, nemohl mít po deseti sekundách rychlost větší než:
+a) 8 m/s
+b) 0,8 m/s2
+c) 0,8 m/s
+d) 8 km/h
+Správná odpověď: a
+
+2.05. Dítě o hmotnosti 20 kg houpající se na houpačce působí na závěsy houpačky silou (hmotnost houpačky zanedbáváme):
+a) trvale větší než 200 N
+b) trvale menší než 200 N
+c) oscilující kolem 200 N, střídavě větší a menší v závislosti na poloze houpačky
+d) s konstantní velikostí 200 N
+Správná odpověď: c
+
+2.06. Dítě o hmotnosti 20 kg působí na závěsy houpačky v klidu tíhovou silou přibližně (hmotnost houpačky zanedbáváme):
+a) 200 J
+b) 2000 J
+c) 20 N
+d) 200 N
+Správná odpověď: d
+
+2.07. Druhý Newtonův zákon lze vyjádřit výrokem:
+a) každé těleso setrvává v klidu nebo v rovnoměrném přímočarém pohybu jen potud, pokud je působící síly nepřinutí změnit jeho stav
+b) časová změna hybnosti je úměrná působící síle
+c) součin velikosti hmotnosti hmotného bodu a jeho rychlosti se numericky rovná působící síle
+d) akce se rovná reakci
+Správná odpověď: b
+
+2.08. Dva hmotné body o různě velké hmotnosti na sebe působí gravitačními silami:
+a) které jsou stejně veliké, téhož směru a orientace
+b) které jsou stejně veliké, ale opačného směru
+c) které mají opačný směr a jejich velikosti jsou v poměru jejich hmotností (na hmotný bod o větší hmotnosti působí větší síla)
+d) které mají opačný směr a jejich velikosti jsou v obráceném poměru jejich hmotností (na hmotný bod o větší hmotnosti působí menší síla)
+Správná odpověď: b
+
+2.09. Dvě duté koule (dutiny jsou kulové a umístěné ve středu), železnou a olověnou, stejného vnějšího poloměru i hmotnosti, držíme na nakloněné rovině. Vyberte odpověd’ včetně správného komentáře na otázku: Která koule se za kratší dobu skutálí, vypustíme-li je obě současně s nulovou počáteční rychlostí, když se valí bez prokluzování a deformace koulí zanedbáváme?
+a) železná koule, nebot’ má větší moment setrvačnosti, a tedy bude získávat při kutálení větší obvodovou rychlost
+b) železná koule, nebot’ má menší moment setrvačnosti, a tedy bude získávat při kutálení větší obvodovou rychlost
+c) olověná koule, nebot’ má menší moment setrvačnosti, a tedy bude získávat při kutálení větší obvodovou rychlost
+d) olověná koule, nebot’ má větší moment setrvačnosti, a tedy bude získávat při kutálení větší obvodovou rychlost
+Správná odpověď: b
+
+2.10. Dvě tělesa A a B jsou na začátku pokusu v klidu ve stejné výšce. Těleso A začne padat volným pádem a těleso B je ve stejném okamžiku vystřeleno ve vodorovném směru. Jaký pohyb koná těleso A vzhledem k tělesu B, zanedbáme-li odpor vzduchu a zakřivení Země?
+a) pohyb rovnoměrně zrychlený směrem dolů
+b) pohyb rovnoměrný přímočarý ve vodorovném směru
+c) pohyb rovnoměrný dolů
+d) pohyb rovnoměrně zrychlený šikmo dolů
+Správná odpověď: b
+
+2.11. Dvě tělesa A a B jsou na začátku pokusu v klidu ve stejné výšce. Těleso A začne padat volným pádem a těleso B je ve stejném okamžiku vystřeleno vodorovným směrem k tělesu A. Zanedbáváme odpor vzduchu a zakřivení Země. Může dojít ke srážce obou těles?
+a) ne, v žádném případě
+b) ano, vždy, pokud je pokus prováděn v dostatečné výšce; jinak by tělesa dopadla na zem ve stejném okamžiku ještě před srážkou
+c) ano, ale pouze v případě, že obě tělesa mají stejnou hmotnost
+d) ano, ale pouze v případě, že tělesu B je vystřelením udělena kinetická energie, která se přesně rovná jeho původní potenciální energii
+Správná odpověď: b
+
+2.12. Eskalátor se pohybuje vzhledem k zemi rychlostí 1,5 m/s a cestující po něm kráčí ve směru pohybu rychlostí 3,6 km/h. Výsledná rychlost cestujícího vzhledem k zemi je:
+a) 5,1 km/h
+b) 2,5 m/s
+c) 9 km/h
+d) 6,4 m/s
+Správná odpověď: b, c
+
+2.13. Hodnotu tíhového zrychlení na Zemi nahrazujeme přibližnou hodnotou:
+a) 1 m/s2
+b) 10 m/s
+c) 10 m/s2
+d) 1 m/s-1
+Správná odpověď: c
+
+2.14. Inerciální vztažná soustava je:
+a) soustava, ve které neplatí zákon setrvačnosti, ale platí zákon síly
+b) soustava, vzhledem ke které se izolovaný hmotný bod (tj. bod, na který nepůsobí žádná vnější síla) pohybuje rovnoměrně přímočaře nebo je v klidu
+c) soustava, vzhledem ke které se izolovaný hmotný bod pohybuje rovnoměrně zrychleně
+d) každá soustava pevně spojená se Zemí
+Správná odpověď: b
+
+2.15. Izolovaný hmotný bod je:
+a) hmotný bod, který je odolný vůči působení elektrického pole
+b) hmotný bod, který je obklopen dielektrikem
+c) hmotný bod v homogenním gravitačním poli
+d) hmotný bod, na který nepůsobí žádné silové pole, tj. který nijak fyzikálně neinteraguje se svým okolím
+Správná odpověď: d
+
+2.16. Jak se změní gravitační síla, kterou se přitahují dva hmotné body, zmenšíli se jejich vzdálenost na 1/2 původní vzdálenosti?
+a) zmenší se 2×
+b) zvětší se 2×
+c) zmenší se 4×
+d) zvětší se 4×
+Správná odpověď: d
+
+2.17. Jak se změní gravitační síla, kterou se přitahují dva hmotné body, zmenšíli se jejich vzdálenost na 1/4 původní vzdálenosti?
+a) zvětší se 4×
+b) zvětší se 2×
+c) zvětší se 8×
+d) zvětší se 16×
+Správná odpověď: d
+
+2.18. Jakým způsobem závisí dráha na zrychlení při rovnoměrně zrychleném pohybu s nulovou počáteční rychlostí?
+a) druhá mocnina dráhy je přímo úměrná velikosti zrychlení
+b) dráha je přímo úměrná druhé mocnině velikosti zrychlení
+c) dráha je nepřímo úměrná velikosti zrychlení
+d) dráha je přímo úměrná velikosti zrychlení
+Správná odpověď: d
+
+2.19. Je-li F síla působící rovnoměrně kolmo na plochu S, pak tlak p, který je touto silou vyvolaný, vyjádříme jako:
+a) p = F / S
+b) p = F / S 2
+c) p = S / F
+d) p = F · S
+Správná odpověď: a
+
+2.20. Je-li výslednicí všech sil působících na těleso, které bylo na začátku v klidu, stálá nenulová síla:
+a) bude se těleso pohybovat rovnoměrně zrychleným pohybem ve směru působící síly
+b) bude se zvyšovat kinetická energie tělesa
+c) bude se těleso pohybovat rovnoměrně přímočaře ve směru působící síly
+d) bude kinetická energie tělesa konstantní
+Správná odpověď: a, b
+
+2.21. Jednotka N · m−1 přísluší veličině:
+a) momentu síly vzhledem k ose otáčení
+b) povrchovému napětí kapaliny
+c) mechanické práci
+d) impulsu síly
+Správná odpověď: b
+
+2.22. Jednotka N · s přísluší veličině:
+a) energii
+b) momentu síly
+c) impulsu síly
+d) momentu setrvačnosti
+Správná odpověď: c
+
+2.23. Jednotka newton je vyjádřena v základních jednotkách soustavy SI takto:
+a) kg ·m2 · s−1
+b) kg · s2 ·m−2
+c) kg ·m · s−2
+d) kg · s2 ·m−1
+Správná odpověď: c
+
+2.24. Jednotkou síly je:
+a) joule
+b) pascal
+c) watt
+d) newton
+Správná odpověď: d
+
+2.25. Jestliže na těleso o hmotnosti m působí síla F, pak zrychlení tělesa:
+a) je tím větší, čím větší je působící síla F
+b) je tím větší, čím větší je hmotnost tělesa m
+c) nezávisí na hmotnosti tělesa
+d) nezávisí na působící síle
+Správná odpověď: a
+
+2.26. Jestliže při pohybu po kružnici při konstantní úhlové rychlosti zvětšíme poloměr, pak obvodová (dráhová) rychlost v závislosti na poloměru:
+a) kvadraticky vzroste
+b) lineárně vzroste
+c) sníží se
+d) zůstane konstantní
+Správná odpověď: b
+
+2.27. Kinetická energie je:
+a) vektorová veličina, jejíž směr je totožný se směrem rychlosti; jednotkou je 1 J
+b) vektorová veličina, jejíž směr je totožný se směrem rychlosti; jednotkou je 1 W
+c) skalární veličina; jednotkou je 1 J
+d) skalární veličina; jednotkou je 1 W
+Správná odpověď: c
+
+2.28. Kinetickou energii Ek tuhého tělesa, které se otáčí rovnoměrně kolem nehybné osy, lze vyjádřit vztahem (J – moment setrvačnosti tělesa, ω – úhlová rychlost, v – obvodová rychlost):
+a) Ek = J · v2 / 2
+b) Ek = J · ω2 / 2
+c) Ek = J · (ω / 2)4
+d) Ek = J · ω4
+Správná odpověď: b
+
+2.29. Které z uvedených vztahů pro rovnoměrný pohyb hmotného bodu po kružnici jsou správné? (v – obvodová rychlost, ω – úhlová rychlost, f – frekvence, T – perioda, r – poloměr kružnice)
+a) v = 2π · r
+b) v = ω · f
+c) ω = 2π · f
+d) v = 2π · r · f
+Správná odpověď: c, d
+
+2.30. Moment síly má jednotku:
+a) kg ·m · s−2
+b) kg ·m
+c) J ·m
+d) N ·m
+Správná odpověď: d
+
+2.31. Na hmotnou částici, která je držena v klidu, působí homogenní gravitační pole. Po uvolnění částice se:
+a) částice začne pohybovat rovnoměrně zrychleně
+b) částice začne pohybovat přímočaře ve směru gravitačního zrychlení
+c) kinetická energie částice v závislosti na čase bude kvadraticky zvyšovat
+d) potenciální energie částice v gravitačním poli bude v závislosti na čase kvadraticky snižovat
+Správná odpověď: a, b, c, d
+
+2.32. Nepravdivé tvrzení je:
+a) hmotnost je skalár
+b) velikost rychlosti je vektor
+c) velikost rychlosti je skalár
+d) zrychlení je vektor
+Správná odpověď: b
+
+2.33. Nepůsobí-li na těleso žádná vnější síla:
+a) bude těleso vždy v klidu
+b) bude se těleso pohybovat rovnoměrně zpomaleným pohybem
+c) bude se těleso pohybovat rovnoměrným pohybem nebo bude v klidu
+d) bude pohyb tělesa nepředvídatelný
+Správná odpověď: c
+
+2.34. O fyzikálních veličinách platí:
+a) práce je vektorová veličina
+b) síla je skalární veličina
+c) energie je skalární veličina
+d) tlak je vektorová veličina
+Správná odpověď: c
+
+2.35. Plavec plave v klidné vodě obvyklou rychlostí o velikosti v1. Nyní má přeplavat kolmo vodní proud tekoucí rychlostí o velikosti v2, plave tedy svou obvyklou rychlostí v1 šikmo proti proudu tak, že se vzdaluje kolmo od břehu. Jeho výsledná rychlost vzhledem k pozorovateli na břehu má pak velikost:
+a) v√2 − v1
+b) √v2 2 + v2
+c) v2 1 − v2
+d) v1 + v2
+Správná odpověď: c
+
+2.36. Pohybová (kinetická) energie tělesa závisí:
+a) pouze na rychlosti tělesa
+b) pouze na hmotnosti tělesa
+c) na hmotnosti tělesa a rychlosti tělesa
+d) na hmotnosti tělesa, hodnotě tíhového zrychlení a poloze tělesa
+Správná odpověď: c
+
+2.37. Pokud do tíhového zrychlení započítáváme i odstředivé zrychlení Země, pak:
+a) nejmenší tíhové zrychlení je na pólech
+b) nejmenší tíhové zrychlení je na rovníku
+c) nejmenší tíhové zrychlení je na 45° severní šířky
+d) velikost tíhového zrychlení nezávisí na zeměpisné šířce
+Správná odpověď: b
+
+2.38. Polohová (potenciální) energie tělesa závisí:
+a) pouze na poloze tělesa (na jeho umístění v určité výšce)
+b) na rychlosti tělesa
+c) na hmotnosti tělesa a rychlosti tělesa
+d) na hmotnosti tělesa, hodnotě tíhového zrychlení a na poloze tělesa
+Správná odpověď: d
+
+2.39. Pravdivé tvrzení je:
+a) velikost síly je vektor
+b) moment síly je skalár
+c) hybnost je skalár
+d) čas je skalár
+Správná odpověď: d
+
+2.40. Pro pohyb rovnoměrný přímočarý platí tvrzení:
+a) dráha je lineární funkcí času, rychlost je konstantou
+b) dráha je konstantou, rychlost je lineární funkcí času
+c) dráha je kvadratickou a rychlost lineární funkcí času
+d) dráha i rychlost jsou lineární funkcí času
+Správná odpověď: a
+
+2.41. Pro veličinu moment síly platí:
+a) je to vektor, jednotkou je kg ·m · s−2
+b) je to skalár, jednotkou je kg ·m
+c) je to skalár, jednotkou je J ·m
+d) je to vektor, jednotkou je N ·m
+Správná odpověď: d
+
+2.42. Pro volný pád tělesa ve vakuu platí:
+a) rychlost volného pádu je konstantní
+b) doba pádu je přímo úměrná výšce, ze které těleso padá
+c) rychlost volného pádu je přímo úměrná době pádu
+d) rychlost volného pádu závisí na hmotnosti tělesa
+Správná odpověď: c
+
+2.43. Pro volný pád tělesa ve vakuu platí:
+a) rychlost volného pádu je nepřímo úměrná době pádu
+b) rychlost volného pádu závisí na hodnotě tíhového zrychlení v daném místě
+c) rychlost volného pádu je konstantní
+d) rychlost volného pádu je nižší kvůli odporu vzduchu
+Správná odpověď: b
+
+2.44. Pro volný pád tělesa ve vakuu platí:
+a) rychlost volného pádu závisí na hmotnosti tělesa
+b) rychlost volného pádu nezávisí na hmotnosti tělesa
+c) rychlost volného pádu nezávisí na hodnotě tíhového zrychlení v daném místě
+d) doba pádu je přímo úměrná výšce, ze které těleso padá
+Správná odpověď: b
+
+2.45. Při rovnoměrném pohybu hmotného bodu po kružnici platí, že jeho dostředivé (centripetální) zrychlení:
+a) má stejný směr jako vektor okamžité rychlosti
+b) je kolmé k vektoru okamžité rychlosti
+c) svírá s vektorem okamžité rychlosti postupně různé úhly v rozsahu ⟨0, 2π⟩ podle okamžité polohy hmotného bodu na kružnici
+d) má opačný směr než vektor okamžité rychlosti
+Správná odpověď: b
+
+2.46. Při rovnoměrném pohybu hmotného bodu po kružnici platí, že jeho dostředivé zrychlení ad je (v – obvodová rychlost, ω – úhlová rychlost, f – frekvence, T – perioda, r – poloměr kružnice):
+a) ad = v2 / r
+b) ad = ω 2 · r
+c) ad = (2π · f )2 · r
+d) ad = 4π2 · r / T 2
+Správná odpověď: a, b, c, d
+
+2.47. Při rovnoměrném pohybu hmotného bodu po kružnici platí, že jeho dostředivé zrychlení:
+a) je rovno nule, protože jde o pohyb rovnoměrný
+b) má směr tečny k trajektorii
+c) má směr normály k trajektorii orientované do středu kružnice
+d) má směr normály k trajektorii orientované od středu kružnice
+Správná odpověď: c
+
+2.48. Při rovnoměrném pohybu po kružnici o poloměru 0,1 m má hmotný bod dobu oběhu 10 s; potom platí:
+a) frekvence je rovna 10 Hz
+b) úhlová rychlost je přibližně 0,6 s−1
+c) perioda je 10 s
+d) obvodová rychlost je přibližně 0,06 s−1
+Správná odpověď: b, c
+
+2.49. Při rovnoměrném pohybu po kružnici o poloměru r s frekvencí f je obvodová rychlost v rovna:
+a) 2π f
+b) 2πr · f
+c) 2π / f
+d) 2πr / f
+Správná odpověď: b
+
+2.50. Při rovnoměrném pohybu po kružnici o poloměru r s periodou T je obvodová rychlost v rovna:
+a) 2πT
+b) 2πr · T
+c) 2π / T
+d) 2πr / T
+Správná odpověď: d
+
+2.51. Při výměně kola u auta bylo třeba na povolení matic síly 200 N na konci klíče dlouhého 30 cm. Použijeme-li klíč dvojnásobné délky, budeme potřebovat sílu:
+a) 100 N
+b) 400 N
+c) 50 N
+d) 800 N
+Správná odpověď: a
+
+2.52. Příliv a odliv je způsoben:
+a) gravitačním působením Měsíce
+b) slunečními skvrnami
+c) ozonovými dírami v atmosféře
+d) změnami magnetického pole Země
+Správná odpověď: a
+
+2.53. Rychlost pohybu je:
+a) skalární veličina
+b) vektorová veličina
+c) udávána v m · s−2
+d) veličina, jejíž jednotka je základní jednotkou SI
+Správná odpověď: b
+
+2.54. Rychlost rovnoměrně zrychleného pohybu se:
+a) nemění
+b) nepravidelně mění
+c) rovnoměrně mění (zvyšuje nebo snižuje)
+d) udává v m · s−2
+Správná odpověď: c
+
+2.55. Rychlost rovnoměrného přímočarého pohybu se:
+a) zvětšuje
+b) zmenšuje
+c) nepravidelně mění
+d) nemění
+Správná odpověď: d
+
+2.56. Síla F působí na těleso, způsobuje jeho pohyb po dráze s a tím vykonává mechanickou práci W. Směr síly F svírá úhel α se směrem posunutí tělesa. Pak platí:
+a) W = F · s · sinα
+b) W = F · s · cosα
+c) W = F · s / sinα
+d) W = F · s / cosα
+Správná odpověď: b
+
+2.57. Síla F působící ve směru horizontálního pohybu překonává tření a tím udržuje těleso v rovnoměrném přímočarém pohybu rychlostí v. K tomu je zapotřebí výkon:
+a) určený vztahem P = F · v
+b) přímo úměrný třecí síle
+c) přímo úměrný rychlosti tělesa
+d) přímo úměrný kinetické energii tělesa
+Správná odpověď: a, b, c
+
+2.58. Sněhové vločky padají k zemi za bezvětří rychlostí 8 cm/s. Vítr, který začne foukat vodorovným směrem, je snese každou sekundu o 6 cm stranou. Rychlost vločky při tomto větru vzhledem k zemi je:
+a) 14 cm/s
+b) 2 cm/s
+c) přibližně 5,3 cm/s
+d) 0,1 m/s
+Správná odpověď: d
+
+2.59. Správné tvrzení týkající se rovnoměrného pohybu po kružnici je:
+a) jednotkou obvodové rychlosti je m · s−1
+b) jednotkou úhlové rychlosti je rad · s−1
+c) úhlová rychlost je přímo úměrná periodě kruhového pohybu
+d) obvodová rychlost je nepřímo úměrná frekvenci kruhového pohybu
+Správná odpověď: a, b
+
+2.60. Správné tvrzení týkající se rovnoměrného pohybu po kružnici je:
+a) jednotkou obvodové rychlosti je s−1
+b) jednotkou úhlové rychlosti je m · s−1
+c) úhlová rychlost je přímo úměrná frekvenci kruhového pohybu
+d) obvodová rychlost je nepřímo úměrná periodě kruhového pohybu
+Správná odpověď: c, d
+
+2.61. Stav beztíže nastává:
+a) pouze v případě, kdy nepůsobí žádné gravitační pole
+b) ve volně padajícím výtahu, zanedbáme-li odpor vzduchu
+c) v letadle, jehož vektor zrychlení se rovná vektoru zrychlení gravitačního a směřuje svisle dolů
+d) v tělese na oběžné dráze kolem Země
+Správná odpověď: b, c, d
+
+2.62. Těleso může přejít z rovnoměrného přímočarého pohybu do rovnoměrného pohybu po kružnici, jestliže na něj začne působit:
+a) dostředivá síla
+b) výslednice síly dostředivé a tečné
+c) síla ve směru tečny ke kruhové dráze
+d) odstředivá síla
+Správná odpověď: a
+
+2.63. Těleso se pohybuje nenulovou rychlostí. Proti směru pohybu působí síla tření. Působí-li ve směru pohybu síla menší než je síla tření, pak se těleso bude pohybovat:
+a) rovnoměrně přímočaře
+b) rovnoměrně zrychleně, přičemž velikost zrychlení nezávisí na hmotnosti tělesa
+c) zpomaleně
+d) rovnoměrně zrychleně, přičemž velikost zrychlení závisí na hmotnosti tělesa
+Správná odpověď: c
+
+2.64. Těleso se pohybuje nenulovou rychlostí. Proti směru pohybu působí síla tření. Ve směru pohybu působí síla stejně veliká jako je síla tření. Žádná další síla na těleso nepůsobí. Těleso se bude pohybovat:
+a) rovnoměrně přímočaře
+b) rovnoměrně zrychleně
+c) rovnoměrně zpomaleně
+d) nerovnoměrně
+Správná odpověď: a
+
+2.65. Těleso se pohybuje nenulovou rychlostí. Proti směru pohybu působí síla tření. Ve směru pohybu působí síla stejně veliká, jako je síla tření; žádná další síla na těleso nepůsobí:
+a) pak se těleso bude pohybovat rovnoměrně přímočaře
+b) pak se kinetická energie tělesa bude zvyšovat
+c) pak se těleso bude pohybovat rovnoměrně zpomaleně
+d) pak se kinetická energie tělesa nebude v čase měnit
+Správná odpověď: a, d
+
+2.66. Tíhová síla, která působí na těleso položené bez tření na nakloněné rovině:
+a) uděluje tělesu zrychlení, které je vždy rovno tíhovému zrychlení
+b) se úplně kompenzuje reakcí podložky tělesa
+c) se zčásti kompenzuje reakcí podložky tělesa a zčásti uděluje tělesu zrychlení, jehož velikost závisí na naklonění roviny
+d) je nulová, protože nejde o volný pád
+Správná odpověď: c
+
+2.67. Určete správné vztahy pro vyjádření veličiny práce a veličiny výkonu (kde W – práce, P – výkon, F – síla, s – posunutí, t – čas, přičemž předpokládáme, že síla F působí ve směru posunutí s, že se jedná o rovnoměrný pohyb a že výkon je během posunování konstantní):
+a) W = F · s
+b) P = W / t
+c) W = P / t
+d) P = F · s / t
+Správná odpověď: a, b, d
+
+2.68. Určete, jaký rozměr přísluší veličině X ve vztahu X = (∆p / ∆t) · s, kde ∆p je změna hybnosti tělesa za dobu ∆t, s je dráha uražená tělesem:
+a) kg ·m2 · s−2
+b) kg ·m2 · s2
+c) kg ·m2 · s−1
+d) kg2 ·m · s−2
+Správná odpověď: a
+
+2.69. Uvažujme graf znázorňující různé veličiny v závislosti na čase t pro rovnoměrně zrychlený pohyb z nulové počáteční rychlosti. Pak platí:
+a) dráhu znázorňuje přímka rovnoběžná s osou t
+b) zrychlení znázorňuje přímka rovnoběžná s osou t
+c) dráhu znázorňuje stoupající přímka procházející počátkem
+d) rychlost znázorňuje stoupající přímka procházející počátkem
+Správná odpověď: b, d
+
+2.70. Uvažujme grafy znázorňující různé veličiny v závislosti na čase t pro rovnoměrně zrychlený pohyb z nulové počáteční rychlosti. Pak platí:
+a) zrychlení znázorňuje stoupající přímka procházející počátkem
+b) dráhu znázorňuje větev paraboly procházející počátkem
+c) dráhu znázorňuje stoupající přímka procházející počátkem
+d) rychlost znázorňuje rovnoběžka s osou t
+Správná odpověď: b
+
+2.71. Uvažujme rovnoměrně zrychlený pohyb a pro něj graf znázorňující závislost dráhy s na čase t. Dráhu pohybu znázorňuje:
+a) přímka svírající úhel α = 0 s osou t
+b) přímka svírající úhel α > 0 s osou t
+c) přímka svírající úhel α < 0 s osou t
+d) parabola
+Správná odpověď: d
+
+2.72. Uvažujme rovnoměrně zrychlený pohyb a pro něj graf znázorňující závislost velikosti zrychlení a na čase t. Velikost zrychlení znázorňuje:
+a) přímka totožná s osou t
+b) přímka rovnoběžná s osou t
+c) stoupající exponenciála procházející bodem [0, 0]
+d) stoupající parabola procházející bodem [0, 0]
+Správná odpověď: b
+
+2.73. Uvažujme rovnoměrný přímočarý pohyb a pro něj graf znázorňující závislost dráhy s na čase t. Dráhu pohybu znázorňuje:
+a) polopřímka rovnoběžná (ale ne totožná) s osou s
+b) přímka
+c) stoupající exponenciála procházející bodem [0, 0]
+d) stoupající hyperbola neprocházející bodem [0, 0]
+Správná odpověď: b
+
+2.74. Uvažujme rovnoměrný přímočarý pohyb a pro něj graf znázorňující závislost velikosti zrychlení a na čase t. Velikost zrychlení znázorňuje:
+a) přímka totožná s osou t
+b) přímka rovnoběžná s osou t, která s ní ale není totožná
+c) přímka svírající s osou t úhel α > 0
+d) hyperbola
+Správná odpověď: a
+
+2.75. Uvedené jednotky fyzikálních veličin lze pomocí základních jednotek soustavy SI vyjádřit jako:
+a) síla – kg ·m · s−2
+b) hybnost – kg ·m · s−1
+c) výkon – kg ·m3 · s−3
+d) práce – kg ·m3 · s−2
+Správná odpověď: a, b
+
+2.76. V člunu stojí muž, který se přitahuje ke břehu pomocí lana silou o velikosti F, přičemž v prvním případě je lano přivázáno druhým koncem ke kolíku na břehu a ve druhém případě lano drží na břehu jiný muž a působí na ně také silou o velikosti F, ale opačného směru než muž v lod’ce. Vysvětlete, jak se bude lišit průběh pokusu v prvním a druhém případě:
+a) působením člověka na břehu se pohyb lod’ky urychlí, nebot’ jeho síla zvýší celkovou sílu přitahování
+b) pohyb lod’ky se lišit nebude, nebot’ kůl působí na lano silou o velikosti F v opačném směru než člověk na lod’ce
+c) přitahování lod’ky ke břehu bude ve druhém případě pro člověka na lod’ce méně namáhavé
+d) pohyb lod’ky ve druhém případě bude rychlejší, nebot’ síla člověka v lod’ce a na břehu se sčítají
+Správná odpověď: b
+
+2.77. V mikrovlnné troubě se točí talíř o průměru 32 cm rychlostí 6 otáček za minutu. Přibližná obvodová rychlost na jeho okraji je:
+a) 0,1 m/s
+b) 0,2 m/s
+c) 1 m/s
+d) 0,6 m/s
+Správná odpověď: a
+
+2.78. Ve sluneční soustavě:
+a) je největší planetou Jupiter
+b) je Venuše blíž ke Slunci než Země
+c) platí druhý Keplerův zákon
+d) vzdálenější planety obíhají s menší úhlovou rychlostí
+Správná odpověď: a, b, c, d
+
+2.79. Ve vodorovné rovině krouží kulička přivázaná na niti. V určitém okamžiku se nit přetrhne. Jaký bude směr pohybu kuličky ihned po přetržení nitě?
+a) normálový, to znamená ve směru spojnice střed otáčeni kulička v okamžiku přetržení
+b) tečný ke kružnici, která byla před přetržením její trajektorií, v bodě, kde byla kulička v okamžiku přetržení
+c) kulička se bude dál pohybovat po kružnici
+d) šikmý – mezi směrem normálovým a tečným, úhel je závislý na obvodové rychlosti kuličky v okamžiku přetržení nitě
+Správná odpověď: b
+
+2.80. Velikost odstředivého (centrifugálního) zrychlení na zemském povrchu:
+a) je největší na rovníku
+b) je největší na pólech
+c) je všude stejná
+d) je všude nulová
+Správná odpověď: a
+
+2.81. Velikost úhlové rychlosti ω rovnoměrného otáčivého pohybu s frekvencí f po kružnici o poloměru r se vypočítá podle vztahu:
+a) ω = 2π · f
+b) ω = 2π · r · f
+c) ω = 2π / f
+d) ω = 2π · r / f
+Správná odpověď: a
+
+2.82. Vlak se rozjíždí po rovině se zrychlením 0,5 m/s2. Rychlosti 72 km/h dosáhne za:
+a) 144 s
+b) 40 s
+c) 36 s
+d) 0,4 h
+Správná odpověď: b
+
+2.83. Vzdálenost 1 km na zastávku autobusu ujde školák za 10 minut a okamžitě pokračuje autobusem do školy. Vzdálenost 15 km ke škole urazí autobus za 20 minut. Průměrná rychlost školáka cestou do školy je:
+a) 16 km/h
+b) 5,3 km/h
+c) 32 km/h
+d) 25,5 km/h
+Správná odpověď: c
+
+2.84. Vztah pro vyjádření kinetické energie hmotného bodu má tvar (m – hmotnost, v – rychlost, g – tíhové zrychlení, h – výška):
+a) Ek = m · v2 / 2
+b) Ek = m · v / 2
+c) Ek = m · v2
+d) Ek = m · g · h
+Správná odpověď: a
+
+2.85. Z uvedených veličin není skalárem:
+a) délka dráhy
+b) čas
+c) tíha
+d) velikost rychlosti
+Správná odpověď: c
+
+2.86. Začne-li na těleso, které bylo v klidu, působit stálá nenulová síla, bude se těleso pohybovat:
+a) rovnoměrně zrychleným pohybem ve směru působící síly
+b) rovnoměrně zrychleným pohybem proti směru působící síly
+c) rovnoměrně přímočaře ve směru působící síly
+d) rovnoměrně přímočaře proti směru působící síly
+Správná odpověď: a

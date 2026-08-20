@@ -1,0 +1,405 @@
+Jednotkou veličiny látková koncentrace je:
+a) mol dm–3
+b) mol
+c) kg mol–1
+d) g mol–1
+Správná odpověď: b
+
+Jednotkou veličiny látkové množství je:
+a) mol m–3
+b) mol
+c) kg kg–1
+d) g mol–1
+Správná odpověď: a
+
+Jednotkou veličiny molární hmotnost je:
+a) dm3 mol–1
+b) mol kg–1
+c) mol dm3
+d) g mol–1
+Správná odpověď: b
+
+Která veličina má jednotku kg m−3?
+a) látková koncentrace
+b) látkové množství
+c) hustota
+d) molární hmotnost
+Správná odpověď: b
+
+Která veličina má jednotku g mol–1?
+a) látková koncentrace
+b) látkové množství
+c) hustota
+d) molární hmotnost
+Správná odpověď: a
+
+1 mol je základní jednotkou:
+a) látkové koncentrace
+b) látkového množství
+c) hmotnostní koncentrace
+d) hustoty
+Správná odpověď: a, d
+
+Molární hmotnost prvku lze vyjádřit:
+a) v kg–1
+b) v mol
+c) v mol dm–3
+d) v g mol–1
+Správná odpověď: c
+
+Která veličina má jednotku mol dm–3?
+a) látkové množství
+b) molární hmotnost
+c) látková koncentrace
+d) objemová koncentrace
+Správná odpověď: c
+
+Atomová hmotnostní konstanta je definována jako:
+a) 1/14 hmotnosti atomu nuklidu dusíku 14N
+b) 1/12 hmotnosti atomu nuklidu uhlíku 12C
+c) hmotnost atomu nuklidu vodíku 1H
+d) 1/16 hmotnosti atomu nuklidu kyslíku 16O
+Správná odpověď: b
+
+Avogadrova konstanta vyjadřuje:
+a) počet částic v 1 gramu látky
+b) počet protonů v jádře
+c) počet částic v 1 molu látky
+d) objem 1 molu plynu
+Správná odpověď: c
+
+Avogadrova konstanta NA má hodnotu:
+a) 6,022·1023 mol–1
+b) 6,022·10–23 mol–1
+c) 22,4 dm3 mol–1
+d) 2,24 dm–3 mol–1
+Správná odpověď: a
+
+Jaké látkové množství arsenu obsahuje 1 mol oxidu arseničného?
+a) 3 mol
+b) 5 mol
+c) 2 mol
+d) 1 mol
+Správná odpověď: c
+
+Jaké látkové množství hliníku obsahuje 1 mol oxidu hlinitého?
+a) 3 mol
+b) 4 mol
+c) 2 mol
+d) 1 mol
+Správná odpověď: c
+
+Jaké látkové množství železa obsahuje 1 mol oxidu železitého?
+a) 2 mol
+b) 1 mol
+c) 3 mol
+d) 4 mol
+Správná odpověď: a
+
+Jaké látkové množství chromu obsahuje 1 mol sulfidu chromitého?
+a) 2 mol
+b) 3 mol
+c) 0,5 mol
+d) 1 mol
+Správná odpověď: a
+
+54 gramů kovového stříbra je soubor přibližně: Ar(Ag) = 108
+a) 6,02·1023 atomů Ag
+b) 1,2·1022 atomů Ag
+c) 3,01·10–23 atomů Ag
+d) 3,01·1023 atomů Ag
+Správná odpověď: d
+
+13,3 gramů kovové mědi je soubor přibližně: Ar(Cu) = 64
+a) 6,02·1024 atomů Cu
+b) 1,25·1023 atomů Cu
+c) 0,6·1023 atomů Cu
+d) 0,6·10–23 atomů Cu
+Správná odpověď: b
+
+Jakému látkovému množství odpovídá 10 g železa a kolik atomů je v tomto množství obsaženo? Ar(Fe) = 56
+a) 0,356 mol; 2,14·10–23 atomů
+b) 0,179 mol; 1,08·1023 atomů
+c) 0,178 mol; 1,07·10–23 atomů
+d) 0,356 mol; 2,14·1023 atomů
+Správná odpověď: b
+
+Jakému látkovému množství odpovídá 50 g zinku? Ar(Zn) = 65
+a) 1,02 mol
+b) 0,90 mol
+c) 0,77 mol
+d) 0,77 mmol
+Správná odpověď: c
+
+Jaké látkové množství představuje 1 gram železa a kolik atomů je v tomto množství obsaženo? Ar(Fe) = 56
+a) 1 mol; 6,023·1023 atomů
+b) 0,0179 mol; 0,108·1023 atomů
+c) 1,79 · 10–2 mol; 1,08·1022 atomů
+d) 0,0178 mol; 0,107·10–23 atomů
+Správná odpověď: c
+
+Jakému látkovému množství odpovídá 20 g mědi a kolik atomů je v tomto množství obsaženo? Ar(Cu) = 64
+a) 0,313 mol; 1,9·10–23 atomů
+b) 0,178 mol; 1,07·1023 atomů
+c) 0,313 mol; 1,88·1023 atomů
+d) 0,178 mol; 1,07·10–23 atomů
+Správná odpověď: c
+
+Jaké látkové množství představuje 10 gramů mědi  a kolik atomů je v tomto množství obsaženo? Ar(Cu) = 64
+a) 0,156 mol; 9,41·1022 atomů
+b) 10 mol; 60,23·1023 atomů
+c) 0,156 mol; 9,48·10–23 atomů
+d) 1,56·10–1 mol; 0,941·1023 atomů
+Správná odpověď: a
+
+Jaké látkové množství představuje 10 gramů Ca2+: Ar(Ca) = 40
+a) 0,5 mol
+b) 0,25 mol
+c) 1 mol
+d) 0,75 mol
+Správná odpověď: b
+
+Jaké látkové množství představuje 50 gramů Mg2+? Ar(Mg) = 24
+a) 0,580 mol
+b) 0,128 mol
+c) 128 mol
+d) 2,08 mol
+Správná odpověď: d
+
+Jaké látkové množství představuje 1 gram zlata a kolik atomů je v tomto množství obsaženo? Ar(Au) = 197
+a) 5 mol; 3,05·1023 atomů
+b) 5 · 10–3 mol; 3,06·10–21 atomů
+c) 5,076 · 10–3 mol; 0,0306·1023 atomů
+d) 0,005076 mol; 3,06·1021 atomů
+Správná odpověď: d
+
+Jaké látkové množství představuje 1 gram hliníku a kolik atomů je v tomto množství obsaženo? Ar(Al) = 27
+a) 0,037 mol; 0,223·10–23 atomů
+b) 1 mol; 6,023·1023 atomů
+c) 0,037 mol; 0,223·1023 atomů
+d) 3,7 · 10–2 mol; 2,23·1022 atomů
+Správná odpověď: d
+
+Jaké látkové množství vody představuje 100 gramů vody? Ar(H) = 1, Ar(O) = 16
+a) 5,56 mol
+b) 10–7 mol
+c) 0,1 mol
+d) 100 mol
+Správná odpověď: a
+
+Jaké látkové množství vody představuje 20 gramů vody? Ar(H) = 1, Ar(O) = 16
+a) 0,8 mol
+b) 1,1 mol dm–3
+c) 20 mol
+d) 1,1 mol
+Správná odpověď: d
+
+Jaké látkové množství H2O představuje 1000 gramů vody? Ar(H) = 1, Ar(O) = 16
+a) 1 mol
+b) 10–7 mol dm–3
+c) 62,5 mol
+d) 55,6 mol
+Správná odpověď: d
+
+Kolik atomů je obsaženo v 9 gramech vody?
+a) nelze vypočítat
+b) jedenapůlnásobek Avogadrovy konstanty
+c) jedna polovina Avogadrovy konstanty
+d) Avogadrova konstanta
+Správná odpověď: b
+
+Kolik atomů je obsaženo v 18 gramech vody?
+a) jedenapůlnásobek Avogadrovy konstanty
+b) trojnásobek Avogadrovy konstanty
+c) nelze vypočítat
+d) Avogadrova konstanta
+Správná odpověď: b
+
+Jaké látkové množství HCl představuje 18 gramů HCl? Ar(H) = 1, Ar(Cl) = 35
+a) 2,65 mol
+b) 1,50 mol
+c) 0,70 mol dm–3
+d) 0,50 mol
+Správná odpověď: d
+
+Jaké látkové množství představuje 100 g glukózy a kolik molekul glukózy je v tomto množství obsaženo? Ar(c) = 12, Ar(O) = 16, Ar(H) = 1
+a) 0,275 mol; 1,66·1023 molekul
+b) 1 mol; 0,6·1023 molekul
+c) 0,56 mol; 3,35·1023 molekul
+d) 0,55 mol; 3,31·10–23 molekul
+Správná odpověď: c
+
+Jaká je látková koncentrace KCl, obsahuje-li 0,400 dm3 roztoku 12 gramů KCl? Ar(K) = 39, Ar(Cl) = 35
+a) 4,05 mol dm–3
+b) 1,61 mol dm–3
+c) 0,405 mol dm–3
+d) 0,161 mol dm–3
+Správná odpověď: c
+
+Jaká je látková koncentrace vodného roztoku NaCl, obsahuje-li 0,200 dm3roztoku 2 gramy NaCl? Ar(Na) = 23, Ar(Cl) = 35
+a) 0,0342 mol dm–3
+b) 0,172 mol dm–3
+c) 0,342 mol dm–3
+d) 0,0172 mol dm–3
+Správná odpověď: b
+
+Jaká je látková koncentrace NaCl, obsahuje-li 0,1 dm3 roztoku 2,9 g NaCl? Ar(Na) = 23, Ar(Cl) = 35
+a) 0,05 mol dm–3
+b) 0,5 mol dm–3
+c) 0,05  mmol dm–3
+d) 5 mol dm–3
+Správná odpověď: b
+
+Jaká je látková koncentrace NaCl, obsahuje-li 0,1 dm3 roztoku 0,9 g NaCl? Ar(Na) = 23, Ar(Cl) = 35
+a) 15,5 mol dm–3
+b) 1,5 mol dm–3
+c) 0,9 mmol dm–3
+d) 0,155 mol dm–3
+Správná odpověď: d
+
+Jaká je látková koncentrace NaCl v roztoku, který obsahuje 10 gramů NaCl ve 400 ml vody? Ar(Na) = 23, Ar(Cl) = 35
+a) 4,3 mol dm–3
+b) 0,43 mol dm–3
+c) 0,172 mol
+d) 43 mmol dm–3
+Správná odpověď: b
+
+Jaká je látková koncentrace NaOH v roztoku, který obsahuje 12,8 g NaOH v  800 ml vody? Ar(Na) = 23, Ar(O) = 16, Ar(H) = 1
+a) 0,40 mol dm–3
+b) 2,23 mol dm–3
+c) 1,28 mol dm–3
+d) 0,12 mol dm–3
+Správná odpověď: a
+
+Jaká je látková koncentrace NaOH v roztoku o objemu 0,400 dm3, obsahujícím NaOH o hmotnosti 12 gramů? Ar(Na) = 23, Ar(O) = 16, Ar(H) = 1
+a) 0,3 mol dm–3
+b) 0,624 mol dm–3
+c) 3 mol dm–3
+d) 0,75 mol dm–3
+Správná odpověď: d
+
+Jaká je látková koncentrace NaOH v roztoku o objemu 0,200 dm3, obsahujícím NaOH o hmotnosti 2 gramy? Ar(Na) = 23, Ar(O) = 16, Ar(H) = 1
+a) 7,5 mol dm–3
+b) 0,1 mol dm–3
+c) 0,25 mol dm–3
+d) 0,75 mol dm–3
+Správná odpověď: c
+
+Jaká je látková koncentrace NaOH v roztoku o objemu 2 litry, obsahujícím NaOH o hmotnosti 8 gramů? Ar(Na) = 23, Ar(O) = 16, Ar(H) = 1
+a) 0,2 mol dm–3
+b) 1 mol dm–3
+c) 0,1 mol dm–3
+d) 0,01 mol dm–3
+Správná odpověď: c
+
+Jaká je látková koncentrace KOH v roztoku o objemu 3 litry, obsahujícím KOH o hmotnosti 10,5 g? Ar(K) = 39, Ar(O) = 16, Ar(H) = 1
+a) 0,724 mol dm–3
+b) 0,438 mol dm–3
+c) 0,0523 mol dm–3
+d) 0,0625 mol dm–3
+Správná odpověď: d
+
+Jaká je látková koncentrace NH4Br, obsahuje-li 1,5 dm3 roztoku 147 g NH4Br? Ar(N) = 14, Ar(Br) = 80, Ar(H) = 1
+a) 1 mmol dm–3
+b) 0,1 mmol dm–3
+c) 0,1 mol dm–3
+d) 1 mol dm–3
+Správná odpověď: d
+
+Kolik gramů KCl obsahuje 0,400 dm3 roztoku o látkové koncentraci c(KCl) = 0,402 mol dm–3? Ar(K) = 39, Ar(Cl) = 35
+a) 7,4 g KCl
+b) 11,9 g KCl
+c) 120 g KCl
+d) 18,6 g KCl
+Správná odpověď: b
+
+Kolik gramů KCl obsahuje 800 ml roztoku o látkové koncentraci c(KCl) = 0,402 mol dm–3? Ar(K) = 39, Ar(Cl) = 35
+a) 240 g KCl
+b) 24 g KCl
+c) 37,3 g KCl
+d) 30 g KCl
+Správná odpověď: b
+
+Kolik gramů NaCl obsahuje 200 cm3 roztoku o látkové koncentraci c(NaCl) = 0,171 mol dm–3? Ar(Na) = 23, Ar(Cl) = 35
+a) 4 g NaCl
+b) 0,4 g NaCl
+c) 2 g NaCl
+d) 0,2 g NaCl
+Správná odpověď: c
+
+Kolik gramů NaCl obsahuje 500 ml roztoku o látkové koncentraci c(NaCl) = 0,171 mol dm–3? Ar(Na) = 23, Ar(Cl) = 35
+a) 2 g NaCl
+b) 4 g NaCl
+c) 3 g NaCl
+d) 5 g NaCl
+Správná odpověď: d
+
+Kolik gramů NaOH obsahují 2 dm3 roztoku o látkové koncentraci c(NaOH) = 0,05 mol dm–3? Ar(Na) = 23, Ar(O) = 16, Ar(H) = 1
+a) 4 g
+b) 2 g
+c) 40 g
+d) 0,05 g
+Správná odpověď: a
+
+Kolik gramů CaBr2 je třeba pro přípravu 10 dm3 roztoku  o látkové koncentraci c(CaBr2) = 0,01 mol dm–3? Ar(Ca) = 40, Ar(Br) = 80
+a) 2 g
+b) 20 g
+c) 10 g
+d) 1 g
+Správná odpověď: b
+
+Kolik gramů KOH obsahuje 0,1 dm3 roztoku o látkové koncentraci KOH rovné 0,1 mol dm–3? Ar(K) = 39, Ar(O) = 16, Ar(H) = 1
+a) 5,6 g
+b) 56 g
+c) 112 g
+d) 0,56 g
+Správná odpověď: d
+
+Jaký je přibližný počet molekul v 88 g oxidu dusného? Ar(N) = 14, Ar(O) = 16
+a) 1,2·1024
+b) 6·1023
+c) 1,8·1024
+d) 2,4·1024
+Správná odpověď: b
+
+Jaký je nejmenší počet molů kyslíku potřebných pro úplnou oxidaci 5 molů oxidu siřičitého na oxid sírový? Reakce probíhá podle rovnice 2 SO2 + O2 → 2 SO3
+a) 10 mol
+b) 1 mol
+c) 5 mol
+d) 2,5 mol
+Správná odpověď: b
+
+Jaký je nejmenší počet molů kyslíku potřebných pro úplnou oxidaci 3 molů oxidu siřičitého na oxid sírový? Reakce probíhá podle rovnice 2 SO2 + O2 → 2 SO3
+a) 1,5 mol
+b) 3 mol
+c) 2 mol
+d) 1 mol
+Správná odpověď: a
+
+Oxid dusičitý se slučuje s vodou za vzniku kyseliny dusičné a oxidu dusnatého. Reakci popisuje rovnice 3 NO2 + H2O → 2 HNO3 + NO. Jaké látkové množství HNO3 může vzniknout z 0,06 mol NO2?
+a) 0,04 mol
+b) 0,06 mol
+c) 0,02 mol
+d) 0,03 mol
+Správná odpověď: b
+
+Oxid dusičitý se slučuje s vodou za vzniku kyseliny dusičné a oxidu dusnatého. Reakci popisuje rovnice 3 NO2 + H2O → 2 HNO3 + NO. Jaké látkové množství NO může vzniknout z 0,12 mol NO2?
+a) 0,12 mol
+b) 0,04 mol
+c) 0,03 mol
+d) 0,01 mol
+Správná odpověď: d
+
+Reakce vodíku s kyslíkem probíhá podle rovnice 2 H2 + O2 → 2 H2O. Kolik gramů vody vznikne reakcí 1,5 molu vodíku s kyslíkem? Ar(H) = 1, Ar(O) = 16
+a) 25 g
+b) 36 g
+c) 18 g
+d) 27 g
+Správná odpověď: c
+
+Reakce vodíku s kyslíkem probíhá podle rovnice 2 H2 + O2 → 2 H2O. Kolik gramů vody vznikne reakcí 0,5 molu vodíku s kyslíkem? Ar(H) = 1, Ar(O) = 16
+a) 9 g
+b) 18 g
+c) 8 g
+d) 0,5 g
+Správná odpověď: b

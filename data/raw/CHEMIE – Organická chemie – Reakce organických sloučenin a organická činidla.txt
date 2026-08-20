@@ -1,0 +1,146 @@
+Jak se nazývá typ reakce alkenů, jehož hlavním rysem je přeměna dvojných vazeb na vazby jednoduché?
+a) eliminace
+b) adice
+c) substituce
+d) přesmyk
+Správná odpověď: b
+
+Jak se nazývá změna jedné sloučeniny v jinou pouhým přeskupením atomů uvnitř molekul, aniž se při tom změní její sumární vzorec?
+a) přesmyk
+b) substituce
+c) adice
+d) eliminace
+Správná odpověď: a
+
+Jakého typu jsou reakce chloru s CH4 a s C2H4?
+a) v obou případech jde o adici
+b) jde o eliminaci
+c) jde o substituci a adici
+d) v obou případech jde o substituci
+Správná odpověď: c
+
+Substituce je typ reakce, při které:
+a) je atom vodíku nahrazen jiným atomem nebo skupinou atomů
+b) dochází k přeměně dvojných vazeb na jednoduché
+c) se molekula rozštěpí na dvě nebo více částic
+d) dojde k přeskupení atomů uvnitř sloučeniny, aniž se změní souhrnný vzorec
+Správná odpověď: a
+
+Eliminace je typ reakce, při které dochází:
+a) k odštěpení atomů či skupin z molekuly
+b) k nahrazení atomu molekuly jiným atomem
+c) ke snížení počtu násobných vazeb v molekule
+d) ke vzniku dvojných nebo trojných vazeb v molekule
+Správná odpověď: a, d
+
+Uvedená reakce je příkladem:
+a) elektrofilní adice
+b) elektrofilní substituce
+c) nukleofilní substituce
+d) nukleofilní adice
+Správná odpověď: c
+
+Které z následujících sloučenin snadno polymerují?
+a) aryly
+b) areny
+c) alkadieny
+d) aminy
+Správná odpověď: c
+
+Hoření je reakce, která má charakter:
+a) radikálový
+b) endotermický
+c) katalytický
+d) hydrogenační
+Správná odpověď: a
+
+Akceptory elektronů jsou:
+a) homolytická činidla
+b) nukleofilní činidla
+c) elektrofilní činidla
+d) všechny anionty
+Správná odpověď: c
+
+Aminoskupina obsahuje nevazebný elektronový pár, který uděluje aminům vlastnosti:
+a) zásadité
+b) nukleofilní
+c) kyselé
+d) elektrofilní
+Správná odpověď: a, b
+
+Které z následujících látek mohou být donory elektronů?
+a) H+ a H3O +
+b) AlCl3 a FeCl3
+c) NaCl a CaCl2
+d) H2O a NH3
+Správná odpověď: d
+
+Mezi nukleofilní činidla patří:
+a) H3O +
+b) Br+
+c) OH–
+d) NH3
+Správná odpověď: c, d
+
+Mezi elektrofilní činidla patří:
+a) H3O +
+b) OH–
+c) H2O
+d) NO2+
+Správná odpověď: d
+
+Nukleofilní činidla mohou mít charakter:
+a) radikálů
+b) kationtů
+c) molekul
+d) aniontů
+Správná odpověď: c, d
+
+Amoniak můžeme zařadit mezi činidla:
+a) nukleofilní
+b) elektrofilní
+c) heterolytická
+d) homolytická
+Správná odpověď: a
+
+Částice Cl– patří mezi činidla:
+a) radikálová
+b) nukleofilní
+c) elektrofilní
+d) heterolytická
+Správná odpověď: b
+
+Částici NO + 2 můžeme zařadit mezi činidla:
+a) homolytická
+b) elektrofilní
+c) nukleofilní
+d) heterolytická
+Správná odpověď: b
+
+Částice CH3· patří mezi činidla:
+a) heterolytická
+b) elektrofilní
+c) homolytická
+d) nukleofilní
+Správná odpověď: c
+
+H3O+ patří mezi činidla:
+a) elektrofilní
+b) heterolytická
+c) nukleofilní
+d) homolytická
+Správná odpověď: a
+
+Homolytická činidla mají charakter:
+a) aniontů
+b) kationtů
+c) radikálů
+d) kyselin
+Správná odpověď: c
+
+Které z uvedených částic patří mezi homolytická činidla?
+a) atomární chlor, H·
+b) OH–, I–
+c) NO + 2 , H3O +
+d) Br+, H+
+Správná odpověď: a

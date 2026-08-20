@@ -1,0 +1,636 @@
+11.01. Absolutně černé těleso energii:
+a) odráží a vyzařuje
+b) dokonale odráží
+c) pouze pohlcuje
+d) pohlcuje a vyzařuje
+Správná odpověď: d
+
+11.02. Absorpce elektromagnetického záření:
+a) je proces, při němž jsou dopadající fotony pohlcovány hmotou a způsobují přechod atomů do stavu s vyšší energií
+b) vždy způsobuje uvolnění elektronu z atomu
+c) vede k pohlcování elektronů z obalu jádrem atomu
+d) česky znamená proces uvolňování energie z atomů formou fotonů
+Správná odpověď: a
+
+11.03. Aktivita radioaktivního preparátu:
+a) je počet atomů, které se přemění za 1 sekundu
+b) klesá exponenciálně s časem
+c) klesá logaritmicky s časem
+d) má stejnou fyzikální jednotku jako poločas rozpadu
+Správná odpověď: a, b
+
+11.04. Atom radioaktivního cesia 137Cs obsahuje:
+a) 82 neutronů
+b) 192 nukleonů
+c) 137 kladných elementárních nábojů
+d) 55 protonů
+Správná odpověď: a, d
+
+11.05. Budiž E0 energie základního stavu, E energie excitovaného stavu, f frekvence záření, h Planckova konstanta. Při přechodu atomu z excitovaného do základního stavu dochází k emisi fotonu. Frekvenci emitovaného fotonu lze určit podle vztahu:
+a) E − E0 = h · f
+b) E / E0 = h · f
+c) E / E0 = h / f
+d) E − E0 = c2 / 2
+Správná odpověď: a
+
+11.06. Budiž r0 vzdálenost dvou atomů v molekule ve stabilní rovnovážné poloze. Ve vzdálenosti mírně větší než r0 je výsledná síla mezi atomy:
+a) nulová
+b) odpudivá
+c) přitažlivá
+d) přitažlivá nebo odpudivá, záleží na velikosti molekul
+Správná odpověď: c
+
+11.07. Cyklotron je:
+a) kruhový urychlovač fotonů
+b) elektron obíhající po kruhové dráze kolem jádra
+c) přístroj k urychlování těžkých částic s elektrickým nábojem
+d) urychlovač všech nukleonů
+Správná odpověď: c
+
+11.08. Cyklotron může sloužit k urychlování:
+a) protonů
+b) deuteronů
+c) neutronů
+d) částic alfa
+Správná odpověď: a, b, d
+
+11.09. Částice α:
+a) se skládá ze dvou protonů a dvou neutronů
+b) má nukleonové číslo A = Z
+c) splňuje svým nukleonovým a protonovým číslem rovnici A + Z = 4
+d) se neodchyluje v magnetickém poli
+Správná odpověď: a
+
+11.10. De Broglieho vlnová délka:
+a) je nepřímo úměrná hybnosti částice
+b) je přímo úměrná hmotnosti částice
+c) nezávisí na hybnosti částice
+d) je přímo úměrná hybnosti částice
+Správná odpověď: a
+
+11.11. Dosah elektromagnetické interakce je:
+a) omezený rozměry atomů
+b) neomezený
+c) omezený rozměry jádra atomu
+d) omezený rozměrem sluneční soustavy
+Správná odpověď: b
+
+11.12. Dosah gravitační interakce je:
+a) omezený rozměry atomů
+b) neomezený
+c) omezený rozměry jádra atomu
+d) omezený vzdáleností Země – Měsíc
+Správná odpověď: b
+
+11.13. Dva izotopy stejného prvku mají různý počet:
+a) protonů
+b) neutronů
+c) nukleonů
+d) elektronů
+Správná odpověď: b, c
+
+11.14. Elektrárny využívají obvykle chladicí věže k odvedení ztrátového tepla do ovzduší. Jaderná elektrárna, ve srovnání s uhelnou při stejném výkonu, produkuje ztrátové teplo:
+a) podstatně větší
+b) podstatně menší
+c) žádné
+d) stejné – množství odpadního tepla nezávisí na tom, zda energie pochází ze spalování uhlí nebo jaderného štěpení, ale pouze na účinnosti turbín a generátorů
+Správná odpověď: d
+
+11.15. Elektron má:
+a) nulovou klidovou hmotnost
+b) nulový elektrický náboj
+c) pouze vlastnosti částice
+d) některé vlastnosti částice i vlnové vlastnosti
+Správná odpověď: d
+
+11.16. Elektron:
+a) je stabilní částice
+b) jeho antičásticí je pozitron
+c) je součástí záření alfa
+d) může být urychlován elektrostatickým polem
+Správná odpověď: a, b, d
+
+11.17. Energie nutná k odtržení elektronu z elektronového obalu molekuly plynu se nazývá:
+a) vnitřní energie
+b) potenciální energie
+c) ionizační energie
+d) kinetická energie
+Správná odpověď: c
+
+11.18. Excitovaný stav atomu je stav:
+a) s energií elektronového obalu vyšší než v základním stavu
+b) kdy dochází k samovolné přeměně protonu na neutron
+c) kdy dochází k samovolnému uvolňování protonů z jádra mimo atom
+d) s energií elektronového obalu vyšší než v základním stavu a energií jádra menší než v základním stavu
+Správná odpověď: a
+
+11.19. Excitovaným stavem atomu rozumíme:
+a) stav, kdy atom přijal elektron od jiného atomu
+b) stav, kdy atom uvolnil alespoň jeden elektron
+c) stav s vyššími hodnotami energie elektronů v obalu, než jaká je v základním stavu
+d) stav s vyššími počty nukleonů v jádře
+Správná odpověď: c
+
+11.20. Gama záření:
+a) je elektromagnetické vlnění
+b) je proud neutronů
+c) je proud fotonů
+d) není odchylováno elektrickým polem
+Správná odpověď: a, c, d
+
+11.21. Intenzita vyzařování černého tělesa je:
+a) úměrná druhé mocnině vlnové délky záření
+b) přímo úměrná teplotě tělesa
+c) přímo úměrná druhé mocnině teploty tělesa
+d) přímo úměrná čtvrté mocnině teploty tělesa
+Správná odpověď: d
+
+11.22. Izotopy mají jádra:
+a) s různým počtem neutronů a stejným počtem protonů
+b) s různým počtem protonů a stejným počtem neutronů
+c) se stejným nukleonovým číslem
+d) se stejným počtem neutronů
+Správná odpověď: a
+
+11.23. Izotopy určitého prvku lze rozlišit:
+a) pouze chemickými metodami
+b) fyzikálními metodami
+c) na základě zjištění atomové hmotnosti daného izotopu
+d) v některých případech na základě záření, které emitují
+Správná odpověď: b, c, d
+
+11.24. Jaderná elektrárna zatěžuje při běžném provozu životní prostředí:
+a) emisemi skleníkových plynů
+b) emisemi sloučenin síry
+c) emisemi radioaktivních plynů a popílku
+d) nutností v určitých časových intervalech vyměňovat jaderné palivo, přičemž vyhořelé palivo je nutno skladovat, ukládat, nebo dále zpracovávat
+Správná odpověď: d
+
+11.25. Jaderné síly, působící mezi nukleony v jádře atomu a zajišt’ující jeho stabilitu:
+a) v žádném případě neumožňují rozpad jádra
+b) jsou projevem silné interakce
+c) jsou projevem gravitační interakce
+d) jsou projevem elektromagnetické interakce
+Správná odpověď: b
+
+11.26. Jaderné síly:
+a) jsou v oblasti svého působení silnější než elektrostatické síly
+b) jejich velikost závisí na nábojích
+c) mají krátký dosah, přibližně 0,001 pm
+d) přitahují elektrony k jádru atomu
+Správná odpověď: a, c
+
+11.27. Jádro atomu:
+a) má záporný náboj, jehož velikost je přesně dána počtem nukleonů
+b) je elektricky neutrální
+c) má kladný náboj, jehož velikost je dána počtem protonů
+d) poutá k sobě elektrony pouze gravitační silou
+Správná odpověď: c
+
+11.28. Jádro radioaktivního atomu, který vyzáří částici α, se změní v jádro atomu prvku, který je v periodické tabulce prvků (v obvyklém uspořádání):
+a) posunut o čtyři místa doleva oproti původnímu prvku
+b) posunut o dvě místa doprava oproti původnímu prvku
+c) posunut o dvě místa doleva oproti původnímu prvku
+d) posunut o jedno místo doleva oproti původnímu prvku
+Správná odpověď: c
+
+11.29. Jádro radioaktivního atomu, který vyzáří částici β– , se změní v jádro atomu prvku, který je v periodické tabulce prvků (v obvyklém uspořádání):
+a) posunut o dvě místa doleva oproti původnímu prvku
+b) na téže místě, jako je původní prvek
+c) posunut o jedno místo doleva oproti původnímu prvku
+d) posunut o jedno místo doprava oproti původnímu prvku
+Správná odpověď: d
+
+11.30. Jádro uhlíku 12 6C obsahuje:
+a) 6 neutronů
+b) 6 nukleonů
+c) 12 protonů
+d) 12 elektronů
+Správná odpověď: a
+
+11.31. Jádro uranu 238U má:
+a) 238 kladných elementárních nábojů
+b) 92 kladných elementárních náboj
+c) 92 neutronů
+d) 238 nukleonů
+Správná odpověď: b, d
+
+11.32. Jaké nukleonové číslo A a protonové číslo Z má jádro atomu lehkého vodíku?
+a) A = 0, Z = 0
+b) A = 0, Z = 1
+c) A = 1, Z = 1
+d) A = 1, Z = 0
+Správná odpověď: c
+
+11.33. Je chybou tvrdit, že:
+a) kladně nabitý ion vzniká při přebytku neutronů
+b) ionty vznikají při vysokých teplotách
+c) elektrický proud je způsoben pohybem volných elektronů
+d) volný elektron může s elektricky neutrálním atomem vytvořit záporně nabitý ion
+Správná odpověď: a
+
+11.34. Je chybou tvrdit, že:
+a) elektrony jsou poutány v atomu jadernou silou
+b) téměř veškerá hmotnost atomu je soustředěna v jádře
+c) jaderné síly nemají tak velký dosah jako síly elektrické
+d) každému prvku odpovídá určitý počet protonů v jádře atomu
+Správná odpověď: a
+
+11.35. K určování stáří organických materiálů se využívá radioizotopová metoda, spočívající v určení podílu nerozpadlých izotopů:
+a) vodíku
+b) uhlíku
+c) uranu
+d) radonu
+Správná odpověď: b
+
+11.36. Kolik elektronů je v obalu elektricky neutrálního atomu izotopu rtuti 198Hg?
+a) 118
+b) 80
+c) 198
+d) žádný, protože je elektricky neutrální
+Správná odpověď: b
+
+11.37. Magnetické kvantové číslo m může nabývat hodnot:
+a) všech přirozených čísel
+b) od −l do l, kde l je vedlejší kvantové číslo
+c) 1/2, −1/2
+d) jen lichých čísel
+Správná odpověď: b
+
+11.38. Magnetické kvantové číslo udává:
+a) moment hybnosti
+b) smysl rotace elektronu
+c) orientaci orbitalu v prostoru
+d) slupku
+Správná odpověď: c
+
+11.39. Mezi nukleonovým číslem A, počtem protonů Z a počtem neutronů N platí u libovolného prvku vztah:
+a) Z = N + A
+b) A = Z − N
+c) A = Z + N
+d) N = A + Z
+Správná odpověď: c
+
+11.40. Mlžná komora je určena pro:
+a) měření absolutní vlhkosti vzduchu
+b) měření velikost náboje neutronů
+c) měření rosného bodu vzduchu
+d) pozorování trajektorií částic
+Správná odpověď: d
+
+11.41. Množinu všech možných hlavních kvantových čísel lze vyjádřit jako:
+a) 0, 1, 2, . . .
+b) 1, 2, . . . ,m − 1, kde m je magnetické kvantové číslo
+c) 1, 2, . . .
+d) 1, 2, . . . , (2 · l + 1), kde l je vedlejší kvantové číslo
+Správná odpověď: c
+
+11.42. Množinu všech možných magnetických kvantových čísel pro dané vedlejší kvantové číslo l lze vyjádřit jako:
+a) 0, 1, . . . , l
+b) −l,−l + 1, . . . , 0, . . . , l − 1, l
+c) − (l − 1) , . . . , 0, . . . , (l − 1)
+d) 1, 2, . . . , l
+Správná odpověď: b
+
+11.43. Množinu všech možných vedlejších kvantových čísel pro dané hlavní kvantové číslo n lze vyjádřit jako:
+a) 1, 2, . . . , n − 1
+b) 0, 1, . . . , n − 1
+c) 1, 2, . . . , n
+d) 0, 1, . . . , n
+Správná odpověď: b
+
+11.44. Náboj protonu je:
+a) stejně veliký jako náboj elektronu v absolutní hodnotě
+b) kladný
+c) 18 40× větší než absolutní hodnota náboje elektronu
+d) záporný
+Správná odpověď: a, b
+
+11.45. Nukleonové číslo udává:
+a) součet protonů a neutronů v jádře
+b) počet neutronů v jádře
+c) počet elektronů v obalu neutrálního atomu
+d) počet protonů v jádře
+Správná odpověď: a
+
+11.46. Označte nesprávné přiřazení mezi veličinou a její možnou jednotkou:
+a) jednotkou poločasu rozpadu je 1 s
+b) jednotkou intenzity elektrického pole je 1 V ·m−1
+c) jednotkou intenzity vyzařování je 1 lx
+d) jednotkou indukčnosti je 1 H
+Správná odpověď: c
+
+11.47. Označte nesprávné tvrzení:
+a) jednotkou součinitele délkové teplotní roztažnosti je K−1 ·m−1
+b) jednotkou látkového množství je mol
+c) jednotkou poločasu rozpadu je sekunda (příp. minuta, hodina, den, rok)
+d) jednotkou optické mohutnosti je dioptrie
+Správná odpověď: a
+
+11.48. Pauliho princip říká, že v jednom stacionárním stavu atomu se nemohou vyskytovat dva elektrony, které mají:
+a) stejných všech pět kvantových čísel
+b) stejná kvantová čísla n,m
+c) stejná všechna kvantová čísla
+d) stejnou energii
+Správná odpověď: c
+
+11.49. Poločas rozpadu T představuje dobu, za kterou se rozpadne polovina jader z původního množství N jader. Kolik jader se rozpadne za dobu dvou poločasů 2T?
+a) N/2
+b) všechna jádra
+c) 3N/4
+d) N/4
+Správná odpověď: c
+
+11.50. Poločas rozpadu T představuje dobu, za kterou se rozpadne polovina jader z původního množství N jader. Kolik jader se rozpadne za dobu tří poločasů 3T?
+a) N/8
+b) všechna jádra
+c) 7N/8
+d) N/3
+Správná odpověď: c
+
+11.51. Poločas rozpadu T představuje dobu, za kterou se rozpadne polovina jader z původního množství N jader. Kolik jader zůstane nerozpadlých za dobu tří poločasů 3T?
+a) N/8
+b) všechna jádra
+c) 7N/8
+d) N/3
+Správná odpověď: a
+
+11.52. Polotloušťka D látky je vrstva, která sníží intenzitu I jaderného záření na polovinu. Materiál o tloušt’ce 2D sníží intenzitu záření I na:
+a) I/3
+b) I/4
+c) nulu
+d) I/2
+Správná odpověď: b
+
+11.53. Polotloušťka D látky je vrstva, která sníží intenzitu I jaderného záření na polovinu. Materiál o tloušt’ce 3D sníží intenzitu záření I na:
+a) I/3
+b) I/8
+c) nulu
+d) I/2
+Správná odpověď: b
+
+11.54. Pozitron má následující počet elementárních nábojů:
+a) jeden kladný
+b) dva kladné
+c) žádný
+d) jeden záporný
+Správná odpověď: a
+
+11.55. Pracovní náplní Geiger-Müllerova počítače může být:
+a) vodní pára
+b) vakuum
+c) zředěný plyn
+d) vzduch za normálního tlaku
+Správná odpověď: c
+
+11.56. Protonové číslo udává:
+a) hmotnost atomu
+b) počet kladných elementárních nábojů v jádře
+c) počet protonů v jádře
+d) počet elementárních částic v jádře
+Správná odpověď: b, c
+
+11.57. Přechod elektronu z excitovaného do základního stavu může být provázen:
+a) emisí fotonu
+b) uvolněním energie
+c) emisí elektronu a fotonu
+d) emisí elektronu
+Správná odpověď: a, b
+
+11.58. Při absorpci elektromagnetického záření atom:
+a) přechází ze stavu s nižší energií do stavu s vyšší energií
+b) vždy uvolňuje elektrony
+c) vždy vyzařuje foton
+d) přechází ze stavu s vyšší energií do stavu s nižší energií
+Správná odpověď: a
+
+11.59. Při Comptonově efektu, kdy dojde ke srážce fotonu rentgenového záření s elektronem, má foton:
+a) stejnou energii, jakou měl před srážkou, a směr jeho šíření se nezmění
+b) menší energii, než jakou měl před srážkou, a směr jeho šíření se nezmění
+c) menší frekvenci, než jakou měl před srážkou, a směr jeho šíření se změní
+d) větší frekvenci, než jakou měl před srážkou, a směr jeho šíření se změní
+Správná odpověď: c
+
+11.60. Při Comptonově efektu, kdy dojde ke srážce fotonu rentgenového záření s elektronem, má foton:
+a) stejnou energii, jakou měl před srážkou, a směr jeho šíření se změní
+b) menší vlnovou délku, než jakou měl před srážkou, a směr jeho šíření se změní
+c) menší vlnovou délku, než jakou měl před srážkou, a směr jeho šíření se nezmění
+d) větší vlnovou délku, než jakou měl před srážkou, a směr jeho šíření se změní
+Správná odpověď: d
+
+11.61. Při radioaktivním rozpadu jádra jsou vždy zachovány tyto fyzikální veličiny:
+a) elektrický náboj
+b) hmotnost
+c) hybnost
+d) rychlost
+Správná odpověď: a, c
+
+11.62. Při radioaktivním rozpadu počet radioaktivních atomů ve vzorku klesá s časem přibližně:
+a) lineárně
+b) exponenciálně
+c) logaritmicky
+d) kvadraticky
+Správná odpověď: b
+
+11.63. Při rozpadu atomového jádra přeměnou alfa se:
+a) prvek posune v periodické tabulce o 2 místa vlevo
+b) hmotnostní číslo sníží o 2 a atomové číslo o 4
+c) počet nukleonů sníží o 4
+d) počet protonů se sníží o 2
+Správná odpověď: a, c, d
+
+11.64. Při spontánní emisi fotonu vyvolané přechodem elektronu ze stavu s energií Em do stavu s energií En, má vyzářený foton (h – Planckova konstanta, c – rychlost světla):
+a) energií Em − En
+b) vlnovou délkou λmn = (Em − En) / (h · c)
+c) energii h · λmn = Em − En
+d) frekvenci f , splňují rovnici h · f = Em − En
+Správná odpověď: a, d
+
+11.65. Při vnějším fotoelektrickém jevu dochází k emisi:
+a) α částic
+b) neutronů
+c) fotonů
+d) elektronů
+Správná odpověď: d
+
+11.66. Přibližně platí:
+a) Avogadrovo číslo NA  6,022 · 10−23 mol−1
+b) rychlost zvuku v ideálním vakuu v  334 m/s
+c) klidová hmotnost protonu mp  1,672 · 1027 kg
+d) rychlost světla ve vakuu c  3 · 108 m/s
+Správná odpověď: d
+
+11.67. Rozdíl mezi rentgenovým zářením a zářením gama spočívá:
+a) ve fyzikální podstatě záření
+b) výhradně v energii záření (mezi oběma druhy záření existuje ostrá energetická hranice)
+c) v procesu vzniku záření (elektronový obal nebo jádro)
+d) záření gama je zvláštním druhem rentgenového záření
+Správná odpověď: c
+
+11.68. Rozměry atomu jsou řádově:
+a) 1 pm
+b) 0,1 µm
+c) 100 nm
+d) 100 pm
+Správná odpověď: d
+
+11.69. Rychlost přeměny radioaktivního vzorku lze ovlivnit:
+a) tlakem
+b) teplotou
+c) gravitační interakcí
+d) nelze ovlivnit vnějšími podmínkami
+Správná odpověď: d
+
+11.70. S rostoucí teplotou černého tělesa se vlnová délka záření vyzařovaného s největší intenzitou:
+a) nemění
+b) zvětšuje
+c) zmenšuje
+d) zvětšuje a po dosažení kritické teploty se světlo stane lineárně polarizovaným
+Správná odpověď: c
+
+11.71. S rostoucí teplotou černého tělesa:
+a) se celková intenzita vyzařování nemění
+b) se zmenšuje celková intenzita vyzařování
+c) se zvětšuje celková intenzita vyzařování
+d) roste vlnová délka záření vyzařovaného s největší intenzitou
+Správná odpověď: c
+
+11.72. Síla působící mezi dvěma atomy v molekulách nebo pevných látkách:
+a) je bez ohledu na vzdálenost atomů silou přitažlivou
+b) je v závislosti na vzdálenosti atomů silou přitažlivou nebo odpudivou
+c) je bez ohledu na vzdálenost atomů silou odpudivou
+d) je vždy nulová, nebot’ mezi nenabitými atomy nepůsobí žádné síly
+Správná odpověď: b
+
+11.73. Spinové kvantové číslo elektronu:
+a) udává orientaci orbitalu v prostoru
+b) může nabývat pouze hodnot +1 a −1
+c) může nabývat pouze hodnot 0, 1, . . . , n − 1
+d) může nabývat pouze hodnot +1/2 a −1/2
+Správná odpověď: d
+
+11.74. Stav elektronů v atomu je jednoznačně určen:
+a) energií atomu
+b) souborem kvantových čísel
+c) nábojem atomového jádra
+d) teplotou
+Správná odpověď: b
+
+11.75. Tepelná elektrárna na hnědé uhlí zatěžuje při běžném provozu životní prostředí:
+a) emisemi skleníkových plynů
+b) emisemi sloučenin síry
+c) emisemi radioaktivních příměsí, které se v různé míře nacházejí v hnědém uhlí
+d) nutností ukládat pevné odpadní produkty spalování a odpadní produkty zachycené filtrací
+Správná odpověď: a, b, c, d
+
+11.76. Typická vzdálenost, na kterou se uplatňuje silná interakce, je:
+a) vzdálenost 10−15 m
+b) vzdálenost 10−5 m
+c) vzdálenost odpovídající rozměrům atomů
+d) vzdálenost odpovídající rozměrům krystalů
+Správná odpověď: a
+
+11.77. Typický rozměr atomů je:
+a) 10−15 m
+b) 10−10 m
+c) 10−10 nm
+d) 10−5 m
+Správná odpověď: b
+
+11.78. Tzv. červená bariéra vnějšího fotoelektrického jevu znamená, že tento jev nastává:
+a) teprve tehdy, až vlnová délka dopadajícího záření klesne pod určitou hodnotu
+b) až při dostatečné intenzitě dopadajícího záření
+c) teprve tehdy, až frekvence dopadajícího záření klesne pod určitou hodnotu
+d) teprve tehdy, až vlnová délka dopadajícího záření vzroste nad určitou hodnotu
+Správná odpověď: a
+
+11.79. Určete protonové a nukleonové číslo prvku, který vznikne α rozpadem 226Ra:
+a) 226 88X
+b) 222 86X
+c) 227 84X
+d) 224 84X
+Správná odpověď: b
+
+11.80. V elektricky neutrálním atomu je počet elektronů roven:
+a) počtu protonů v jádře
+b) rozdílu počtu nukleonů a protonů v jádře
+c) počtu nukleonů v jádře
+d) počtu neutronů v jádře
+Správná odpověď: a
+
+11.81. V jakých jednotkách se udává Planckova konstanta h?
+a) J ·m−1
+b) J
+c) J · s−1
+d) J · s
+Správná odpověď: d
+
+11.82. Velikost elektrického proudu, který vzniká při fotoelektrickém jevu, je:
+a) nezávislá na intenzitě dopadajícího záření
+b) úměrná čtvrté mocnině intenzity dopadajícího záření
+c) nepřímo úměrná intenzitě dopadajícího záření
+d) rostoucí s rostoucí intenzitou dopadajícího záření
+Správná odpověď: d
+
+11.83. Velikost rychlosti, se kterou vystupují elektrony z látky při fotoelektrickém jevu:
+a) závisí pouze na vlnové délce dopadajícího záření
+b) závisí pouze na materiálu
+c) závisí na materiálu a na vlnové délce dopadajícího záření
+d) závisí pouze na intenzitě dopadajícího záření
+Správná odpověď: c
+
+11.84. Vnitřní fotoelektrický jev:
+a) je opačným k vnějšímu fotoelektrickému jevu
+b) způsobuje uvolňování elektronů z atomů, kdy uvolněné elektrony zůstávají v látce a umožňují vznik elektrické vodivosti u původně nevodivých materiálů
+c) spočívá v přijímání volných elektronů do atomů
+d) neumožňuje vznik elektrického proudu
+Správná odpověď: b
+
+11.85. Z možných stavů, ve kterých se může nacházet daný atom, nazýváme základním stavem ten stav:
+a) ve kterém atom nereaguje na žádné podněty
+b) ve kterém protony a elektrony v atomu na sebe nepůsobí žádnou silou
+c) který má nejvyšší hodnotu celkové energie atomu
+d) který má nejnižší hodnotu celkové energie atomu
+Správná odpověď: d
+
+11.86. Záření alfa je:
+a) tvořeno jádry He
+b) přitahováno k záporně nabité elektrodě
+c) tvořeno proudem elektronů
+d) směsí volně letících protonů a neutronů
+Správná odpověď: a, b
+
+11.87. Záření gama:
+a) nemá elektrický náboj
+b) má jednotkový kladný elementární náboj
+c) má jednotkový záporný elementární náboj
+d) je proud fotonů
+Správná odpověď: a, d
+
+11.88. Záření β– je tvořeno:
+a) protony
+b) elektrony
+c) fotony
+d) heliovými jádry
+Správná odpověď: b
+
+11.89. Záření β– tvoří elektrony vyzařované:
+a) z elektronového obalu atomu
+b) z nejvyšší energetické hladiny elektronového obalu
+c) z jádra atomu (při rozpadu neutronu)
+d) při vnějším fotoelektrickém jevu
+Správná odpověď: c
+
+11.90. Záření β– :
+a) jsou elektrony vznikající při procesech v atomovém jádře
+b) se nevychyluje v magnetickém poli
+c) se vychyluje v magnetickém poli
+d) je bez elektrického náboje
+Správná odpověď: a, c
+
+11.91. Zdrojem záření gama ve zdravotnictví jsou kobaltové a cesiové zářiče. Atom kobaltu 60Co obsahuje:
+a) 27 neutronů
+b) 60 nukleonů
+c) 60 kladných elementárních nábojů
+d) 27 protonů
+Správná odpověď: b, d

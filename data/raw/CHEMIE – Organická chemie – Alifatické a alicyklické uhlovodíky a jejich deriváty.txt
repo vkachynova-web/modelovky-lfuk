@@ -1,0 +1,370 @@
+Trojná vazba mezi dvěma atomy uhlíku je tvořena:
+a) jednou vazbou π a dvěma vazbami σ
+b) jednou vazbou σ a dvěma vazbami π
+c) třemi vazbami π
+d) třemi vazbami σ
+Správná odpověď: b
+
+Konjugovaný systém dvojných vazeb obsahuje:
+a) buten
+b) isopren
+c) vinyl
+d) cyklohexen
+Správná odpověď: b
+
+Jednoduchá vazba mezi dvěma atomy uhlíku:
+a) je vazbou π
+b) je vazbou σ
+c) není typu σ
+d) je vazbou α
+Správná odpověď: b
+
+Sedm σ vazeb obsahuje molekula:
+a) kyseliny octové
+b) acetonu
+c) ethanolu
+d) acetaldehydu
+Správná odpověď: c
+
+Šest σ vazeb obsahuje molekula:
+a) kyseliny octové
+b) acetonu
+c) ethanolu
+d) acetaldehydu
+Správná odpověď: d
+
+Pevnost vazby mezi dvěma uhlíky od vazby jednoduché k vazbě trojné:
+a) klesá
+b) nelze posoudit
+c) stoupá
+d) se nemění
+Správná odpověď: c
+
+Určete správný název uhlovodíkového zbytku CH2=CH−:
+a) ethyl
+b) ethylen
+c) ethyn
+d) ethenyl (vinyl)
+Správná odpověď: d
+
+Vinyl je zbytek odvozený od:
+a) propenu
+b) propylu
+c) isobutylu
+d) ethenu
+Správná odpověď: d
+
+Kolik alkylů lze odvodit od butanu?
+a) čtyři
+b) dva
+c) jeden
+d) tři
+Správná odpověď: b
+
+Kolik alkylů lze odvodit od pentanu?
+a) tři
+b) jeden
+c) dva
+d) čtyři
+Správná odpověď: a
+
+Vznik 1,2-dichlorethanu reakcí chloru a ethenu je příkladem:
+a) substituce
+b) adice
+c) dehydrogenace
+d) eliminace
+Správná odpověď: b
+
+Sloučenina s tímto vzorcem se nazývá:
+a) brombutan
+b) 2-brom-methylpropan
+c) 1-brom-2-methylpropan
+d) 1-brom-butan
+Správná odpověď: c
+
+Sloučenina s tímto vzorcem se nazývá:
+a) 2-ethylbutan
+b) 3-methylpentan
+c) 2-methylpentan
+d) 3-ethylbutan
+Správná odpověď: b
+
+Které z následujících názvů označují tentýž uhlovodík?
+a) isopren
+b) 2-methylbuta-1,2-dien
+c) 2-methylbuta-1,3-dien
+d) penta-1,3-dien
+Správná odpověď: a, c
+
+Sloučenina s tímto vzorcem se nazývá:
+a) 1,1,1-trimethyl-3,3-diethylpropan
+b) 4-ethyl-2,2,3,3-tetramethylhexan
+c) 3-ethyl-4-dimethyl-5-trimethylpentan
+d) 2,2,3,3-tetramethyl-4,4-diethylbutan
+Správná odpověď: b
+
+Uhlovodík s tímto vzorcem se nazývá:
+a) isopentan
+b) isobutan
+c) 3-methylbutan
+d) 2-methylbutan
+Správná odpověď: a, d
+
+Jakého typu jsou reakce bromu s C2H6 a s C3H6 ?
+a) V obou případech jde o substituci.
+b) V obou případech jde o adici.
+c) Jde o substituci a adici.
+d) Jde o eliminaci.
+Správná odpověď: c
+
+Obecný homologický vzorec uhlovodíků CnH2n+2 platí pro:
+a) alkany
+b) alkeny
+c) alkyny
+d) areny
+Správná odpověď: a
+
+Kolik σ vazeb obsahuje molekula ethanu?
+a) šest
+b) žádnou
+c) tři
+d) sedm
+Správná odpověď: d
+
+Hexan a cyklohexan jsou:
+a) alkeny
+b) alkany
+c) areny
+d) alkyny
+Správná odpověď: b
+
+Mezi freony patří:
+a) CF2=CF2
+b) CCl2F2
+c) CH2=CHCl
+d) CCl2=CCl2
+Správná odpověď: b
+
+Mezi freony patří například:
+a) 2-chlorbuta-1,3-dien
+b) methylchlorid
+c) dichlor(difluor)methan
+d) trichlorethylen
+Správná odpověď: c
+
+Který z následujících uhlovodíků patří mezi nasycené uhlovodíky?
+a) C4H10
+b) C5H6
+c) C8H8
+d) C4H6
+Správná odpověď: a
+
+Který z následujících uhlovodíků patří mezi nasycené uhlovodíky?
+a) C3H4
+b) C3H10
+c) C3H8
+d) C3H6
+Správná odpověď: c
+
+Tetrachlormethan a chlorid uhličitý:
+a) jsou izomery
+b) jsou dva různé názvy pro stejnou sloučeninu
+c) se liší strukturou molekuly
+d) se liší fyzikálními vlastnostmi
+Správná odpověď: b, d
+
+Úplnou oxidací alkanů vzniká:
+a) karboxylová kyselina
+b) keton
+c) oxid uhličitý a voda
+d) alkohol
+Správná odpověď: a
+
+Pro halogenace alkanů je charakteristická:
+a) nukleofilní adiční reakce
+b) nutnost převést alkany v alkyny
+c) elektrofilní substituční reakce
+d) radikálová substituční reakce
+Správná odpověď: b
+
+Organokovové sloučeniny jsou sloučeniny, v nichž je
+a) kov vázán na hydroxylovou skupinu
+b) kov vázán na karboxylovou skupinu
+c) kov vázán přímo na uhlíkový řetězec
+d) halogen vázán na benzenové jádro
+Správná odpověď: d
+
+Grignardovy sloučeniny se připravují reakcí alkyl- či arylhalogenidů s:
+a) jodem
+b) křemíkem
+c) hořčíkem
+d) sodíkem
+Správná odpověď: b
+
+Nejjednodušší nenasycený uhlovodík je:
+a) propen
+b) ethen
+c) methan
+d) propin
+Správná odpověď: a, c
+
+Reakce vodného roztoku manganistanu draselného v kyselém prostředí se užívá k důkazu:
+a) vodíkových vazeb
+b) koordinačních vazeb
+c) jednoduchých vazeb
+d) násobných vazeb
+Správná odpověď: c
+
+Chloroform je:
+a) dichlormethan
+b) trichlormethan
+c) tetrachlormethan
+d) monochlormethan
+Správná odpověď: b
+
+Obecný homologický vzorec uhlovodíků CnH2n platí pro:
+a) alkyny
+b) alkeny
+c) alkany
+d) areny
+Správná odpověď: d
+
+Kolik vazeb σ obsahuje molekula ethenu?
+a) pět
+b) dvě
+c) tři
+d) čtyři
+Správná odpověď: a
+
+Úplnou hydrogenací ethenu vzniká:
+a) ethanol
+b) propan
+c) acetylen
+d) ethan
+Správná odpověď: b
+
+Ethylen reaguje s bromem za tvorby 1,2-dibromethanu. Tato reakce je reakcí:
+a) adiční
+b) substituční
+c) tautomerní
+d) eliminační
+Správná odpověď: c
+
+Redukcí alkenů vznikají:
+a) karboxylové kyseliny
+b) aldehydy
+c) alkany
+d) alkyny
+Správná odpověď: d
+
+Adicí bromu na ethylen vzniká:
+a) 1,2-dibromethan
+b) brommethan
+c) bromethan
+d) 1-bromethan
+Správná odpověď: c
+
+Adice bromu je typická pro:
+a) alkany
+b) alkoholy
+c) aldehydy
+d) alkeny
+Správná odpověď: a
+
+Reakcí propenu s chlorovodíkem vzniká:
+a) dichlorhexan
+b) 2-chlorpropan
+c) dichlorpropan
+d) 1-chlorpropan
+Správná odpověď: d
+
+Reakcí ethylenu s bromovodíkem vzniká:
+a) bromethan
+b) dibromethan
+c) brombutan
+d) dibrommethan
+Správná odpověď: b
+
+Při reakci manganistanu draselného s alkeny ve vodném prostředí dochází k:
+a) oxidaci manganistanu draselného
+b) redukci alkenů
+c) redukci manganistanu draselného
+d) oxidaci alkenů
+Správná odpověď: a
+
+Sloučenina s tímto vzorcem se nazývá:
+a) 3-methyl-1,3-butan
+b) 2-methylbuta-1,3-dien
+c) 2-methylbut-1,3-ylen
+d) 3-methylbuta-1,3-dien
+Správná odpověď: b
+
+Reakcí propylenu s bromem ve vodném prostředí vzniká:
+a) 2-brompropan
+b) 1,2-dibrompropan
+c) 1,3-dibrompropan
+d) 2-brompropylen
+Správná odpověď: b
+
+Obecný homologický vzorec uhlovodíků CnH2n–2 platí pro:
+a) cykloalkany
+b) alkeny
+c) alkany
+d) alkyny
+Správná odpověď: c
+
+Souhrnný vzorec pentynu je:
+a) C5H10
+b) C3H6
+c) C5H15
+d) C5H8
+Správná odpověď: b
+
+Úplnou hydrogenací propynu vzniká:
+a) propylen
+b) propan
+c) ethyn
+d) methylacetylen
+Správná odpověď: c
+
+Kolik σ vazeb obsahuje molekula ethynu?
+a) dvě
+b) tři
+c) pět
+d) jednu
+Správná odpověď: a
+
+Acetylen má vzorec:
+a) CH3−CO−CH3
+b) CH2=CH2
+c) CH3−CHO
+d) CH≡CH
+Správná odpověď: a
+
+Adicí vody na acetylen vzniká:
+a) ethanol
+b) formaldehyd
+c) vinylalkohol
+d) kyselina uhličitá
+Správná odpověď: c
+
+Sloučenina s tímto vzorcem se nazývá:
+a) cyklohexan
+b) cyklohexen
+c) benzen
+d) hexen
+Správná odpověď: b
+
+Uhlovodíkový zbytek s tímto vzorcem se nazývá:
+a) fenyl
+b) cyklohexenyl
+c) cyklohexyl
+d) benzyl
+Správná odpověď: a
+
+Sloučenina s tímto vzorcem se nazývá:
+a) pyrrolin
+b) cyklopentan
+c) cyklopropen
+d) cyklopenten
+Správná odpověď: b

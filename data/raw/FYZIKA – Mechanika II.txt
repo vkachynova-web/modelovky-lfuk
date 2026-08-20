@@ -1,0 +1,629 @@
+3.01. 9,81 Pa lze vyjádřit jako:
+a) 1 N
+b) 9,81 kg ·m−1 · s−2
+c) 9,81 N ·m2
+d) 9,81 N ·m−2
+Správná odpověď: b, d
+
+3.02. Akvárium ve tvaru hranolu má výšku 60 cm; pět šestin jeho objemu je zaplněno vodou. Akvárium stojí na rovné pevné podložce, na jeho boční stěny působí zevnitř tlak vody, zvenku tlak atmosférický. Potom platí:
+a) rozdíl tlaků (tlaku kapaliny a tlaku podložky) na dno je 6 Pa
+b) rozdíl tlaků na boční stěnu u dna je 5 kPa
+c) rozdíl tlaků na boční stěnu ve výšce hladiny je nulový
+d) rozdíl tlaků na boční stěnu u dna je 100 kPa
+Správná odpověď: b, c
+
+3.03. Akvárium ve tvaru hranolu má výšku 75 cm; dvě třetiny jeho objemu jsou zaplněny vodou. Akvárium stojí na rovné pevné podložce, na jeho boční stěny působí zevnitř tlak vody, zvenku tlak atmosférický. Potom platí:
+a) rozdíl tlaku kapaliny na dno a tlaku podložky je nulový
+b) rozdíl tlaků na boční stěnu u dna je 7,5 kPa
+c) rozdíl tlaků na boční stěnu těsně pod hladinou je 100 kPa
+d) rozdíl tlaků na boční stěnu u dna je 5000 Pa
+Správná odpověď: a, d
+
+3.04. Automobil o celkové hmotnosti 1000 kg se rozjíždí po vodorovné vozovce z klidu a za dobu 10 s dosáhne rychlosti 20 m/s. Jeho výkon, neuvažujemeli ztráty, musel být alespoň:
+a) 1000 W
+b) 2 kW
+c) 20 kW
+d) 200 000 J
+Správná odpověď: c
+
+3.05. Během 10 minut potřebujeme vyčerpat 10 hl vody z hloubky 10 m, účinnost čerpadla je 90 %. Potom:
+a) příkon čerpadla 150 W bude dostačující
+b) spotřebujeme alespoň 1 kWh energie
+c) potenciální energie vody stoupne o 100 kJ
+d) průtok čerpadlem bude 0,1 m3/min
+Správná odpověď: c, d
+
+3.06. Bernoulliho rovnice pro proudění ideální kapaliny ve vodorovné trubici má tvar (p – tlak kapaliny, ρ – hustota kapaliny, V – objem, v – rychlost proudění, m – hmotnost):
+a) p + ρ · v2 = konst.
+b) p · V + 1/2 · ρ · v2 = konst.
+c) p + 1/2 · ρ · v2 = konst.
+d) p + 1/2 · m · v2 = konst.
+Správná odpověď: c
+
+3.07. Bernoulliho rovnice vyjadřuje:
+a) zákon zachování energie ideální kapaliny
+b) zákon zachování hybnosti ideální kapaliny
+c) závislost tlaku plynu na teplotě
+d) závislost turbulencí v kapalině na rychlosti
+Správná odpověď: a
+
+3.08. Dva hmotné body, každý o hmotnosti 50 kg, umístěné ve vzájemné vzdálenosti 50 cm, se přitahují gravitační silou (κ = 6,67 · 10−11 N · m2/kg2):
+a) 6,67 · 10−11 N
+b) 6,67 · 10−7 N
+c) 6,67 · 10−9 N
+d) 3,34 · 10−7 N
+Správná odpověď: b
+
+3.09. Dvě nádoby s kapalinou jsou uzavřeny pohyblivým kruhovým pístem. V první nádobě působí síla F na píst o poloměru r a vyvolá v kapalině tlak p. V druhé nádobě bude stejná síla F působit na píst o poloměru 2r ; pak tlak v této kapalině bude vzhledem k tlaku p:
+a) dvojnásobný
+b) čtyřnásobný
+c) poloviční
+d) čtvrtinový
+Správná odpověď: d
+
+3.10. Dvě nádoby s kapalinou jsou uzavřeny pohyblivým pístem. V první nádobě působí síla F na píst s plochou S a vyvolá v kapalině tlak p. V druhé nádobě bude stejná síla F působit na píst s plochou 2S; pak tlak v této kapalině bude vzhledem k tlaku p:
+a) dvojnásobný
+b) čtyřnásobný
+c) poloviční
+d) čtvrtinový
+Správná odpověď: c
+
+3.11. Dvě nádoby se stejnou plochou dna, jedna válcová a druhá kuželovitě se zužující, jsou naplněny vodou do stejné výše. Potom:
+a) v obou nádobách bude na dno působit stejná tlaková síla, protože plochy dna nádob a výšky kapaliny jsou si rovné
+b) v obou nádobách bude na dno působit různá tlaková síla, protože objem kapaliny v nádobách se liší
+c) v obou nádobách bude u dna stejný hydrostatický tlak, protože výška kapaliny v nádobách je stejná
+d) v obou nádobách bude u dna různý hydrostatický tlak, protože hmotnost kapaliny v nádobách je různá
+Správná odpověď: a, c
+
+3.12. Dvojice sil jsou
+a) jakékoli dvě síly opačného směru,
+b) dvě síly stejné velikosti a opačného směru, které leží v přímce
+c) dvě síly stejné velikosti a opačného směru, působící na totéž těleso, které neleží v přímce
+d) dvě síly stejného směru, působící na totéž těleso
+Správná odpověď: c
+
+3.13. Gravitační konstanta má při použití soustavy SI číselnou velikost 6,67 · 10−11. Z gravitačního zákona můžeme odvodit, že její jednotkou je:
+a) N
+b) N · kg2/m2
+c) N ·m2/kg2
+d) m3/(s2 · kg)
+Správná odpověď: c, d
+
+3.14. Gravitační potenciální energii tělesa o hmotnosti m v malé výšce h nad Zemí vyjádříme vztahem (K – intenzita gravitačního pole; předpokládáme, že Ep = 0 pro h = 0):
+a) Ep = m · K / h
+b) Ep = m · K · h / 2
+c) Ep = m · K · h
+d) Ep = m · K · h2 / 2
+Správná odpověď: c
+
+3.15. Hodnotě hydrostatického tlaku v hloubce 10 m pod hladinou vody je nejblíže hodnota:
+a) 100 kPa
+b) 10 000 Pa
+c) 106 Pa
+d) 98,1 Pa
+Správná odpověď: a
+
+3.16. Hookův zákon platí:
+a) v celém rozsahu deformace materiálu
+b) i v oblasti plastické (trvalé) deformace
+c) až do meze pevnosti materiálu
+d) v oblasti pružné deformace materiálu
+Správná odpověď: d
+
+3.17. Hookův zákon vyjadřuje vzájemný vztah veličin (ϵ – relativní prodloužení, E – modul pružnosti v tahu, σ – normálové napětí) tak, že:
+a) ϵ = E · σ
+b) σ = E / ϵ
+c) σ = E · ϵ
+d) σ = E2 · ϵ
+Správná odpověď: c
+
+3.18. Hydrostatický tlak p závisí na hloubce h, hustotě kapaliny ρ a tíhovém zrychlení g podle vztahu:
+a) p = h · g / ρ
+b) p = h · ρ · g2
+c) p = h · ρ / g
+d) p = h · ρ · g
+Správná odpověď: d
+
+3.19. Hydrostatický tlak v kapalině je:
+a) skalární veličina vyvolaná vnější tlakovou silou
+b) skalární veličina vyvolaná tíhovou silou
+c) vektorová veličina vyvolaná tíhovou silou
+d) vektorová veličina vyvolaná vnější tlakovou silou
+Správná odpověď: b
+
+3.20. Hydrostatický tlak v kapalině v určité hloubce pod volným povrchem kapaliny je:
+a) úměrný hloubce
+b) úměrný zeměpisné šířce
+c) úměrný druhé odmocnině hloubky
+d) úměrný druhé mocnině hloubky
+Správná odpověď: a
+
+3.21. Jakou práci v joulech vykoná zařízení s výkonem 2,5 kW za 3 hodiny?
+a) 75 J
+b) 2 J
+c) 27 MJ
+d) 75 MJ
+Správná odpověď: c
+
+3.22. Jednotka J · kg−1 je rovna:
+a) m2 · s−2
+b) N ·m · kg−1
+c) N ·m−1 · kg−1
+d) m · s−2
+Správná odpověď: a, b
+
+3.23. Jednotka joule je rovna:
+a) N ·m−1
+b) N ·m
+c) N ·m−2
+d) N ·m2
+Správná odpověď: b
+
+3.24. Jednotka joule je vyjádřena v základních jednotkách takto:
+a) kg ·m2 · s−1
+b) kg ·m−2 · s2
+c) kg ·m2 · s−2
+d) kg ·m−1 · s2
+Správná odpověď: c
+
+3.25. Jednotka pascal je rovna:
+a) N ·m−2
+b) N ·m2
+c) J ·m−2
+d) N · s−1
+Správná odpověď: a
+
+3.26. Jednotka pascal je vyjádřena v základních jednotkách takto:
+a) kg ·m2 · s−1
+b) kg ·m−1 · s−2
+c) kg ·m2 · s−2
+d) kg ·m−1 · s2
+Správná odpověď: b
+
+3.27. Jednotka watt je rovna:
+a) J · s
+b) J · s−1
+c) N · s
+d) N · s−1
+Správná odpověď: b
+
+3.28. Jednotka watt je vyjádřena v základních jednotkách takto:
+a) kg ·m2 · s−1
+b) kg ·m−1 · s−2
+c) kg ·m2 · s−2
+d) kg ·m2 · s−3
+Správná odpověď: d
+
+3.29. Jednotkou energie je:
+a) joule
+b) pascal
+c) watt
+d) newton
+Správná odpověď: a
+
+3.30. Jednotkou tlaku je:
+a) pascal (Pa)
+b) technická atmosféra (atp)
+c) bar
+d) torr
+Správná odpověď: a, b, c, d
+
+3.31. Jednotkou tlaku je:
+a) joule
+b) pascal
+c) watt
+d) newton
+Správná odpověď: b
+
+3.32. Jednotkou účinnosti je:
+a) 1 (bezrozměrná jednotka)
+b) newton
+c) joule
+d) watt
+Správná odpověď: a
+
+3.33. Jednotkou výkonu je:
+a) joule
+b) pascal
+c) watt
+d) newton
+Správná odpověď: c
+
+3.34. Jednotku 1 W lze vyjádřit jako:
+a) 1 N ·m · s−1
+b) 1 kg ·m2 · s−2
+c) 1 J · s
+d) 1 kg ·m2 · s−3
+Správná odpověď: a, d
+
+3.35. Kapalina proudí vodorovně ležící trubicí, která se v určitém, dále uvažovaném úseku zužuje. V závislosti na zmenšujícím se průřezu (tedy ve směru proudu):
+a) se tlak na stěny trubice nemění
+b) se rychlost kapaliny zmenšuje a její velikost je přímo úměrná obsahu průřezu trubice
+c) se rychlost kapaliny zmenšuje a její velikost je přímo úměrná průměru trubice
+d) tlak na stěny trubice klesá a může dosáhnout hodnot nižších než atmosférický tlak
+Správná odpověď: d
+
+3.36. Kapalina proudí vodorovně ležící rovnou trubicí, která se v určitém, dále uvažovaném úseku zužuje. V závislosti na zmenšujícím se průřezu (tedy ve směru proudu):
+a) tlak na stěny trubice stoupá
+b) se rychlost kapaliny zvětšuje a její velikost je nepřímo úměrná ploše průřezu trubice
+c) se rychlost kapaliny zvětšuje a její velikost je nepřímo úměrná průměru trubice
+d) tlak na stěny trubice klesá, ale nemůže dosáhnout hodnot nižších než atmosférický tlak
+Správná odpověď: b
+
+3.37. Kilowatthodina je jednotkou:
+a) výkonu
+b) elektrického příkonu
+c) elektrického výkonu
+d) energie
+Správná odpověď: d
+
+3.38. Kilowatthodina je:
+a) jednotka impulsu síly
+b) jednotka momentu setrvačnosti
+c) rovna 4200 J
+d) rovna 3,6 · 106 J
+Správná odpověď: d
+
+3.39. Koncovka hadice má čtyřikrát menší poloměr, než je poloměr hadice. Pomocí této koncovky se velikost rychlosti vytékající kapaliny oproti původní rychlosti kapaliny v hadici zvýší:
+a) dvakrát
+b) šestnáctkrát
+c) čtyřikrát
+d) osmkrát
+Správná odpověď: b
+
+3.40. Laminární proudění reálné kapaliny má následující vlastnosti:
+a) netvoří se víry, vrstvy kapaliny se nepromíchávají
+b) proudnice se protínají, ale kapalina nevíří
+c) rychlost kapaliny je ve všech místech průřezu stejná
+d) proudnice se protínají, vytváří víry
+Správná odpověď: a
+
+3.41. Lyžař o hmotnosti 80 kg stojí na běžkách délky 200 cm a šířky 5 cm. Obě nohy zatěžuje stejně. Průměrný tlak na sníh, který lyžař způsobuje, má velikost přibližně:
+a) 4 kPa
+b) 0,8 Pa
+c) 0,4 Pa
+d) 8 Pa
+Správná odpověď: a
+
+3.42. Mějme dvě nádoby se stejnou velikostí ploch dna, jednu válcovou, druhou kuželovitě se zužující ve směru ke dnu, obě naplněné stejnou kapalinou do stejné výše. Zvolte správné tvrzení:
+a) v obou nádobách bude různý tlak u dna, ale na dno bude působit stejná tlaková síla
+b) v obou nádobách bude stejný tlak u dna, ale na dno bude působit nestejná tlaková síla
+c) v obou nádobách bude stejný jak tlak u dna, tak tlaková síla působící na dno
+d) v obou nádobách bude různý tlak i různá tlaková síla působící na dno
+Správná odpověď: c
+
+3.43. Mějme dvě stejné skleničky – v první z nich je obyčejná voda, v druhé je sodovka (voda s bublinkami kysličníku uhličitého; obsah CO2 rozpuštěného ve vodě zanedbáváme). Pak platí:
+a) v nádobě se sodovkou je větší hydrostatický tlak než ve stejné hloubce nádoby s obyčejnou vodou
+b) v nádobě se sodovkou je menší hydrostatický tlak než ve stejné hloubce nádoby s obyčejnou vodou
+c) v nádobě se sodovkou je stejný hydrostatický tlak jako ve stejné hloubce nádoby s obyčejnou vodou
+d) uniká-li ze sodovky kysličník uhličitý, bude se hustota kapaliny zmenšovat
+Správná odpověď: b
+
+3.44. Motor o příkonu 4 kW pracuje s účinností 80 %. Pracuje-li 4 hodiny, vykoná práci:
+a) 12,8 kWh
+b) 12,8 kJ
+c) 16 kWh
+d) 16 kJ
+Správná odpověď: a
+
+3.45. Motor o příkonu 5 kW pracuje s účinností 80 %. Pracuje-li 2,5 hodiny, vykoná práci:
+a) 36 · 106 J
+b) 3,6 · 106 J
+c) 10 · 103 J
+d) 10 kJ
+Správná odpověď: a
+
+3.46. Na volném povrchu vody v kádince plave nádobka, na jejímž dně je malý kousek olova. Jestliže tento kousek olova vyjmeme z nádobky a vhodíme do vody v kádince, pak hladina vody:
+a) poklesne, nebot’ objem kousku olova je menší, než objem vody, který má stejnou hmotnost
+b) nezmění se
+c) stoupne, nebot’ její objem se zvýší o objem kousku olova
+d) poklesne, nebot’ objem kousku olova je větší, než objem vody, který má stejnou hmotnost
+Správná odpověď: a
+
+3.47. Nestlačitelné těleso tvaru válce je zcela ponořeno v hloubce 5 m pod hladinou. Jak se změní vztlaková síla, jestliže těleso ponoříme do hloubky 15 m
+a) zvětší se 3krát
+b) zmenší se 3krát
+c) nezmění se
+d) zvětší se 9krát
+Správná odpověď: c
+
+3.48. Normální atmosférický tlak má přibližně hodnotu:
+a) 1000 Pa
+b) 106 Pa
+c) 10 kPa
+d) 100 kPa
+Správná odpověď: d
+
+3.49. Normální tlak, tj. tlak za normálních podmínek, udržuje v přibližně rovnováze:
+a) sloupec rtuti o výšce 760 mm
+b) sloupec rtuti o výšce 1 m
+c) sloupec vody o výšce 10 m
+d) sloupec vody o výšce 1 m
+Správná odpověď: a, c
+
+3.50. Označme E1 kinetickou energii homogenní koule rotující kolem osy (procházející jejím těžištěm) úhlovou rychlostí ω a E2 kinetickou energii stejné koule při její rotaci kolem osy, která je její tečnou, stejnou úhlovou rychlostí. Jaký je vztah mezi E1 a E2?
+a) E1 = E2
+b) E1 > E2
+c) E1 < E2
+d) o vztahu energií nelze rozhodnout, záleží na poloze osy a smyslu rotace
+Správná odpověď: c
+
+3.51. Pascalův zákon:
+a) neplatí ve stavu beztíže
+b) platí pouze pro kapaliny, nikoli pro plyny
+c) platí přesně pouze při teplotě absolutní nuly
+d) platí i ve stavu beztíže
+Správná odpověď: d
+
+3.52. Platí převodní vztah:
+a) 1 J = 1 N ·m−1
+b) 1 J = 1 W · s−1
+c) 1 J = 1 Pa ·m3
+d) 1 J = 1 N ·m2
+Správná odpověď: c
+
+3.53. Platí tvrzení:
+a) vztlaková síla je vektor
+b) hydrostatický tlak je vektor
+c) tlaková síla je skalár
+d) tlak je vektor
+Správná odpověď: a
+
+3.54. Platí tvrzení:
+a) manometr je tlakoměr
+b) barometr je tlakoměr pro měření atmosférického tlaku
+c) aneroid je druh barometru, založený na deformaci dutého uzavřeného prostoru vnějším tlakem
+d) barometrický tlak je synonymem tlaku atmosférického
+Správná odpověď: a, b, c, d
+
+3.55. Platí tvrzení:
+a) zemský kvadrant je dlouhý přibližně 10 000 km
+b) obvod rovníku je přibližně 4 · 107 m
+c) nejvyšší hora světa Mount Everest je vysoká přibližně 8848 m
+d) největší naměřená hloubka oceánu v Mariánském příkopě je přibližně 11 km
+Správná odpověď: a, b, c, d
+
+3.56. Platí tvrzení:
+a) Bernoulliho rovnice vyjadřuje zákon zachování energie v proudící kapalině
+b) při určité rychlosti se proudění kapaliny mění z laminárního na turbulentní
+c) velikosti okamžitých rychlostí molekul reálné kapaliny se v celém průřezu trubice neliší
+d) měření rychlosti toku krve může být založeno na Dopplerově jevu
+Správná odpověď: a, b, d
+
+3.57. Platí:
+a) vektor násobený skalárem je vektor
+b) čas je vektorová veličina
+c) moment setrvačnosti je vektorová veličina
+d) kinetická energie je vektor
+Správná odpověď: a
+
+3.58. Plocha podrážek sportovní obuvi je dvojnásobkem plochy podrážek společenské obuvi. Tlak osoby ve společenské obuvi na podlahu:
+a) je dvojnásobný než tlak téže osoby ve sportovní obuvi
+b) je poloviční než tlak téže osoby ve sportovní obuvi
+c) je stejný jako tlak téže osoby ve sportovní obuvi, protože osoba působí vždy stejnou tíhovou silou
+d) závisí jen na hmotnosti osoby a hodnotě tíhového zrychlení
+Správná odpověď: a
+
+3.59. Pojem tekutina:
+a) zahrnuje kapaliny a plyny
+b) označuje kapaliny o vysoké viskozitě (tj. s velkým vnitřním třením)
+c) označuje kapaliny o nízké viskozitě (tj. s nízkým vnitřním třením)
+d) je synonymem pojmu kapalina
+Správná odpověď: a
+
+3.60. Poměr hustoty ledovce k hustotě mořské vody je 0,89. Jak velký objem plovoucího ledovce vyčnívá nad hladinu?
+a) nelze ze zadaných údajů určit
+b) 6 %
+c) 22 %
+d) 11 %
+Správná odpověď: d
+
+3.61. Pro převody mezi jednotkami platí:
+a) 1 J · kg−1 · K−1 = 1 m · s−2 · K−1
+b) 1 W = 1 Pa ·m · s−1
+c) 1 Pa = 1 J ·m−3
+d) 1 W ·m−2 = 1 kg · s−3
+Správná odpověď: c, d
+
+3.62. Pro uvedené pojmy platí:
+a) absolutní tlak je tlak vyjádřený vzhledem k absolutnímu vakuu
+b) přetlak je relativní tlak vzhledem k okolnímu tlaku
+c) podtlak vyjadřuje rozdíl, o kolik je nějaký tlak nižší než okolní tlak
+d) atmosférický tlak je aerostatický tlak ovzduší
+Správná odpověď: a, b, c, d
+
+3.63. Pro uvedené vleličiny platí:
+a) hustota je skalární veličina
+b) tlak je vektorová veličina
+c) práce je vektorová veličina
+d) velikost vektoru je skalár
+Správná odpověď: a, d
+
+3.64. Převed’te jednotku modulu pružnosti v tahu E do základních jednotek soustavy SI:
+a) kg ·m−2 · s−2
+b) kg ·m−1 · s−2
+c) kg ·m−3 · s−2
+d) kg ·m−1 · s−1
+Správná odpověď: b
+
+3.65. Při rovnoměrném pohybu po kružnici o poloměru 0,1 m má hmotný bod dobu oběhu 10 s; pak:
+a) frekvence je rovna 0,1 Hz
+b) úhlová rychlost je 0,6 m/s
+c) perioda je 0,1 Hz
+d) obvodová rychlost je přibližně 0,06 m/s
+Správná odpověď: a, d
+
+3.66. Při ustáleném proudění nestlačitelné kapaliny proudovou trubicí s měnícím se průřezem je v každém místě velikost rychlosti kapaliny:
+a) přímo úměrná průřezu trubice
+b) nepřímo úměrná průřezu trubice
+c) přímo úměrná průměru trubice
+d) nepřímo úměrná průměru trubice
+Správná odpověď: b
+
+3.67. Působí-li na tyč síla v podélném směru, pak prodloužení tyče závisí podle Hookova zákona na délce tyče
+a) nepřímo úměrně
+b) přímo úměrně
+c) lineárně
+d) exponenciálně
+Správná odpověď: b, c
+
+3.68. Rovnice kontinuity je speciálním případem:
+a) zákona zachování energie
+b) zákona zachování hmoty
+c) zákona zachování hybnosti
+d) zákona zachování momentu hybnosti
+Správná odpověď: b
+
+3.69. Rovnice kontinuity ve tvaru v1 · S1 = v2 · S2 platí pro:
+a) ideální kapaliny
+b) ideální tekutiny
+c) ideální plyny
+d) nestlačitelné kapaliny, bez ohledu na jejich viskozitu (vnitřní tření)
+Správná odpověď: a, d
+
+3.70. Skalární veličinou je:
+a) tlaková síla
+b) hydrostatický tlak
+c) hybnost
+d) tíha
+Správná odpověď: b
+
+3.71. Těleso o hmotnosti 10 kg se pohybuje stálou rychlostí 36 km/h. Jeho kinetická energie je:
+a) 360 J
+b) 1000 J
+c) 500 J
+d) přibližně 6,5 kJ
+Správná odpověď: c
+
+3.72. Těleso o hmotnosti 2 kg bylo zdviženo do výšky 2 m a odtud padalo volným pádem; kinetická energie, se kterou dopadá těleso na původní místo, je přibližně:
+a) 20 J
+b) 4 J
+c) 40 J
+d) 60 J
+Správná odpověď: c
+
+3.73. Těleso padalo ve vakuu pod vlivem gravitačního zrychlení g z nulové počáteční rychlosti po dobu t. Jeho rychlost při dopadu byla:
+a) 1/2 · g · t2
+b) g · t
+c) (2t / g)1/2
+d) (2g · t)1/2
+Správná odpověď: b
+
+3.74. Těleso ve vakuu přešlo z klidu do volného pádu a pod vlivem gravitačního zrychlení g padalo po dobu t. Spadlo z výšky:
+a) g · t
+b) 1√/2 · g · t2
+c) 2t / g
+d) t / g
+Správná odpověď: b
+
+3.75. Těleso ve vakuu přešlo z klidu do volného pádu a pod vlivem gravitačního zrychlení g padalo z výšky h. Jeho rychlost při dopadu byla:
+a) 1/2 · g · t
+b) g · h
+c) (2h / g)1/2
+d) (2g · h)1/2
+Správná odpověď: d
+
+3.76. Těleso ve vakuu přešlo z klidu do volného pádu a pod vlivem gravitačního zrychlení g padalo z výšky h. Spadlo za dobu:
+a) g · h
+b) h / g
+c) (2h / g)1/2
+d) 1/2 · g · h
+Správná odpověď: c
+
+3.77. Těleso vložíme celé do kapaliny. Těleso bude stoupat k hladině:
+a) jestliže jeho hustota je větší než hustota kapaliny
+b) je-li tíhová síla působící na těleso větší než vztlaková síla
+c) je-li jeho hmotnost menší než hmotnost kapaliny
+d) jestliže jeho hustota je menší než hustota kapaliny
+Správná odpověď: d
+
+3.78. Tlak 10 N/cm2 lze pomocí jednotky pascal vyjádřit jako:
+a) 100 000 Pa
+b) 10 000 Pa
+c) 107 Pa
+d) 10−3 Pa
+Správná odpověď: a
+
+3.79. Tlak v kapalině je:
+a) vektor směru shodného se směrem síly, která ho vyvolala
+b) skalár
+c) vektor kolmý na dno nádoby
+d) vektor opačného směru než je směr síly, která ho vyvolala
+Správná odpověď: b
+
+3.80. Turbulentní proudění má následující vlastnosti:
+a) kapalina netvoří víry
+b) rychlost kapaliny je ve všech místech průřezu stejná
+c) proudnice jsou přibližně rovnoběžné, vrstvy kapaliny se nepromíchávají
+d) kapalina se promíchává, tvoří se v ní víry
+Správná odpověď: d
+
+3.81. V jaké hloubce pod vodní hladinou je hydrostatický tlak přibližně roven normálnímu atmosférickému tlaku?
+a) 10 cm
+b) 1 m
+c) 10 m
+d) 100 m
+Správná odpověď: c
+
+3.82. V jakých jednotkách se udává modul pružnosti?
+a) Pa
+b) N ·m−1
+c) Pa ·m−1
+d) Pa ·m
+Správná odpověď: a
+
+3.83. V nádrži s kapalinou závisí hydrostatický tlak v dané hloubce pod hladinou:
+a) na polárních vlastnostech kapaliny
+b) na povrchovém napětí kapaliny
+c) na vnitřním tření kapaliny
+d) na hustotě kapaliny
+Správná odpověď: d
+
+3.84. Ve vakuu vypustíme současně peříčko a těžkou olověnou kuličku ze stejné výšky. Pro uvedené předměty (včetně správného zdůvodnění) platí:
+a) dopadnou současně, nebot’ na oba objekty působí stejná gravitační síla, která jim uděluje stejné zrychlení
+b) dopadnou současně, nebot’ na oba objekty působí sice různě velká gravitační síla, avšak zrychlení, které jim uděluje, je stejné
+c) první dopadne kulička, nebot’ má větší hmotnost, tudíž na ni působí větší gravitační síla
+d) dopadnou současně, nebot’ intenzita gravitačního pole, ve kterém se pohybují, je v obou případech stejná
+Správná odpověď: b, d
+
+3.85. Vektorovou veličinou je:
+a) tlak plynu
+b) hydrostatický tlak
+c) tlak
+d) tlaková síla
+Správná odpověď: d
+
+3.86. Velikost rychlosti, se kterou vytéká reálná kapalina otvorem ve stěně, je v porovnání s ideální kapalinou stejné hustoty:
+a) větší než u ideální kapaliny
+b) menší než u ideální kapaliny
+c) menší nebo větší než u ideální kapaliny v závislosti na teplotě
+d) stejná jako u ideální kapaliny
+Správná odpověď: b
+
+3.87. Velikost vztlakové síly působící na těleso úplně ponořené do kapaliny závisí:
+a) na objemu tělesa, hustotě tělesa a kapaliny
+b) na hustotě tělesa a kapaliny
+c) na objemu tělesa a hustotě kapaliny
+d) na celkovém objemu kapaliny a hustotě kapaliny
+Správná odpověď: c
+
+3.88. Vztah pro mechanickou práci W = F · s platí (F je velikost síly, s je délka dráhy):
+a) je-li směr síly F kolmý na směr posunutí s
+b) obecně
+c) mají-li síla F i posunutí s stejný směr
+d) jen v případě, že práci koná tíhová síla
+Správná odpověď: c
+
+3.89. Základní jednotkou hydrostatického tlaku v soustavě SI je:
+a) bar
+b) torr
+c) Pa
+d) mm rtut’ového sloupce
+Správná odpověď: c
+
+3.90. Zmenšíme-li průřez trubice, v níž proudí s konstantním průtokem ideální kapalina:
+a) rychlost kapaliny se zvětší
+b) rychlost kapaliny se zmenší
+c) zvýší se hustota kapaliny
+d) tlak kapaliny klesne
+Správná odpověď: a, d

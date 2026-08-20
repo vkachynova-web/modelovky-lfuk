@@ -1,0 +1,405 @@
+Vyšší podíl bazických aminokyselin v molekule mají:
+a) glykoproteiny
+b) lipoproteiny
+c) histony
+d) metaloproteiny
+Správná odpověď: a
+
+Mezi bazické aminokyseliny řadíme:
+a) glycin
+b) leucin
+c) histidin
+d) lysin
+Správná odpověď: d
+
+Mezi bazické aminokyseliny řadíme:
+a) dimethylamin
+b) arginin
+c) lysin
+d) methionin
+Správná odpověď: a
+
+Mezi bazické aminokyseliny řadíme:
+a) prolin
+b) arginin
+c) alanin
+d) glycin
+Správná odpověď: c
+
+Mezi kyselé aminokyseliny řadíme:
+a) kyselinu glutamovou
+b) kyselinu jantarovou
+c) arginin
+d) kyselinu asparagovou
+Správná odpověď: d
+
+Izoelektrický bod pI aminokyselin je definován jako:
+a) teplota tání jednotlivých aminokyselin
+b) hodnota pH, při které se aminokyselina nepohybuje v elektrickém poli
+c) hodnota pH, při které aminokyselina existuje jako kationt
+d) hodnota pH, při které aminokyselina existuje jako aniont
+Správná odpověď: b
+
+Předpona L- u aminokyselin:
+a) označuje konfiguraci na uhlíku karboxylové skupiny
+b) označuje konfiguraci na alfa uhlíku (Cα)
+c) značí, že aminokyselina otáčí rovinu polarizovaného světla pouze doprava
+d) značí, že aminokyselina otáčí rovinu polarizovaného světla pouze doleva
+Správná odpověď: d
+
+Všechny proteinogenní aminokyseliny (kromě glycinu) mají konfiguraci:
+a) cyklickou
+b) D- a L-
+c) D-
+d) L-
+Správná odpověď: d
+
+Aminokyseliny L-valin a D-valin se liší:
+a) rozpustností ve vodě
+b) schopností otáčet rovinu polarizovaného světla
+c) konformací
+d) konfigurací
+Správná odpověď: c
+
+Kolik optických izomerů tvoří serin?
+a) 1
+b) 2
+c) 3
+d) 0
+Správná odpověď: c
+
+Kolik optických izomerů tvoří kyselina 2-aminopropanová?
+a) jeden
+b) dva
+c) tři
+d) čtyři
+Správná odpověď: b
+
+Esenciální aminokyseliny získává člověk:
+a) z rostlinných a živočišných bílkovin
+b) transaminací oxokyselin
+c) z nenasycených karboxylových kyselin
+d) z iminosloučenin
+Správná odpověď: b
+
+Esenciální aminokyseliny v lidském organizmu:
+a) vznikají oxidací oxokyselin
+b) vznikají transaminací oxokyselin
+c) nevznikají, jsou dodávány potravou
+d) vznikají dehydrogenací oxokyselin
+Správná odpověď: b
+
+Serin je:
+a) α-aminothiopropanová kyselina
+b) α-aminooctová kyselina
+c) β-aminohydroxypropanová kyselina
+d) 2-amino-3-hydroxypropanová kyselina
+Správná odpověď: c
+
+Kyselina 2-amino-3-hydroxypropanová je:
+a) valin
+b) asparagin
+c) serin
+d) cystein
+Správná odpověď: b
+
+Kyselina glutamová je aminokyselina:
+a) monoaminokarboxylová
+b) diaminomonokarboxylová
+c) monoaminodikarboxylová
+d) heterocyklická
+Správná odpověď: a
+
+Leucin je aminokyselina:
+a) monoaminodikarboxylová
+b) aromatická
+c) heterocyklická
+d) alifatická
+Správná odpověď: c
+
+Mezi aminokyseliny, které ve své molekule obsahují alkoholovou či fenolovou skupinu, patří:
+a) cystein
+b) serin
+c) glycin
+d) fenylalanin
+Správná odpověď: a
+
+Mezi aminokyseliny, které obsahují ve své molekule –SH skupinu, patří:
+a) histidin
+b) valin
+c) cystein
+d) serin
+Správná odpověď: b
+
+Mezi aminokyseliny, které obsahují ve své molekule benzenové jádro, patří:
+a) histidin
+b) tyrosin
+c) glutamin
+d) valin
+Správná odpověď: d
+
+Mezi aminokyseliny, které obsahují ve své molekule benzenové jádro, patří:
+a) prolin
+b) tyrosin
+c) valin
+d) fenylalanin
+Správná odpověď: a
+
+Mezi aminokyseliny, které obsahují ve své molekule síru, patří:
+a) histidin
+b) cystein
+c) serin
+d) methionin
+Správná odpověď: d
+
+Mezi aminokyseliny, které obsahují ve své molekule síru, patří:
+a) tryptofan
+b) alanin
+c) serin
+d) cystein
+Správná odpověď: d
+
+Mezi aminokyseliny, které obsahují ve své molekule heterocyklický zbytek, patří:
+a) asparagin
+b) tyrosin
+c) tryptofan
+d) histidin
+Správná odpověď: c
+
+Mezi aminokyseliny, které obsahují ve své molekule heterocyklický zbytek, patří:
+a) histidin
+b) glutamin
+c) tyrosin
+d) valin
+Správná odpověď: d
+
+Mezi aminokyseliny, které obsahují ve své molekule heterocyklický zbytek, patří:
+a) tryptofan
+b) tyrosin
+c) methionin
+d) asparagin
+Správná odpověď: c
+
+Mezi aromatické aminokyseliny řadíme:
+a) tyrosin
+b) threonin
+c) cystein
+d) lysin
+Správná odpověď: d
+
+Sloučenina s tímto vzorcem se nazývá:
+a) serin
+b) valin
+c) glycin
+d) alanin
+Správná odpověď: c
+
+Sloučenina s tímto vzorcem se nazývá:
+a) glycin
+b) alanin
+c) leucin
+d) prolin
+Správná odpověď: a
+
+Sloučenina s tímto vzorcem se nazývá:
+a) leucin
+b) serin
+c) valin
+d) glycin
+Správná odpověď: b
+
+Sloučenina s tímto vzorcem se nazývá:
+a) alanin
+b) prolin
+c) valin
+d) leucin
+Správná odpověď: c
+
+Sloučenina s tímto vzorcem se nazývá:
+a) glycin
+b) methionin
+c) cystein
+d) serin
+Správná odpověď: b
+
+Sloučenina s tímto vzorcem se nazývá:
+a) serin
+b) methionin
+c) glycin
+d) cystein
+Správná odpověď: c
+
+Sloučenina s tímto vzorcem se nazývá:
+a) tryptofan
+b) tyrosin
+c) fenylalanin
+d) prolin
+Správná odpověď: d
+
+Sloučenina s tímto vzorcem se nazývá:
+a) tyrosin
+b) histidin
+c) alanin
+d) fenylalanin
+Správná odpověď: b
+
+Sloučenina s tímto vzorcem se nazývá:
+a) alanin
+b) methionin
+c) prolin
+d) cystein
+Správná odpověď: c
+
+Sloučenina s tímto vzorcem se nazývá:
+a) lysin
+b) prolin
+c) leucin
+d) arginin
+Správná odpověď: b
+
+Systematický název glycinu je:
+a) kyselina 2-aminomethanová
+b) kyselina 2-aminoethanová
+c) kyselina 2-aminopropanová
+d) kyselina 2-amino-3-hydroxypropanová
+Správná odpověď: b
+
+Systematický název alaninu je:
+a) kyselina 2-amino-3-hydroxypropanová
+b) kyselina 2-amino-3-methylbutanová
+c) kyselina 2-aminoethanová
+d) kyselina 2-aminopropanová
+Správná odpověď: a
+
+Systematický název valinu je:
+a) kyselina 2-amino-4-methylpentanová
+b) kyselina 2-amino-3-ethylpropanová
+c) kyselina 2-amino-3-methylbutanová
+d) kyselina 2-aminopropanová
+Správná odpověď: b
+
+Systematický název leucinu je:
+a) kyselina 2-amino-4-methylpentanová
+b) kyselina 2-aminopropanová
+c) kyselina 2-amino-3-methylbutanová
+d) kyselina 2-amino-3-ethylpropanová
+Správná odpověď: d
+
+Systematický název isoleucinu je:
+a) kyselina 2-amino-4-methylpentanová
+b) kyselina 2-amino-3-methylpentanová
+c) kyselina 2-amino-3-methylbutanová
+d) kyselina 2-aminoethanová
+Správná odpověď: a
+
+Systematický název serinu je:
+a) kyselina 2-amino-3-thiopropanová
+b) kyselina 2-aminopropanová
+c) kyselina 2-amino-3-hydroxypropanová
+d) kyselina 2-amino-4-hydroxypropanová
+Správná odpověď: b
+
+Systematický název threoninu je:
+a) kyselina 2-amino-3-hydroxypropanová
+b) kyselina 2-amino-3-fenylpropanová
+c) kyselina 2-amino-3-(4-hydroxyfenyl)propanová
+d) kyselina 2-amino-3-hydroxybutanová
+Správná odpověď: b
+
+Systematický název kyseliny asparagové je:
+a) kyselina 2-aminopropandiová
+b) kyselina 2-aminoethandiová
+c) kyselina 2-aminobutandiová
+d) kyselina 2-aminopentandiová
+Správná odpověď: b
+
+Systematický název kyseliny glutamové je:
+a) kyselina 2-aminopropandiová
+b) kyselina 2-aminopentandiová
+c) kyselina 2-aminobutandiová
+d) kyselina 2-aminoethandiová
+Správná odpověď: a
+
+Systematický název fenylalaninu je:
+a) kyselina 2-amino-3-(4-hydroxyfenyl)propanová
+b) kyselina 2-amino-3-fenylethanová
+c) kyselina 2-amino-4-methylpentanová
+d) kyselina 2-amino-3-fenylpropanová
+Správná odpověď: c
+
+Systematický název tyrosinu je:
+a) kyselina 2-amino-3-(4-hydroxyfenyl)butanová
+b) kyselina 2-amino-3-fenylbutanová
+c) kyselina 2-amino-3-fenylpropanová
+d) kyselina 2-amino-3-(4-hydroxyfenyl)propanová
+Správná odpověď: a
+
+Kyselina aminooctová je název pro:
+a) alanin
+b) serin
+c) cystein
+d) glycin
+Správná odpověď: d
+
+Kyselina α-aminopropanová je název pro:
+a) fenylalanin
+b) serin
+c) valin
+d) alanin
+Správná odpověď: c
+
+Kyselina α-amino-β-hydroxypropanová je název pro:
+a) glycin
+b) isoleucin
+c) serin
+d) tyrosin
+Správná odpověď: c
+
+Kyselina α-amino-β-sulfanylpropanová je název pro:
+a) cystein
+b) leucin
+c) glycin
+d) serin
+Správná odpověď: b
+
+Kyselina α-amino-β-fenylpropanová je název pro:
+a) tyrosin
+b) serin
+c) fenylalanin
+d) cystein
+Správná odpověď: d
+
+Kyselina α-amino-β-(p-hydroxyfenyl)propanová je název pro:
+a) alanin
+b) fenylalanin
+c) threonin
+d) tyrosin
+Správná odpověď: a
+
+Sloučenina s tímto vzorcem se nazývá:
+a) 2-amino-3-(4-hydroxyfenyl)propanová kyselina
+b) fenylalanin
+c) tyrosin
+d) prolin
+Správná odpověď: c
+
+Sloučenina s tímto vzorcem se nazývá:
+a) prolin
+b) histidin
+c) kyselina pyrrolidin-2-karboxylová
+d) threonin
+Správná odpověď: a
+
+Sloučenina s tímto vzorcem se nazývá:
+a) histidin
+b) prolin
+c) tyrosin
+d) tryptofan
+Správná odpověď: b
+
+Sloučenina s tímto vzorcem se nazývá:
+a) imidazol
+b) histidin
+c) tryptofan
+d) arginin
+Správná odpověď: b

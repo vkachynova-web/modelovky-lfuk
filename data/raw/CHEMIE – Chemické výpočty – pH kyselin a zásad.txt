@@ -1,0 +1,349 @@
+Jaké je pH roztoku, ve kterém c(OH–) = 10–2 mol dm–3:
+a) 2
+b) 13
+c) 12
+d) 11
+Správná odpověď: c
+
+Jaké je pH roztoku, ve kterém c(OH–) = 10–5 mol dm–3:
+a) 5
+b) 10
+c) 9
+d) 12
+Správná odpověď: c
+
+Jaké je pH roztoku, ve kterém c(H3O+) = 10–2 mol dm–3:
+a) 3
+b) 2
+c) 10–12 mol dm–3
+d) 12
+Správná odpověď: b
+
+Jaká je látková koncentrace H3O+ v roztoku, kde c(OH–) = 10–10 mol dm–3:
+a) 0,0004 mol dm–3
+b) 10–10 mol dm– 3
+c) 10–7 mol dm–3
+d) 0,0001 mol dm–3
+Správná odpověď: d
+
+Jaká je látková koncentrace H3O+ v roztoku, kde c(OH–) = 10–5 mol dm–3:
+a) 10–9 mol dm–3
+b) 10–5 mol dm–3
+c) 0,00005 mol dm–3
+d) 0,5 mol dm–3
+Správná odpověď: a
+
+Je-li látková koncentrace hydroxidových iontů ve vodném roztoku silné báze rovna 1·10–8 mol dm–3, jaká je reakce tohoto roztoku a jeho pH?
+a) roztok je kyselý; pH = 6,0
+b) roztok je zásaditý; pH = 6,0
+c) roztok je zásaditý; pH = 8,0
+d) roztok je kyselý; pH = 8,0
+Správná odpověď: a
+
+Látková koncentrace iontů OH– v roztoku je 1·10–9 mol dm–3. Jaká je reakce tohoto roztoku a jeho pH?
+a) roztok je zásaditý; pH = 9,0
+b) roztok je kyselý; pH = 5,0
+c) roztok je zásaditý pH = 5,0
+d) roztok je kyselý; pH = 9,0
+Správná odpověď: b
+
+Je-li látková koncentrace hydroxidových iontů ve vodném roztoku silné báze rovna 1·10–11 mol dm–3, jaká je reakce tohoto roztoku a jeho pH?
+a) roztok je kyselý; pH = 11,0
+b) roztok je zásaditý pH = 11,0
+c) roztok je zásaditý pH = 3,0
+d) roztok je kyselý; pH = 3,0
+Správná odpověď: d
+
+Látková koncentrace hydroxidových iontů v roztoku je 1·10–12 mol dm–3. Jaká je reakce roztoku a jeho pH?
+a) roztok je zásaditý pH = 12,0
+b) roztok je zásaditý pH = 2,0
+c) roztok je kyselý; pH = 2,0
+d) roztok je kyselý; pH = 12,0
+Správná odpověď: c
+
+Jestliže je v roztoku HNO3 látková koncentrace H3O+ rovna 0,01 mol dm–3, lze o tomto roztoku říci, že:
+a) jeho pH je 2
+b) jeho pH je 1
+c) látková koncentrace HNO3 je v něm rovna 1·10–2 mol dm–3
+d) látková koncentrace OH– je v něm rovna 1·10–12 mol dm–3
+Správná odpověď: a, c, d
+
+Jestliže je ve vodném roztoku HNO3 látková koncentrace H3O+ rovna 0,001 mol dm–3, lze o tomto roztoku říci, že:
+a) látková koncentrace OH– je v něm rovna 1·10–11 mol dm–3
+b) jeho pH je 3
+c) látková koncentrace HNO3 je v něm rovna 1·10–3  mol dm–3
+d) jeho pH je 1
+Správná odpověď: a, b, c
+
+Jestliže je v roztoku HNO3 látková koncentrace H3O+ rovna 0,0001 mol dm–3, lze o tomto roztoku říci, že:
+a) jeho pH je 4
+b) jeho pH je 1
+c) látková koncentrace OH– je v něm rovna 1·10–10 mol dm–3
+d) látková koncentrace HNO3 je v něm rovna 1·10–4  mol dm–3
+Správná odpověď: a, c, d
+
+Jestliže je ve vodném roztoku HBr látková koncentrace H3O+ rovna 0,001 mol dm–3, lze o tomto roztoku říci, že:
+a) látková koncentrace OH– je v něm rovna 1·10–10 mol dm–3
+b) jeho pH je 1
+c) látková koncentrace HBr je v něm rovna 1·10–3 mol dm–3
+d) jeho pH je 3
+Správná odpověď: c, d
+
+Jestliže je ve vodném roztoku HBr látková koncentrace H3O+ rovna 0,0001 mol dm–3, lze o tomto roztoku říci, že:
+a) látková koncentrace OH– je v něm rovna 1·10–10 mol dm–3
+b) jeho pH je 4
+c) látková koncentrace HBr je v něm rovna 1·10–4 mol dm–3
+d) jeho pH je 1
+Správná odpověď: a, b, c
+
+Jestliže je ve vodném roztoku HCl látková koncentrace H3O+ rovna 0,01 mol dm–3, lze o tomto roztoku říci, že:
+a) látková koncentrace HCl je v něm rovna 1·10–2 mol dm–3
+b) látková koncentrace OH– je v něm rovna 1·10–12 mol dm–3
+c) jeho pH je 2
+d) jeho pH je 1
+Správná odpověď: a, b, c
+
+Jestliže je ve vodném roztoku HCl látková koncentrace H3O+ rovna 0,1 mol dm–3, lze o tomto roztoku říci, že:
+a) jeho pH je 2
+b) jeho pH je 1
+c) látková koncentrace OH– je v něm rovna 1·10–13 mol dm–3
+d) látková koncentrace HCl je v něm rovna 1·10–1 mol dm–3
+Správná odpověď: b, c, d
+
+Jestliže je ve vodném roztoku HCl látková koncentrace H3O+ rovna 0,00001 mol dm–3, lze o tomto roztoku říci, že:
+a) jeho pH je 1
+b) jeho pH je 5
+c) látková koncentrace c(HCl) je v něm rovna 1·10–5 mol dm–3
+d) látková koncentrace c(OH–) je v něm rovna 1·10–10 mol dm–3
+Správná odpověď: b, c
+
+Jaké je pH roztoku HNO3, který obsahuje HNO3 o koncentraci 1·10–4 mol dm–3?
+a) 4
+b) 10
+c) 3
+d) 10–4
+Správná odpověď: a
+
+Jaká je přibližná hodnota pH roztoku HNO3, ve kterém je látková koncentrace kyseliny dusičné rovna 1 mol dm–3?
+a) 2
+b) 0
+c) 1
+d) 13
+Správná odpověď: b
+
+Jaké je pH roztoku HCl o hmotnosti 150 g, který obsahuje HCl o koncentraci 0,0001 mol dm–3 ?
+a) 2
+b) 3
+c) 1
+d) 4
+Správná odpověď: d
+
+Jaké je pH roztoku HCl, ve kterém je látková koncentrace HCl 0,01 mol dm–3?
+a) 3
+b) 1
+c) 2
+d) 12
+Správná odpověď: c
+
+Jaká je látková koncentrace kyseliny sírové v roztoku, jehož pH je 1?
+a) 0,1 mol dm–3
+b) 0,05 mol dm–3
+c) 1 mol dm–3
+d) 0,5 mol dm–3
+Správná odpověď: b
+
+Jaká je látková koncentrace kyseliny sírové v roztoku, jehož pH je 2?
+a) 1·10–2 mol dm–3
+b) 5·10–3 mol dm–3
+c) 2 mol dm–3
+d) 5·10–1 mol dm–3
+Správná odpověď: b
+
+Jaké je pH roztoku kyseliny sírové, je-li látková koncentrace kyseliny sírové v tomto roztoku 0,005 mol dm–3?
+a) 3
+b) 4
+c) 2
+d) 5
+Správná odpověď: c
+
+Jaké je pH vodného roztoku kyseliny sírové, je-li látková koncentrace kyseliny sírové 0,0005 mol dm–3?
+a) 4
+b) 3,3
+c) 2
+d) 3
+Správná odpověď: d
+
+Jaká je látková koncentrace HCl v roztoku o pH 2?
+a) 0,01 mol dm–3
+b) 2 mol dm–3
+c) 0,02 mol dm–3
+d) 10–12 mol dm–3
+Správná odpověď: a
+
+Jaká je koncentrace H3O+ ve vodném roztoku HBr o koncentraci 0,001 mol dm–3?
+a) 10–3 mol dm–3
+b) 10–2 mol dm–3
+c) 10–1 mol dm–3
+d) 103 mol dm–3
+Správná odpověď: a
+
+Jaká je látková koncentrace OH– v roztoku HBr o pH = 6?
+a) 0,0001 mol dm–3
+b) 10–8 mol dm–3
+c) 10–6 mol dm–3
+d) 10–10 mol dm–3
+Správná odpověď: b
+
+Jaká je látková koncentrace OH– v roztoku HCl o pH = 2?
+a) 12 mmol dm–3
+b) 10–2 mol dm–3
+c) 10–7 mol dm–3
+d) 10–12 mol dm–3
+Správná odpověď: d
+
+Jaká je látková koncentrace OH– v roztoku HNO3 o pH = 1?
+a) 10–1 mol dm–3
+b) 13 mol dm–3
+c) 1 mol dm–3
+d) 10–13 mol dm–3
+Správná odpověď: d
+
+Jaká je koncentrace OH– ve vodném roztoku HCl, který obsahuje v 1 litru látkové množství 0,001 mol HCl?
+a) 10–11 mol dm–3
+b) 10–7 mol dm–3
+c) 10–3 mol dm–3
+d) 10–14 mol dm–3
+Správná odpověď: a
+
+Jaká je látková koncentrace OH– ve vodném roztoku HBr, který obsahuje v 1 dm3 látkové množství 0,001 mol HBr?
+a) 3·10–2 mol dm–3
+b) 10–7 mol dm–3
+c) 10–3 mol dm–3
+d) 10–11 mol dm–3
+Správná odpověď: d
+
+Je-li v roztoku HCl látková koncentrace Cl– rovna 0,0001 mol dm–3, je pH tohoto roztoku rovno:
+a) 3
+b) 2
+c) 10
+d) 4
+Správná odpověď: d
+
+Je-li v roztoku HBr látková koncentrace Br– rovna 0,001 mol dm–3, je hodnota pH tohoto roztoku rovna:
+a) 11
+b) 3
+c) 1
+d) 0,001
+Správná odpověď: b
+
+Jaká je koncentrace H3O+ ve vodném roztoku KOH, obsahuje-li jeden litr roztoku látkové množství 0,01 mol KOH?
+a) 10–2 mol dm–3
+b) 2·10–2 mol dm–3
+c) 10–12 mol dm–3
+d) 10–7 mol dm–3
+Správná odpověď: c
+
+Jestliže je ve vodném roztoku KOH látková koncentrace OH– rovna 0,001 mol dm–3, lze o tomto roztoku říci, že:
+a) jeho pH je 3
+b) látková koncentrace KOH je v něm rovna 1·10–3 mol dm–3
+c) látková koncentrace H3O + je v něm rovna 1·10–3 mol dm–3
+d) jeho pH je 11
+Správná odpověď: b, d
+
+Jestliže je ve vodném roztoku NaOH látková koncentrace OH– = 0,0001 mol dm–3, lze o tomto roztoku říci, že:
+a) jeho pH je 10
+b) látková koncentrace H3O + je v něm rovna 1·10–3 mol dm–3
+c) látková koncentrace NaOH je v něm rovna 1·10–4 mol dm–3
+d) jeho pH je 1
+Správná odpověď: a, c
+
+Jaké je pH vodného roztoku KOH o koncentraci 10–2 mol dm–3?
+a) 12
+b) 2
+c) 10
+d) 14
+Správná odpověď: a
+
+Je-li látková koncentrace roztoku hydroxidu sodného rovna 1 mol dm–3, je přibližná hodnota pH takového roztoku:
+a) 14
+b) 13
+c) 10
+d) 1
+Správná odpověď: a
+
+Je-li látková koncentrace roztoku NaOH rovna 0,0001 mol dm–3, je hodnota pH tohoto roztoku rovna:
+a) 3
+b) 11
+c) 4
+d) 10
+Správná odpověď: d
+
+Jaké je pH roztoku KOH o hmotnosti 100 g, ve kterém je látková koncentrace KOH rovna 10–4 mol dm–3?
+a) 10
+b) 4
+c) 8
+d) 10–11 mol dm–3
+Správná odpověď: a
+
+Je-li v roztoku KOH látková koncentrace K+ rovna 10–2 mol dm–3, je hodnota pH tohoto roztoku rovna:
+a) 10
+b) 11
+c) 2
+d) 12
+Správná odpověď: d
+
+Je-li v roztoku NaOH látková koncentrace Na+ rovna 0,1 mol dm–3, můžeme o tomto roztoku tvrdit že:
+a) jeho pH je 12
+b) jeho pH je 11
+c) koncentrace H3O + = 10–13 mol dm–3
+d) jeho pH je 1
+Správná odpověď: c
+
+Jaká je látková koncentrace hydroxidu draselného v roztoku, jehož pH je 12?
+a) 10–12 mol dm–3
+b) 1 mol dm–3
+c) 10–2  mol dm–3
+d) 0,1 mol dm–3
+Správná odpověď: c
+
+Jaká je látková koncentrace hydroxidu sodného v roztoku, jehož pH je 10?
+a) 0,0001 mol dm–3
+b) 10–9 mol dm–3
+c) 0,001 mol dm–3
+d) 10–10 mol dm–3
+Správná odpověď: a
+
+100 ml roztoku kyseliny dusičné o látkové koncentraci HNO3 rovné 0,001 mol dm–3 smísíme s  900 ml vody. Jaké bude pH výsledného roztoku?
+a) 2
+b) 1
+c) 3
+d) 4
+Správná odpověď: d
+
+Roztok kyseliny bromovodíkové o pH 2 zředíme 100× vodou. Jaké bude pH výsledného roztoku?
+a) 2
+b) 4
+c) 3
+d) 1
+Správná odpověď: b
+
+Roztok kyseliny chlorovodíkové o pH 2 zředíme 10× vodou. Jaká bude koncentrace c(H3O+) ve výsledném roztoku?
+a) 10–2 mol dm–3
+b) 10–3 mol dm–3
+c) 10–1 mol dm–3
+d) 10–4 mol dm–3
+Správná odpověď: b
+
+10 ml roztoku hydroxidu sodného o látkové koncentraci NaOH rovné 0,1 mol dm–3 smísíme s 90 ml vody. Jaké bude pH výsledného roztoku?
+a) 2
+b) 13
+c) 12
+d) 11
+Správná odpověď: c
+
+Roztok hydroxidu sodného o pH 11 zředíme 10× vodou. Jaká bude koncentrace OH– ve výsledném roztoku?
+a) 10–11 mol dm–3
+b) 10–10 mol dm–3
+c) 10–4 mol dm–3
+d) 10–3 mol dm–3
+Správná odpověď: c

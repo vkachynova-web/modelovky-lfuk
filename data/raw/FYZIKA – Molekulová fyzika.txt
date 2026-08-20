@@ -1,0 +1,525 @@
+
+6.01. Absolutní prodloužení měděné tyče je:
+a) nezávislé na přírůstku teploty
+b) přímo úměrné jen počáteční délce tyče, nezávislé na teplotě
+c) nepřímo úměrné přírůstku teploty
+d) přímo úměrné počáteční délce tyče a přírůstku teploty
+Správná odpověď: d
+
+6.02. Absolutní vlhkost vzduchu je:
+a) největší možná vlhkost při dané teplotě
+b) poměr mezi konkrétní vlhkostí vzduchu a maximální vlhkostí vzduchu při téže teplotě
+c) hmotnost vodních par v jednotce objemu
+d) udávána v jednotkách mol/m
+Správná odpověď: c
+
+6.03. Amorfní látky jsou:
+a) izotropní
+b) uměle připravené, v přírodě se nevyskytují
+c) zpravidla krystalické
+d) anizotropní
+Správná odpověď: a
+
+6.04. Atomová hmotnostní jednotka je definována jako:
+a) 1/12 hmotnosti atomu nuklidu uhlíku 12C
+b) 1/14 hmotnosti atomu nuklidu dusíku 14N
+c) 1/16 hmotnosti atomu nuklidu kyslíku 16O
+d) hmotnost atomu nuklidu vodíku 1H
+Správná odpověď: a
+
+6.05. Brownův pohyb je důsledkem a projevem:
+a) vlivu chemické aktivity mezi částicemi
+b) působení elektrostatických sil mezi částicemi
+c) uspořádaného pohybu molekul
+d) neuspořádaného pohybu molekul
+Správná odpověď: d
+
+6.06. Brownův pohyb můžeme pomocí mikroskopu pozorovat na:
+a) hrubých částicích, např. o velikosti 0,1 mm
+b) částicích velikosti zhruba 1 mikrometr
+c) iontech
+d) malých molekulách
+Správná odpověď: b
+
+6.07. Desublimace je přechod:
+a) ze skupenství plynného do skupenství kapalného
+b) ze skupenství plynného do skupenství pevného
+c) ze skupenství pevného do skupenství plynného
+d) ze skupenství kapalného do skupenství plynného
+Správná odpověď: b
+
+6.08. Difúze je:
+a) název pro chemické reakce, při kterých látky teplo odevzdávají
+b) název pro chemické reakce, při kterých látky teplo přijímají
+c) vynucené pronikání částic jedné látky mezi částice druhé látky (např. zahříváním)
+d) samovolné pronikání částic jedné látky mezi částice druhé látky
+Správná odpověď: d
+
+6.09. Difúze:
+a) je způsobena tepelným pohybem částic
+b) je důsledkem Brownova pohybu
+c) závisí na teplotě
+d) je úměrná osmotickému tlaku
+Správná odpověď: a, c
+
+6.10. Do nádoby s rozpustnou pevnou barevnou látkou nalijeme vodu. Roztok se rychle zbarví těsně nad danou látkou. Zbarvení se bude dále šířit směrem vzhůru. Pozorovaný děj se nazývá:
+a) povrchové napětí
+b) vnitřní tření
+c) osmóza
+d) difúze
+Správná odpověď: d
+
+6.11. Fyzikální rozměr či jednotka veličiny relativního prodloužení ϵ je:
+a) m
+b) 1
+c) m2
+d) m−1
+Správná odpověď: b
+
+6.12. Jednotka měrného skupenského tepla tání vyjádřená v základních jednotkách soustavy SI je:
+a) J · kg−1
+b) kg ·m−3
+c) m2 · s−2
+d) kg ·m2 · s−2
+Správná odpověď: c
+
+6.13. Jednotkou měrného skupenského tepla tání je:
+a) J · K−1
+b) J · kg−1
+c) J
+d) J · K
+Správná odpověď: b
+
+6.14. Jednotkou molární hmotnosti je:
+a) kg ·mol−1
+b) m3 ·mol−1
+c) mol
+d) 1
+Správná odpověď: a
+
+6.15. Jednotkou povrchového napětí v základních jednotkách soustavy SI je:
+a) kg ·m · s−1
+b) kg ·m · s−2
+c) kg ·m−1 · s−2
+d) kg · s−2
+Správná odpověď: d
+
+6.16. Jednotku povrchového napětí lze vyjádřit jako:
+a) J ·m−1
+b) N ·m
+c) J ·m−2
+d) N ·m−1
+Správná odpověď: c, d
+
+6.17. Kapalina se na povrchu vypařuje
+a) jen při teplotě vyšší nebo rovné než bodu varu
+b) uvolňováním molekul z krystalové mřížky
+c) v závislosti na teplotě
+d) při jakékoli teplotě
+Správná odpověď: c, d
+
+6.18. Kapalina v kapiláře vystoupila do určité výšky; do jaké výšky kapalina vystoupí, použijeme-li podobnou kapiláru, ale s dvojnásobným průměrem?
+a) výška bude stejná
+b) výška bude dvojnásobná
+c) výška bude o polovinu větší
+d) výška bude nižší
+Správná odpověď: d
+
+6.19. Kapalnění (kondenzace) je přechod:
+a) ze skupenství pevného do skupenství kapalného
+b) ze skupenství pevného do skupenství plynného
+c) ze skupenství plynného do skupenství pevného
+d) při jehož průběhu kondenzující látka uvolňuje energii
+Správná odpověď: d
+
+6.20. Kapilární elevace je důsledkem:
+a) objemové teplotní roztažnosti kapaliny
+b) změn teploty stěny kapiláry a kapaliny v ní obsažené
+c) rozdílné teploty tuhnutí stěny kapiláry a kapaliny v ní obsažené
+d) povrchového napětí
+Správná odpověď: d
+
+6.21. Kondenzace je:
+a) přeměna plynné fáze v pevnou
+b) přeměna kapalné fáze v plynnou
+c) přeměna plynné fáze v kapalnou
+d) zvýšení tlaku plynu
+Správná odpověď: c
+
+6.22. Který z následujících materiálů je vždy anizotropní?
+a) amorfní
+b) polykrystalický
+c) monokrystalický
+d) polymer
+Správná odpověď: c
+
+6.23. Má-li kapalina v kapiláře volný povrch ve tvaru kulového vrchlíku o poloměru r, pak je kapilární tlak p (σ – povrchové napětí kapaliny):
+a) nezávislý na poloměru r
+b) přímo úměrný poloměru r
+c) dán vztahem p = 2 · σ / r
+d) dán vztahem p = 4 · σ / r
+Správná odpověď: c
+
+6.24. Máme 10 l studené vody o teplotě 10 °C a 20 l vody teplé 40 °C. Potom platí:
+a) smícháním teplé a studené vody obdržíme lázeň o teplotě 30 °C
+b) teplá voda má 4krát více vnitřní energie než studená
+c) molekuly teplé vody kmitají 4krát rychleji než ve studené
+d) přilitím studené vody do teplé klesne entropie o 10 J.
+Správná odpověď: a
+
+6.25. Maximální možný rozsah rtut’ového teploměru je:
+a) −38 °C až 356 °C
+b) 0 °C až 257 °C
+c) 35 °C až 43 °C
+d) 0 °C až 100 °C
+Správná odpověď: a
+
+6.26. Měrná tepelná kapacita je:
+a) teplo potřebné k roztání 1 kg dané látky
+b) teplo potřebné k ohřátí 1 kg dané látky z teploty tání na teplotu varu
+c) teplo potřebné k ohřátí celého daného množství látky o 1 K
+d) teplo potřebné k ohřátí 1 kg dané látky o 1 K
+Správná odpověď: d
+
+6.27. Měrné skupenské teplo tání je teplo potřebné:
+a) k roztání 1 molu látky
+b) k roztání 1 kg látky
+c) k vzrůstu teploty 1 kg látky o 1 K
+d) k vzrůstu teploty 1 kg látky o 1 °C
+Správná odpověď: b
+
+6.28. Měrné skupenské teplo tání ledu při 0 °C je 334 J · g−1 měrné skupenské teplo vypařování (varu) je při 100 °C 2256 J · g−1 a měrná tepelná kapacita vody (v rozsahu teplot 0 °C až 100 °c) je přibližně 4200 J · kg−1 · K−1; pak platí:
+a) k ohřátí vody z 0 °C na 100 °C je třeba méně tepla než k roztání ledu o stejné hmotnosti při 0 °C
+b) k ohřátí vody o teplotě 25 °C na teplotu 100 °C je třeba méně tepla než k odpaření tohoto množství vody při teplotě 100 °C
+c) k roztání ledu o dané hmotnosti při 0 °C je třeba méně tepla než k odpaření vody téže hmotnosti při teplotě 100 °C
+d) k roztání ledu o teplotě 0 °C a ohřátí vody dané hmotnosti na teplotu 40 °C je třeba stejné teplo jako k ohřátí vody o teplotě 0 °C dané hmotnosti na teplotu 40 °C
+Správná odpověď: b, c
+
+6.29. Měřítko na ocelovém pásmu je správné při teplotě t = 15 °C. Byla jím naměřena délka l = 100 m při teplotě t = 5 °C. Jak je třeba opravit naměřenou hodnotu? (Součinitel délkové teplotní roztažnosti oceli αFe = 1,2 · 10−5 K−1)
+a) je nutno odečíst 1,2 mm
+b) je nutno odečíst 2,4 cm
+c) je nutno přičíst 2,4 cm
+d) je nutno odečíst 1,2 cm
+Správná odpověď: d
+
+6.30. Mezi krystalické látky patří:
+a) vosk
+b) sklo
+c) vápenec
+d) led
+Správná odpověď: c, d
+
+6.31. Množství tepla potřebné k odpaření 1 kg kapaliny:
+a) je určeno měrným skupenským teplem vypařování (varu)
+b) je stejně velké jako množství tepla uvolněné kondenzací 1 kg páry téže látky
+c) je přímo úměrné hustotě kapaliny
+d) je přímo úměrné měrné tepelné kapacitě
+Správná odpověď: a, b
+
+6.32. Molární tepelná kapacita je:
+a) teplo potřebné k ohřátí 1 m3 látky o 1 K
+b) teplo potřebné k ohřátí 1 kg látky o 1 K
+c) teplo potřebné k ohřátí 1 mol látky z teploty tání na teplotu varu
+d) teplo potřebné k ohřátí 1 mol látky o 1 K
+Správná odpověď: d
+
+6.33. Molekuly v kapalinách na sebe působí:
+a) soudržnými mezimolekulovými silami a výsledkem tohoto působení sil na povrchu kapaliny, směřujících do jejího nitra, je snaha zaujmout co nejmenší povrch
+b) mezimolekulovými silami a výsledkem tohoto působení sil je snaha kapaliny zaujmout co největší povrch
+c) odpudivými silami a v důsledku tohoto působení sil kapalina nezaujímá žádný tvar
+d) silami, v jejichž důsledku vzniká povrchové napětí
+Správná odpověď: a, d
+
+6.34. Nachází-li se molekula v povrchové vrstvě kapaliny, působí na ni síla:
+a) přitažlivá, kolmo k povrchu a směrem dovnitř kapaliny
+b) o nulové velikosti
+c) odpudivá
+d) přitažlivá, kolmo k povrchu a směrem ven z kapaliny
+Správná odpověď: a
+
+6.35. Nejlepším tepelným vodičem z uvedených materiálů je:
+a) sklo
+b) měd’
+c) vzduch
+d) dřevo
+Správná odpověď: b
+
+6.36. Nesprávné přiřazení veličiny a jednotky je:
+a) jednotkou skupenského tepla tání je J · K−1
+b) jednotkou měrného skupenského tepla tání je J · kg−1
+c) jednotkou tepelné kapacity tělesa je J · K−1
+d) jednotkou měrné tepelné kapacity (měrného tepla) je J · kg−1 · K−1
+Správná odpověď: a
+
+6.37. Nesprávné přiřazení veličiny a jednotky je:
+a) jednotkou skupenského tepla vypařování je J · K−1
+b) jednotkou měrného skupenského tepla vypařování je J · kg−1
+c) jednotkou výhřevnosti je J · kg−1
+d) veličina relativní vlhkost vzduchu je bezrozměrná, udáváme ji v procentech
+Správná odpověď: a
+
+6.38. Nesprávné tvrzení je:
+a) kapaliny se vypařují při každé teplotě
+b) při vyšší teplotě se kapaliny vypařují rychleji
+c) při vypařování se kapalina samovolně zahřívá (kapalina uvolňuje energii)
+d) při teplotě nižší než je teplota varu se kapalina vypařuje jen z povrchové vrstvy
+Správná odpověď: c
+
+6.39. Nesprávné tvrzení je:
+a) se vzrůstající teplotou se rychlost neuspořádaného pohybu molekul zvyšuje
+b) molekuly plynu se neuspořádaně pohybují, volně se otáčejí a narážejí do sebe
+c) dané teplotě odpovídá rychlost, kterou se všechny molekuly pohybují
+d) molekuly pevné látky kmitají kolem svých středních poloh
+Správná odpověď: c
+
+6.40. Nesprávné tvrzení je:
+a) teplota varu závisí na tlaku
+b) při teplotě vyšší než je teplota varu se kapalina mění v páru nejen v povrchové vrstvě, ale i uvnitř kapaliny
+c) při vyšším tlaku se teplota varu zvyšuje
+d) teplota varu vody je 100 K
+Správná odpověď: d
+
+6.41. Nesprávné tvrzení je:
+a) v plazmatu jsou přítomny elektricky nabité částice
+b) za normálních podmínek lze v plynu zanedbat přitažlivé síly mezi molekulami díky velkým vzdálenostem
+c) částice se v krystalové mřížce nepohybují, nebot’ každá z nich má svoji pevně danou polohu
+d) tlak syté páry v uzavřeném prostoru nad kapalinou nezávisí při stálé teplotě na objemu páry
+Správná odpověď: c
+
+6.42. O kolik musíme zvýšit teplotu ocelového drátu dlouhého 2 m, aby se prodloužil o 0,6 mm? (Součinitel délkové teplotní roztažnosti oceli α  1,2 · 10−5 K−1)
+a) 25 K
+b) 250 K
+c) 50 K
+d) 500 K
+Správná odpověď: a
+
+6.43. O měrné tepelné kapacitě platí:
+a) voda má větší měrnou tepelnou kapacitu než většina běžných látek
+b) jednotkou měrné tepelné kapacity je J · K−1
+c) měrná tepelná kapacita látky je zcela nezávislá na teplotě
+d) voda má menší měrnou tepelnou kapacitu než většina běžných látek
+Správná odpověď: a
+
+6.44. O vodě platí:
+a) voda při přechodu z kapalného do pevného skupenství svůj objem zmenšuje
+b) při normálním tlaku a při teplotě 0 °C je hustota vody menší než hustota ledu
+c) hustota vody o teplotě 20 °C je menší než hustota vody o teplotě 4 °C
+d) hustota vody o teplotě 0 °C je menší než hustota vody o teplotě 4 °C
+Správná odpověď: c, d
+
+6.45. Označme α teplotní součinitel délkové roztažnosti pevných látek a β součinitel objemové roztažnosti, pak přibližně platí:
+a) β  α3
+b) β  α / 3
+c) β  3 / α
+d) β  3 · α
+Správná odpověď: d
+
+6.46. Označte správná tvrzení týkající se tepelné kapacity C a měrné tepelné kapacity c, přičemž ∆T je rozdíl termodynamických teplot, ∆t je rozdíl teplot ve °C, Q je teplo potřebné ke změně teploty látky o ∆t, m je hmotnost látky:
+a) jednotkou tepelné kapacity je J · K−1
+b) C = Q / ∆T = Q / ∆t
+c) jednotkou měrné tepelné kapacity je J · kg−1 · K−1
+d) c = Q / (m · ∆T ) = Q / (m · ∆t)
+Správná odpověď: a, b, c, d
+
+6.47. Označte správná tvrzení:
+a) tání je skupenský přechod, při jehož průběhu uvolňuje tající látka energii
+b) tuhnutí je skupenský přechod, k jehož uskutečnění musíme tuhnoucí látce energii dodat
+c) kapalnění je skupenský přechod, při jehož průběhu uvolňuje látka přecházející do kapalného skupenství energii
+d) vypařování je skupenský přechod, k jehož uskutečnění musíme vypařované látce energii dodat
+Správná odpověď: c, d
+
+6.48. Platí tvrzení:
+a) amorfní látkou je monokrystal
+b) amorfní látky jsou takové pevné látky, jejichž částice netvoří souvislou krystalovou strukturu
+c) v plazmatu jsou všechny atomy elektricky neutrální
+d) v plazmatu se mohou vyskytovat pouze kladně nabité ionty
+Správná odpověď: b
+
+6.49. Povrchové napětí kapaliny:
+a) závisí na velikosti povrchu kapaliny
+b) závisí na prostředí nacházejícím se nad kapalinou
+c) jednotkou je N/m
+d) představuje povrchovou energii, vztaženou na jednotku plochy kapaliny
+Správná odpověď: b, c, d
+
+6.50. Pro vzdálenost r0 mezi dvěma atomy (např. v molekule nebo pevné látce), která odpovídá rovnovážné poloze:
+a) je výsledná síla přitažlivá
+b) je výsledná síla odpudivá
+c) je výsledná síla nulová
+d) nelze jednoznačně určit charakter výsledné síly
+Správná odpověď: c
+
+6.51. Proces difúze v roztoku:
+a) můžeme urychlit snížením teploty
+b) můžeme urychlit zvýšením teploty
+c) je důsledkem neuspořádaného pohybu molekul roztoku
+d) nemůžeme ovlivnit
+Správná odpověď: b, c
+
+6.52. Proč se při odpařování kapalina ochlazuje?
+a) vypařující se kapalina odebírá zbytku kapaliny část energie
+b) při vypařování se část energie kapaliny spotřebuje jako skupenské teplo výparné
+c) při vypařování se část energie kapaliny spotřebuje jako skupenské teplo tání
+d) při vypařování se část energie kapaliny předá částicím k překonání povrchové vrstvy
+Správná odpověď: a, b, d
+
+6.53. Relativní molekulová hmotnost:
+a) se udává v kg ·mol−1
+b) se udává v m3 ·mol−1
+c) se udává v mol
+d) je bezrozměrná
+Správná odpověď: d
+
+6.54. Relativní vlhkost vzduchu je:
+a) hmotnost vodních par v jednotce objemu
+b) poměr teploty vzduchu a maximální možné vlhkosti vzduchu při této teplotě
+c) poměr mezi danou absolutní vlhkostí vzduchu a maximální možnou absolutní vlhkostí vzduchu při téže teplotě
+d) udávána v jednotkách kg ·m3 · K
+Správná odpověď: c
+
+6.55. Skupenské teplo kondenzační (kapalnění) je:
+a) menší než skupenské teplo vypařování
+b) rovno skupenskému teplu vypařování
+c) rovno skupenskému teplu tuhnutí
+d) větší než skupenské teplo vypařování
+Správná odpověď: b
+
+6.56. Součinitel délkové teplotní roztažnosti mědi αCu  1,7 · 10−5 K−1. O kolik se prodlouží měděná tyč dlouhá 2 m při zahřátí o 100 °C?
+a) 1,7 · 10−3 m
+b) 3,4 cm
+c) 1,7 cm
+d) 3,4 mm
+Správná odpověď: d
+
+6.57. Součinitel objemové roztažnosti vody má záporné hodnoty pro teplotní interval:
+a) 0 °C až 10 °C
+b) 0 °C až 8 °C
+c) −3,98 °C až 0 °C
+d) 0 °C až 3,98 °C
+Správná odpověď: d
+
+6.58. Součinitel teplotní délkové roztažnosti α se udává v jednotkách:
+a) K−1
+b) K ·m−1
+c) m · K−1
+d) m · K
+Správná odpověď: a
+
+6.59. Součinitel teplotní objemové roztažnosti β se udává v jednotkách:
+a) K
+b) m3 · K−1
+c) K−3
+d) K−1
+Správná odpověď: d
+
+6.60. Sublimace je přechod:
+a) ze skupenství plynného do skupenství kapalného
+b) ze skupenství plynného do skupenství pevného
+c) ze skupenství pevného do skupenství plynného
+d) ze skupenství kapalného do skupenství plynného
+Správná odpověď: c
+
+6.61. Tání je přechod:
+a) ze skupenství pevného do skupenství kapalného
+b) ze skupenství kapalného do skupenství pevného
+c) při jehož průběhu uvolňuje látka energii
+d) ze skupenství kapalného do skupenství plynného
+Správná odpověď: a
+
+6.62. Tepelná kapacita tělesa je:
+a) teplo potřebné k ohřátí 1 kg látky k bodu varu
+b) teplo potřebné k ohřátí 1 kg látky o 1 K
+c) teplo potřebné k ohřátí daného tělesa o 1 K
+d) teplo potřebné k ohřátí daného tělesa k bodu varu
+Správná odpověď: c
+
+6.63. Tlak syté páry v uzavřeném prostoru nad kapalinou:
+a) s rostoucí teplotou roste
+b) s rostoucí teplotou klesá
+c) se po zvětšení objemu nad kapalinou ustálí na stejné hodnotě, jaká byla při původním objemu
+d) závisí na povrchovém napětí kapaliny
+Správná odpověď: a, c
+
+6.64. Trojný bod vody:
+a) je počáteční teplotou termodynamické teplotní stupnice
+b) vystihuje rovnovážný stav vody, ledu a syté páry
+c) je společným bodem křivky tání, křivky syté páry a křivky sublimace
+d) udává stav, kdy se voda, led a pára nachází v jedné nádobě (kalorimetru)
+Správná odpověď: b, c
+
+6.65. Tuhnutí je přechod:
+a) ze skupenství pevného do skupenství kapalného
+b) ze skupenství kapalného do skupenství pevného
+c) k jehož uskutečnění musíme látce energii dodat
+d) ze skupenství plynného do skupenství kapalného
+Správná odpověď: b
+
+6.66. V jakých jednotkách se udává (jaký rozměr má) relativní vlhkost vzduchu?
+a) kg ·m3
+b) g ·m−3
+c) bez rozměru, většinou udávána v procentech
+d) kg ·m−3
+Správná odpověď: c
+
+6.67. V jakých jednotkách se udává absolutní vlhkost vzduchu?
+a) J · kg−1 · K−1
+b) bez rozměru, většinou udávána v procentech
+c) kg ·m−3
+d) kg ·m3
+Správná odpověď: c
+
+6.68. V jakých jednotkách se udává povrchové napětí?
+a) N ·m−2
+b) N ·m−1
+c) N ·m
+d) Pa
+Správná odpověď: b
+
+6.69. V parní lázni je 100% relativní vlhkost vzduchu. To znamená, že:
+a) vlhkost je při dané teplotě maximální
+b) teplota odpovídá rosnému bodu
+c) je znemožněno odpařování potu z těla
+d) na jakémkoli předmětu, chladnějším než je teplota okolního vzduchu, dochází ke kondenzaci
+Správná odpověď: a, b, c, d
+
+6.70. V pevných látkách s pravidelným uspořádáním atomů (s krystalovou strukturou) při normální teplotě:
+a) nevykonávají atomy žádný pohyb
+b) si atomy v důsledku tepelného pohybu vyměňují pozice
+c) vykonávají atomy převážně pohyb rotační
+d) vykonávají atomy převážně pohyb vibrační
+Správná odpověď: d
+
+6.71. V sauně je velmi nízká vlhkost vzduchu. To znamená, že ve srovnání s parní lázní:
+a) tělo snese vyšší teplotu vzduchu, nebot’ suchý vzduch má nižší tepelnou vodivost
+b) tělo snese vyšší teplotu vzduchu, nebot’ suchý vzduch má vyšší tepelnou vodivost
+c) tělo snese vyšší teplotu vzduchu, nebot’ se více ochlazuje pocením
+d) tělo nesnese tak vysokou teplotu okolního prostředí, jakou by sneslo v parní lázni
+Správná odpověď: a, c
+
+6.72. Ve vodě se vznáší těleso. Předpokládejme, že součinitel teplotní objemové roztažnosti tělesa je větší, než součinitel teplotní objemové roztažnosti vody. Co se stane s polohou tělesa ve vodě, zahřejeme-li těleso i vodu o stejný teplotní rozdíl?
+a) těleso se částečně vynoří
+b) těleso se bude i nadále vznášet
+c) těleso klesne ke dnu
+d) poloha tělesa se nezmění
+Správná odpověď: a
+
+6.73. Vlivem povrchového napětí σ dokonale smáčivá kapalina o hustotě ρ vystoupí v kapiláře do výšky h nad hladinu kapaliny, do níž je kapilára částečně ponořena; přitom hladina kapaliny v kapiláře vytvoří kulový vrchlík o poloměru r. Tíhové zrychlení je g. Označte správný vztah:
+a) h · ρ · g = 2σ · r
+b) h · ρ · g = 2σ / r
+c) h · ρ · g = σ
+d) h · ρ · g = σ / r
+Správná odpověď: b
+
+6.74. Výhřevnost látky je:
+a) množství tepla uvolněného při spálení celého daného množství látky
+b) množství tepla uvolněného při spálení 1 kg dané látky
+c) teplo potřebné k spálení celého daného množství látky
+d) teplo potřebné k spálení 1 kg dané látky
+Správná odpověď: b
+
+6.75. Vypařování je přechod:
+a) ze skupenství plynného do skupenství kapalného
+b) ze skupenství pevného do skupenství plynného
+c) při němž vypařující se látka přijímá (pohlcuje) energii
+d) při němž vypařující se látka uvolňuje energii
+Správná odpověď: c

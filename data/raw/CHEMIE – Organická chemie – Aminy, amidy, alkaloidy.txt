@@ -1,0 +1,160 @@
+Strukturu primárního aminu lze vyjádřit jako (R je uhlovodíkový zbytek):
+a) R3N
+b) RNH2
+c) R2NH3
+d) R2NH
+Správná odpověď: b
+
+Strukturu sekundárního aminu lze vyjádřit jako (R je uhlovodíkový zbytek):
+a) R2NH3
+b) R2NH
+c) R3N
+d) RNH2
+Správná odpověď: d
+
+Strukturu terciárního aminu lze vyjádřit jako (R je uhlovodíkový zbytek):
+a) R3N
+b) RNH2
+c) R2HN3
+d) R2NH
+Správná odpověď: b
+
+Methylamin je:
+a) sekundární amin
+b) terciární amin
+c) primární amin
+d) anilin
+Správná odpověď: a
+
+p-fenylendiamin je:
+a) benzenamin
+b) benzen-1,2-diamin
+c) benzen-1,4-diamin
+d) benzen-1,3-diamin
+Správná odpověď: c
+
+Benzen-1,4-diamin je:
+a) o-fenylendiamin
+b) m-fenylendiamin
+c) anilin
+d) p-fenylendiamin
+Správná odpověď: a, c
+
+Anilin je:
+a) alifatický amin
+b) aromatický amin
+c) heterocyklická sloučenina
+d) nitrobenzen
+Správná odpověď: d
+
+O anilinu platí, že je:
+a) sekundární amin
+b) terciární amin
+c) primární amin
+d) alkaloid
+Správná odpověď: c
+
+Redukcí nitrobenzenu vzniká:
+a) pyridin
+b) benzen
+c) anilin
+d) nitrofenol
+Správná odpověď: b
+
+Anilin lze připravit:
+a) oxidací nitrobenzenu
+b) redukcí nitrobenzenu
+c) oxidací o-xylenu
+d) redukcí hydrochinonu
+Správná odpověď: a
+
+Trimethylamin má vzorec:
+a) (CH3)3−C−NH2
+b) N(CH3)3
+c) NH(CH3)2
+d) N(CH4)3
+Správná odpověď: d
+
+Sloučenina s tímto vzorcem se nazývá:
+a) benzenamin
+b) nitrobenzen
+c) anilin
+d) azobenzen
+Správná odpověď: c
+
+Sloučenina s tímto vzorcem se nazývá:
+a) anilin
+b) p-fenylendiamin
+c) diazobenzen
+d) benzen-1,4-diamin
+Správná odpověď: c
+
+Dehydratací amidů vznikají:
+a) nitráty
+b) aminy
+c) nitrily
+d) nitridy
+Správná odpověď: b
+
+Hydrolýzou benzamidu vzniká:
+a) kyanovodík
+b) amoniak
+c) anilin
+d) kyselina benzoová
+Správná odpověď: b
+
+Nitrily vznikají:
+a) hydrogenací amidů
+b) dehydratací aminů
+c) dehydrogenací amidů
+d) dehydratací amidů
+Správná odpověď: b
+
+Kyanovodík je nitrilem kyseliny:
+a) malonové
+b) šťavelové
+c) mravenčí
+d) octové
+Správná odpověď: d
+
+Močovina je:
+a) derivát purinu
+b) aminokyselina
+c) diamid kyseliny uhličité
+d) diamid kyseliny octové
+Správná odpověď: d
+
+Močovina je derivátem:
+a) kyseliny uhličité
+b) kyseliny ftalové
+c) kyseliny mravenčí
+d) kyseliny močové
+Správná odpověď: a
+
+Alkaloidy jsou:
+a) deriváty proteinů
+b) přírodní dusíkaté organické látky
+c) přírodní polysacharidy
+d) deriváty steranu
+Správná odpověď: a
+
+Alkaloidy:
+a) jsou často jedovaté
+b) patří většinou mezi heterocyklické sloučeniny
+c) mají většinou bazický charakter
+d) jsou pouze živočišného původu
+Správná odpověď: d
+
+Benzoylamid lze odvodit náhradou skupiny −OH aminoskupinou ve vzorci:
+a) fenolu
+b) kyseliny salicylové
+c) tyrosinu
+d) kyseliny benzoové
+Správná odpověď: b
+
+V karboxylové skupině kyseliny benzoové byl nahrazen hydroxyl aminoskupinou. Vzniklá sloučenina se nazývá:
+a) kyselina p-aminobenzoová
+b) fenylalanin
+c) kyselina salicylová
+d) benzoylamid
+Správná odpověď: d

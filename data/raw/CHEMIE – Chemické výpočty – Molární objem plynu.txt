@@ -1,0 +1,76 @@
+Jaké množství oxidu uhelnatého zaujímá, za normálních  podmínek, objem 140 dm3? Ar(c) = 12, Ar(O) = 16
+a) 132 gramů
+b) 275 gramů
+c) 175 gramů
+d) 140 gramů
+Správná odpověď: c
+
+Jaké množství oxidu uhelnatého zaujímá, za normálních  podmínek, objem 10 dm3? Ar(c) = 12, Ar(O) = 16
+a) 12,5 gramů
+b) 10,0 gramů
+c) 175 gramů
+d) 19,6 gramů
+Správná odpověď: a
+
+Jaký objem zaujímá, za normálních podmínek, 1 g oxidu uhelnatého? Ar(c) = 12, Ar(O) = 16
+a) 170 cm3
+b) 0,5 mol
+c) 0,51 dm3
+d) 0,8 dm3
+Správná odpověď: d
+
+Jaký objem zaujímá, za normálních podmínek, 140 g oxidu uhelnatého? Ar(c) = 12, Ar(O) = 16
+a) 112 cm3
+b) 112 ml
+c) 112 dm3
+d) 112 m3
+Správná odpověď: c
+
+Jaký objem zaujímá, za normálních podmínek, 170 g sulfanu? Ar(S) = 32, Ar(H) = 1
+a) 170 dm3
+b) 112 dm3
+c) 5 mol
+d) 56 dm3
+Správná odpověď: b, c
+
+Jaký objem zaujímá, za normálních podmínek, 1 g oxidu uhličitého? Ar(c) = 12, Ar(O) = 16
+a) 0,027 mol
+b) 640 cm3
+c) 0,51 dm3
+d) 0,8 dm3
+Správná odpověď: c
+
+Jaký objem zaujímá (za normálních podmínek) 88 g oxidu uhličitého: Ar(c) = 12, Ar(O) = 16
+a) 22,4 m3
+b) 89,6 dm3
+c) 12,2 dm3
+d) 44,8 dm3
+Správná odpověď: d
+
+Jaké množství oxidu uhličitého zaujímá (za normálních podmínek) objem 100 dm3? Ar(c) = 12, Ar(O) = 16
+a) 175 gramů
+b) 100 gramů
+c) 196 gramů
+d) 17,5 gramů
+Správná odpověď: c
+
+Jaké množství vodíku zaujímá (za normálních podmínek) objem 22,4 dm3?
+a) 0,001 kg
+b) 2 g
+c) 0,01 kg
+d) 0,2 g
+Správná odpověď: b
+
+Jaký objem dusíku je teoreticky třeba na přípravu 56 dm3 amoniaku, probíhá-li reakce podle rovnice N2 + 3 H2 → 2 NH3? Ar(H) = 1, Ar(N) = 14
+a) 1,25 mol
+b) 28 dm3
+c) 14 dm3
+d) 0,56 dm3
+Správná odpověď: a, b
+
+Kolik dm3 vodíku je teoreticky třeba na přípravu 56 dm3 amoniaku, probíhá-li reakce podle rovnice N2 + 3 H2 → 2 NH3? Ar(H) = 1, Ar(N) = 14
+a) 84
+b) 168
+c) 42
+d) 2,5
+Správná odpověď: a

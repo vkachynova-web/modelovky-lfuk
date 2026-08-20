@@ -1,0 +1,97 @@
+Aktivační energie EA aktivovaného komplexu je dána:
+a) potenciální energií aktivovaného komplexu
+b) rozdílem potenciální energie aktivovaného komplexu a potenciální energie výchozích látek
+c) potenciální energií výchozích látek
+d) rozdílem potenciální energie výchozích látek a potenciální energie produktů
+Správná odpověď: b
+
+Při exotermické reakci se teplo:
+a) pohlcuje
+b) uvolňuje
+c) spotřebovává
+d) nemění
+Správná odpověď: b
+
+Při endotermické reakci se teplo:
+a) nemění
+b) spotřebovává
+c) vyzařuje
+d) uvolňuje
+Správná odpověď: b
+
+Jaký je význam katalyzátoru při chemické reakci:
+a) neovlivní reakční rychlost
+b) snižuje aktivační energii
+c) snižuje rychlost reakce
+d) zvyšuje aktivační energii
+Správná odpověď: b
+
+Chemická kinetika je nauka pojednávající o:
+a) energetické bilanci reakce
+b) rychlostech chemických reakcí
+c) tepelných změnách při přeměně výchozích látek v produkty
+d) stavbě atomu
+Správná odpověď: b
+
+Chemická rovnováha (rovnovážný stav) v chemické soustavě je charakterizována:
+a) teplotou reakční směsi
+b) pH
+c) rovnovážnou konstantou
+d) Avogadrovou konstantou
+Správná odpověď: c
+
+Nezmění-li se vnější podmínky, je chemická rovnováha stav soustavy, v němž:
+a) se nemění její složení, i když v ní neustále probíhají chemické děje
+b) se mění její složení, protože v ní neustále probíhají chemické děje
+c) se nemění její složení, protože v ní neprobíhají chemické děje
+d) se mění její složení, přestože v ní neprobíhají chemické děje
+Správná odpověď: a
+
+Guldberg – Waagův zákon byl odvozen na základě závislosti:
+a) rovnovážné konstanty na teplotě
+b) reakční rychlosti na teplotě
+c) reakční rychlosti na koncentraci
+d) teploty, tlaku a pH
+Správná odpověď: c
+
+Čím je větší hodnota součinu rozpustnosti Ks:
+a) tím je sloučenina méně rozpustná
+b) tím je sloučenina rozpustnější
+c) tím je koncentrace iontů v roztoku menší
+d) tím je koncentrace iontů v roztoku větší
+Správná odpověď: b, d
+
+Čím je nižší hodnota součinu rozpustnosti Ks:
+a) tím je koncentrace iontů v roztoku menší
+b) tím je sloučenina méně rozpustná
+c) tím je sloučenina rozpustnější
+d) tím je koncentrace iontů v roztoku větší
+Správná odpověď: a, b
+
+Rovnováhu srážecích reakcí charakterizuje:
+a) pH
+b) Avogadrova konstanta
+c) iontový součin vody
+d) součin rozpustnosti
+Správná odpověď: d
+
+S pojmem „součin rozpustnosti“ se setkáváme u reakcí:
+a) srážecích
+b) oxidoredukčních
+c) řetězových
+d) protolytických
+Správná odpověď: a
+
+Čím je disociační konstanta komplexu při komplexotvorné reakci menší, tím je daný komplex:
+a) více ionizovaný
+b) rozpustnější
+c) nestálejší
+d) stálejší
+Správná odpověď: d
+
+CuSO4 + Fe → FeSO4 + Cu je typem reakce:
+a) syntetické
+b) podvojné záměny
+c) redoxní
+d) rozkladné
+Správná odpověď: c

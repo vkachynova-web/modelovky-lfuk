@@ -1,0 +1,34 @@
+U homogenní disperzní soustavy je velikost dispergovaných částic:
+a) menší než 10–9 m
+b) větší než 10–9 m
+c) větší než 10–7 m
+d) 10–9 až 10–7 m
+Správná odpověď: a
+
+Mezi heterogenní disperzní soustavy patří:
+a) vodný roztok NaOH
+b) krev
+c) mléko
+d) mosaz
+Správná odpověď: b, c
+
+Mezi homogenní disperzní soustavy patří:
+a) mlha
+b) amalgámy
+c) vodný roztok HCl
+d) pěna
+Správná odpověď: b, c
+
+Osmotický tlak vyjadřuje:
+a) aktivní transport membránou
+b) kvantitativní míru osmózy
+c) usnadněný transport membránou
+d) míru rozpustnosti látek
+Správná odpověď: b
+
+Náboj koloidních částic (např. bílkovin) může vznikat:
+a) disociací kyselých skupin –COOH
+b) protonací zásaditých skupin –NH2
+c) agregací částic
+d) při denaturaci
+Správná odpověď: a, b

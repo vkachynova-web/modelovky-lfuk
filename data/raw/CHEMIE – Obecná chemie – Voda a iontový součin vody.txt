@@ -1,0 +1,69 @@
+Hodnota iontového součinu vody se mění pouze se změnou:
+a) koncentrace vody
+b) množství vody
+c) teploty
+d) nemění se, za všech podmínek je stejný
+Správná odpověď: c
+
+Vztah Kv = [H3O+] [OH–] platí pro:
+a) konstantu komplexity
+b) iontový součin vody
+c) součin rozpustnosti vody
+d) vodíkový exponent pH
+Správná odpověď: b
+
+Vodíkový exponent je definován vztahem:
+a) pH = –log [H3O +]
+b) pH = –ln [H3O +]
+c) pH = log [H3O +]
+d) pOH = –log [H3O+]
+Správná odpověď: a
+
+Rozhodněte, který z následujících vztahů platí pro kyselé prostředí:
+a) [H3O +] = [OH–]
+b) [H3O +] < [OH–]
+c) [OH–] > [H3O +]
+d) [H3O+] > [OH–]
+Správná odpověď: d
+
+Rozhodněte, který z následujících vztahů platí pro zásadité prostředí:
+a) [OH–] < [H3O +]
+b) [H3O +] < [OH–]
+c) [H3O +] = [OH–]
+d) [H3O+] > [OH–]
+Správná odpověď: b
+
+Vztah [H3O+] = [OH–] platí pro prostředí:
+a) zásadité
+b) silně kyselé
+c) slabě kyselé
+d) neutrální
+Správná odpověď: d
+
+Vztah [H3O+] < [OH–] platí pro prostředí:
+a) neutrální
+b) mírně kyselé
+c) zásadité
+d) kyselé
+Správná odpověď: c
+
+Vztah [H3O+] > [OH–] platí pro prostředí:
+a) neutrální
+b) slabě zásadité
+c) zásadité
+d) kyselé
+Správná odpověď: d
+
+Koncentrace iontů OH– v čisté vodě (při 25 °c) je:
+a) 10–14 mol dm–3
+b) 10–7 mol
+c) 10–7 mol dm–3
+d) 7 mol dm–3
+Správná odpověď: c
+
+Koncentrace iontů H3O+ v čisté vodě (při 25 °c) je:
+a) 10–7 mol dm–3
+b) 0
+c) 10–14 mol dm–3
+d) 7
+Správná odpověď: a

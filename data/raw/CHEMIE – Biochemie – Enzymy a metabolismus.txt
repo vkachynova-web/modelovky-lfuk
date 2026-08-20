@@ -1,0 +1,272 @@
+Podstatou činnosti enzymů je:
+a) snižování aktivační energie reakce
+b) zvyšování aktivační energie reakce
+c) změna pH prostředí
+d) zvyšování i snižování aktivační energie reakce
+Správná odpověď: a
+
+Proenzym je:
+a) bílkovinný inhibitor enzymu
+b) aktivní forma enzymu
+c) neaktivní forma enzymu
+d) aktivátor enzymu
+Správná odpověď: b
+
+Koenzym je:
+a) radikál
+b) jiný název pro substrát
+c) samotná bílkovinná molekula enzymu
+d) nebílkovinná molekula nezbytná pro funkci enzymu
+Správná odpověď: a
+
+Pro kompetitivní inhibici enzymů platí tvrzení:
+a) inhibitor se váže mimo aktivní centrum
+b) účinek inhibitoru lze zeslabit zvýšením koncentrace substrátu
+c) je obvykle způsobena ionty těžkých kovů
+d) je nevratná
+Správná odpověď: b
+
+Pro kompetitivní inhibici enzymů platí tvrzení:
+a) je nevratná
+b) účinek inhibitoru lze zesílit zvýšením koncentrace substrátu
+c) může být způsobena např. navázáním iontu Pb2+
+d) inhibitor se váže na aktivní centrum enzymu
+Správná odpověď: d
+
+Kompetitivní inhibicí rozumíme:
+a) zvyšování katalytického účinku
+b) inhibici inhibitorem soupeřícím se substrátem o vazebné místo
+c) inhibici změnou struktury molekuly
+d) destrukci vazebného místa
+Správná odpověď: c
+
+Oxidoreduktázy katalyzují:
+a) přenos elektronů mezi substráty
+b) slučování dvou molekul substrátů
+c) přenos skupiny mezi substráty
+d) štěpení substrátů za přítomnosti vody
+Správná odpověď: a
+
+Transferázy katalyzují:
+a) nehydrolytické štěpení vazeb C–C v molekulách substrátů
+b) přenos elektronů mezi dvěma substráty
+c) přenos charakteristické skupiny mezi dvěma substráty
+d) hydrolytické štěpení substrátu
+Správná odpověď: b
+
+Přenos charakteristické skupiny mezi dvěma substráty katalyzují:
+a) izomerázy
+b) hydrolázy
+c) transferázy
+d) lyázy
+Správná odpověď: d
+
+Hydrolytické štěpení substrátů katalyzují:
+a) hydrolázy
+b) ligázy
+c) transferázy
+d) lyázy
+Správná odpověď: d
+
+Hydrolázy katalyzují:
+a) přenos skupin
+b) hydrolytické štěpení
+c) nehydrolytické štěpení
+d) přenos elektronů
+Správná odpověď: c
+
+Štěpení triacylglycerolů účinkem lipáz je:
+a) β-oxidace
+b) acetylace
+c) hydrolýza
+d) redoxní reakce
+Správná odpověď: b
+
+Lyázy katalyzují:
+a) hydrolytické štěpení substrátu
+b) přenos elektronů mezi dvěma substráty
+c) nehydrolytické štěpení vazeb C–C v molekulách substrátů
+d) přenos charakteristické skupiny mezi dvěma substráty
+Správná odpověď: b
+
+Nehydrolytické štěpení vazeb C–C v molekule substrátu katalyzují:
+a) ligázy
+b) hydrolázy
+c) izomerázy
+d) lyázy
+Správná odpověď: d
+
+Dekarboxylace aminokyselin za vzniku aminů a oxidu uhličitého účinkem lyázy je příkladem:
+a) nehydrolytického štěpení
+b) β-oxidace
+c) hydrolytického štěpení
+d) přenosu elektronů
+Správná odpověď: a
+
+Oxidace látek v živých soustavách může probíhat:
+a) v přítomnosti i bez přítomnosti kyslíku
+b) jen v přítomnosti kyslíku
+c) jen bez přítomnosti kyslíku
+d) vůbec neprobíhá
+Správná odpověď: c
+
+Konečným produktem anaerobní přeměny D-glukózy kvasinkami je:
+a) oxid uhličitý a voda
+b) acetylkoenzym A
+c) kyselina mléčná
+d) ethanol a oxid uhličitý
+Správná odpověď: a
+
+Alkoholové kvašení je:
+a) rozklad glukózy na methanol a CO
+b) rozklad glukózy na ethanol a vodu
+c) rozklad glukózy na kyselinu mléčnou
+d) rozklad glukózy na ethanol a CO2
+Správná odpověď: b
+
+Alkoholovým kvašením D-glukózy účinkem kvasinek za anaerobních podmínek vzniká:
+a) ethanol a oxid uhelnatý
+b) ethanol a voda
+c) ethanol a oxid uhličitý
+d) methanol a voda
+Správná odpověď: b
+
+Při fotosyntéze vzniká D-glukóza z:
+a) ATP a kyslíku
+b) fotonů a vody
+c) chlorofylu a oxidu uhličitého
+d) oxidu uhličitého a vody
+Správná odpověď: d
+
+D-glukóza vzniká fotosyntézou z:
+a) oxidu uhličitého a vody
+b) polysacharidů
+c) uhlíku a vzduchu
+d) oxidu uhelnatého a vody
+Správná odpověď: b
+
+Konečným produktem glykolýzy u člověka za anaerobních podmínek je:
+a) kyselina mléčná
+b) kyselina máselná
+c) diamid kyseliny uhličité
+d) kyselina citrónová
+Správná odpověď: c
+
+Konečným produktem odbourávání glukózy u člověka za aerobních podmínek je:
+a) ethanol
+b) kyselina mléčná
+c) oxid uhličitý a voda
+d) močovina
+Správná odpověď: a
+
+Produktem β-oxidace mastných kyselin u člověka je:
+a) kyselina mléčná
+b) glycerol
+c) acetylkoenzym A
+d) kyselina palmitová
+Správná odpověď: b
+
+Pochodem zvaným β-oxidace se metabolizují:
+a) sacharidy
+b) mastné kyseliny
+c) proteiny
+d) peptidy
+Správná odpověď: b
+
+β-oxidace je reakce, která je součástí metabolizmu:
+a) bílkovin
+b) tuků
+c) peptidů
+d) cukrů
+Správná odpověď: d
+
+Při β-oxidaci je dvouuhlíkový zbytek odštěpován ve formě:
+a) fosfátu s navázaným ATP
+b) esteru s kyselinou fosforečnou
+c) acetylkoenzymu A
+d) monoacylglycerolu
+Správná odpověď: b
+
+Při β-oxidaci je mastná kyselina postupně odbourávána na:
+a) acetylkoenzym A
+b) kyselinu pyrohroznovou
+c) kyselinu mléčnou
+d) acylglycerol
+Správná odpověď: c
+
+β-oxidace karboxylových kyselin probíhá na:
+a) druhém uhlíku kyseliny
+b) třetím uhlíku kyseliny
+c) prvním uhlíku kyseliny
+d) druhém uhlíku glycerolu
+Správná odpověď: c
+
+Oxidace karboxylových kyselin v buňce probíhá převážně:
+a) tzv. β-oxidací
+b) nasycením dvojných vazeb
+c) dekarboxylací
+d) hydrolýzou
+Správná odpověď: c
+
+β-oxidace mastných kyselin probíhá v:
+a) cytoplazmě
+b) mitochondriích
+c) ribozómech
+d) plazmě
+Správná odpověď: c
+
+Monoacylglycerol lze zařadit mezi:
+a) estery
+b) ethery
+c) amidy
+d) ketony
+Správná odpověď: b
+
+Acylglyceroly jsou štěpeny na mastné kyseliny a glycerol:
+a) ligázami
+b) transferázami
+c) oxidoreduktázami
+d) hydrolázami
+Správná odpověď: a
+
+Neproteinovou složku chylomikronů tvoří:
+a) ion kovu
+b) nukleová kyselina
+c) sacharid
+d) lipid
+Správná odpověď: d
+
+Hlavním konečným produktem metabolizmu (biodegradace) dusíku bílkovin u člověka je:
+a) amoniak
+b) purinové báze
+c) kyselina močová
+d) močovina
+Správná odpověď: d
+
+Močovina je u člověka hlavním konečným produktem katabolizmu:
+a) dusíkatých heterocyklických sloučenin
+b) aminokyselin
+c) pyrimidinových bází
+d) purinových bází
+Správná odpověď: b
+
+Adenosintrifosfát je v buňce:
+a) odpadním produktem
+b) mediátorovou nukleovou kyselinou
+c) stavebním materiálem
+d) přenašečem energie
+Správná odpověď: d
+
+Biosyntéza proteinů v buňce (proteosyntéza) probíhá:
+a) na ribozomech za účasti RNA
+b) na fibrilách
+c) na buněčných membránách za účasti ATP
+d) v mitochondriích bez účasti RNA
+Správná odpověď: a
+
+Transferová RNA (tRNa):
+a) přenáší tzv. makroergické vazby
+b) je součástí ribozomů
+c) obsahuje přepis informace o primární struktuře bílkovinných molekul
+d) přenáší aminokyseliny na místa syntézy bílkovin
+Správná odpověď: d

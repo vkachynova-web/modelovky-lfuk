@@ -1,0 +1,286 @@
+Kyselině trioxoborité přísluší vzorec:
+a) H3BO3
+b) H2BO3
+c) HBO2
+d) HBO3
+Správná odpověď: a
+
+Kyselině tetraoxokřemičité přísluší vzorec:
+a) H2SiO3
+b) H4SiO4
+c) H4SiO2
+d) H4SiO3
+Správná odpověď: b
+
+Kyselině dioxoborité přísluší vzorec:
+a) HBO2
+b) HBrO2
+c) H3BO3
+d) H2BO2
+Správná odpověď: a
+
+Kyselině trioxokřemičité přísluší vzorec:
+a) H3SiO3
+b) H2SiO3
+c) H4SiO3
+d) H2SO3
+Správná odpověď: b
+
+Kyselině tetraoxofosforečné přísluší vzorec:
+a) H3PO4
+b) H2PO4
+c) HPO4
+d) H4P2O7
+Správná odpověď: a
+
+Pentahydrogenjodistá kyselina má vzorec:
+a) H5IO5
+b) H5IO4
+c) HIO5
+d) H5IO6
+Správná odpověď: d
+
+HSCN je vzorec kyseliny:
+a) thiokyanaté
+b) thiouhličité
+c) kyanovodíkové
+d) kyanaté
+Správná odpověď: a
+
+H4SiO4 je vzorec kyseliny:
+a) tetrahydrogenkřemité
+b) tetrahydrogenkřemičité
+c) trihydrogenkřemičité
+d) tetrahydrogensiřičité
+Správná odpověď: b
+
+H2SiO3 je vzorec:
+a) kyseliny trioxosírové
+b) kyseliny trioxokřemičité
+c) kyseliny trioxokřemité
+d) kyseliny trioxosiřičité
+Správná odpověď: b
+
+H3BO3 je vzorec kyseliny:
+a) trioxoborové
+b) trioxobromité
+c) trioxoborité
+d) borovodíkové
+Správná odpověď: c
+
+Vyberte z následujících látek slabý elektrolyt:
+a) uhličitan draselný
+b) amoniak
+c) chlorid amonný
+d) chlorid sodný
+Správná odpověď: b
+
+Vyberte z následujících látek silný elektrolyt:
+a) amoniak
+b) kyselina octová
+c) kyselina uhličitá
+d) chlorid amonný
+Správná odpověď: d
+
+Vyberte z následujících látek slabý elektrolyt:
+a) hydroxid draselný
+b) chlorid sodný
+c) octan sodný
+d) kyselina octová
+Správná odpověď: d
+
+Vyberte z následujících látek silný elektrolyt:
+a) kyselina dusičná
+b) kyselina kyanovodíková
+c) kyselina trihydrogenboritá
+d) kyselina octová
+Správná odpověď: a
+
+Vyberte z následujících látek slabé elektrolyty:
+a) kyselina chlorovodíková
+b) kyselina chlorná
+c) kyselina chloristá
+d) kyselina chloritá
+Správná odpověď: b, d
+
+Která z uvedených kyselin je ve vodném roztoku nejméně disociovaná?
+a) HCl
+b) H3PO4
+c) H2SO4
+d) HNO3
+Správná odpověď: b
+
+Která z uvedených kyselin je ve vodném roztoku nejméně disociovaná?
+a) H3BO3
+b) H3PO4
+c) HBr
+d) H2SO4
+Správná odpověď: a
+
+Rozhodněte, která z následujících kyselin je nejslabší:
+a) HBr
+b) HCl
+c) HCN
+d) HNO3
+Správná odpověď: c
+
+Rozhodněte, která z následujících kyselin je nejsilnější:
+a) H3BO3
+b) H2SO4
+c) H2CO3
+d) CH3COOH
+Správná odpověď: b
+
+Které z uvedených kyselin patří mezi kyseliny silné (Ka > 10–2)?
+a) H3BO3
+b) H2CO3
+c) H2SO4
+d) HCl
+Správná odpověď: c, d
+
+Mezi silné kyseliny patří:
+a) HClO4
+b) H2CO3
+c) HCl
+d) HCN
+Správná odpověď: a, c
+
+Mezi slabé kyseliny patří:
+a) H2SO4
+b) HNO3
+c) HCl
+d) HCN
+Správná odpověď: d
+
+Halogenovodíkové kyseliny jsou kyseliny silné s výjimkou:
+a) HI
+b) HBr
+c) HCl
+d) HF
+Správná odpověď: d
+
+Je-li disociační konstanta kyseliny Ka < 10–10, považujeme tuto kyselinu za:
+a) středně silnou
+b) velmi slabou
+c) slabou
+d) silnou
+Správná odpověď: b
+
+Reakce, při nichž dochází k přenosu H+, označujeme jako:
+a) rozkladné
+b) protolytické
+c) proteolytické
+d) oxidačně-redukční
+Správná odpověď: b
+
+Neutralizace kyseliny bází je typem reakce:
+a) protolytické
+b) oxidačně-redukční
+c) rozkladné
+d) proteolytické
+Správná odpověď: a
+
+Sílu kyseliny udává:
+a) součin rozpustnosti
+b) redoxní potenciál
+c) disociační konstanta
+d) iontový součin vody
+Správná odpověď: c
+
+Reakcí P4O10 + 6 H2O vzniká kyselina:
+a) hydrogenfosforečná
+b) tetrahydrogenfosforečná
+c) trihydrogenfosforitá
+d) trihydrogenfosforečná
+Správná odpověď: d
+
+Silné kyseliny uvolňují ve vodném prostředí proton:
+a) částečně
+b) prakticky úplně
+c) proton neuvolňují
+d) proton přijímají
+Správná odpověď: b
+
+Disociační konstanta kyseliny udává schopnost kyseliny:
+a) přijímat proton
+b) odštěpovat elektron
+c) oxidovat
+d) odštěpovat proton
+Správná odpověď: d
+
+Mírou kyselosti vodných roztoků je:
+a) koncentrace oxoniového aniontu
+b) koncentrace kyseliny v roztoku
+c) koncentrace oxoniového kationtu
+d) množství kyseliny v roztoku
+Správná odpověď: c
+
+Vyberte správná tvrzení o kyselině dusičné:
+a) je silná kyselina
+b) má oxidační účinky
+c) je slabá kyselina
+d) má silné redukční vlastnosti
+Správná odpověď: a, b
+
+Vyberte správné tvrzení o kyselině dusité:
+a) je stálá
+b) je nestálá
+c) rozkládá se na oxid dusitý
+d) rozkládá se na oxid dusnatý
+Správná odpověď: b, d
+
+Vyberte tvrzení, které platí pro správný postup ředění kyseliny sírové vodou.
+a) Kyselina sírová se přidává do vody.
+b) Voda se přidává do kyseliny sírové.
+c) Nezáleží, jestli se přidává voda do kyseliny sírové, nebo kyselina sírová do vody.
+d) Žádná z nabízených odpovědí nepopisuje správný postup, protože kyselina sírová je ve vodě nerozpustná.
+Správná odpověď: a
+
+Lučavka královská je směs:
+a) HNO3 a HCl v poměru 1 : 3
+b) HNO3 a H2SO4 v poměru 1 : 3
+c) HNO3 a HCl v poměru 3 : 1
+d) HNO3 a H2SO4 v poměru 3 : 1
+Správná odpověď: a
+
+Vyberte správné tvrzení o nitrační směsi:
+a) je to směs koncentrované kyseliny dusité a kyseliny dusičné
+b) je to směs koncentrované kyseliny dusičné a kyseliny chlorovodíkové
+c) je to směs koncentrované kyseliny dusičné a kyseliny sírové
+d) je to směs koncentrované kyseliny dusičné a kyseliny fosforečné
+Správná odpověď: c
+
+Při reakci zředěné kyseliny sírové se zinkem:
+a) kyselina sírová se zinkem nereaguje
+b) vzniká oxid sírový
+c) vzniká vodík
+d) vzniká kyslík
+Správná odpověď: c
+
+Při reakci koncentrované kyseliny sírové s mědí:
+a) koncentrovaná kyselina sírová s mědí nereaguje
+b) vzniká oxid sírový
+c) vzniká vodík
+d) vzniká oxid siřičitý
+Správná odpověď: d
+
+Vyberte správné tvrzení o kyselině dusičné:
+a) koncentrovaná má oxidační účinky
+b) koncentrovaná má redukční účinky
+c) s mědí reaguje za vzniku vodíku
+d) je součástí lučavky královské
+Správná odpověď: a, d
+
+Vyberte vlastnosti, které charakterizují kyselinu fosforečnou:
+a) tvoří tři typy solí
+b) je silná trojsytná kyselina
+c) je středně silná trojsytná kyselina
+d) pasivuje kovy
+Správná odpověď: a, c
+
+Vyberte správné tvrzení o amoniaku:
+a) vodný roztok reaguje kysele
+b) vodný roztok reaguje zásaditě
+c) oxidační číslo dusíku v této sloučenině je +III
+d) oxidační číslo dusíku v této sloučenině je –III
+Správná odpověď: b, d

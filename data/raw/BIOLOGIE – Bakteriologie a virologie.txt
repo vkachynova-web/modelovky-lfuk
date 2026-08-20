@@ -1,0 +1,195 @@
+463. Vyberte skupinu, která obsahuje výhradně zástupce prokaryot:
+a) bakterie, viry, sinice
+b) bakteriofágy, koky, spirily
+c) bakteriofágy, bakterie, prvoci
+d) spirochety, vibria, bacily
+Správná odpověď: d
+
+464. Mezi archea nepatří:
+a) sinice
+b) grampozitivní bakterie
+c) mykobakterie
+d) halofilní bakterie
+Správná odpověď: a, b, c
+
+465. Prokaryotní buňky na rozdíl od eukaryotních nikdy neobsahují:
+a) membránovým obalem ohraničené jádro
+b) ribozomy
+c) mitochondrie
+d) chloroplasty
+Správná odpověď: a, c, d
+
+466. Prokaryotní buňky:
+a) se dělí mitoticky i meioticky
+b) obsahují cirkulární chromozom, který se může vyskytovat i  ve více kopiích
+c) mají genom rozdělený do většího počtu lineárních chromozomů
+d) se dělí tak, že dceřiné buňky mají oproti mateřské buňce dvojnásobný počet chromozomů
+Správná odpověď: b
+
+467. Prokaryotní buňky na rozdíl od eukaryotních nikdy neobsahují:
+a) buněčnou stěnu
+b) buněčnou membránu
+c) jaderný obal
+d) jadérko
+Správná odpověď: c, d
+
+468. Viry jsou:
+a) buněčné organismy, které se množí přímým dělením
+b) nebuněčné organismy, které se mohou množit mimo buňky hostitele
+c) buněčné organismy, které se množí nepřímým dělením
+d) nebuněčné organismy, které se množí pouze v buňkách hostitele
+Správná odpověď: d
+
+469. Bakteriofág je:
+a) virus, který napadá bakteriální buňky
+b) zvláštní bakterie, která pohlcuje (fagocytuje) bakteriální viry
+c) velký virus obalený membránou a podobný bakterii, který napadá živočišné buňky
+d) buňka imunitního systému (druh makrofágu) specializovaná na likvidaci bakterií
+Správná odpověď: a
+
+470. Vyberte skupinu lidských chorob, která zahrnuje výhradně virové infekce:
+a) infekční žloutenka (hepatitida a), AIDS, spalničky, plané neštovice
+b) plané neštovice, syfilis, infekční žloutenka (hepatitida a), dětská obrna
+c) zánět mozkových blan, plané neštovice, kuru, příušnice, chřipka
+d) zánět mozkových blan, cholera, spalničky, infekční žloutenka (hepatitida a)
+Správná odpověď: a
+
+471. Prion je:
+a) proteinová infekční částice
+b) nedozrálé stádium viru
+c) proteinová část virové partikule
+d) infekční molekula RNA dříve označovaná jako viroid
+Správná odpověď: a
+
+472. Viry se od bakterií liší tím, že na rozdíl od nich nemají:
+a) jádro ohraničené obalem
+b) ribozomy
+c) geny
+d) proteiny
+Správná odpověď: b
+
+473. Virus HIV primárně napadá a ničí zejména:
+a) cytotoxické T lymfocyty
+b) paměťové T lymfocyty
+c) pomocné T lymfocyty
+d) cytotoxické i pomocné T lymfocyty
+Správná odpověď: c
+
+474. Retroviry:
+a) začleňují DNA reverzně přepsanou z  RNA do chromozomové DNA hostitelské buňky
+b) obsahují RNA, podle níž se v buňkách hostitele syntetizuje komplementární DNA
+c) obsahují zpětnou transkriptázu
+d) jsou zvláštní skupinou DNA virů, které neobsahují reverzní transkriptázu
+Správná odpověď: a, b, c
+
+475. Virion může obsahovat:
+a) kapsid
+b) molekulu RNA
+c) molekulu DNA
+d) membránový obal
+Správná odpověď: a, b, c, d
+
+476. Viry napadající bakterie se nazývají:
+a) makrofágy
+b) bakteriofágy
+c) bakteriostatické viry
+d) antibiotika
+Správná odpověď: b
+
+477. Viriony neobsahují:
+a) nukleovou kyselinu
+b) mitochondrie
+c) tylakoidy
+d) kapsida
+Správná odpověď: b, c
+
+478. Viry:
+a) se množí mimo napadené buňky
+b) se množí uvnitř napadených buněk
+c) napadají výhradně člověka a jiné savce, u ostatních organismů nejsou virové infekce známy
+d) mohou napadnout také rostliny
+Správná odpověď: b, d
+
+479. Která z uvedených onemocnění jsou virového původu?
+a) lymeská borelióza
+b) chřipka (influenza a)
+c) klíšťová encefalitida
+d) cholera
+Správná odpověď: b, c
+
+480. Která z následujících tvrzení o prokaryotních buňkách jsou pravdivá?
+a) k prokaryotním buňkám patří buňky bakterií včetně sinic
+b) cytoplazma prokaryotních buněk je obecně velmi bohatá na membránové organely
+c) jádro prokaryotních buněk je tvořeno několika odlišnými lineárními chromozomy
+d) nukleoid prokaryotních buněk není ohraničen biomembránou vůči cytoplazmě
+Správná odpověď: a, d
+
+481. Pod pojmem konjugace u bakterií rozumíme:
+a) spojení dvou buněk a obousměrná výměna jejich chromozomů
+b) spojení dvou buněk, přičemž z jedné buňky do druhé přechází část genetické informace
+c) úplné splynutí dvou buněk a jejich chromozomů
+d) splynutí dvou buněk, přičemž jejich chromozomy vytvoří homologní pár
+Správná odpověď: b
+
+482. Fixace vzdušného dusíku u některých sinic:
+a) probíhá pouze v hormogoniích
+b) probíhá za přispění fykocyanu
+c) probíhá za přispění chlorofylu
+d) probíhá v útvarech označovaných jako heterocysty
+Správná odpověď: d
+
+483. Jaký je způsob výživy u bakterií?
+a) Jsou výhradně autotrofní.
+b) Jsou výhradně heterotrofní.
+c) Někteří zástupci jsou heterotrofní.
+d) Někteří zástupci jsou autotrofní.
+Správná odpověď: c, d
+
+484. V bakteriální buňce můžeme pozorovat:
+a) při použití světelného mikroskopu chromozomy s centromerami a chromatidami
+b) při použití elektronového mikroskopu chromozomy, lysozomy a Golgiho komplex
+c) při použití elektronového mikroskopu nukleoid obsahující cirkulární DNA
+d) při použití optického mikroskopu s vysokým zvětšením jádro i ostatní buněčné organely
+Správná odpověď: c
+
+485. Pro rozmnožení bakteriofágu je třeba:
+a) proniknutí virové nukleové kyseliny do napadené buňky
+b) proniknutí virové kapsidy do napadené buňky, ostatní části viru zůstávají mimo buňku
+c) okamžité zničení napadené buňky, jejíž složky jsou rozštěpeny a pak využity bakteriofágem k reprodukci
+d) zejména dostatek živin v prostředí, pak se může množit i mimo buňku
+Správná odpověď: a
+
+486. Peptidoglykan:
+a) je jeden z glykoproteinů přítomný v membránách prokaryot i eukaryot
+b) je barvivo sloužící k laboratorní identifikaci glykoproteinů v buňkách
+c) je základní složka živných půd, na nichž se v laboratoři kultivují bakterie
+d) je základní složka buněčné stěny většiny bakterií (s výjimkou archeí)
+Správná odpověď: d
+
+487. Likvidace virů v hostitelském organismu působením imunitních mechanismů nebo podáním medikamentů je často obtížná, neboť:
+a) virové částice sestávají pouze z DNA nebo RNA, takže imunitní reakce proti nim prakticky není možná
+b) poměrně časté mutace způsobují výraznou variabilitu virů a tím i možnost vzniku rezistentních forem
+c) virové částice jsou velmi malé, a tak snadno uniknou imunitním mechanismům
+d) viry vykazují velmi rychlý aktivní pohyb, takže zpravidla uniknou před fagocytujícími buňkami
+Správná odpověď: b
+
+488. Buňky streptokoků tvoří:
+a) hroznovité shluky
+b) řetízkové útvary
+c) dezorganizované, nijak neohraničené kolonie
+d) různé útvary podle konkrétních životních podmínek
+Správná odpověď: b
+
+489. Buňky stafylokoků tvoří:
+a) útvary připomínající hrozny
+b) řetízkovitá vlákna
+c) vícevrstevné útvary
+d) struktury různého tvaru v závislosti na konkrétních podmínkách
+Správná odpověď: a
+
+490. Infekční částice všech virů (tzv. viriony) obsahují:
+a) výhradně DNA, RNA se vždy vytváří až v napadené buňce
+b) RNA nebo DNA
+c) pouze proteiny, nukleové kyseliny chybí
+d) výhradně RNA; DNA vzniká u naprosté většiny virů až v hostitelské buňce
+Správná odpověď: b

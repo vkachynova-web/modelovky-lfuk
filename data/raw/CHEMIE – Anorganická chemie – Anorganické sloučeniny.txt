@@ -1,0 +1,825 @@
+Z uvedených skupin oxidů vyberte takovou, která obsahuje 1 amfoterní, 1 kyselinotvorný a 2 zásadotvorné oxidy:
+a) N2O, Fe2O3, P2O5, Na2O
+b) K2O, N2O5, CaO, ZnO
+c) SO2, PbO2, SiO2, NO
+d) N2O3, Li2O, SO3, CuO
+Správná odpověď: b
+
+Z uvedených skupin oxidů vyberte takovou, která obsahuje 1 amfoterní, 1 kyselinotvorný a 1 zásadotvorný oxid:
+a) Cl2O7, CO2, MgO
+b) CaO, MgO, Na2O
+c) Al2O3, ZnO, CaO
+d) CO2, ZnO, MgO
+Správná odpověď: d
+
+Zásadotvorné oxidy jsou:
+a) molekulové oxidy a oxidy kovů s oxidačním číslem větším než V
+b) téměř všechny iontové oxidy a oxidy kovů s oxidačním číslem menším než IV
+c) oxidy halogenů
+d) oxidy kovů s atomovou strukturou a s nižšími oxidačními čísly
+Správná odpověď: b
+
+P4O6 je vzorec:
+a) fosfinu
+b) oxidu fosforového
+c) oxidu fosforečného
+d) oxidu fosforitého
+Správná odpověď: d
+
+Které z uvedených oxidů se slučují s vodou za vzniku hydroxidů?
+a) SiO2
+b) K2O
+c) Cl2O7
+d) CaO
+Správná odpověď: b, d
+
+Které z uvedených oxidů se slučují s vodou za vzniku hydroxidů?
+a) Li2O
+b) CaO
+c) SiO2
+d) B2O3
+Správná odpověď: a, b
+
+Zásadotvorné oxidy tvoří prvky umístěné ve skupině periodické soustavy prvků:
+a) VII. A
+b) IV. A
+c) VI. A
+d) II. A
+Správná odpověď: d
+
+Kyselinotvorné oxidy jsou:
+a) oxidy kovů s atomovou strukturou a s nižšími oxidačními čísly atomu
+b) molekulové oxidy a oxidy kovů s oxidačním číslem větším než V
+c) oxidy kovů alkalických zemin
+d) iontové oxidy a oxidy kovů s oxidačním číslem menším než IV
+Správná odpověď: b
+
+Které z uvedených oxidů se slučují s vodou za tvorby kyslíkatých kyselin?
+a) CaO
+b) SO3
+c) P4O10
+d) Na2O
+Správná odpověď: b, c
+
+Které z uvedených oxidů se slučují s vodou za tvorby kyslíkatých kyselin?
+a) CO
+b) N2O5
+c) SO3
+d) N2O
+Správná odpověď: b, c
+
+Mezi kyselinotvorné oxidy patří:
+a) N2O5
+b) CO
+c) CO2
+d) CuO
+Správná odpověď: a, c
+
+Které z uvedených oxidů se slučují s vodou za tvorby kyslíkatých kyselin?
+a) N2O3
+b) N2O
+c) CO2
+d) CO
+Správná odpověď: a, c
+
+Který z následujících prvků tvoří/může tvořit amfoterní oxid?
+a) C
+b) P
+c) Al
+d) Mg
+Správná odpověď: c
+
+Mezi amfoterní oxidy patří:
+a) oxidy kovů s atomovou strukturou a s nižšími oxidačními čísly
+b) molekulové oxidy a oxidy kovů s oxidačním číslem větším než V
+c) oxidy halogenů
+d) iontové oxidy a oxidy kovů s oxidačním číslem menším než IV
+Správná odpověď: a
+
+Jak se nazývají oxidy kovů s atomovou strukturou a s nižšími oxidačními čísly atomů?
+a) iontové oxidy
+b) kyselinotvorné oxidy
+c) amfoterní oxidy
+d) zásadotvorné oxidy
+Správná odpověď: c
+
+Mezi amfoterní oxidy patří:
+a) SO2
+b) CO
+c) ZnO
+d) MgO
+Správná odpověď: c
+
+Oxidy s atomovou strukturou převážně tvoří:
+a) většina nekovů
+b) s1 a s2 prvky
+c) většina prvků s vysokou elektronegativitou
+d) kovy střední části periodické soustavy prvků
+Správná odpověď: d
+
+Ve vodě nerozpustné oxidy kovů s oxidačním číslem menším než IV reagují s kyselinami za vzniku:
+a) kyslíku
+b) solí
+c) vodíku
+d) hydroxidů
+Správná odpověď: b
+
+Oxidu fosforečnému přísluší vzorec:
+a) P4O6
+b) P2O3
+c) P4O10
+d) PO3
+Správná odpověď: c
+
+Oxidu fosforitému přísluší vzorec:
+a) P4O6
+b) P4O10
+c) P2O5
+d) PO2
+Správná odpověď: a
+
+Mezi typické iontové hydridy patří:
+a) H2O a PH3
+b) HCl a HI
+c) CH4 a AsH3
+d) NaH a CaH2
+Správná odpověď: d
+
+Při reakci iontových hydridů s vodou vzniká:
+a) H3O +
+b) s vodou nereagují
+c) H2
+d) O2
+Správná odpověď: c
+
+Za normálních podmínek jsou iontové hydridy:
+a) kapalné i plynné
+b) pevné
+c) plynné
+d) kapalné
+Správná odpověď: b
+
+Vyberte správné tvrzení. Kovalentní hydridy:
+a) obsahují hydridový aniont H–
+b) mimo vody jsou za normálních podmínek plynné
+c) reagují s vodou za vzniku H2
+d) mimo vody jsou za normálních podmínek pevné látky
+Správná odpověď: b
+
+PH3 patří mezi hydridy:
+a) iontové s nepolární kovalentní vazbou
+b) kovalentní s nepolární kovalentní vazbou
+c) iontové
+d) kovalentní s polární kovalentní vazbou
+Správná odpověď: b
+
+Vyberte pravdivé tvrzení o kovalentních hydridech:
+a) Kovalentní hydridy s nepolární kovalentní vazbou při reakci s vodou uvolňují H3O +.
+b) Kovalentní hydridy s nepolární kovalentní vazbou při reakci s vodou uvolňují OH–.
+c) Kovalentní hydridy s nepolární kovalentní vazbou s vodou nereagují.
+d) Kovalentní hydridy s nepolární kovalentní vazbou při reakci s vodou uvolňují H2.
+Správná odpověď: c
+
+Vodík má ve sloučeninách NH3 a CaH2 oxidační čísla:
+a) –I a I
+b) I a –I
+c) –I a –I
+d) I a I
+Správná odpověď: b
+
+V iontových hydridech má vodík oxidační číslo:
+a) II
+b) 0
+c) I
+d) –I
+Správná odpověď: d
+
+V kovalentních hydridech s polární kovalentní vazbou má vodík oxidační číslo:
+a) –II
+b) 0
+c) I
+d) –I
+Správná odpověď: c
+
+CaH2 je vzorec:
+a) kyseliny vápenaté
+b) hydridu vápenatého
+c) hašeného vápna
+d) hydridu kalia
+Správná odpověď: b
+
+Sloučeniny boru s vodíkem se nazývají:
+a) silany
+b) boraxy
+c) borany
+d) boritany
+Správná odpověď: c
+
+Mezi iontové halogenidy patří:
+a) NaClO4 a KClO4
+b) TiCl4 a PbCl4
+c) CdCl2 a CuCl2
+d) NaCl a KCl
+Správná odpověď: d
+
+Mezi iontové halogenidy nepatří:
+a) NaCl
+b) CsF
+c) CuCl2
+d) KCl
+Správná odpověď: c
+
+Reakcí karbidu (acetylidu) vápenatého s vodou vzniká hydroxid vápenatý a:
+a) ethylen
+b) ethyn
+c) ethan
+d) oxid uhličitý
+Správná odpověď: b
+
+Reakcí karbidu (acetylidu) vápenatého s vodou vzniká acetylen a:
+a) oxid vápenatý
+b) uhličitan vápenatý
+c) hydroxid vápenatý
+d) octan vápenatý
+Správná odpověď: c
+
+Karbidu křemíku přísluší vzorec:
+a) Si2C
+b) SiC
+c) SC2
+d) SiC2
+Správná odpověď: b
+
+Karbidu vápenatému přísluší vzorec:
+a) CaCO3
+b) CaC2
+c) Ca2C
+d) Ca2C2
+Správná odpověď: b
+
+SiC je vzorec:
+a) karbidu křemíku
+b) silanu
+c) silicidu
+d) karbidu síry
+Správná odpověď: a
+
+Karbidu sodnému přísluší vzorec:
+a) Na2C
+b) NaC2
+c) Na2C2
+d) Na2CO3
+Správná odpověď: c
+
+BaF2 je vzorec:
+a) fluoridu berylnatého
+b) fluoridu barnatého
+c) fosforidu barnatého
+d) fluoridu barného
+Správná odpověď: b
+
+Jaký je vzorec sloučeniny, obsahující ionty Fe3+ a Cl–?
+a) FeCl3
+b) FeCl2
+c) FeCl
+d) Fe2Cl3
+Správná odpověď: a
+
+Jaký je vzorec sloučeniny, obsahující ionty Cd2+ a S2–?
+a) CdS
+b) CdS2
+c) Cd2S
+d) CdS2
+Správná odpověď: a
+
+Dusičnanu měďnatému přísluší vzorec:
+a) CuNO2
+b) Cu(NO3)2
+c) Cu(NO2)2
+d) CuNO3
+Správná odpověď: b
+
+Hydrogensulfidu vápenatému přísluší vzorec:
+a) Ca(HSO3)2
+b) Ca(HS)2
+c) Ca(HSO4)2
+d) CaHS
+Správná odpověď: b
+
+Hydrogensíranu vápenatému přísluší vzorec:
+a) Ca(HSO3)2
+b) Ca(HSO4)2
+c) CaHSO4
+d) Ca(HS)2
+Správná odpověď: b
+
+Wolframanu barnatému přísluší vzorec:
+a) BaVO3
+b) BaWO3
+c) BaWO4
+d) BaVO4
+Správná odpověď: c
+
+Hydrogensulfidu amonnému přísluší vzorec:
+a) (NH4)2SO4
+b) (NH4)2S
+c) NH3HS
+d) NH4HS
+Správná odpověď: d
+
+Dodekahydrát síranu draselno-chromitého má vzorec:
+a) KCr2(SO4)2 ·10 H2O
+b) K2Cr(SO4)2 ·10 H2O
+c) KCr(SO4)2 ·12 H2O
+d) KCr(SO4)2 ·10 H2O
+Správná odpověď: c
+
+Dodekahydrát síranu draselno-hlinitého má vzorec:
+a) KAl(SO4)2 ·12 H2O
+b) K2Al(SO4)2 ·7 H2O
+c) KCr(SO4)2 ·12 H2O
+d) KAl(SO4)2 ·10 H2O
+Správná odpověď: a
+
+Hydrogenuhličitan vápenatý má vzorec:
+a) CaC2
+b) Ca(H2CO3)2
+c) CaCO3
+d) Ca(HCO3)2
+Správná odpověď: d
+
+Uhličitanu železnatému přísluší vzorec:
+a) FeCO3
+b) Fe2(CO3)3
+c) Fe(CO3)2
+d) Fe(HCO3)2
+Správná odpověď: a
+
+Kyanidy jsou soli kyseliny:
+a) kyanovodíkové
+b) kyanaté
+c) thiokyanaté
+d) azidovodíkové
+Správná odpověď: a
+
+Chloridu rtuťnému přísluší vzorec:
+a) HgCl2
+b) Hg2Cl2
+c) HgCl
+d) Hg2Cl
+Správná odpověď: b
+
+NaHSO3 je vzorec:
+a) hydrogensiřičitanu sodného
+b) siřičitanu sodného
+c) hydrogensíranu sodného
+d) hydrogensulfidu sodného
+Správná odpověď: a
+
+Na2SiO3 je vzorec:
+a) křemitanu sodného
+b) křemičitanu sodnatého
+c) siřičitanu sodného
+d) křemičitanu sodného
+Správná odpověď: d
+
+K2CO3 je vzorec:
+a) karbidu draselného
+b) potaše
+c) uhličitanu draselného
+d) sody
+Správná odpověď: b, c
+
+NH4MnO4 je vzorec:
+a) mangananu amonného
+b) manganičitanu amonného
+c) molybdenanu amonného
+d) manganistanu amonného
+Správná odpověď: d
+
+Al2(HPO4)3 je vzorec:
+a) hydrogenfosforečnanu hlinitého
+b) dihydrogenfosforečnanu hlinitého
+c) hydrogenfosforitanu hlinitého
+d) hydrogenfosfornanu hlinitého
+Správná odpověď: a
+
+(NH4)2Cr2O7 je vzorec:
+a) chromanu amonného
+b) dichromanu amonného
+c) dichromitanu amonného
+d) chromitanu amonného
+Správná odpověď: b
+
+NH4NO3 je vzorec:
+a) dusičnanu amonného
+b) dusitanu amonného
+c) salmiaku
+d) ledku amonného
+Správná odpověď: a, d
+
+Ca(HSO3)2 je vzorec:
+a) hydrogensulfidu vápenatého
+b) sulfidu vápenatého
+c) hydrogensiřičitanu vápenatého
+d) hydrogensíranu vápenatého
+Správná odpověď: c
+
+Ca3(PO4)2 je vzorec:
+a) fosfornanu vápenatého
+b) fosforečnanu vápenatého
+c) fosforitanu vápenatého
+d) fosforečnanu vápeného
+Správná odpověď: b
+
+MgSO4 je vzorec:
+a) síranu hořečného
+b) siřičitanu hořečnatého
+c) sulfidu hořečnatého
+d) síranu hořečnatého
+Správná odpověď: d
+
+Ca(HS)2 je vzorec:
+a) hydrogensulfidu vápenatého
+b) hydrogensíranu vápenatého
+c) dihydrogensulfidu vápenatého
+d) sulfidu vápenatého
+Správná odpověď: a
+
+Pálené vápno je triviální název pro:
+a) Ca(OH)2
+b) CaF2
+c) CaCO3
+d) CaO
+Správná odpověď: d
+
+Pálené vápno se vyrábí z:
+a) CaSO4
+b) CaCO3
+c) Ca(OH)2
+d) Ca(HCO3)2
+Správná odpověď: b
+
+Sádra je triviální název pro:
+a) Ca(OH)2
+b) CaSO4
+c) CaCO3
+d) CaSO4 · 1/2 H2O
+Správná odpověď: d
+
+Glauberova sůl je triviální název pro:
+a) ZnSO4 ·5 H2O
+b) MgSO4 ·10 H2O
+c) Na2SO4 ·10 H2O
+d) CaSO4 ·1/2 H2O
+Správná odpověď: c
+
+Ledku amonnému přísluší vzorec:
+a) NH4NO3
+b) KNO3
+c) NaNO3
+d) NH3NO3
+Správná odpověď: a
+
+Pod názvem „hašené vápno“ rozumíme:
+a) CaCO3
+b) CaO
+c) Ca(OH)2
+d) CaSO4
+Správná odpověď: c
+
+Chilskému ledku přísluší vzorec:
+a) NaNO3
+b) NH4NO3
+c) KNO3
+d) NaNO2
+Správná odpověď: a
+
+Chlorové vápno je směsí:
+a) chloridu a chlorečnanu vápenatého
+b) chloridu a chlornanu vápenatého
+c) chlornanu a chlorečnanu sodného
+d) chloridu a chlornanu sodného
+Správná odpověď: b
+
+Modré skalici přísluší vzorec:
+a) FeSO4 ·7 H2O
+b) ZnSO4 ·7 H2O
+c) K3[Fe(CN)6]
+d) CuSO4 ·5 H2O
+Správná odpověď: d
+
+Pod názvem „bílá skalice“ rozumíme:
+a) KCr(SO4)2 ·12 H2O
+b) ZnSO4 ·7 H2O
+c) FeSO4 ·7 H2O
+d) CuSO4 ·5 H2O
+Správná odpověď: b
+
+Reakcí Cl2 + 2 NaOH ve vodném roztoku vzniká:
+a) hašené vápno
+b) bělící louh
+c) fosgen
+d) chlorové vápno
+Správná odpověď: b
+
+Které z následujících vzorců náleží neexistujícím koordinačním sloučeninám?
+a) K3[FeCN6]
+b) K4[Fe(CN)6]
+c) K2[Fe(CN)6]
+d) K3[Fe(CN)6]
+Správná odpověď: a, c
+
+Reakcí AlF3 s fluoridy kovů vznikají komplexní fluorohlinitany obsahující aniont:
+a) [AlF3] 3+
+b) [AlF6] 3+
+c) [AlF]2+
+d) [AlF6]3–
+Správná odpověď: d
+
+[Cu(NH3)4]2+ je kationt:
+a) diamminměďnatý
+b) triamminměďnatý
+c) tetraamminměďný
+d) tetraamminměďnatý
+Správná odpověď: d
+
+[Ni(NH3)6]SO4 je síran:
+a) hexaamminnikelnatý
+b) podvojný
+c) hexaamminniklitý
+d) triamminnikelnatý
+Správná odpověď: a
+
+Z uvedených uhličitanů jsou ve vodě málo rozpustné:
+a) Li2CO3
+b) K2CO3
+c) Na2CO3
+d) CaCO3
+Správná odpověď: a, d
+
+Který z následujících uhličitanů je ve vodě nejméně rozpustný?
+a) CaCO3
+b) Ca(HCO3)2
+c) K2CO3
+d) Na2CO3
+Správná odpověď: a
+
+Který z následujících uhličitanů je ve vodě nejlépe rozpustný?
+a) CaCO3
+b) Na2CO3
+c) MgCO3
+d) PbCO3
+Správná odpověď: b
+
+Který z následujících síranů je ve vodě nejméně rozpustný?
+a) Na2SO4 ·10 H2O
+b) CaSO4 ·2 H2O
+c) CuSO4 ·5 H2O
+d) (NH4)2SO4
+Správná odpověď: b
+
+Který z následujících síranů je ve vodě nejméně rozpustný?
+a) BaSO4
+b) (NH4)2SO4
+c) Na2SO4 ·10 H2O
+d) CuSO4 ·5 H2O
+Správná odpověď: a
+
+Která z uvedených sloučenin je ve vodě téměř nerozpustná?
+a) chlorid stříbrný
+b) chlorid draselný
+c) síran měďnatý
+d) uhličitan sodný
+Správná odpověď: a
+
+Hlavní složkou přechodné tvrdosti pramenité vody je:
+a) MgSO4
+b) CaSO4
+c) Ca(HSO4)2
+d) Ca(HCO3)2
+Správná odpověď: d
+
+Přechodnou tvrdost vody lze odstranit:
+a) nelze odstranit
+b) filtrací
+c) povařením
+d) filtrací 100 °C teplé vody
+Správná odpověď: c
+
+Hlavní složkou trvalé tvrdosti pramenité vody je:
+a) H2SO4
+b) CaSO4
+c) MgCO3
+d) Ca(HCO3)2
+Správná odpověď: b
+
+Přechodnou tvrdost pitné vody způsobují především:
+a) některé rozpustné soli sodíku a draslíku
+b) některé rozpustné soli vápníku a hořčíku
+c) některé nerozpustné soli vápníku a hořčíku
+d) některé nerozpustné soli sodíku a draslíku
+Správná odpověď: b
+
+Sulfanu přísluší vzorec:
+a) NaHS
+b) H2S
+c) HS
+d) CS2
+Správná odpověď: b
+
+Sirouhlíku přísluší vzorec:
+a) C2S
+b) CS
+c) HCNS
+d) CS2
+Správná odpověď: d
+
+Vyberte správné odpovědi o sirouhlíku:
+a) je polární rozpouštědlo
+b) je nepolární rozpouštědlo
+c) rozpouští síru
+d) nerozpouští síru
+Správná odpověď: b, c
+
+Sloučeniny křemíku s kovy se nazývají:
+a) hexafluorokřemičitany
+b) silany
+c) silicidy
+d) křemičitany
+Správná odpověď: c
+
+PF5 je vzorec:
+a) fosfinu
+b) fluoridu fosforečného
+c) fluoridu fosforitého
+d) fosforečnanu fluorného
+Správná odpověď: b
+
+CS2 je vzorec:
+a) sirouhlíku
+b) sulfidu cesného
+c) sirovodíku
+d) fosgenu
+Správná odpověď: a
+
+H2S je vzorec:
+a) hydridu sírového
+b) sulfanu
+c) kyseliny sírové
+d) sirouhlíku
+Správná odpověď: b
+
+Jodová tinktura je:
+a) roztok jódu v ethanolu
+b) roztok jódu ve vodě
+c) roztok jodidu draselného v ethanolu
+d) roztok jodidu draselného ve vodě
+Správná odpověď: a
+
+Amalgámy jsou:
+a) oxidy rtuti
+b) hydridy rtuti
+c) slitiny kovů se rtutí
+d) slitiny kovů s olovem
+Správná odpověď: c
+
+Lučavka královská je směsí kyselin:
+a) H2SO4 a HCl
+b) H2SO4 a HNO3
+c) HNO3 a HBr
+d) HNO3 a HCl
+Správná odpověď: d
+
+„Rajský plyn“ má vzorec:
+a) CO
+b) NO
+c) N2O
+d) N2O3
+Správná odpověď: c
+
+Kamence jsou:
+a) podvojné křemičitany
+b) podvojné siřičitany
+c) silany
+d) podvojné sírany
+Správná odpověď: d
+
+Sublimát je triviální název pro:
+a) chlorid rtuťnatý
+b) chlorid rtuťný
+c) rtuť
+d) dusičnan rtuťnatý
+Správná odpověď: a
+
+Kalomel je triviální název pro:
+a) chlorid rtuťnatý
+b) chlorid rtuťný
+c) rtuť
+d) dusičnan rtuťnatý
+Správná odpověď: b
+
+Mezi základní suroviny, užívané při výrobě běžného skla nepatří:
+a) voda
+b) křemičitý písek
+c) Na2CO3
+d) vápenec
+Správná odpověď: a
+
+Z následujících odpovědí vyberte takovou, která obsahuje triviální názvy pouze těchto sloučenin – COCl2, Ca(OH)2, NaNO3:
+a) fosgen, pálené vápno, chilský ledek
+b) chlorové vápno, pálené vápno, ledek amonný
+c) fosgen, hašené vápno, chilský ledek
+d) chlorid uhličitý, hašené vápno, nitrid sodný
+Správná odpověď: c
+
+Která tvrzení o „jedlé sodě“ jsou pravdivá?
+a) přidává se jako kypřící prášek do těsta
+b) její roztok má zásaditou reakci
+c) její roztok má kyselou reakci
+d) její roztok se používá ke snížení kyselosti žaludku
+Správná odpověď: a, b, d
+
+Zápalka se vznítí škrtnutím, protože hlavička zápalky obsahuje chlorečnan draselný a na třecí ploše krabičky je:
+a) černá modifikace fosforu
+b) bílá modifikace fosforu
+c) červená modifikace fosforu
+d) chloristan sodný
+Správná odpověď: c
+
+Oleum vzniká tak, že v kyselině sírové se rozpouští:
+a) oxid siřičitý
+b) oxid sírový
+c) voda
+d) sulfan
+Správná odpověď: b
+
+Které z následujících plynů jsou pro člověka prudce jedovaté?
+a) He
+b) N2
+c) Cl2
+d) COCl2
+Správná odpověď: c, d
+
+Které z následujících sloučenin jsou pro člověka prudce jedovaté?
+a) NaCl
+b) HCN
+c) NaCN
+d) K4[Fe(CN)6]
+Správná odpověď: b, c
+
+Které z následujících plynů jsou pro člověka prudce jedovaté?
+a) N2
+b) CO
+c) CO2
+d) Cl2
+Správná odpověď: b, d
+
+Účinkem vody se fosgen rozkládá na:
+a) acetaldehyd
+b) chlor a oxid uhelnatý
+c) močovinu
+d) kyselinu chlorovodíkovou a oxid uhličitý
+Správná odpověď: d
+
+Fosgenu přísluší vzorec:
+a) P4O10
+b) CO(NH2)2
+c) COCl2
+d) PH3
+Správná odpověď: c
+
+Z uvedených aniontů je pro lidský organismus nejjedovatější:
+a) HCO – 3
+b) HPO 2– 4
+c) CN–
+d) Cl–
+Správná odpověď: c
+
+Která z uvedených solí je pro člověka prudce jedovatá:
+a) AgCl
+b) BaSO4
+c) KCN
+d) KCl
+Správná odpověď: c
+
+Z uvedených látek je pro člověka jedem:
+a) chlorid barnatý
+b) síran barnatý
+c) síran vápenatý
+d) chlorid vápenatý
+Správná odpověď: a
+
+Které z uvedených sloučenin jsou pro člověka jedovaté?
+a) dusičnan rtuťnatý
+b) hydrogenuhličitan sodný
+c) amalgámy
+d) chlorid rtuťnatý
+Správná odpověď: a, d
+
+COCl2 je vzorec:
+a) kyseliny kyanaté
+b) chloridu uhličitého
+c) chloridu uhelnatého
+d) fosgenu
+Správná odpověď: d

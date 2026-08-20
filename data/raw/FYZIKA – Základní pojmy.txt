@@ -1,0 +1,447 @@
+1.01. 1 ml destilované vody má za normálních podmínek hmotnost přibližně:
+a) 1 g
+b) 10 g
+c) 10 mg
+d) 100 mg
+Správná odpověď: a
+
+1.02. 1 mm3 destilované vody má za normálních podmínek hmotnost přibližně:
+a) 1 mg
+b) 10 mg
+c) 0,1 mg
+d) 1 g
+Správná odpověď: a
+
+1.03. 20 g destilované vody má za normálních podmínek objem přibližně:
+a) 2 cm3
+b) 20 cm3
+c) 20 ml
+d) 20 mm3
+Správná odpověď: b, c
+
+1.04. Denní dávka je 15 mg účinné látky, 10 ml balení léku obsahuje 100 mg účinné látky, 1 kapka je velká 50µl. Kolik kapek musí pacient užívat ráno, v poledne a večer?
+a) pokaždé 1 kapku
+b) pokaždé 5 kapek
+c) pokaždé 10 kapek
+d) pokaždé 20 kapek
+Správná odpověď: c
+
+1.05. Denní dávka je 5 mg účinné látky na 1 kg živé váhy. Lék obsahuje 2 hmotnostní procenta účinné látky. Jak velké balení musíme předepsat 6 kg kojenci, aby je využíval během týdne?
+a) 10 ml
+b) 20 ml
+c) 50 ml
+d) 100 ml
+Správná odpověď: a
+
+1.06. Do válcové nádoby o vnitřním průměru 20 mm a výšce 20 cm se nevejde:
+a) 120 ml
+b) 60 ml
+c) 12 ml
+d) 6 ml
+Správná odpověď: a
+
+1.07. Ekvivalentní vyjádření rychlosti je:
+a) 0,1 m · s−1 = 36 km · h−1
+b) 3,6 m · s−1 = 1 km · h−1
+c) 10,8 m · s−1 = 3 km · h−1
+d) 3 m · s−1 = 10,8 km · h−1
+Správná odpověď: d
+
+1.08. Homogenní těleso:
+a) má ve všech směrech stejné fyzikální vlastnosti
+b) má ve všech místech stejné fyzikální vlastnosti
+c) má rozměry, které můžeme zanedbat, podstatná je jen jeho hmotnost
+d) má pravidelný tvar
+Správná odpověď: b
+
+1.09. Hustota zlata 19,32 g/cm3 je po převedení do základních jednotek rovna:
+a) 19,32 kg/m3
+b) 1932 kg/m3
+c) 193,2 kg/m3
+d) 19 320 kg/m3
+Správná odpověď: d
+
+1.10. Izotropní těleso:
+a) má ve všech místech stejnou hustotu
+b) má ve všech směrech stejné fyzikální vlastnosti
+c) se nachází v tropickém pásu (v okolí rovníku)
+d) se nachází v izotropním prostředí
+Správná odpověď: b
+
+1.11. Jakou plochu má papír formátu A5?
+a) 1/32 m2
+b) přibližně 300 cm2
+c) přibližně 0,03 m2
+d) asi 2−5 m2
+Správná odpověď: a, b, c, d
+
+1.12. Jeden TPa je:
+a) 109 Pa
+b) 1015 Pa
+c) 1012 Pa
+d) 10−15 Pa
+Správná odpověď: c
+
+1.13. Kapalina o objemu 32 ml zaplní válcovou nádobu o vnitřním průměru 20 mm do výšky přibližně:
+a) 10 mm
+b) 10 cm
+c) 2,5 mm
+d) 2,5 cm
+Správná odpověď: b
+
+1.14. Kolik kapek o velikosti 50µl musí průměrně vykapat za 1 minutu, aby pacient dostal dávku 600 ml infuzního roztoku během 2 hodin?
+a) 20
+b) 50
+c) 100
+d) 200
+Správná odpověď: c
+
+1.15. Láhev s infúzním roztokem má vnitřní průměr 80 mm a hladina roztoku je ve výšce 120 mm. Trvá-li vykapání 2 hodiny, kapačka kape rychlostí přibližně:
+a) 0,5 ml/min
+b) 20 ml/min
+c) 5 ml/min
+d) 2 ml/min
+Správná odpověď: c
+
+1.16. Mezi odvozené jednotky v soustavě SI nepatří:
+a) newton
+b) sekunda
+c) ohm
+d) tesla
+Správná odpověď: b
+
+1.17. Mezi odvozené veličiny v soustavě SI nepatří:
+a) práce
+b) tlak
+c) látkové množství
+d) síla
+Správná odpověď: c
+
+1.18. Mezi odvozené veličiny v soustavě SI patří:
+a) svítivost
+b) čas
+c) světelný tok
+d) zrychlení
+Správná odpověď: c, d
+
+1.19. Mezi odvozené veličiny v soustavě SI patří:
+a) termodynamická teplota
+b) hydrostatický tlak
+c) síla
+d) látkové množství
+Správná odpověď: b, c
+
+1.20. Mezi veličiny, jejichž jednotka je základní jednotkou soustavy SI, patří:
+a) látkové množství
+b) elektrické napětí
+c) látková koncentrace
+d) elektrický potenciál
+Správná odpověď: a
+
+1.21. Mezi základní jednotky soustavy SI nepatří:
+a) cd
+b) A
+c) mol
+d) V
+Správná odpověď: d
+
+1.22. Mezi základní jednotky soustavy SI nepatří:
+a) m
+b) K
+c) W
+d) kg
+Správná odpověď: c
+
+1.23. Mezi základní veličiny soustavy SI nepatří:
+a) hustota
+b) látkové množství
+c) délka
+d) elektrický proud
+Správná odpověď: a
+
+1.24. Mezi základní veličiny soustavy SI nepatří:
+a) termodynamická teplota
+b) svítivost
+c) elektrický proud
+d) elektrické napětí
+Správná odpověď: d
+
+1.25. Mezi základní veličiny soustavy SI patří:
+a) teplo
+b) elektrický náboj
+c) zářivý tok
+d) svítivost
+Správná odpověď: d
+
+1.26. Objem 0,2 litru lze vyjádřit jako:
+a) 2000 mm3
+b) 0,02 hl
+c) 200 cm3
+d) 0,02 dm3
+Správná odpověď: c
+
+1.27. Objem 2 litry lze vyjádřit jako:
+a) 2 m3
+b) 0,2 dm3
+c) 0,002 m3
+d) 2000 cm3
+Správná odpověď: c, d
+
+1.28. Objem 20 m3 lze vyjádřit jako:
+a) 2000 dm3
+b) 20 l
+c) 200 hl
+d) 2000 hl
+Správná odpověď: c
+
+1.29. Objem 200 ml lze vyjádřit jako:
+a) 2000 mm3
+b) 2 l
+c) 200 cm3
+d) 0,02 l
+Správná odpověď: c
+
+1.30. Objem 50 ml lze vyjádřit jako:
+a) 500 mm3
+b) 0,2 dm3
+c) 200 cm3
+d) 5 · 10−2 l
+Správná odpověď: d
+
+1.31. Pacient má užívat 1 lžičku (5 ml) léku 3krát denně. Kolik účinné látky musí být ve 100 ml lahvičce léku, aby pacient obdržel 30 mg účinné látky denně?
+a) 0,2 g
+b) 1 g
+c) 2 g
+d) 5 g
+Správná odpověď: a
+
+1.32. Platí tvrzení:
+a) vektor násobený skalárem je skalár
+b) vektor násobený skalárem je vektor
+c) součet dvou vektorů je skalár
+d) velikost vektoru je skalár
+Správná odpověď: b, d
+
+1.33. Platí tvrzení:
+a) k určení skalární veličiny stačí číselná hodnota a jednotka
+b) k určení vektorové veličiny postačí číselná hodnota a jednotka
+c) k určení vektorové veličiny postačí číselná hodnota a působiště
+d) součinem skaláru a vektoru je vektor
+Správná odpověď: a, d
+
+1.34. Platí:
+a) 1 cm3 = 106 m3
+b) 1 mm3 = 10−9 m3
+c) 1 mm2 = 10−6 dm2
+d) 1 km2 = 108 cm2
+Správná odpověď: b
+
+1.35. Platí:
+a) 1 dm3 = 103 mm3
+b) 1 dm3 = 0,01 m3
+c) 1 dm3 = 10−3 m3
+d) 1 dm3 = 0,0001 m3
+Správná odpověď: c
+
+1.36. Platí:
+a) 1 km2 = 1010 cm2
+b) 1 km2 = 1000 m2
+c) 1 km2 = 100 000 m2
+d) 1 km2 = 105 c)m ( −1
+Správná odpověď: a
+
+1.37. Platí: 5 m−1 =
+a) 0,2 m
+b) 0,2 m2
+c) −5 m−2
+d) 5 m−2
+Správná odpověď: a
+
+1.38. Plný úhel (celý kruh) se rovná:
+a) 2π rad
+b) 360°
+c) dvěma přímým úhlům
+d) 21 600 úhlovým minutám
+Správná odpověď: a, b, c, d
+
+1.39. Polární noc v antarktické oblasti:
+a) nastává na severním pólu
+b) nastává v oblasti za jižním polárním kruhem
+c) se projeví, pokud zeměpisná šířka leží mezi severním pólem a obratníkem Kozoroha
+d) je přibližně v období našeho léta
+Správná odpověď: b, d
+
+1.40. Pro argumenty z uzavřeného intervalu ⟨0 rad, 2π rad⟩ platí:
+a) funkce tg nabývá hodnot pouze od −∞ do 0
+b) funkce sin nabývá hodnot od −1 do +1
+c) funkce cotg nabývá hodnot pouze od 0 do +∞
+d) funkce cos nabývá hodnot od −90° do +90°
+Správná odpověď: b
+
+1.41. Pro funkci logaritmus při základu větším než 1 platí:
+a) logaritmus záporného čísla je vždy záporné číslo
+b) pro kladný reálný argument menší než 1 je logaritmus záporný
+c) log 1 = 0 bez ohledu na velikost základu
+d) log x = log (−x) pro každé reálné x
+Správná odpověď: b, c
+
+1.42. Předpona giga (G) před značkou jednotky značí:
+a) 106
+b) 109
+c) 10−6
+d) 1012
+Správná odpověď: b
+
+1.43. Předpona mega (M) před značkou jednotky značí:
+a) 1012
+b) 109
+c) 106
+d) 10−9
+Správná odpověď: c
+
+1.44. Rychlost 600 km/min lze vyjádřit jako:
+a) 6 km/h
+b) 36 000 km/h
+c) 1000 km/h
+d) 167 km/h
+Správná odpověď: b
+
+1.45. Rychlost 1,8 km/h lze vyjádřit jako:
+a) 65 m/s
+b) 6,5 m/s
+c) 5 m/s
+d) 0,5 m/s
+Správná odpověď: d
+
+1.46. Rychlost 10 m/s lze vyjádřit jako:
+a) 36 km/h
+b) 3,6 km/h
+c) 2,78 km/h
+d) 27,8 km/h
+Správná odpověď: a
+
+1.47. Rychlost 600 km/min lze vyjádřit jako:
+a) 1000 m/s
+b) 3600 km/min
+c) 3600 m/s
+d) 10 km/s
+Správná odpověď: d
+
+1.48. Skalární veličiny se vyznačuji tím, že:
+a) k jejich úplnému určení stačí vždy jen číselná hodnota
+b) k jejich určení je třeba stanovit velikost, směr a působiště
+c) k jejich úplnému určení postačí číselná hodnota, jednotka a směr
+d) k jejich úplnému určení postačí číselná hodnota a jednotka
+Správná odpověď: d
+
+1.49. Šířka časového pásma na rovníku je v průměru:
+a) přibližně 1700 km
+b) 1/24 délky rovníku
+c) 1/24 délky poledníku
+d) rovná vzdálenosti Greenwiche od nultého poledníku
+Správná odpověď: a, b
+
+1.50. V soustavě SI je jednotkou odvozenou:
+a) km
+b) N ·m−3
+c) min
+d) Pa
+Správná odpověď: b, d
+
+1.51. V soustavě SI není jednotkou odvozenou:
+a) mm
+b) Pa
+c) W
+d) N
+Správná odpověď: a
+
+1.52. Vedlejší jednotkou je:
+a) minuta
+b) newton
+c) radián
+d) mol
+Správná odpověď: a
+
+1.53. Vedlejší jednotkou je:
+a) elektronvolt
+b) volt
+c) mol
+d) rok
+Správná odpověď: a, d
+
+1.54. Vteřina je:
+a) šedesátinou hodiny
+b) jednotkou rovinného úhlu
+c) základní jednotkou času
+d) dříve používanou jednotkou času, odpovídající sekundě
+Správná odpověď: b, d
+
+1.55. Vyberte správná přiřazení předpon:
+a) centi = 10−2, mili = 10−3, nano = 10−6, piko = 10−9
+b) deci = 10−1, mikro = 10−6, nano = 10−9, piko = 10−12
+c) deci = 10+1, centi = 10−2, mili = 10−3, mikro = 10−6
+d) nano = 10−9, piko = 10−12, mega = 10+9, giga = 10+12
+Správná odpověď: b
+
+1.56. Vyberte správná přiřazení předpon:
+a) deci = 10−1, deka = 10+1, centi = 10+2, hekto = 10−2
+b) mili = 10−3, mikro = 10−6, kilo = 10+3, mega = 10+6
+c) deci = 10+1, deka = 10−1, centi = 10−2, hekto = 10+2
+d) deci = 10−1, centi = 10−2, mili = 10−3, mikro = 10−4
+Správná odpověď: b
+
+1.57. Vyberte správná přiřazení předpon:
+a) deka = 10+1, kilo = 10+2, mega = 10+3, giga = 10+6
+b) deka = 10+1, kilo = 10+3, mega = 10+6, giga = 10+9
+c) deci = 10+1, deka = 10−1, centi = 10−2, hekto = 10+2
+d) deci = 10−1, centi = 10−2, mili = 10−3, mikro = 10−4
+Správná odpověď: b
+
+1.58. Vyberte správná přiřazení předpon:
+a) deci = 10−2, mili = 10−3, nano = 10−9, piko = 10−12
+b) mikro = 10−3, nano = 10−9, piko = 10−12, atto = 10−15, femto = 10−18
+c) mili = 10−3, nano = 10−6, piko = 10−12, atto = 10−18
+d) deci = 10−1, centi = 10−2, mili = 10−3, mikro = 10−6, piko = 10−12
+Správná odpověď: d
+
+1.59. Vyberte správná přiřazení předpon:
+a) deka = 101, kilo = 103, giga = 106, mega = 109, terra = 1012
+b) deka = 102, kilo = 103, mega = 105, terra = 1012
+c) deka = 102, kilo = 103, mega = 106, giga = 109
+d) deka = 101, hekto = 102, kilo = 103, mega = 106, terra = 1012
+Správná odpověď: d
+
+1.60. Z uvedených veličin je skalárem:
+a) zrychlení
+b) síla
+c) tlak v kapalině
+d) hustota
+Správná odpověď: d
+
+1.61. Z uvedených veličin není skalárem:
+a) dostředivé zrychlení
+b) čas
+c) tíha
+d) velikost rychlosti
+Správná odpověď: a, c
+
+1.62. Z uvedených veličin není vektorem:
+a) síla
+b) okamžitá rychlost
+c) čas
+d) hybnost
+Správná odpověď: c
+
+1.63. Základními jednotkami soustavy SI jsou:
+a) kg, m, s, °C, A, mol, cd
+b) g, m, s, K, A, mol, cd
+c) kg, m, s, K, A, mol, cd
+d) kg ,m, s, K, V, mol, cd
+Správná odpověď: c
+
+1.64. Základními jednotkami soustavy SI jsou:
+a) metr, gram, sekunda, volt, kelvin, kandela, mol
+b) metr, kilogram, sekunda, ampér, stupeň Celsiův, kandela, mol
+c) newton, pascal, kilogram, metr, kandela, mol, sekunda
+d) metr, kilogram, sekunda, ampér, kelvin, kandela, mol
+Správná odpověď: d

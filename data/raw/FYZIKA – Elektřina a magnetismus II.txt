@@ -1,0 +1,1063 @@
+8.01. Časový průběh napětí a proudu je v oscilačním obvodě posunut:
+a) o 1/2 periody, tzn., že napětí a proud jsou ve fázi
+b) o 1/2 periody, tzn., že mezi napětím a proudem je fázový rozdíl ϕ = π/4 rad
+c) o 1/4 periody, tzn., že mezi napětím a proudem je fázový rozdíl ϕ = π/2 rad
+d) o λ/2, kde λ je vlnová délka
+Správná odpověď: c
+
+8.02. Deformační polarizace:
+a) je vyvolána deformací molekuly následkem posunů elektronových obalů a jader
+b) projevuje se pouze u iontových molekul
+c) u původně nepolárních molekul je jejím výsledkem vznik dipólu
+d) jejím výsledkem může být i zvýšený dipólový moment u polárních molekul
+Správná odpověď: a, c, d
+
+8.03. Diodou prochází velký proud, jen když je anoda diody:
+a) připojena k zápornému pólu = závěrný směr
+b) připojena ke kladnému pólu = propustný směr
+c) připojena ke kladnému pólu = závěrný směr
+d) připojena k zápornému pólu = propustný směr
+Správná odpověď: b
+
+8.04. Dohodou bylo určeno, že orientace magnetické indukční čáry vně magnetu je určena směrem:
+a) od jižního pólu k severnímu
+b) od jižního pólu k jižnímu
+c) od severního pólu k severnímu
+d) od severního pólu k jižnímu
+Správná odpověď: d
+
+8.05. Dvě hlavní části, které tvoří alternátor, jsou:
+a) rotor a stator
+b) kladná a záporná elektroda
+c) anoda a katoda
+d) elektrolyt a elektroda
+Správná odpověď: a
+
+8.06. Elektromagnetické vlnění je:
+a) podélné vlnění vektorů E⃗ a B⃗
+b) příčné vlnění vektorů E⃗ a B⃗, které jsou navzájem kolmé
+c) příčné vlnění vektorů E⃗ a B⃗, které jsou navzájem rovnoběžné
+d) podélné vlnění vektorů E⃗ a B⃗, které jsou navzájem kolmé a v postupné elektromagnetické vlně jsou posunuty o π/2
+Správná odpověď: b
+
+8.07. Elektron se v homogenním elektrickém poli pohybuje:
+a) po kruhové dráze
+b) obecně po parabole
+c) konstantní rychlostí
+d) tak, že je urychlován proti směru intenzity elektrického pole
+Správná odpověď: b, d
+
+8.08. Elektronvolt (eV) je vedlejší jednotkou:
+a) energie
+b) elektrického náboje
+c) elektrického napětí
+d) hybnosti
+Správná odpověď: a
+
+8.09. Elektrony se mohou podílet na vedení elektrického proudu jako volné nosiče elektrického náboje:
+a) v elektrolytu
+b) v kovech
+c) v ionizovaném plynu
+d) v polovodičích
+Správná odpověď: b, c, d
+
+8.10. Energie E magnetického pole cívky s indukčností L bez jádra, kterou protéká proud I, je dána vztahem:
+a) E = L · I2 / 2
+b) E = L2 · I / 2
+c) E = L / (2 · I)
+d) E = L · I / 2
+Správná odpověď: a
+
+8.11. Energie chemické vazby:
+a) udává množství energie potřebné k roztržení vazby
+b) udává počet vazeb mezi atomy
+c) charakterizuje pevnost vazby
+d) je možno ji vyjádřit v elektronvoltech
+Správná odpověď: a, c, d
+
+8.12. Faradayův zákon elektromagnetické indukce nám říká, že změní-li se magnetický indukční tok uzavřeným vodičem obepínajícím plochu S za dobu ∆t o ∆Φ, indukuje se ve vodiči elektrické napětí. Střední hodnotu tohoto napětí Ui určíme pomocí vztahu:
+a) Ui = −S · ∆Φ
+b) Ui = −S · ∆Φ / ∆t
+c) Ui = −∆Φ / ∆t
+d) Ui = −∆Φ · ∆t
+Správná odpověď: c
+
+8.13. Fázový rozdíl ϕ napětí a proudu v obvodech střídavého proudu s RLC v sérii určujeme z podmínky (ω – úhlová frekvence):
+a) tg ϕ = (ω · L − 1 / (ω ·c)) / R
+b) tg ϕ = R (ω · L − 1 / (ω ·c))
+c) tg ϕ = ω · L · R
+d) tg ϕ = −ω · L / R
+Správná odpověď: a
+
+8.14. Impedanci Z obvodu střídavého proudu s RLC v sérii určíme ze vztahu (ω – úhlová frekvence):
+a) Z = R2 + (ω · L − 1 / (ω ·c))2
+b) Z = R
+c) Z = R√2 + (ω · L + 1 / (ω ·c))2
+d) Z = R2 − (ω · L)2
+Správná odpověď: a
+
+8.15. Indukované elektrické napětí vzniká ve vodiči i při změnách magnetického pole, které vytváří proud procházející tímto vodičem. Tento jev se nazývá:
+a) polovodivost
+b) vzájemná indukce
+c) nevlastní indukce
+d) vlastní indukce
+Správná odpověď: d
+
+8.16. Indukované napětí:
+a) vůbec nezávisí na změně magnetického indukčního toku
+b) nezávisí na rychlosti změny magnetického indukčního toku
+c) je tím větší, čím je změna magnetického indukčního toku pomalejší
+d) je tím větší, čím je změna magnetického indukčního toku rychlejší
+Správná odpověď: d
+
+8.17. Indukované proudy vznikají nejen v uzavřených vodičích (resp. elektrických obvodech), ale i v masivních vodičích (plechy, desky, . . . ), které jsou v proměnném magnetickém poli. Tyto proudy označujeme jako vířivé a podle jejich objevitele je nazýváme:
+a) Lenzovy
+b) Faradayovy
+c) Foucaultovy
+d) Lorenzovy
+Správná odpověď: c
+
+8.18. Induktance obvodu střídavého proudu s indukčností:
+a) je lineárně závislá na indukčnosti cívky i na frekvenci střídavého proudu
+b) nezávisí na frekvenci střídavého proudu
+c) je přímo úměrná indukčnosti cívky a nepřímo úměrná kruhové frekvenci střídavého proudu
+d) je kvadraticky úměrná indukčnosti cívky a přímo úměrná kruhové frekvenci střídavého proudu
+Správná odpověď: a
+
+8.19. Jako pasivní elektrický oscilační obvod funguje (označení R – rezistor, L – indukčnost, C – kapacita):
+a) obvod RR
+b) obvod CR
+c) obvod LR
+d) obvod LC
+Správná odpověď: d
+
+8.20. Je-li dioda připojena v propustném směru, potom:
+a) má vlastnosti supravodiče
+b) její odpor je velký a prochází jí velký proud
+c) její odpor je malý a prochází jí velký proud
+d) její odpor je velký a prochází jí jen nepatrný proud
+Správná odpověď: c
+
+8.21. Je-li lineární elektrický obvod (obvod s prvky RLc) připojen ke zdroji napětí s harmonickým průběhem, pak elektrickým obvodem prochází:
+a) stejnosměrný proud, který má harmonický průběh
+b) střídavý proud, který má harmonický průběh
+c) konstantní stejnosměrný proud
+d) ionizační proud
+Správná odpověď: b
+
+8.22. Je-li polovodičová dioda zapojena v závěrném směru:
+a) je na anodě záporný pól a na katodě kladný
+b) prochází jí jen nepatrný proud
+c) je její odpor téměř nulový
+d) je její odpor velký
+Správná odpověď: a, b, d
+
+8.23. Jednotlivá fázová napětí třífázového rozvodu jsou navzájem posunuta o:
+a) 30°
+b) 120°
+c) 90°
+d) 2π/3 rad
+Správná odpověď: b, d
+
+8.24. Jestliže do volně zavěšeného lehkého hliníkového kroužku prudce zasuneme magnet, potom:
+a) se kroužek vychýlí ve směru pohybu magnetu
+b) magnet ztrácí své magnetické účinky
+c) se poloha kroužku nezmění
+d) se kroužek vychýlí proti směru pohybu magnetu
+Správná odpověď: a
+
+8.25. Jestliže magnet prudce vysuneme z volně zavěšeného lehkého hliníkového kroužku, potom:
+a) se kroužek vychýlí proti směru pohybu magnetu
+b) se kroužek vychýlí ve směru pohybu magnetu
+c) magnet ztrácí své magnetické účinky
+d) se poloha kroužku nezmění
+Správná odpověď: b
+
+8.26. Jestliže se směr vektorů E⃗ a B⃗ v elektromagnetické vlně nemění, mluvíme o:
+a) čelní vlně
+b) stojaté vlně
+c) kruhově polarizované elektromagnetické vlně
+d) lineárně polarizované elektromagnetické vlně
+Správná odpověď: d
+
+8.27. Jestliže vodič protékaný proudem I bude mít směr shodný se směrem magnetických indukčních čar magnetického pole, ve kterém je umístěn, potom:
+a) výsledná magnetická síla bude nulová
+b) magnetická síla bude maximální
+c) vektor magnetické síly bude rovnoběžný s vodičem
+d) směr magnetické síly bude shodný se směrem proudu
+Správná odpověď: a
+
+8.28. K nejdůležitějším polovodičovým součástkám patří tranzistor. Tvoří ho krystal polovodiče:
+a) s jedním přechodem PN
+b) se dvěma přechody PN
+c) se dvěma přechody NN
+d) se třemi přechody PP
+Správná odpověď: b
+
+8.29. K výrobě střídavého napětí (resp. proudu) se v energetice používají:
+a) akumulátory
+b) alternátory
+c) transformátory
+d) termistory
+Správná odpověď: b
+
+8.30. Kapacitance obvodu střídavého proudu s kapacitou je:
+a) nezávislá na kapacitě kondenzátoru i frekvenci střídavého proudu
+b) nepřímo úměrná kapacitě kondenzátoru a přímo úměrná frekvenci střídavého proudu
+c) přímo úměrná kapacitě kondenzátoru i frekvenci střídavého proudu
+d) nepřímo úměrná kapacitě kondenzátoru i frekvenci střídavého proudu
+Správná odpověď: d
+
+8.31. Když na nabitou částici, která byla v klidu, začne působit homogenní elektrické pole, pak:
+a) se částice začne pohybovat rovnoměrně zrychleně
+b) se částice začne pohybovat přímočaře směrem rovnoběžným s vektorem intenzity elektrického pole
+c) kinetická energie částice v závislosti na čase kvadraticky poroste
+d) potenciální energie částice v elektrickém poli bude v závislosti na čase kvadraticky klesat
+Správná odpověď: a, b, c, d
+
+8.32. Kmitání odpojeného ideálního elektrického oscilačního obvodu označujeme jako:
+a) elektromagnetickou indukci
+b) vlastní kmitání LC oscilátoru
+c) nucené kmitání LC oscilátoru
+d) nevlastní kmitání LC oscilátoru
+Správná odpověď: b
+
+8.33. Kombinaci rezistoru a indukčnosti, zapojenou v obvodu střídavého proudu určité frekvence, můžeme charakterizovat jedinou veličinou, která se nazývá:
+a) induktance
+b) impedance
+c) kapacitance
+d) reaktance
+Správná odpověď: b
+
+8.34. Kombinaci rezistoru a kondenzátoru, zapojenou v obvodu střídavého proudu určité frekvence, můžeme charakterizovat jedinou veličinou, která se nazývá:
+a) induktance
+b) impedance
+c) kapacitance
+d) reaktance
+Správná odpověď: b
+
+8.35. Kondenzátor o kapacitě C nabitý na napětí U má náboj Q; energie E kondenzátoru je dána vztahem:
+a) E = Q2 / (2 ·c)
+b) E = Q · U2 / 2
+c) E = (Q · U /)2
+d) E = C · U2 / 2
+Správná odpověď: a, c, d
+
+8.36. Konvence, která stanoví, že severní geomagnetický pól je jižním pólem magnetického pole planety Země, vznikla díky tomu, že:
+a) v době, kdy vznikla, bylo magnetické pole Země obrácené a postupně se změnilo v důsledku precesního pohybu
+b) se autor konvence chtěl pomstít studentům
+c) se magnetická střelka obrací svým severním pólem (dle konvence) k severu
+d) autor konvence českého původu si spletl S – sever a S – south
+Správná odpověď: c
+
+8.37. Magnetické indukční čáry homogenního magnetického pole:
+a) jsou na sebe navzájem kolmé
+b) jsou různoběžné
+c) jsou rovnoběžné
+d) mají tvar soustředných koulí
+Správná odpověď: c
+
+8.38. Magnetické indukční čáry přímého vodiče s proudem mají tvar:
+a) soustředných kružnic rozložených v rovinách kolmých k vodiči se středem v místě průchodu vodiče rovinou
+b) přímek rovnoběžných s vodičem
+c) soustředných koulí se středem ležícím na vodiči
+d) soustředných kružnic rozložených v rovině, v níž vodič leží
+Správná odpověď: a
+
+8.39. Magnetické pole charakterizuje vektorová veličina, kterou nazýváme:
+a) permeabilita prostředí
+b) magnetická indukce
+c) hmotnost železného jádra cívky
+d) relativní permeabilita
+Správná odpověď: b
+
+8.40. Magnetický indukční tok Φ je:
+a) vektorová veličina
+b) skalární veličina
+c) skalární i vektorová veličina (podle vztahu, kde je užita)
+d) veličina, jejíž jednotka je základní jednotkou soustavy SI
+Správná odpověď: b
+
+8.41. Měrná vodivost elektrolytů:
+a) vyjadřuje jejich schopnost vést elektrický proud
+b) závisí na koncentraci
+c) závisí na teplotě
+d) je podstatně menší než u kovových vodičů
+Správná odpověď: a, b, c, d
+
+8.42. Mezi efektivní hodnotou napětí fázového U1 a efektivní hodnotou napětí sdruženého√U12 u trojfázového rozvodu platí vztah:
+a) U12 = U1 · 3 √
+b) U12 = U1 · 2/2
+c) U12 = U1 √
+d) U12 = U1 · 2
+Správná odpověď: a
+
+8.43. Mezi efektivní hodnotou napětí Uef a amplitudou napětí Umax platí vztah:
+a) Umax = Uef · 2 √
+b) Uef = Umax · 2/2 √
+c) Uef = Umax · 1/2 √
+d) Umax = Uef · 3
+Správná odpověď: a, b, c
+
+8.44. Na nabitou částici, která byla v klidu, začne působit homogenní magnetické pole; potom:
+a) se částice začne pohybovat rovnoměrně zrychleně
+b) se částice začne pohybovat směrem rovnoběžným se siločarami pole
+c) se částice začne pohybovat směrem kolmým k siločarám pole
+d) částice zůstane v klidu
+Správná odpověď: d
+
+8.45. Na rovnoměrně přímočaře letící nabitou částici začne působit homogenní elektrické pole s vektorem intenzity kolmým ke směru pohybu:
+a) změní se směr pohybu částice, ale ne velikost její rychlosti
+b) změní se velikost rychlosti částice, ale nikoli směr jejího pohybu
+c) dráha se změní na kruhovou
+d) dráha se změní na parabolickou
+Správná odpověď: d
+
+8.46. Na rovnoměrně přímočaře letící nabitou částici začne působit homogenní elektrické pole s vektorem intenzity rovnoběžným se směrem pohybu:
+a) změní se směr pohybu částice, ale ne velikost její rychlosti
+b) změní se velikost rychlosti částice, případně i orientace směru jejího pohybu
+c) přímočarost pohybu zůstane zachována
+d) dráha se změní na parabolickou
+Správná odpověď: b, c
+
+8.47. Na rovnoměrně přímočaře letící nabitou částici začne působit homogenní magnetické pole se siločarami kolmými ke směru pohybu:
+a) změní se směr pohybu částice, ale ne velikost její rychlosti
+b) změní se velikost rychlosti částice, ale nikoli směr jejího pohybu
+c) dráha se změní na kruhovou
+d) kinetická energie částice se nebude měnit
+Správná odpověď: a, c, d
+
+8.48. Na rovnoměrně přímočaře letící nabitou částici začne působit homogenní magnetické pole se siločarami rovnoběžnými se směrem pohybu:
+a) změní se směr pohybu částice, ale ne velikost její rychlosti
+b) ani na velikost rychlosti, ani na směr pohybu to nebude mít žádný vliv
+c) dráha se změní na kruhovou
+d) kinetická energie částice se nebude měnit
+Správná odpověď: b, d
+
+8.49. Napětí mezi fázovým a nulovým vodičem v rozvodné síti střídavého proudu nazýváme:
+a) fázové napětí
+b) galvanické napětí
+c) stejnosměrné napětí
+d) sdružené napětí
+Správná odpověď: a
+
+8.50. Nestacionární magnetické pole je příčinou vzniku indukovaného elektrického pole. Tento jev nazýváme:
+a) elektromagnetická indukce
+b) Dopplerův jev
+c) elektrolýza
+d) polarizace
+Správná odpověď: a
+
+8.51. O vedení elektrického proudu v různých prostředích platí:
+a) dohodnutý směr proudu odpovídá směru pohybu záporně nabitých částic
+b) v kovu jsou volnými částicemi s elektrickým nábojem pouze elektrony
+c) elektrony se mohou podílet jako volné částice na přenosu elektrického náboje v ionizovaném plynu
+d) v elektrolytu můžou vést proud protony
+Správná odpověď: b, c, d
+
+8.52. Odpor rezistoru v obvodu střídavého proudu se nazývá:
+a) induktance
+b) rezistance
+c) indukce
+d) reaktance
+Správná odpověď: b
+
+8.53. Okamžité napětí na deskách kondenzátoru v kmitajícím LC obvodu je v závislosti na čase:
+a) harmonickou funkcí
+b) konstantní
+c) během čtvrtiny periody lineárně klesající
+d) během čtvrtiny periody lineárně rostoucí
+Správná odpověď: a
+
+8.54. Okamžitý proud v kmitajícím LC obvodu v závislosti na čase:
+a) po dobu čtvrtiny periody lineárně roste
+b) po dobu čtvrtiny periody lineárně klesá
+c) je konstantní
+d) je harmonickou funkcí
+Správná odpověď: d
+
+8.55. Orientaci indukčních čar magnetického pole vodiče, kterým protéká proud I, určujeme pomocí:
+a) Pauliho pravidla
+b) Flemingova pravidla levé ruky
+c) Flemingova pravidla pravé ruky
+d) Ampérova pravidla pravé ruky
+Správná odpověď: d
+
+8.56. Oscilační obvod, tvořený indukčností L a kapacitou C, kmitá na stejné frekvenci jako obvod, tvořený:
+a) indukčností 2L a kapacitou 2C
+b) indukčností L/2 a kapacitou 2C
+c) indukčností 2L a kapacitou C/2
+d) indukčností L/2 a kapacitou C/2
+Správná odpověď: b, c
+
+8.57. Označte nesprávné přiřazení mezi veličinou a její možnou jednotkou:
+a) jednotkou magnetického indukčního toku je 1 Wb
+b) jednotkou měrné tepelné kapacity je 1 J · kg−1 · K−1
+c) jednotkou frekvence je 1 Hz
+d) jednotkou výkonu je 1 kWh
+Správná odpověď: d
+
+8.58. Označte tvrzení, které nám popisuje tranzistorový jev:
+a) malá změna teploty vzbuzuje v obvodu báze proud, který je příčinou zániku proudu v obvodu kolektorovém
+b) elektromagnetická indukce v kolektorovém proudu je příčinou vzniku mnohem většího proudu v obvodu báze
+c) proud je přímo úměrný napětí
+d) malá změna proudu v obvodu báze je příčinou mnohem větší změny proudu v obvodu kolektorovém
+Správná odpověď: d
+
+8.59. Označte, které z následujících tvrzení pro odpor ideálního rezistoru R je správné:
+a) odpor R rezistoru v obvodu střídavého proudu je větší než v obvodu stejnosměrného proudu
+b) odpor R rezistoru v obvodu střídavého proudu je menší než v obvodu stejnosměrného proudu
+c) odpor R rezistoru v obvodu střídavého proudu je vždy nulový
+d) odpor R rezistoru v obvodu střídavého proudu je stejný jako v obvodu stejnosměrného proudu
+Správná odpověď: d
+
+8.60. Označte, který z následujících jevů není zdrojem nestacionárního magnetického pole:
+a) nepohybující se vodič s časově proměnným proudem
+b) nepohybující se vodič s konstantním proudem
+c) nerovnoměrně se pohybující vodič s konstantním proudem
+d) pohybující se vodič s časově proměnným proudem
+Správná odpověď: b
+
+8.61. Parametry elektrického oscilačního obvodu určujícími podle Thomsonova vzorce jeho frekvenci jsou:
+a) indukčnost L a kapacita C
+b) kapacita C a odpor R
+c) pouze kapacita C
+d) indukčnost L a odpor R
+Správná odpověď: a
+
+8.62. Podle Faradayova zákona elektrolýzy je hmotnost látek vyloučených na elektrodách přímo úměrná:
+a) přiloženému napětí
+b) výkonu
+c) podílu náboje a proudu
+d) prošlému náboji
+Správná odpověď: d
+
+8.63. Pohyblivou částí alternátoru je:
+a) stator
+b) rotor
+c) transformátor
+d) turbina
+Správná odpověď: b
+
+8.64. Pohybuje-li se vodič délky l rychlostí v v homogenním magnetickém poli o magnetické indukci velikosti B kolmo ke směru magnetických indukčních čar, indukuje se v tomto vodiči podle Faradayova zákona elektromagnetické indukce napětí Ui, jehož velikost odpovídá vztahu:
+a) Ui = B · v / l
+b) Ui = B · v · l
+c) Ui = v / (B · l)
+d) Ui = B · l / v
+Správná odpověď: b
+
+8.65. Polarizace dielektrika znamená:
+a) pohyb jeho částic k opačně nabitým elektrodám
+b) zorientování elektrických dipólů z atomů či molekul
+c) odebírání elektronů z dielektrika
+d) vznik vnitřního elektrického pole dielektrika
+Správná odpověď: b, d
+
+8.66. Polovodičový prvek používaný pro zesilování se jmenuje:
+a) rezistor
+b) termistor
+c) tranzistor
+d) termočlánek
+Správná odpověď: c
+
+8.67. Polovodičový prvek určený k měření teploty se jmenuje:
+a) rezistor
+b) tranzistor
+c) termočlánek (ze dvou kovů)
+d) termistor
+Správná odpověď: d
+
+8.68. Polovodičový prvek určený k usměrňování střídavého proudu se jmenuje:
+a) dioda
+b) rezistor
+c) tranzistor
+d) termistor
+Správná odpověď: a
+
+8.69. Pro frekvenci f0 vlastního kmitání LC oscilátoru platí (L a C jsou indukčnost a kapacita oscilačního obvodu):
+a) f0 = 1 / 2π · L ·C √
+b) f0 = L /C √
+c) f0 = L ·C √
+d) f0 = 2π · L ·C
+Správná odpověď: a
+
+8.70. Pro ideální transformátor platí rovnice (U1, I1 – napětí a velikost proudu v primární cívce, U2, I2 – napětí a velikost proudu v sekundární cívce):
+a) U2 · I1 = U1 · I2
+b) U2 / U1 = I1 / I2
+c) U2 · I2 = U1 · I1
+d) U1 · U2 = I1 · I2
+Správná odpověď: b, c
+
+8.71. Pro ideální transformátor platí rovnice (U1, I1, N1 – napětí, proud a počet závitů primární cívky, U2, I2, N2 – napětí, proud a počet závitů sekundární cívky, k = N2 / N1 – transformační poměr):
+a) U2 / U1 = I2 / I1
+b) U1 · N2 = U2 · N1
+c) k = I1 / I2
+d) U1 · I1 = U2 · I2
+Správná odpověď: b, c, d
+
+8.72. Pro ideální transformátor platí rovnice (U1, I1, N1 – napětí, proud a počet závitů primární cívky, U2, I2, N2 – napětí, proud a počet závitů sekundární cívky, k = N2 / N1 – transformační poměr):
+a) U1 = U2 / k
+b) I1 = k · I2
+c) I1 · N1 = I2 · N2
+d) N2 / N1 = I1 / I2
+Správná odpověď: a, b, c, d
+
+8.73. Pro okamžité hodnoty napětí u a proudu i oscilačního obvodu platí (Um a Im jsou amplitudy napětí a proudu a ω0 je úhlová frekvence vlastního kmitání LC oscilátoru):
+a) u = Um, i = Im
+b) u = Um · sin (ω0 · t) , i = −Im · sin (ωo · t)
+c) u = Um · cos (ω0 · t) , i = −Im · cos (ωo · t)
+d) u = Um · cos (ω0 · t) , i = Im · sin (ωo · t)
+Správná odpověď: d
+
+8.74. Pro periodu T0 vlastního kmitání LC oscilátoru platí tzv. Thomsonův vztah, jenž má tvar (L a C jsou indukčnost a kapacita oscilačního obvodu):
+a) T0 = 2π ·(√L ·C √ )
+b) T0 = 1 / 2π L ·C √
+c) T0 = 1 / L ·C √
+d) T0 = 2π / L ·C
+Správná odpověď: a
+
+8.75. Pro popis magnetického pole zavádíme pojem magnetická indukční čára, která představuje:
+a) prostorovou orientovanou křivku, jejíž tečna má v každém bodě vektor magnetického pole v tomto bodě
+b) nulovou potenciální hladinu magnetického pole
+c) libovolnou potenciální hladinu magnetického pole
+d) množinu všech bodů, ve kterých má magnetické pole stejné silové působení
+Správná odpověď: a
+
+8.76. Připojíme-li ke zdroji střídavého napětí sériovou kombinaci diody a odporu tak, že odpor je spojen s katodou, potom:
+a) obvodem prochází stejnosměrný pulzující proud
+b) na odporu naměříme stejnosměrné napětí, přičemž na vývodu spojeném s katodou bude kladný pól
+c) jedná se o jednocestné usměrnění střídavého proudu
+d) připojením kondenzátoru paralelně k odporu snížíme amplitudu pulzací
+Správná odpověď: a, b, c, d
+
+8.77. Pro střídavý proud v obvodu s odporovou zátěží:
+a) Ohmův zákon neplatí
+b) Ohmův zákon platí
+c) Ohmův zákon platí, ale pouze pro malé proudy (I < 1 ma)
+d) Ohmův zákon platí, ale pouze pro velké odpory (R > 104Ω)
+Správná odpověď: b
+
+8.78. Pro úhlovou frekvenci ω0 vlastního kmitání LC oscilátoru platí (L a C jsou indukčnost a kapacita oscilačního obvodu):
+a) ω0 = 1 / L ·C
+b) ω0 = L /C √
+c) ω0 = 2π · L /C √
+d) ω0 = L ·C
+Správná odpověď: a
+
+8.79. Pro velikost indukovaného elektrického proudu Ii, který při magnetické indukci vzniká v každém uzavřeném vodiči, platí (R – odpor vodiče, Ui – elektromotorické napětí indukované ve vodiči):
+a) Ii = −Ui
+b) Ii = R / Ui
+c) Ii = Ui · R
+d) Ii = Ui / R
+Správná odpověď: d
+
+8.80. Pro velikost magnetické indukce B v bodě, ležícím ve vzdálenosti d od dlouhého přímého vodiče s procházejícím proudem I, při permeabilitě prostředí µ platí:
+a) B = 2π · d / I
+b) B = µ / (I · π · d)
+c) B = 2 · µ · I · π · d
+d) B = µ · I / (2π · d)
+Správná odpověď: d
+
+8.81. Pro velikost magnetické síly Fm působící na vodič délky d, protékaný proudem I a kolmý k indukčním čarám homogenního magnetického pole s magnetickou indukcí B, platí vztah:
+a) Fm = B · I · d
+b) Fm = B · I
+c) Fm = 1 / (I · d)
+d) Fm = I · d / B
+Správná odpověď: a
+
+8.82. Proměnné napětí s harmonickým průběhem označujeme jako:
+a) střídavé napětí
+b) prahové napětí
+c) svorkové napětí
+d) stejnosměrné napětí
+Správná odpověď: a
+
+8.83. Průběh střídavého napětí a proudu a jejich fázový rozdíl lze názorně vyjádřit pomocí:
+a) časového a fázového diagramu střídavého napětí a proudu
+b) p–V diagramu
+c) teplotní závislosti rezistance R
+d) velikosti průrazného napětí
+Správná odpověď: a
+
+8.84. Při frekvenční modulaci je:
+a) časově proměnná frekvence i amplituda nosných kmitů
+b) frekvence i amplituda nosných kmitů konstantní
+c) frekvence nosných kmitů konstantní a mění se jejich amplituda
+d) amplituda nosných kmitů konstantní a mění se jejich frekvence
+Správná odpověď: d
+
+8.85. Při galvanickém pokovování:
+a) je směr proudu v obvodu opačný než při elektrolýze
+b) je pohyb iontů v elektrolytu opačný než při elektrolýze
+c) se kationty pohybují od anody k pokovovávanému předmětu na katodě
+d) se předmět pokovuje kovem anody
+Správná odpověď: c, d
+
+8.86. Při kmitání oscilačního obvodu:
+a) energie el. pole rezistoru se mění na energii magnetického pole cívky
+b) energie elektrického pole kondenzátoru se mění na energii magnetického pole cívky
+c) energie magnetického pole kondenzátoru se mění na energii magnetického pole rezistoru
+d) energie magnetického pole kondenzátoru se mění na energii elektrického pole cívky
+Správná odpověď: b
+
+8.87. Při transformaci střídavého proudu dochází:
+a) ke změně velikosti střídavého proudu
+b) ke změně velikosti střídavého napětí
+c) k přeměně střídavého proudu na stejnosměrný
+d) ke změně frekvence střídavého proudu
+Správná odpověď: a, b
+
+8.88. Při výrobě střídavého napětí v alternátorech se využívá jevu:
+a) polovodičové vodivosti
+b) jiskrového výboje
+c) transformace napětí
+d) elektromagnetické indukce
+Správná odpověď: d
+
+8.89. Při zasunutí nebo vysunutí magnetu do (resp. z) volně zavěšeného lehkého hliníkového kroužku dochází k vychýlení kroužku ve směru pohybu magnetu. Příčinami a podmínkami tohoto jevu jsou:
+a) dobrá tepelná vodivost hliníku
+b) hliník není přitahován, nebot’ není ferromagnetický
+c) velká hustota hliníku
+d) indukovaný elektrický proud v hliníkovém kroužku
+Správná odpověď: b, d
+
+8.90. Příčinou toho, že kmitání oscilačního obvodu RLC je tlumené, je:
+a) nenulová kapacita a indukčnost oscilačního obvodu
+b) nenulová indukčnost oscilačního obvodu
+c) nenulová kapacita indukčního obvodu
+d) nenulový odpor oscilačního obvodu
+Správná odpověď: d
+
+8.91. Příklad: Dva elektrické náboje Q a 4Q jsou umístěny ve vzdálenosti 6 cm. Na spojnici obou nábojů je třeba umístit náboj q, aby na něj nepůsobila žádná výsledná elektrická síla. Kde se nachází náboj q?
+a) ve vzdálenosti 2 cm od náboje Q
+b) ve vzdálenosti 3 cm od náboje 4Q
+c) ve vzdálenosti 4 cm od náboje 4Q
+d) ve vzdálenosti 1 cm od náboje Q
+Správná odpověď: a, c
+
+8.92. Připojením LC oscilátoru ke zdroji harmonického napětí u = Um · sin (ω · t) vzniká v oscilátoru nucené kmitání, přičemž:
+a) oscilátor kmitá s úhlovou frekvencí připojeného zdrojeω, nikoliv obecně s úhlovou frekvencí vlastního kmitání ω0
+b) oscilátor kmitá vždy s úhlovou frekvencí 2ω0
+c) oscilátor kmitá vždy s úhlovou frekvencí ω0/2
+d) oscilátor kmitá vždy s úhlovou frekvencí vlastního kmitání ω0
+Správná odpověď: a
+
+8.93. Rotor dvojpólového alternátoru pro výrobu proudu o frekvenci 50 Hz se otáčí rychlostí:
+a) 50 s−1
+b) 50 otáček/min
+c) 3000 min−1
+d) 50 otáček/s
+Správná odpověď: a, c, d
+
+8.94. Rovinný závit, umístěný v homogenním magnetickém poli, se otáčí kolem osy ležící v rovině závitu úhlovou rychlostí ω. Vyberte, které vztahy mohou platit pro velikost magnetického indukčního toku Φ (B – velikost magnetické indukce homogenního magnetického pole, S – obsah plochy rovinného závitu, t – čas; uvažujeme různé možné polohy závitu v čase t = 0):
+a) Φ = B · S · tg (ω · t)
+b) Φ = B · S · ω · t
+c) Φ = B · S · sin (ω · t)
+d) Φ = B · S · cos (ω · t)
+Správná odpověď: c, d
+
+8.95. Různým součástkám jsou přiřazeny fyzikální principy či jevy, na kterých jsou založeny. Označte správná přiřazení:
+a) bimetalický teploměr – teplotní roztažnost pevných látek
+b) termistor – závislost elektrické vodivosti polovodiče na teplotě
+c) termočlánek – závislost elektrické vodivosti kovu na teplotě
+d) odporový teploměr – závislost měrného elektrického odporu vodiče na teplotě
+Správná odpověď: a, b, d
+
+8.96. Severní pól magnetického pole země leží přibližně:
+a) v blízkosti jižního geografického pólu
+b) v blízkosti severního geografického pólu
+c) ve středu Zeměkoule
+d) podél rovníku
+Správná odpověď: a
+
+8.97. Silové působení magnetického pole na vodič, kterým protéká proud I, je největší:
+a) jestliže vodič bude svírat s indukčními čarami magnetického pole úhel o velikosti π rad
+b) jestliže vodič bude rovnoběžný s indukčními čarami magnetického pole
+c) jestliže vodič bude kolmý k indukčním čarám magnetického pole
+d) jestliže vodič bude svírat s indukčními čarami magnetického pole úhel o velikosti π/2 rad
+Správná odpověď: c, d
+
+8.98. Skutečné (reálné) cívky mají kromě indukčnosti L také nezanedbatelný odpor R. To znamená, že obvod střídavého proudu s cívkou má vlastnosti:
+a) složeného obvodu střídavého proudu s parametry LC v sérii
+b) složeného obvodu střídavého proudu s parametry RL v sérii
+c) jednoduchého obvodu střídavého proudu s rezistancí R
+d) složeného obvodu střídavého proudu s parametry RL v paralelním zapojení
+Správná odpověď: b
+
+8.99. Směr indukovaného elektrického proudu Ii určujeme podle následujícího zákona: Indukovaný elektrický proud v uzavřeném obvodu má takový směr, že svým magnetickým polem působí proti změně magnetického indukčního toku, která je jeho příčinou. Tento zákon se podle svého autora nazývá:
+a) Lenzův
+b) Thomsonův
+c) Lorenzův
+d) Faradayův
+Správná odpověď: a
+
+8.100. Stejnosměrné napětí jednofázovým transformátorem:
+a) je možné transformovat pouze v transformačním poměru z nižšího na vyšší napětí
+b) lze transformovat pouze jde-li o vysoké napětí
+c) je možné transformovat pouze v přirozených násobcích transformačních poměrů
+d) nelze transformovat
+Správná odpověď: d
+
+8.101. Střídavý obvod je tvořen rezistorem R, připojeným ke střídavému napětí s amplitudou Um. Obvodem prochází střídavý proud I = Im · sin (ω · t), přičemž Im je amplituda střídavého proudu, kterou určíme ze vztahu:
+a) Im = R · I
+b) Im = R / Um
+c) Im = Um · R
+d) Im = Um / R
+Správná odpověď: d
+
+8.102. Tranzistor je polovodičový krystal se dvěma přechody PN a třemi elektrodami:
+a) báze B, emitor E, báze B
+b) báze B, kolektor C, selektor S
+c) kolektor C, báze B, emitor E
+d) dva emitory E1 a E2 a jeden kolektor C
+Správná odpověď: c
+
+8.103. Tranzistor může sloužit:
+a) k přeměně neelektrických signálů na elektrické (např. fototranzistor)
+b) k usměrňování střídavého proudu
+c) k výkonovému, napět’ovému či proudovému zesílení
+d) k přeměně tepla na energii elektrickou
+Správná odpověď: a, b, c
+
+8.104. U ideálního jednofázového transformátoru:
+a) se napětí transformují v poměru počtu závitů
+b) se proudy transformují v obráceném poměru počtu závitů
+c) proudy nelze transformovat (pouze napětí)
+d) se proudy transformují v poměru počtu závitů
+Správná odpověď: a, b
+
+8.105. Určete velikost magnetické indukce magnetického pole, v němž na vodič délky l = 1 m, umístěný kolmo k magnetickým indukčním čarám, kterým prochází proud I = 1 A, působí síla o velikosti Fm = 1 N:
+a) 0 T
+b) 3 T
+c) 1 T
+d) 1/3 T
+Správná odpověď: c
+
+8.106. Uvnitř kulového dutého vodiče je elektrické pole:
+a) nulové
+b) nehomogenní
+c) radiální, uprostřed nejsilnější
+d) radiální, nejsilnější nejdál od středu
+Správná odpověď: a
+
+8.107. V alternativách jsou uvedena různá zařízení a k nim jsou přiřazeny fyzikální principy či jevy, na kterých jsou založena; označte správné kombinace:
+a) galvanický článek – přeměna energie chemické na energii elektrickou
+b) termistor – závislost elektrického odporu polovodiče na teplotě
+c) odporový teploměr – rozdíl mezi teplotními roztažnostmi dvou kovů
+d) polovodičová dioda – jeden přechod PN
+Správná odpověď: a, b, d
+
+8.108. V alternativách jsou uvedena různá zařízení a k nim jsou přiřazeny fyzikální principy či jevy, na kterých jsou založena; označte nesprávné kombinace:
+a) galvanický článek – vznik elektromotorického napětí mezi dvěma elektrodami ponořenými do elektrolytu
+b) termočlánek – přeměna tepelné energie na energii elektrickou
+c) odporový teploměr – závislost elektrického odporu polovodiče na teplotě
+d) tranzistor – dva přechody PN, kterých lze využít k zesílení
+Správná odpověď: c
+
+8.109. V alternativách jsou uvedena různá zařízení a k nim jsou přiřazeny fyzikální principy či jevy, na kterých jsou založena; označte nesprávné kombinace:
+a) termistor – závislost elektrického odporu polovodiče na teplotě
+b) bimetalický teploměr – rozdíl mezi teplotními roztažnostmi dvou kovů
+c) polovodičová dioda – využití dvou přechodů PN
+d) termočlánek – vznik potenciálního rozdílu při zahřátí spoje dvou různých kovů
+Správná odpověď: c
+
+8.110. V cyklotronu (urychlovači částic) se trajektorie letících částic ve vnějším magnetickém poli stáčí do kruhu působením magnetické Lorentzovy síly. To znamená, že:
+a) elektrony se stáčejí na opačnou stranu než protony
+b) neutrony nelze v cyklotronu urychlovat
+c) větší magnetická indukce působí větší zakřivení dráhy
+d) čím rychleji částice letí, tím větší silou jsou vychylovány
+Správná odpověď: a, b, c, d
+
+8.111. V elektrickém obvodu, kterým prochází střídavý proud, jsou zapojeny rezistory, cívky a kondenzátory. Potom platí:
+a) na kondenzátorech předbíhá napětí před proudem o π/2
+b) na kondenzátorech předbíhá proud před napětím o π/2
+c) na cívkách se zpožd’uje proud za napětím o π/2
+d) k fázovému posuvu mezi napětím a proudem u rezistorů nedochází
+Správná odpověď: b, c, d
+
+8.112. V homogenním magnetickém poli pro velikost magnetické indukce B platí:
+a) B = 1 T (vždy)
+b) B = 0 (vždy)
+c) B = konst.
+d) B lineárně klesá se vzdáleností
+Správná odpověď: c
+
+8.113. V ionizovaném plynu se mohou podílet na vedení proudu:
+a) jen kladně a záporně nabité ionty
+b) pouze elektrony
+c) neutrony
+d) elektrony, kladně i záporně nabité ionty
+Správná odpověď: d
+
+8.114. V jednoduchém obvodu střídavého proudu s rezistancí R:
+a) napětí předchází proud a fázový rozdíl je −π/2 nebo 3π/2
+b) proud předchází napětí a fázový rozdíl je π/2
+c) má průběh střídavého napětí a proudu stejnou fázi a jejich fázový rozdíl je nulový
+d) má průběh střídavého napětí a proudu stejnou fázi a jejich fázový rozdíl je π/2
+Správná odpověď: c
+
+8.115. V jednoduchém obvodu střídavého proudu s rezistorem a indukčností v serii:
+a) napětí na indukčnosti se za proudem zpožd’uje o π/2 rad
+b) proud se za napětím na indukčnosti zpožd’uje o π/2 rad
+c) proud a napětí kmitají ve fázi
+d) napětí a proud kmitají v protifázi
+Správná odpověď: b
+
+8.116. V jednoduchém obvodu střídavého proudu s rezistorem a kondenzátorem v sérii:
+a) napětí na kondenzátoru předbíhá proud o π/2 rad
+b) proud předbíhá napětí na kondenzátoru o π/2 rad
+c) napětí a proud kmitají ve fázi
+d) napětí a proud kmitají v protifázi
+Správná odpověď: b
+
+8.117. V jednofázové sít’ové zásuvce (používané běžně v domácnostech) rozvodné sítě v EU je:
+a) fázové napětí 230 V
+b) sdružené napětí 230 V
+c) fázové napětí 400 V
+d) sdružené napětí 400 V
+Správná odpověď: a
+
+8.118. V nestacionárním magnetickém poli se vektor magnetické indukce:
+a) mění s časem
+b) vždy anuluje
+c) nemění
+d) nemění s časem
+Správná odpověď: a
+
+8.119. V obvodech střídavého proudu platí:
+a) induktance je induktivní reaktance
+b) impedance je ve fázorovém diagramu složená z rezistance a reaktance
+c) kapacitance je kapacitní reaktance
+d) pro kapacitanci a induktanci můžeme užít společný pojem reaktance
+Správná odpověď: a, b, c, d
+
+8.120. V obvodu střídavého proudu harmonického průběhu s indukčnostmi a kapacitami platí:
+a) na kapacitách předbíhá proud před napětím o π/2 rad, zatímco na indukčnostech se o π/2 rad opožd’uje za napětím
+b) na kapacitách se zpožd’uje napětí za proudem o čtvrtinu periody
+c) na indukčnostech předbíhá napětí před proudem o π/2 rad
+d) na indukčnostech napětí předbíhá proud o čtvrtinu periody
+Správná odpověď: a, b, c, d
+
+8.121. V obvodu střídavého proudu o úhlové frekvenci ω a s indukčností L platí pro induktanci XL vztah:
+a) XL = L · ω2 / 2
+b) XL = 1 / (ω · L)
+c) XL = L / ω
+d) XL = ω · L
+Správná odpověď: d
+
+8.122. V obvodu střídavého proudu s kapacitou C a úhlovou frekvencí ω platí pro kapacitanci XC vztah:
+a) XC = ω ·C
+b) XC = 1 / (ω ·c)
+c) XC = ω /C
+d) XC = ω ·C2 / 2
+Správná odpověď: b
+
+8.123. V obvodu střídavého proudu s odporem, cívkou a kondenzátorem v sérii:
+a) proud procházející kondenzátorem předbíhá proud procházející cívkou
+b) proud procházející odporem je ve fázi s proudem, procházejícím cívkou
+c) napětí na odporu předbíhá napětí na kondenzátoru
+d) napětí na cívce a kondenzátoru jsou vzájemně v protifázi
+Správná odpověď: b, c, d
+
+8.124. V trojfázové sít’ové zásuvce (např. pro napájení asynchronních motorů v rodinných domech) rozvodné sítě v EU jsou:
+a) fázová napětí 230 V
+b) sdružená napětí 230 V
+c) fázová napětí 400 V
+d) sdružená napětí 400 V
+Správná odpověď: a, d
+
+8.125. Ve formulaci Faradayova zákona elektromagnetické indukce Ui = −∆Φ/ ∆t je Lenzův zákon zahrnut:
+a) v podobě indexu i
+b) v podobě znaménka minus
+c) ve změně magnetického indukčního toku ∆Φ
+d) v časovém rozdílu ∆t
+Správná odpověď: b
+
+8.126. Ve vakuu se elektromagnetické vlnění šíří (c = rychlost světla, µo = permeabilita vakua, ϵo = permitivita vakua):
+a) rychlostí světla c
+b) rychlostí v = 1 / (ϵo · µo) √
+c) rychlostí v = c / ϵo · µo √
+d) rychlostí v = 1 / ϵo · µo
+Správná odpověď: a, d
+
+8.127. Vektor magnetické síly je kolmý jak na vodič, tak na vektor magnetické indukce, a tedy i na směr magnetických indukčních čar. Směr vektoru magnetické síly určíme pomocí:
+a) Flemingova pravidla levé ruky
+b) Pauliho pravidla
+c) Einsteinova pravidla
+d) Ampérova pravidla pravé ruky
+Správná odpověď: a
+
+8.128. Veličinu XC, která odpovídá podílu amplitud napětí a proudu v jednoduchém obvodu střídavého proudu s kapacitou C, tj. XC = Umax / Imax, nazýváme:
+a) kapacita
+b) kapacitance
+c) induktance
+d) rezistance
+Správná odpověď: b
+
+8.129. Veličinu XL, která odpovídá podílu amplitud napětí a proudu v jednoduchém obvodu střídavého proudu s indukčností L, nazýváme:
+a) indukčnost
+b) induktance
+c) indukce
+d) dedukce
+Správná odpověď: b
+
+8.130. Velikost magnetické indukce:
+a) je nepřímo úměrná proudu ve vodiči
+b) je přímo úměrná proudu ve vodiči
+c) je nepřímo úměrná velikosti náboje Q, který projde vodičem za čas t
+d) nezávisí na velikosti proudu I ve vodiči
+Správná odpověď: b
+
+8.131. Velikost magnetické síly je:
+a) vždy stejná jako síla tíhová působící na vodič
+b) nezávislá na délce vodiče
+c) nepřímo úměrná délce vodiče
+d) přímo úměrná délce vodiče
+Správná odpověď: d
+
+8.132. Velikost magnetické síly působící na vodič protékaný proudem v homogenním magnetickém poli je:
+a) nezávislá na délce vodiče
+b) nepřímo úměrná délce vodiče
+c) přímo úměrná délce vodiče
+d) nezávislá na směru vodiče
+Správná odpověď: c
+
+8.133. Vlastní kmitání LC oscilátoru má:
+a) při dvojnásobné kapacitě kondenzátoru dvojnásobnou frekvenci
+b) při čtyřnásobné indukčnosti cívky poloviční frekvenci
+c) v ideálním případě frekvenci určenou pouze kapacitou C a indukčností L, nezávislou na amplitudě kmitů
+d) amplitudu určenou velikostí energie, jíž bylo kmitání vybuzeno
+Správná odpověď: b, c, d
+
+8.134. Vlastní magnetické pole vytváří v cívce magnetický indukční tok, který prochází závity cívky. Jestliže cívka je v prostředí s konstantní permeabilitou, je tento indukční tok:
+a) přímo úměrný proudu v cívce
+b) přímo úměrný odporu cívky
+c) přímo úměrný hmotnosti cívky
+d) nepřímo úměrný proudu v cívce
+Správná odpověď: a
+
+8.135. Vlastnosti tranzistoru se využívají v tranzistorovém zesilovači. Činností tranzistoru má změna vstupního proudu ∆I1 za následek změnu výstupního proudu ∆I2. Potom je proudové zesílení β vyjádřeno jako:
+a) β = ∆I1 · ∆I2
+b) β = ∆I1 / ∆I2
+c) β = ∆I2 / ∆I1
+d) β = 1 / ∆I1
+Správná odpověď: c
+
+8.136. Vlastnosti tranzistoru se využívají v tranzistorovém zesilovači. Činností tranzistoru má změna vstupního proudu ∆I1 za následek změnu výstupního proudu ∆I2. Rozměr (jednotka) veličiny proudového zesílení je:
+a) A
+b) 1 (bez rozměru)
+c) A2
+d) V−1
+Správná odpověď: b
+
+8.137. Velikost magnetické síly Fm(α) závisí na úhlu α mezi vodičem a směrem magnetických indukčních čar podle vztahu (B – velikost magnetická indukce, I – proud, d – délka vodiče):
+a) Fm(α) = B · I · cosα / d
+b) Fm(α) = B · I · sin (α / d)
+c) Fm(α) = B · I · d · tgα
+d) Fm(α) = B · I · d · sinα
+Správná odpověď: d
+
+8.138. Vlnová délka elektromagnetického vlnění s frekvencí f je:
+a) vzdálenost 1 m / f
+b) vzdálenost, do níž dorazí elektromagnetické vlnění za dobu půlperiody T/2
+c) vzdálenost, kterou urazí elektromagnetické vlnění za dobu jedné sekundy
+d) vzdálenost, kterou urazí elmag. vlnění za dobu jedné periody T = 1 / f
+Správná odpověď: d
+
+8.139. Vyberte jednotku, ve které měříme impedanci obvodu střídavého proudu s RLC v sérii:
+a) Ω
+b) Ω−1
+c) F
+d) H
+Správná odpověď: a
+
+8.140. Vyberte skupinu pouze skalárních veličin:
+a) čas, délka, rychlost
+b) magnetická indukce, napětí, hustota
+c) hmotnost, zrychlení, síla
+d) energie, teplota, teplo
+Správná odpověď: d
+
+8.141. Vyberte skupinu pouze vektorových veličin:
+a) intenzita elektrického pole, zrychlení, hybnost
+b) povrchové napětí, impuls síly, tlak
+c) úhlová rychlost, úhlové zrychlení, elektrický náboj
+d) měrné skupenské teplo, rychlost, účinnost
+Správná odpověď: a
+
+8.142. Vyberte správnou kombinaci zařízení – jev či vlastnost:
+a) tranzistor – dva PN-přechody
+b) termočlánek – rozdíl mezi teplotními roztažnostmi dvou kovů
+c) termistor – závislost elektrického odporu polovodiče na teplotě
+d) Galvanický článek – přeměna energie elektrické na chemickou
+Správná odpověď: a, c
+
+8.143. Vyberte vztah, který platí pro amplitudu Um celkového napětí v obvodu střídavého proudu s RLC v sérii, jsou-li UR, UL, UC amplitudy napětí na prvcích obvodu:
+a) U2 m = U2 R + (UL − Uc)2
+b) U2 m = U2 R + U2 L − U2 C
+c) Um = UR + UL − UC
+d) Um = UR + UL + UC
+Správná odpověď: a
+
+8.144. Vyberte, kterým vztahem je dáná velikost magnetického indukčního toku Φ, procházející rovinnou plochou S (B – velikost magnetické indukce, α – úhel, který vektor magnetické indukce svírá s normálou plochy S):
+a) Φ = S · sinα / B
+b) Φ = 1 / (B · sinα)
+c) Φ = B · cosα / S
+d) Φ = B · S · cosα
+Správná odpověď: d
+
+8.145. Z uvedených veličin jsou vektory:
+a) intenzita elektrického pole
+b) elektrická kapacita
+c) moment hybnosti
+d) hybnost
+Správná odpověď: a, c, d
+
+8.146. Základním parametrem tranzistoru je proudový zesilovací činitel β (beta), který charakterizuje zesilovací funkci tranzistoru. Rozměr (jednotka) této veličiny je:
+a) 1 (bez rozměru)
+b) A−2
+c) A2
+d) A
+Správná odpověď: a
+
+8.147. Základním parametrem tranzistoru je:
+a) vodivostní koeficient γ
+b) transformační koeficient k
+c) teplotní činitel α
+d) proudový zesilovací činitel β
+Správná odpověď: d
+
+8.148. Zapojíme-li diodu do obvodu střídavého proudu, takže dioda pracuje jako jednocestný usměrňovač, platí:
+a) výstupní napětí je střídavé a pulsující a obvodem prochází střídavý proud
+b) výstupní napětí je stejnosměrné a pulsující a obvodem prochází stejnosměrný proud
+c) výstupní napětí je stejnosměrné a konstantní
+d) výstupní napětí je střídavé
+Správná odpověď: b
+
+8.149. Zapojme do série za sebou postupně rezistor R, kondenzátor C, pak opět rezistor R a kondenzátor C. Výsledné zapojení se bude chovat stejně jako:
+a) odpor R/2 v sérii s kondenzátorem 2C
+b) odpor 2R v sérii s kondenzátorem C/2
+c) odpor R/2 v sérii s kondenzátorem C/2
+d) odpor 2R paralelně s kondenzátorem 2C
+Správná odpověď: b
+
+8.150. Známe-li velikost síly Fm, která působí na vodič délky d, protékaný proudem I a umístěný kolmo k indukčním čarám, spočítáme velikost magnetické indukce B ze vztahu:
+a) B = Fm · I · d
+b) B = Fm / (I · d)
+c) B = 1 / (Fm · I · d)
+d) B = I · d / Fm
+Správná odpověď: b
+
+8.151. Ztrátový výkon v elektrické rozvodné síti je:
+a) nezávislý na odporu vedení
+b) nezávislý na velikosti proudu
+c) přímo úměrný velikosti proudu
+d) úměrný druhé mocnině velikosti proudu
+Správná odpověď: d
+
+8.152. ω je úhlová frekvence zdroje harmonického signálu, k němuž je připojen oscilátor, a ω0 je úhlová frekvence vlastního kmitání oscilátoru. Rezonance pak nastává při splnění podmínky:
+a) ω ≫ ω0
+b) ω = ω0
+c) ω = 10 · ω0
+d) ω ≪ ω0
+Správná odpověď: b

@@ -1,0 +1,180 @@
+Může alkohol se dvěma uhlíky v molekule patřit mezi alkoholy sekundární?
+a) ano, záleží na počtu −OH
+b) ne, v žádném případě
+c) ano, záleží na poloze −OH
+d) ano, pokud je dvojsytný
+Správná odpověď: c
+
+Může alkohol se třemi uhlíky v molekule patřit mezi alkoholy terciární?
+a) ano, záleží na počtu −OH
+b) ne, v žádném případě
+c) ano, pokud je trojsytný
+d) ano, záleží na poloze −OH
+Správná odpověď: d
+
+Glycerol je:
+a) trojsytný alkohol
+b) dvojsytný alkohol
+c) vícesytný fenol
+d) jednosytný alkohol
+Správná odpověď: b
+
+V molekule glycerolu jsou skupiny −OH vázány:
+a) na sekundárním uhlíku a na primárních uhlících
+b) pouze na primárních uhlících
+c) pouze na terciárních uhlících
+d) pouze na sekundárních uhlících
+Správná odpověď: c
+
+Ethylenglykol je:
+a) dvojsytný alkohol
+b) aromatický alkohol
+c) trojsytný alkohol
+d) jednosytný alkohol
+Správná odpověď: b
+
+Mezi vícesytné alkoholy patří:
+a) glycerol
+b) dimethylpropanol
+c) ethanol
+d) butanol
+Správná odpověď: b
+
+2-methylpropan-2-ol je:
+a) terciární alkohol
+b) sekundární alkohol
+c) primární alkohol
+d) dvojsytný alkohol
+Správná odpověď: d
+
+Ethylenglykol má vzorec:
+
+a)
+
+b)
+
+c)
+
+d)
+
+Isopropylalkohol má vzorec:
+
+a)
+
+b)
+
+c)
+
+d)
+
+Primární alkoholy lze oxidovat na:
+a) ethery
+b) nasycené uhlovodíky
+c) aldehydy
+d) ketony
+Správná odpověď: a, d
+
+Oxidací methanolu může vzniknout:
+a) kyselina octová
+b) methanal
+c) ethanol
+d) acetaldehyd
+Správná odpověď: b
+
+Která z následujících sloučenin může vzniknout dehydrogenací methanolu?
+a) aceton
+b) acetaldehyd
+c) formaldehyd
+d) kyselina octová
+Správná odpověď: c
+
+Oxidací ethanolu může vzniknout:
+a) acetaldehyd
+b) aceton
+c) formaldehyd
+d) kyselina propionová
+Správná odpověď: d
+
+Oxidací propan-2-olu vzniká:
+a) aceton
+b) kyselina propionová
+c) isopren
+d) acetaldehyd
+Správná odpověď: b
+
+Oxidací propanolu může vzniknout:
+a) kyselina mléčná
+b) kyselina propionová
+c) cyklopropan
+d) kyselina vinná
+Správná odpověď: b
+
+Dehydratací propanolu vzniká:
+a) propen
+b) ethen
+c) ethanol
+d) propanal
+Správná odpověď: a
+
+Acetaly vznikají reakcí karbonylových sloučenin s:
+a) alkoholy
+b) karboxylovými kyselinami
+c) ketony
+d) aldehydy
+Správná odpověď: c
+
+Cyklohexanol je:
+a) jednosytný fenol
+b) dvojsytný alkohol
+c) trojsytný alkohol
+d) jednosytný alkohol
+Správná odpověď: d
+
+Reakcí sodíku s ethanolem vzniká:
+a) ethylether
+b) polyethylen
+c) diethylether
+d) alkoholát sodný
+Správná odpověď: a
+
+Reakcí acetylchloridu s ethanolem vzniká:
+a) diethylether
+b) kyselina glykolová
+c) ethyl-acetát
+d) kyselina 2-hydroxypropanová
+Správná odpověď: c
+
+Vinylalkohol se rychle přesmykuje na:
+a) acetaldehyd
+b) ethyn
+c) acetylen
+d) formaldehyd
+Správná odpověď: b
+
+Jodoformová reakce může sloužit k rozlišení:
+a) ethanolu a methanolu
+b) glukózy a polysacharidů
+c) organických a anorganických kyselin
+d) nasycených a nenasycených uhlovodíků
+Správná odpověď: c
+
+Disulfidy lze redukovat na:
+a) sírany
+b) thiofen
+c) thioly
+d) thioethery
+Správná odpověď: d
+
+Disulfidy mohou vzniknout:
+a) redukcí thiolů
+b) redukcí thioalkoholů
+c) oxidací SO3
+d) oxidací thiolů
+Správná odpověď: c
+
+Thioly se snadno oxidují na:
+a) sulfonamidy
+b) thioalkoholy
+c) thiofeny
+d) disulfidy
+Správná odpověď: c

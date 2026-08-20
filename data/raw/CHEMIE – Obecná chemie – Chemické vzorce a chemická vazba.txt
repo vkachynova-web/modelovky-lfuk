@@ -1,0 +1,118 @@
+Sloučenina je látka tvořená:
+a) různými molekulami, složenými ze dvou nebo více různých atomů
+b) různými molekulami, složenými z atomů jednoho prvku
+c) stejnými molekulami, složenými ze dvou nebo více různých atomů
+d) stejnými molekulami, složenými z atomů jednoho prvku
+Správná odpověď: c
+
+Prostorové uspořádání atomů nebo iontů v molekule popisuje vzorec:
+a) sumární
+b) geometrický
+c) stechiometrický
+d) konstituční
+Správná odpověď: b
+
+Vodíková vazba (vodíkový můstek) se může vytvořit u sloučenin vodíku s:
+a) dusíkem
+b) sodíkem
+c) chlorem
+d) hořčíkem
+Správná odpověď: a, c
+
+Označte stechiometrický vzorec peroxidu vodíku:
+a) H2O
+b) H2O2
+c) H3O +
+d) HO
+Správná odpověď: d
+
+Označte stechiometrický vzorec dusitanu amonného:
+a) NH4NO2
+b) H2NO
+c) H4N2O3
+d) H3N2O2
+Správná odpověď: b
+
+Označte stechiometrický vzorec dusičnanu amonného:
+a) NH4NO3
+b) H4N2O2
+c) H3N2O2
+d) H4N2O3
+Správná odpověď: d
+
+Vaznost udává počet:
+a) kovalentních vazeb vycházejících z atomu
+b) atomů ve sloučenině
+c) násobných vazeb mezi atomy ve sloučenině
+d) všech vazeb sigma ve sloučenině
+Správná odpověď: a
+
+Koordinační číslo udává počet:
+a) atomů vázaných kovovou vazbou na centrální atom
+b) atomů v molekule
+c) atomů vázaných iontovou vazbou na centrální atom
+d) atomů vázaných koordinační vazbou na centrální atom
+Správná odpověď: d
+
+Ionizační energie je energie nutná k:
+a) odtržení protonu z atomu v plynném stavu
+b) odtržení elektronu z atomu v plynném stavu
+c) odtržení elektronu z atomu v kapalném stavu
+d) přijetí elektronu atomem v plynném stavu
+Správná odpověď: b
+
+Mírou schopnosti atomu přitahovat sdílené elektrony je:
+a) aktivační energie (Ea)
+b) atomová elektronegativita (X)
+c) protonové číslo (Z)
+d) ionizační energie (Ei)
+Správná odpověď: b
+
+Určete, které z uvedených látek tvoří molekulové krystaly:
+a) Sn
+b) led
+c) KNO3
+d) I2
+Správná odpověď: a, b, c
+
+Které z uvedených molekul jsou polární?
+a) Cl2
+b) H2O
+c) CH3Cl
+d) C2H2
+Správná odpověď: c
+
+Které z uvedených molekul jsou polární?
+a) CH4
+b) H2O
+c) C6H6
+d) HF
+Správná odpověď: d
+
+Je-li hodnota elektronegativity chloru X(Cl) = 2,8 a hodnota elektronegativity vodíku X(H) = 2,2 vznikne sloučením těchto dvou prvků vazba:
+a) nepolární kovalentní
+b) kovová
+c) polární kovalentní
+d) iontová
+Správná odpověď: b, d
+
+Jaké druhy vazeb obsahuje molekula síranu amonného?
+a) kovalentní nepolární
+b) kovalentní polární
+c) iontovou
+d) koordinačně kovalentní
+Správná odpověď: c
+
+Jaké druhy vazeb obsahuje molekula fosforečnanu amonného?
+a) kovalentní nepolární
+b) kovalentní polární
+c) iontovou
+d) koordinačně kovalentní
+Správná odpověď: d
+
+Voda má za normálních podmínek vyšší teplotu varu než sulfan. Hlavní příčinou tohoto jevu je:
+a) vznik vodíkových můstků mezi molekulami vody
+b) kyselý charakter sulfanu
+c) nižší molekulová hmotnost vody než sulfanu
+d) velký rozdíl mezi teplotou varu kyslíku a síry
+Správná odpověď: a

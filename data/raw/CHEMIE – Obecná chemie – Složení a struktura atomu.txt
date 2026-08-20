@@ -1,0 +1,321 @@
+sHlavní kvantové číslo n:
+a) udává počet elektronů
+b) určuje příslušnost elektronu k jedné ze sedmi energetických vrstev
+c) určuje vzájemnou polohu orbitalů v prostoru
+d) charakterizuje rotační pohyb elektronů
+Správná odpověď: b
+
+Hlavní kvantové číslo může nabývat hodnot:
+a) od 0 do (n – 1)
+b) 1, 2, 3, 4, .....
+c) +l, 0, –l
+d) +1/2 a –1/2
+Správná odpověď: b
+
+Jestliže hlavní kvantové číslo n = 2, pak vedlejší kvantové číslo l nabývá hodnot:
+a) –2, –1, 0, 1, 2
+b) 0 a 1
+c) pouze 1
+d) 0, 1 a 2
+Správná odpověď: b
+
+Jestliže hlavní kvantové číslo n = 3, pak vedlejší kvantové číslo l nabývá hodnot:
+a) 0, 1, 2 a 3
+b) 1, 2 a 3
+c) pouze 3
+d) 0, 1 a 2
+Správná odpověď: d
+
+Jestliže hlavní kvantové číslo n = 1, pak vedlejší kvantové číslo l má hodnotu:
+a) 2
+b) 1
+c) 0 a 1
+d) 0
+Správná odpověď: d
+
+Vedlejší kvantové číslo l:
+a) souvisí s prostorovou orientací orbitalu
+b) souvisí s tvarem orbitalu
+c) určuje příslušnost elektronu k jedné ze sedmi energetických vrstev
+d) charakterizuje rotační pohyb elektronů
+Správná odpověď: b
+
+Je-li vedlejší kvantové číslo l = 0, mluvíme o orbitalu:
+a) p
+b) f
+c) s
+d) d
+Správná odpověď: c
+
+Je-li vedlejší kvantové číslo l = 1, orbital označujeme:
+a) p
+b) s
+c) d
+d) f
+Správná odpověď: a
+
+Je-li vedlejší kvantové číslo l = 2, mluvíme o orbitalu:
+a) f
+b) s
+c) p
+d) d
+Správná odpověď: d
+
+Je-li vedlejší kvantové číslo l = 3, mluvíme o orbitalu:
+a) f
+b) d
+c) s
+d) p
+Správná odpověď: a
+
+Magnetické kvantové číslo m:
+a) charakterizuje rotační pohyb elektronů
+b) určuje příslušnost elektronu k jedné ze sedmi energetických vrstev
+c) souvisí s tvarem orbitalu
+d) popisuje prostorovou orientaci orbitalu
+Správná odpověď: d
+
+Magnetické kvantové číslo m nabývá hodnot:
+a) 1, 2, 3, 4,…
+b) +1/2 a –1/2
+c) od 0 do (n – 1)
+d) –l, 0, +l
+Správná odpověď: d
+
+Jakých hodnot může nabývat magnetické kvantové číslo, je-li hodnota vedlejšího kvantového čísla l = 2?
+a) –2, –1, 0, 1, 2
+b) pouze 0
+c) pouze 0, 1, 2
+d) pouze –1, 0, 1
+Správná odpověď: a
+
+Jakých hodnot může nabývat magnetické kvantové číslo, je-li hodnota vedlejšího kvantového čísla l = 1?
+a) –2, –1, 0, 1, 2
+b) pouze 0
+c) pouze 0 a 1
+d) –1, 0, +1
+Správná odpověď: d
+
+Spinové kvantové číslo s:
+a) určuje příslušnost elektronu k jedné ze sedmi energetických vrstev
+b) určuje vzájemnou polohu orbitalů v prostoru
+c) udává tvar orbitalu
+d) charakterizuje rotační pohyb elektronů
+Správná odpověď: d
+
+Spinové kvantové číslo s může nabývat hodnot:
+a) od 1 do nekonečna
+b) od 0 do (n – 1)
+c) +1/2 nebo –1/2
+d) od –l do l včetně nuly
+Správná odpověď: c
+
+Které z uvedených symbolů pro atomové orbitaly jsou chybné?
+a) 4d
+b) 3f
+c) 1p
+d) 5s
+Správná odpověď: b, c
+
+Které z uvedených symbolů pro atomové orbitaly jsou chybné?
+a) 4s
+b) 2f
+c) 5d
+d) 1p
+Správná odpověď: b, d
+
+Které z uvedených symbolů pro atomové orbitaly jsou chybné?
+a) 3f
+b) 2d
+c) 4d
+d) 3s
+Správná odpověď: a, b
+
+V orbitalu p může být maximálně:
+a) 6 elektronů
+b) 2 elektrony
+c) 3 elektrony
+d) 10 elektronů
+Správná odpověď: a
+
+V orbitalu s může být nejvýše:
+a) 6 elektronů
+b) 2 elektrony
+c) 4 elektrony
+d) 1 elektron
+Správná odpověď: b
+
+V orbitalu d může být nejvýše:
+a) 10 elektronů
+b) 2 elektrony
+c) 6 elektronů
+d) 4 elektrony
+Správná odpověď: a
+
+V orbitalu f může být nejvýše:
+a) 10 elektronů
+b) 7 elektronů
+c) 6 elektronů
+d) 14 elektronů
+Správná odpověď: d
+
+Nejvýše 6 elektronů může být v orbitalu:
+a) s
+b) d
+c) f
+d) p
+Správná odpověď: d
+
+Nejvýše 10 elektronů může být v orbitalu:
+a) f
+b) d
+c) p
+d) s
+Správná odpověď: b
+
+Atom je úplně charakterizován:
+a) atomovým a nukleonovým číslem
+b) protonovým číslem
+c) nukleonovým číslem
+d) neutronovým číslem
+Správná odpověď: a
+
+Atomový útvar tvořený dvanácti protony, deseti elektrony a dvanácti neutrony je:
+a) kationt Mg2+
+b) aniont F–
+c) kationt Na+
+d) aniont O2–
+Správná odpověď: a
+
+Atomový útvar tvořený čtyřmi protony, dvěma elektrony a pěti neutrony je:
+a) aniont Cl–
+b) kationt Li+
+c) kationt Be2+
+d) atom Be
+Správná odpověď: c
+
+Atomový útvar tvořený pěti protony, dvěma elektrony a šesti neutrony je:
+a) aniont F–
+b) kationt Na+
+c) kationt B3+
+d) atom B
+Správná odpověď: c
+
+Atomový útvar tvořený devíti protony, deseti elektrony a deseti neutrony je:
+a) aniont F–
+b) kationt Na+
+c) kationt Be2+
+d) aniont O2–
+Správná odpověď: a
+
+Atomový útvar tvořený osmi protony, deseti elektrony a osmi neutrony je:
+a) kationt Ca2+
+b) kationt Na+
+c) aniont O2–
+d) aniont F–
+Správná odpověď: c
+
+Atomový útvar tvořený šestnácti protony, osmnácti elektrony a šestnácti neutrony je:
+a) aniont S2–
+b) kationt K+
+c) aniont Cl–
+d) kationt Ca2+
+Správná odpověď: a
+
+Izotopy téhož prvku se liší:
+a) pouze chemickými vlastnostmi
+b) pouze fyzikálními vlastnostmi
+c) fyzikálními i chemickými vlastnostmi
+d) neliší se fyzikálními ani chemickými vlastnostmi
+Správná odpověď: b
+
+Izotopy téhož prvku jsou nuklidy, které:
+a) se liší nábojem jádra
+b) se liší nukleonovým číslem
+c) se liší pouze atomovým číslem
+d) mají stejné protonové číslo
+Správná odpověď: b, d
+
+Reakci, při které ozařováním hliníku částicemi alfa vzniká radioaktivní fosfor, popisuje rovnice:  27 4  30 13 Al + 2 He → 15 P + ? Na místo otazníku je třeba zapsat částici:
+a)  e–
+b)   42He
+c)   11H
+d) 1 0 n
+Správná odpověď: d
+
+Reakci, při které ozařováním dusíku částicemi alfa vzniká kyslík, popisuje rovnice: 14 7N + 4 2He → 17 8O + ? Na místo otazníku je třeba zapsat částici:
+a)  1 1 p
+b)  e–
+c)   11H
+d) 1 0 n
+Správná odpověď: a, c
+
+Nuklid je látka složená z:
+a) atomů s různým protonovým a stejným nukleonovým číslem
+b) atomů se stejným protonovým i nukleonovým číslem
+c) atomů se stejným protonovým a různým nukleonovým číslem
+d) molekul se stejným neutronovým a různým protonovým číslem
+Správná odpověď: b
+
+Jako alotropii označujeme jev, kdy se prvek vyskytuje:
+a) pouze v jedné krystalové struktuře
+b) v několika krystalových strukturách
+c) v několika strukturních modifikacích, lišících se fyzikálními vlastnostmi
+d) v několika skupenstvích
+Správná odpověď: b, c
+
+Záření alfa je:
+a) proud pozitronů
+b) proud elektronů
+c) proud fotonů
+d) proud jader helia
+Správná odpověď: d
+
+Pokud atom vyzáří částici alfa, potom nově vzniklý prvek leží v periodické tabulce prvků:
+a) o dvě místa nalevo
+b) o dvě místa napravo
+c) o jedno místo nalevo
+d) o jedno místo napravo
+Správná odpověď: a
+
+Záření beta minus
+a) je elektromagnetické vlnění
+b) je proud elektronů
+c) je proud pozitronů
+d) je proud neutronů
+Správná odpověď: b
+
+Záření beta plus
+a) je elektromagnetické vlnění
+b) je proud elektronů
+c) je proud pozitronů
+d) je proud neutronů
+Správná odpověď: c
+
+Pokud atom vyzáří částici beta minus, potom je nově vzniklý prvek umístěn v periodické tabulce prvků:
+a) o dvě místa nalevo
+b) o dvě místa napravo
+c) o jedno místo nalevo
+d) o jedno místo napravo
+Správná odpověď: d
+
+Pokud atom vyzáří částici beta plus, potom nově vzniklý prvek leží v periodické tabulce prvků:
+a) o dvě místa nalevo
+b) o dvě místa napravo
+c) o jedno místo nalevo
+d) o jedno místo napravo
+Správná odpověď: c
+
+Záření gama je:
+a) proud pozitronů
+b) proud elektronů
+c) elektromagnetické vlnění
+d) jádro helia
+Správná odpověď: c
+
+Záření beta je
+a) je pronikavější než záření alfa
+b) je stejně pronikavé jako záření alfa
+c) je 100× méně pronikavější než záření alfa
+d) nelze jednoznačně určit jeho hodnotu
+Správná odpověď: a

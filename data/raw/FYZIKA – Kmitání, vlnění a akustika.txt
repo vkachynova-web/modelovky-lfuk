@@ -1,0 +1,636 @@
+4.01. Absolutní výška tónu je určena:
+a) amplitudou kmitů
+b) rezonanční skříní zdroje
+c) frekvencí kmitů
+d) obsahem vyšších harmonických kmitočtů
+Správná odpověď: c
+
+4.02. Akustické vlnění ve vzduchu o normální teplotě a tlaku, které má vlnovou délku 3,3 m:
+a) má frekvenci 100 Hz a patří do oblasti ultrazvuku
+b) má frekvenci 0,01 Hz a patří do oblasti ultrazvuku
+c) má frekvenci 100 Hz a patří do oblasti slyšitelných zvuků
+d) má frekvenci 0,01 Hz a patří do oblasti infrazvuku
+Správná odpověď: c
+
+4.03. Akustické vlnění ve vzduchu o normální teplotě a tlaku, které má vlnovou délku 33 m:
+a) má frekvenci 10 Hz a patří do oblasti ultrazvuku
+b) má frekvenci 0,1 Hz a patří do oblasti ultrazvuku
+c) má frekvenci 10 Hz a patří do oblasti infrazvuku
+d) má frekvenci 0,1 Hz a patří do oblasti infrazvuku
+Správná odpověď: c
+
+4.04. Decibel (db) je jednotkou:
+a) rychlosti šíření zvuku
+b) hladiny intenzity zvuku
+c) výšky tónu
+d) akustického výkonu
+Správná odpověď: b
+
+4.05. Frekvence kmitavého pohybu je:
+a) rovna převrácené hodnotě amplitudy
+b) udávána v decibelech
+c) počet kmitů za jednotku času
+d) doba mezi dvěma následujícími stejnými fázemi kmitu
+Správná odpověď: c
+
+4.06. Frekvence slyšitelné lidským uchem mají přibližně rozsah:
+a) (50 – 10 000) Hz
+b) (16 – 20 000) Hz
+c) (50 – 20 000) Hz
+d) (1 – 20 000) Hz
+Správná odpověď: b
+
+4.07. Harmonický oscilátor s periodou vlastních netlumených kmitů T = 2 s je na počátku vychýlen z rovnovážné polohy vnější silou o velikosti Fmax = 3 · 10−3 N a při tom vychýlení se vykonala práce W = 3 · 10−5 J. Jaká je velikost maximální výchylky ymax oscilátoru?
+a) 2 cm
+b) 1 cm
+c) 0,5 cm
+d) 4 cm
+Správná odpověď: a
+
+4.08. Hladinu intenzity zvuku L v decibelech vypočítáme podle vztahu (I je intenzita daného zvuku, I0 je intenzita prahu slyšitelnosti zvuku o frekvenci 1 kHz:
+a) L = log10 (I − I0)
+b) L = 10 · ln (I / I0)
+c) L = ln (I − I0)
+d) L = 10 · log10 (I / I0)
+Správná odpověď: d
+
+4.09. Horní hranice hladiny intenzity zvuku, kterou krátkodobě snese zdravé ucho bez nebezpečí poškození, je přibližně:
+a) 80 dB
+b) 120 dB
+c) 100 dB
+d) 160 dB
+Správná odpověď: b
+
+4.10. Huygensův princip říká:
+a) další průběh vlnění lze konstruovat tak, že každý bod vlnoplochy považujeme za samostatný zdroj vlnění
+b) výška tónu závisí na rychlosti pohybu zdroje a pozorovatele
+c) rychlost šíření zvuku závisí na těsnosti vazby jednotlivých bodů prostředí, kterým se zvuk šíří
+d) v blízkosti zdroje se vlnění nešíří ve vlnoplochách
+Správná odpověď: a
+
+4.11. Charakterizujte postupné podélné vlnění:
+a) kmitající body kmitají ve směru šíření vlnění, všechny se stejnou fází
+b) kmitající body kmitají ve směru šíření vlnění, přičemž fáze se mění v závislosti na poloze a času
+c) kmitající body kmitají kolmo ke směru šíření vlnění
+d) kmitající body kmitají kolmo i ve směru šíření vlnění
+Správná odpověď: b
+
+4.12. Charakterizujte postupné příčné vlnění:
+a) kmitající body kmitají kolmo ke směru šíření vlnění, všechny se stejnou fází
+b) kmitající body kmitají ve směru šíření vlnění
+c) kmitající body kmitají kolmo ke směru šíření vlnění, přičemž fáze se mění v závislosti na poloze a času
+d) kmitající body kmitají kolmo i ve směru šíření vlnění
+Správná odpověď: c
+
+4.13. Je-li velikost rychlosti šíření zvuku v prostředí před lomem v a v prostředí po lomu u, pak pro úhel dopadu α a úhel lomu β (měřený od kolmice) platí následující vztah:
+a) v / u = sinα / sin β
+b) v / u = cosα / cos β
+c) v / u = sinα · sin β
+d) v / u = sin β / sinα
+Správná odpověď: a
+
+4.14. Jednoduchý kmitavý pohyb je:
+a) aperiodický, nerovnoměrný
+b) aperiodický, rovnoměrný
+c) periodický, rovnoměrný
+d) periodický, nerovnoměrný
+Správná odpověď: d
+
+4.15. Jednoduchý tón, šířící se prostředím, rozkmitává částice; okamžitá výchylka kmitající částice y(t) je dána vztahem (Y – amplituda, ω – úhlová frekvence, f – frekvence, ϕ – počáteční fáze, t – čas):
+a) y(t) = Y · ω · sin (ω · t · ϕ)
+b) y(t) = Y · sin (2π · f · t + ϕ)
+c) y(t) = Y · sin (ω (t + ϕ))
+d) y(t) = Y · sin (2π · t + ϕ)
+Správná odpověď: b
+
+4.16. Kmitající těleso:
+a) se pohybuje stále se stejnou rychlostí
+b) se pohybuje s proměnnou rychlostí
+c) má nulovou rychlost při průchodu rovnovážnou polohou
+d) má maximální rychlost v místě maximální výchylky
+Správná odpověď: b
+
+4.17. Kmitočet 1 Hz vyjádříme v základních jednotkách takto:
+a) 1 s−1
+b) 1 m−1 · s−1
+c) 1 s
+d) 1 s−2
+Správná odpověď: a
+
+4.18. Krytá píšt’ala varhan je čtvrtvlnným rezonátorem; jaká je délka píšt’aly, která zní tónem subkontra C o kmitočtu přibližně 16 Hz?
+a) 20 m
+b) 10 m
+c) 5 m
+d) 2,5 m
+Správná odpověď: c
+
+4.19. Láhev s infúzním roztokem ukápne jednou za 5 sekund. Frekvence kapání je:
+a) 20 Hz
+b) 0,05 Hz
+c) 12 Hz
+d) 0,2 s−1
+Správná odpověď: d
+
+4.20. Machovo číslo je:
+a) poměr rychlosti zvuku k rychlosti světla
+b) poměr rychlostí zvuku v daném prostředí a ve vakuu
+c) poměr rychlosti tělesa k rychlosti zvuku
+d) poměr rychlosti zvuku k rychlosti tělesa
+Správná odpověď: c
+
+4.21. Mechanické vlnění s frekvencí menší než 16 Hz:
+a) nazýváme ultrazvuk
+b) nazýváme infrazvuk
+c) odpovídá frekvenci zvukového vlnění při dobře slyšitelné mluvě
+d) je dobře slyšitelné zdravým uchem
+Správná odpověď: b
+
+4.22. Mezi dvěma veličinami, popisujícími harmonický pohyb se stejnou periodou T, je fázový rozdíl (2k + 1) · π rad, kde k je celé číslo. Obě veličiny pak:
+a) dosahují maximální hodnoty pouze v časech posunutých o T/4
+b) mají stejnou fázi
+c) mají opačnou fázi
+d) nemohou mít konstantní fázový rozdíl, ten se s časem mění
+Správná odpověď: c
+
+4.23. Mezi dvěma veličinami, popisujícími harmonický pohyb se stejnou periodou T, je fázový rozdíl 2kπ rad, kde k je celé číslo. Obě veličiny pak:
+a) dosahují maximální hodnoty v časech posunutých o T/4
+b) mají opačnou fázi
+c) mají stejnou fázi
+d) dosahují maximální hodnoty pouze v časech posunutých o 3T/2
+Správná odpověď: c
+
+4.24. Nejhlubší tón, který můžeme slyšet, má frekvenci přibližně 16 Hz; perioda tohoto tónu je přibližně:
+a) 0,6 s
+b) 6 s
+c) 0,06 s
+d) 0,16 s
+Správná odpověď: c
+
+4.25. Nejhlubší tón, který můžeme slyšet, má frekvenci přibližně 16 Hz. Vlnová délka tohoto tónu ve vzduchu je přibližně:
+a) 20 m
+b) 10 m
+c) 5 m
+d) 2 m
+Správná odpověď: a
+
+4.26. Nesprávné tvrzení o infrazvuku je:
+a) má větší vlnovou délku něž slyšitelný zvuk
+b) je neslyšitelný
+c) má frekvenci nižší než 16 Hz
+d) špatně se šíří ve vodě
+Správná odpověď: d
+
+4.27. Nesprávné tvrzení o šíření vlnění je:
+a) směr šíření vlnění v izotropním prostředí je určen tečnou k vlnoploše
+b) v izotropním prostředí je fázová rychlost ve všech směrech stejná
+c) v izotropním prostředí se vlnění šíří v kulových vlnoplochách
+d) v anizotropním prostředí může být v různých směrech rychlost šíření různá
+Správná odpověď: a
+
+4.28. O hladině intenzity zvuku platí:
+a) prahu slyšitelnosti odpovídá hladina 1 B = 10 dB
+b) prahu slyšitelnosti odpovídá hladina 0 B = 0 dB
+c) prahu bolesti odpovídá hladina 12 B
+d) prahu bolesti odpovídá hladina 12 dB
+Správná odpověď: b, c
+
+4.29. O kmitavém pohybu platí:
+a) perioda je doba, po které těleso přestane kmitat
+b) perioda je doba mezi dvěma nejbližšími průchody rovnovážnou polohou
+c) amplituda je největší hodnota výchylky
+d) amplituda je doba mezi dvěma následujícími stejnými fázemi kmitu
+Správná odpověď: c
+
+4.30. O mechanickém vlnění platí:
+a) stojatým vlněním se přenáší mechanická energie
+b) vlnová délka mechanického vlnění je vzdálenost nejbližších bodů, jejichž fázový rozdíl je 2π
+c) postupným vlněním se přenáší mechanická energie
+d) při stojatém vlnění kmitají všechny body se stejnou amplitudou
+Správná odpověď: b, c
+
+4.31. O oktávu vyšší tón má:
+a) dvojnásobnou frekvenci než původní tón
+b) jedenapůlnásobnou frekvenci než původní tón
+c) trojnásobnou frekvenci než původní tón
+d) poloviční frekvenci než původní tón
+Správná odpověď: a
+
+4.32. O rychlosti zvuku platí:
+a) ve vakuu je vyšší než v pevných látkách
+b) ve vzduchu je nižší než ve vodě
+c) ve vzduchu je stejná jako ve vodě
+d) ve vzduchu nezávisí na teplotě
+Správná odpověď: b
+
+4.33. Označte správná tvrzení týkající se stojatého vlnění:
+a) na pevném konci vzniká uzel
+b) na volném konci vzniká uzel
+c) na volném konci vzniká kmitna
+d) na pevném konci vzniká kmitna
+Správná odpověď: a, c
+
+4.34. Označte správná tvrzení:
+a) Mechanické vlnění s frekvencemi pod 16 Hz nazýváme infrazvukem.
+b) Mechanické vlnění s frekvencemi pod 20 kHz nazýváme ultrazvukem.
+c) Slyšitelný zvuk je mechanické vlnění o frekvenčním rozsahu přibližně 16 Hz až 20 kHz.
+d) Skutečný frekvenční rozsah slyšení u člověka je individuální, závisí např. na věku.
+Správná odpověď: a, c, d
+
+4.35. Pacient se nadechuje 20krát za minutu; frekvence dýchání je:
+a) 0,05 Hz
+b) 3 Hz
+c) 0,33 Hz
+d) 1200 Hz
+Správná odpověď: c
+
+4.36. Perioda dýchání byla 3 s; tomu odpovídá frekvence:
+a) 0,33 Hz
+b) 0,03 Hz
+c) 0,05 Hz
+d) 20 Hz
+Správná odpověď: a
+
+4.37. Perioda matematického kyvadla:
+a) závisí na jeho hmotnosti a délce
+b) je přímo úměrná tíhovému zrychlení
+c) na jeho hmotnosti nezávisí
+d) je na zemském povrchu všude stejná
+Správná odpověď: c
+
+4.38. Perioda vlastního kmitání netlumeného harmonického oscilátoru, tvořeného ideální pružinou a závažím, závisí:
+a) na hmotnosti závaží a tuhosti pružiny
+b) na hmotnosti závaží, tuhosti pružiny a na hodnotě tíhového zrychlení
+c) na tuhosti pružiny a velikosti tíhového zrychlení
+d) na hmotnosti závaží a velikosti tíhového zrychlení
+Správná odpověď: a
+
+4.39. Píšt’ala stejné konstrukce, která zní o 2 oktávy výše, je:
+a) 2krát delší
+b) 2krát kratší
+c) 3krát kratší
+d) 4krát kratší
+Správná odpověď: d
+
+4.40. Po zátěžovém vyšetření se puls pacienta dvakrát zrychlil:
+a) perioda srdeční činnosti byla dvojnásobná
+b) perioda srdeční činnosti byla poloviční
+c) frekvence srdeční činnosti byla dvojnásobná
+d) frekvence srdeční činnosti byla poloviční
+Správná odpověď: b, c
+
+4.41. Podélné mechanické vlnění může vzniknout:
+a) pouze v pevném skupenství
+b) pouze v plynném a kapalném skupenství
+c) ve všech skupenstvích
+d) pouze v kapalném a pevném skupenství
+Správná odpověď: c
+
+4.42. Prahu bolesti odpovídá přibližně intenzita zvuku:
+a) 1 W ·m−2
+b) 1012 W ·m−2
+c) 10−6 W ·m−2
+d) 10+6 W ·m−2
+Správná odpověď: a
+
+4.43. Prahu slyšitelnosti tónu o frekvenci 1 kHz odpovídá intenzita zvuku:
+a) 10−12 W ·m−2
+b) 10−9 W ·m−2
+c) 10−10 W ·m−2
+d) 10−23 W ·m−2
+Správná odpověď: a
+
+4.44. Pro postupné netlumené vlnění platí:
+a) všechny body kmitají se stejnou amplitudou
+b) všechny body kmitají se stejnou fázi
+c) v daném okamžiku mají všechny body stejnou výchylku
+d) všechny body kmitají se stejnou frekvencí
+Správná odpověď: a, d
+
+4.45. Pro stojaté vlnění neplatí, že:
+a) vzdálenost sousedních kmiten je λ/2
+b) vzdálenost sousedních uzlů je λ/2
+c) kmitna a sousední uzel mají polohy navzájem posunuté o λ/2
+d) kmitna a sousední uzel mají polohy navzájem posunuté o λ/4
+Správná odpověď: c
+
+4.46. Pro stojaté vlnění platí:
+a) všechny body kmitají se stejnou amplitudou
+b) všechny body kmitají se stejnou fázi
+c) v daném okamžiku mají všechny body stejnou výchylku
+d) všechny body kmitají se stejnou frekvencí
+Správná odpověď: b, d
+
+4.47. Pro ultrazvukové vyšetření jsme použili sondu 4 MHz; jaká je vlnová délka ultrazvuku v krvi, kterou se šíří zvuk rychlostí přibližně 1600 m/s?
+a) 400 mm
+b) 400 µm
+c) 6,4 mm
+d) 0,64 mm
+Správná odpověď: b
+
+4.48. Proč většina hmyzu vydává zvuk pouze za letu a proč má zvuk vydávaný různými druhy hmyzu zpravidla různou výšku?
+a) zdrojem zvuku jsou kmitající křídla, výška zvuku závisí na frekvenci kmitání
+b) zdrojem zvuku je tření vzduchu o tělo letícího hmyzu, výška zvuku závisí na rychlosti letu a tvaru těla hmyzu
+c) zdrojem zvuku je rezonanční dutinka v přední části těla, která ke své funkci potřebuje nabírat stále nový vzduch, tedy při letu
+d) zdrojem zvuku je hlasový orgán, který nepracuje při konzumaci potravy, různá výška zvuku je dána jeho různou konstrukcí u různých druhů hmyzu
+Správná odpověď: a
+
+4.49. Při audiometrii jsme zjistili nejlepší slyšitelnost při 3,2 kHz. Relativně vzhledem k této frekvenci ležela dolní hranice slyšitelnosti o 7 oktáv níže, zatímco horní hranice slyšitelnosti o 2 oktávy výše. Jaký je rozsah slyšitelnosti vyšetřovaného ucha?
+a) 16 Hz – 20 kHz
+b) 25 Hz – 12,8 kHz
+c) 160 Hz – 16 kHz
+d) 457 Hz – 6,4 kHz
+Správná odpověď: b
+
+4.50. Při harmonickém pohybu mechanického oscilátoru působí na hmotný bod reálná síla, která:
+a) je nepřímo úměrná okamžité výchylce
+b) směřuje z rovnovážné polohy
+c) směřuje do rovnovážné polohy
+d) má velikost přímo úměrnou velikosti výchylky
+Správná odpověď: c, d
+
+4.51. Při interferenci akustického vlnění, pocházejícího z jednoho zdroje, ale odraženého od dvou různých předmětů stejné kvality, vzniká maximální intenzita zvuku v těch místech, ve kterých je dráhový rozdíl interferujících vlnění blízký:
+a) pouze sudému násobku vlnové délky
+b) lichému násobku třetiny vlnové délky
+c) lichému násobku poloviny vlnové délky
+d) celočíselnému násobku vlnové délky
+Správná odpověď: d
+
+4.52. Při šíření netlumené rovinné postupné vlny:
+a) nedochází k přenosu mechanické energie
+b) kmitají všechny body se stejnou amplitudou
+c) směr šíření vlnění je určen směrem tečny k vlnoploše
+d) fázová rychlost v izotropním prostředí je v různých směrech různá
+Správná odpověď: b
+
+4.53. Přibližuje-li se pozorovatel k nepohyblivému zdroji rychlostí rovnou dvojnásobku rychlosti zvuku, pak pozorovaná frekvence je oproti frekvenci vydávané zdrojem:
+a) dvojnásobná
+b) trojnásobná
+c) poloviční
+d) třetinová
+Správná odpověď: b
+
+4.54. Rovnice pro okamžitou výchylku při harmonickém pohybu má (pro hodnoty veličin v hlavních jednotkách SI) tvar: y(t) = 0, 01 · sin (3, 14 · t + 1, 57). Maximální výchylka Ym, perioda T a počáteční fáze ϕ0 mají hodnoty přibližně:
+a) Ym = 0,01 m, T = 0,5 s, ϕ0 = 1,57 cm
+b) Ym = 0,01 cm, T = 0,5 s, ϕ0 = 1,57 s
+c) Ym = 0,01 m, T = 2 s, ϕ0 = π/2 rad
+d) Ym = 1 cm, T = 2 s, ϕ0 = 90°
+Správná odpověď: c, d
+
+4.55. Rovnice pro okamžitou výchylku y(t) oscilátoru s amplitudou A a s periodou vlastních netlumených kmitů T = 2 s může mít tvar:
+a) y(t) = −A · sin (π · t + 3π/2)
+b) y(t) = A · sin (π · t − π/2)
+c) y(t) = A · sin (2π · t)
+d) y(t) = −A · cos (π · t)
+Správná odpověď: a, b, d
+
+4.56. Rozsah sborového basu začíná zpravidla tónem velké E o frekvenci přibližně 82,5 Hz; takový tón má ve vzduchu vlnovou délku přibližně:
+a) 4 m
+b) 2 m
+c) 20 cm
+d) 2 cm
+Správná odpověď: a
+
+4.57. Rychlost kmitavého pohybu závaží pověšeného na ideální pružině ve vakuu je:
+a) harmonickou funkcí času
+b) nezávislá na úhlové frekvenci
+c) konstantní
+d) lineárně rostoucí s časem
+Správná odpověď: a
+
+4.58. Rychlost šíření vlnění v se vypočítá z jeho vlnové délky λ a frekvence f :
+a) v = λ / f
+b) v = λ · f
+c) v = 1 / (λ · f )
+d) v = f / λ
+Správná odpověď: b
+
+4.59. Rychlost šíření zvuku v kapalinách je:
+a) menší než ve vzduchu
+b) větší než ve vzduchu
+c) stejná jako v pevném i plynném skupenství
+d) nulová
+Správná odpověď: b
+
+4.60. Rychlost šíření zvuku ve vzduchu je přibližně:
+a) 340 m · s−1
+b) 3,4 km · s−1
+c) 3400 km · s−1
+d) 340 km · h−1
+Správná odpověď: a
+
+4.61. Rychlost ultrazvuku v kostech je přibližně 3360 m/s. Označte postup, který vede k vyjádření téže rychlosti v km/h:
+a) 3360 · 3,6 km/h = 12 096 km/h
+b) 3360 / 3,6 km/h = 933 km/h
+c) 3360 · 60 km/h = 201 600 km/h
+d) 3360 / 60 km/h = 56 km/h
+Správná odpověď: a
+
+4.62. Sborový soprán může zpívat tón c3 o kmitočtu přibližně 1 kHz; vlnová délka takového tónu ve vzduchu činí přibližně:
+a) 340 cm
+b) 340 mm
+c) 170 mm
+d) 3,4 m
+Správná odpověď: b
+
+4.63. Sluchové ústrojí průměrného člověka je nejcitlivější na zvuk o frekvencích v rozsahu:
+a) (16 – 50) Hz
+b) (700 – 6000) Hz
+c) (7 – 20) kHz
+d) (700 – 6000) kHz
+Správná odpověď: b
+
+4.64. Těleso kmitá harmonickým pohybem s periodou 0,5 s, jeho maximální výchylka je 10 cm, v čase t = 0 je výchylka nulová. Pokud je čas t zadán v sekundách, pak rovnice pro okamžitou výchylku y v centimetrech má tvar:
+a) y(t) = 10 · sin (4π · t)
+b) y(t) = 10 · sin (4π · t + π/2)
+c) y(t) = 10 · sin (π · t)
+d) y(t) = 10 · cos (π · t + π/2)
+Správná odpověď: a
+
+4.65. Těleso vykoná při harmonickém pohybu 5 kmitů za 4 s. Jeho maximální výchylka je 4 cm, v čase t = 0 je výchylka nulová. Nalezněte správný vztah pro velikost okamžitého zrychlení a (m · s−2) tělesa v závislosti na čase t (s):
+a) a(t) = −0, 25 · π2 · sin (5π · t/3)
+b) a(t) = −0, 04 · π2 · sin (5π · t/2)
+c) a(t) = −0, 25 · π2 · sin (5π · t/2)
+d) a(t) = −0, 04 · π2 · sin (5π · t/3)
+Správná odpověď: c
+
+4.66. Těleso vykoná při harmonickém pohybu 5 kmitů za 4 s. Jeho maximální výchylka je 4 cm, v čase t = 0 je výchylka nulová. Označte správné vztahy pro úhlovou rychlost ω (rad · s−1) a výchylku y (m) v závislosti na čase t (s):
+a) ω = 5π/2
+b) ω = 1, 6π
+c) y(t) = 0, 04 · sin (5π · t/2)
+d) y(t) = 4 · sin (1, 6π · t)
+Správná odpověď: a, c
+
+4.67. Tón označovaný jako komorní a má frekvenci 440 Hz. Tón, který je o dvě oktávy vyšší, bude mít frekvenci:
+a) 1320 Hz
+b) 880 Hz
+c) 1760 Hz
+d) 110 Hz
+Správná odpověď: c
+
+4.68. U netlumeného mechanického oscilátoru je celková mechanická energie:
+a) největší při maximální výchylce
+b) konstantní
+c) periodicky se měnící
+d) největší při průchodu rovnovážnou polohou
+Správná odpověď: b
+
+4.69. Úhlová (kruhová) frekvence fyzikálního kyvadla:
+a) je převrácenou hodnotu doby kmitu
+b) závisí pouze na jeho hmotnosti a tíhovém zrychlení
+c) je přímo úměrná jeho hmotnosti a nepřímo úměrná jeho délce
+d) závisí na momentu setrvačnosti vzhledem k ose kývání
+Správná odpověď: d
+
+4.70. Ultrazvuk je zvuk:
+a) o frekvencích nižších než 1 kHz
+b) který se šíří vzduchem výrazně rychleji než slyšitelný zvuk
+c) o frekvencích vyšších než 20 kHz
+d) pro svoji vysokou frekvenci lidským uchem neslyšitelný
+Správná odpověď: c, d
+
+4.71. Ultrazvuk je zvuk:
+a) o frekvencích nižších než 1 kHz
+b) o frekvencích nižších než 20 Hz
+c) o frekvencích vyšších než 20 kHz
+d) s intenzitou nižší než 16 kW ·m−2
+Správná odpověď: c
+
+4.72. Ultrazvuk se šíří nejrychleji
+a) v plynech a kapalinách
+b) v plynech
+c) v kapalinách
+d) v pevných látkách
+Správná odpověď: d
+
+4.73. Ultrazvuk:
+a) má stejnou fyzikální podstatu jako slyšitelný zvuk
+b) se v daném prostředí šíří přibližně stejnou rychlostí jako slyšitelný zvuk
+c) může člověk ve vodě slyšet
+d) může být vnímán některými živočichy
+Správná odpověď: a, b, d
+
+4.74. Ultrazvukové vlny mají vlnovou délku
+a) větší než 21 m
+b) menší než 21 m a větší než 17 mm
+c) větší než 17 mm
+d) menší než 17 mm
+Správná odpověď: d
+
+4.75. V důsledku Dopplerova posunu je frekvence přijímaného ultrazvukového vlnění vyšší, pohybuje-li se
+a) detektor ke zdroji
+b) zdroj a detektor vzájemně od sebe
+c) zdroj a detektor stejným směrem a rychlostí
+d) zdroj k detektoru
+Správná odpověď: a, d
+
+4.76. Vakuem:
+a) se šíří zvuk pomaleji než ve vzduchu
+b) se šíří zvuk rychleji než ve vzduchu
+c) se zvuk nešíří
+d) se šíří ultrazvuk snáze než infrazvuk
+Správná odpověď: c
+
+4.77. Vlnění o stejné frekvenci a stejné amplitudě se budou interferencí rušit v těch místech, kde je fázový rozdíl interferujících vlnění roven:
+a) lichému násobku π rad
+b) sudému násobku π rad
+c) lichému násobku 2π rad
+d) sudému násobku 2π rad
+Správná odpověď: a
+
+4.78. Vlnoplocha je definována jako:
+a) kulovitý útvar
+b) rovina kmitání příčného nebo podélného vlnění
+c) plocha, jejíž body kmitají se stejnou fázi
+d) plocha, jejíž body mají nulovou výchylku nezávisle na čase
+Správná odpověď: c
+
+4.79. Vlnoplocha vzniklá z bodového zdroje v homogenním izotropním prostředí má tvar:
+a) kružnice
+b) plné koule
+c) kulové plochy
+d) povrchu elipsoidu
+Správná odpověď: c
+
+4.80. Vlnová délka mechanického vlnění je vzdálenost kmitajících bodů, jejichž fázový rozdíl je:
+a) 2π
+b) π/4
+c) π/2
+d) π
+Správná odpověď: a
+
+4.81. Vyšetřované ucho má při frekvenci 2 kHz práh slyšitelnosti 20 dB. To znamená:
+a) že intenzita zvuku, který ještě slyší, je stokrát vyšší než u normálního zdravého ucha
+b) že intenzita zvuku, který ještě slyší, je 10−10 W ·m−2
+c) ucho slyší lépe, než normální zdravé ucho
+d) ucho slyší hůře, než normální zdravé ucho
+Správná odpověď: a, b, d
+
+4.82. Výška tónu je dána:
+a) intenzitou zvuku
+b) relativním podílem příměsi harmonických kmitočtů k základní vlně
+c) frekvencí zvuku
+d) hladinou intenzity zvuku
+Správná odpověď: c
+
+4.83. Vyšší harmonické frekvence jsou:
+a) celočíselné podíly základní frekvence
+b) celočíselně násobky komorního a
+c) celočíselné násobky základní frekvence
+d) celočíselné násobky frekvence 1000 Hz
+Správná odpověď: c
+
+4.84. Watt na metr čtverečný je jednotkou:
+a) tlaku zvukového vlnění
+b) intenzity zvuku
+c) výšky tónu
+d) hladiny intenzity zvuku
+Správná odpověď: b
+
+4.85. Zrychlení harmonického kmitavého pohybu je:
+a) nepřímo úměrné okamžité výchylce a v každém okamžiku má souhlasný směr jako výchylka
+b) přímo úměrné okamžité výchylce a v každém okamžiku má souhlasný směr jako výchylka
+c) nepřímo úměrné okamžité výchylce a v každém okamžiku má opačný směr než výchylka
+d) přímo úměrné okamžité výchylce a v každém okamžiku má opačný směr než výchylka
+Správná odpověď: d
+
+4.86. Zvuk je:
+a) mechanické vlnění vždy příčné
+b) elektromagnetické vlnění podélné
+c) přesun částic hmoty od místa vzniku zvuku k místu, kde je zvuk slyšen
+d) mechanické vlnění plynného, kapalného nebo pevného skupenství
+Správná odpověď: d
+
+4.87. Zvuk o frekvenci 1 kHz a intenzitě 10−10 W/m2:
+a) má hladinu intenzity 20 dB
+b) má hladinu intenzity 10 dB
+c) je normálním uchem neslyšitelný
+d) by při milionkrát vyšší intenzitě překročil práh bolesti
+Správná odpověď: a
+
+4.88. Zvuk se šíří ve vzduchu:
+a) převážně mechanickým příčným vlněním
+b) mechanickým podélným vlněním
+c) elektrickou polarizací molekul vzduchu
+d) přibližně stejně rychle jako ve vakuu
+Správná odpověď: b
+
+4.89. Zvuk se vakuem:
+a) nešíří
+b) šíří rychlostí 16 km · s−1
+c) šíří rychlostí 3 · 108 m · s−1
+d) šíří rychlostí 334 m · s−1
+Správná odpověď: a
+
+4.90. Zvuk tónů, které mají stejnou výšku avšak různou barvu, se liší:
+a) frekvencí tónu
+b) podílem různých dalších harmonických frekvencí
+c) hladinou hlasitosti
+d) intenzitou
+Správná odpověď: b
+
+4.91. Zvuk z majáku o frekvenci f dopadne na vodní hladinu a část se ho šíří dál vodou. Přitom rychlost zvuku ve vodě je přibližně 4,5× větší než rychlost zvuku ve vzduchu. Pak platí:
+a) frekvence vlny zůstane nezměněna, vlnová délka bude 4,5× větší
+b) frekvence vlny zůstane nezměněna, vlnová délka bude 4,5× menší
+c) frekvence vlny bude 4,5× větší, vlnová délka bude nezměněna
+d) frekvence i vlnová délka budou 4,5× větší
+Správná odpověď: a

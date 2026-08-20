@@ -1,0 +1,181 @@
+Izomery, které se liší polohou jednoho vodíkového atomu, polohou dvojné vazby a tím, jaké atomy tato dvojná vazba spojuje, jsou:
+a) optické izomery
+b) cis-trans izomery
+c) tautomery
+d) racemáty
+Správná odpověď: c
+
+Tautomer, pro který je charakteristická přítomnost karbonylové skupiny (C=O) označujeme jako:
+a) enolformu
+b) ketoformu
+c) cis-formu
+d) trans-formu
+Správná odpověď: b
+
+Tautomer, pro který je charakteristická přítomnost vazby C=C a hydroxylové skupiny označujeme jako:
+a) enolformu
+b) ketoformu
+c) cis-formu
+d) trans-formu
+Správná odpověď: a
+
+Vinylalkohol a acetaldehyd jsou:
+a) enantiomery
+b) optické izomery
+c) tautomery
+d) konformační izomery
+Správná odpověď: c
+
+Vinylalkohol a acetaldehyd:
+a) jsou konstituční izomery
+b) mají stejné chemické vlastnosti
+c) jsou tautomery
+d) mají stejné fyzikální vlastnosti
+Správná odpověď: a, c
+
+Acetaldehyd a vinylalkohol:
+a) mají různý sumární vzorec
+b) mají stejný strukturní vzorec
+c) mají stejný sumární vzorec
+d) jsou tautomery
+Správná odpověď: c, d
+
+Kolik chirálních uhlíkových atomů obsahuje molekula L-glyceraldehydu?
+a) jeden
+b) tři
+c) žádný
+d) dva
+Správná odpověď: a
+
+Kolik chirálních uhlíkových atomů obsahuje molekula D-glyceraldehydu?
+a) dva
+b) jeden
+c) žádný
+d) tři
+Správná odpověď: b
+
+D-glyceraldehyd a L-glyceraldehyd jsou látky:
+a) s jedním chirálním uhlíkovým atomem
+b) se třemi chirálními uhlíkovými atomy
+c) s dvěma chirálními uhlíkovými atomy
+d) které nemají chirální uhlíkový atom
+Správná odpověď: a
+
+Která z uvedených sloučenin obsahuje chirální uhlík?
+a) CH3−CH=CH−CH3
+b) CH3−CH2Br
+c) CH3−CH(OH)−COOH
+d) CH3−CH2−CH2NH2
+Správná odpověď: c
+
+Kolik chirálních uhlíkových atomů obsahuje molekula kyseliny pyrohroznové?
+a) dva
+b) jeden
+c) tři
+d) žádný
+Správná odpověď: d
+
+Energeticky nejvýhodnější konformace cyklohexanu je konformace:
+a) vaničková
+b) židličková
+c) cis
+d) trans
+Správná odpověď: b
+
+Židličková forma cyklohexanu je termín popisující:
+a) konformaci molekuly cyklohexanu
+b) konstituci molekuly cyklohexanu
+c) epimerii molekuly cyklohexanu
+d) tautomerii molekuly cyklohexanu
+Správná odpověď: a
+
+Vaničková forma cyklohexanu je termín popisující:
+a) konformaci molekuly cyklohexanu
+b) konstituci molekuly cyklohexanu
+c) optickou izomerii cyklohexanu
+d) tautomerii cyklohexanu
+Správná odpověď: a
+
+Různé konformace sloučeniny jsou charakterizovány:
+a) různým prostorovým uspořádáním jejích molekul
+b) různou konstitucí jejích molekul
+c) různou konfigurací jejích molekul v prostoru kolem vazeb C=C
+d) různým pořadím funkčních skupin v jejích molekulách
+Správná odpověď: a
+
+Molekula může změnit svou konformaci vlivem:
+a) vzniku další dvojné vazby
+b) otáčení kolem vazby C−C
+c) otáčení kolem vazby C=C
+d) přeskupení dvojných vazeb
+Správná odpověď: b
+
+Vyberte správné tvrzení o but-2-enu:
+a) netvoří izomery
+b) tvoří optické antipody
+c) tvoří cis-trans izomery
+d) tvoří keto-enol tautomery
+Správná odpověď: c
+
+Sloučenina s tímto vzorcem se nazývá:
+a) 3-chlor-prop-2-en
+b) cis-1-chlor-prop-1-en
+c) trans-1-chlor-prop-1-en
+d) 1-methyl-3-chlor-eth-1-en
+Správná odpověď: c
+
+Z následujících sloučenin tvoří cis-trans (geometrické) izomery:
+a) ClHC=CHCl
+b) ClHC=CCl2
+c) CCl2=CCl2
+d) ClHC=CH2
+Správná odpověď: a
+
+Dimethylether a ethanol jsou izomery:
+a) optické
+b) cis-trans
+c) konstituční
+d) tautomerní
+Správná odpověď: c
+
+Pentan a isopentan jsou:
+a) konstituční izomery
+b) konformační izomery
+c) cis-trans izomery
+d) optické izomery
+Správná odpověď: a
+
+Tyto vzorce představují izomery:
+a) polohové
+b) skupinové
+c) konstituční
+d) řetězcové
+Správná odpověď: c, d
+
+Sloučenina s tímto vzorcem se nazývá:
+a) trans-1-chlor-prop-1-en
+b) 3-chlor-prop-2-en
+c) cis-1-chlor-prop-1-en
+d) 1-methyl-3-chlor-eth-1-en
+Správná odpověď: a
+
+Butan a 2-methylpropan:
+a) se liší svými vlastnostmi
+b) mají stejný sumární vzorec, ale různou konstituci
+c) se neliší svými vlastnostmi
+d) jsou za pokojové teploty kapaliny
+Správná odpověď: a, b
+
+Ethanol a methanol jsou:
+a) izomery cis-trans
+b) členy téže homologické řady
+c) konformační izomery
+d) primární alkoholy
+Správná odpověď: b, d
+
+Chlorid uhličitý a tetrachlormethan:
+a) se liší počtem atomů H v molekule
+b) mají stejné chemické složení
+c) se liší počtem atomů Cl v molekule
+d) jsou konstituční izomery
+Správná odpověď: b

@@ -1,0 +1,209 @@
+Proteiny:
+a) jsou složeny pouze z heterocyklických sloučenin
+b) jsou hlavní zásobní látkou rostlin
+c) jsou složeny z aminokyselinových zbytků
+d) jsou všechny nerozpustné ve vodě
+Správná odpověď: d
+
+Stavebními jednotkami bílkovin jsou:
+a) α-aminokyseliny
+b) pouze 3-aminokyseliny
+c) pouze 1-aminokyseliny
+d) pouze γ-aminokyseliny
+Správná odpověď: d
+
+Stavebními jednotkami bílkovin jsou:
+a) pouze γ-aminokyseliny
+b) pouze 1-aminokarboxylové kyseliny
+c) 2-aminokarboxylové kyseliny
+d) pouze β-aminokyseliny
+Správná odpověď: a
+
+Dipeptid s tímto vzorcem se nazývá:
+a) glycylfenylalanin
+b) alanylfenylalanin
+c) fenylalanylglycin
+d) biuret
+Správná odpověď: a
+
+Dipeptid s tímto vzorcem se nazývá:
+a) glycylvalin
+b) glycylalanin
+c) biuret
+d) alanylglycin
+Správná odpověď: d
+
+Označte správnou sekvenci atomů v základním peptidovém řetězci:
+a) –N–C–C–N–C–C–N–C–
+b) –N–C–N–C–
+c) –N–C–O–C–N–C–O–
+d) –S–S–C–S–S–C–
+Správná odpověď: b
+
+Peptidová vazba je typická pro:
+a) polysacharidy
+b) lipidy
+c) terpeny
+d) bílkoviny
+Správná odpověď: a
+
+Všechny proteiny obsahují:
+a) kyslík
+b) dusík
+c) brom
+d) hořčík
+Správná odpověď: b
+
+Všechny proteiny obsahují:
+a) draslík
+b) chlor
+c) vodík
+d) uhlík
+Správná odpověď: d
+
+Bílkoviny:
+a) mohou mít sekundární strukturu ve formě β-skládaného listu nebo α-helixu
+b) jsou složeny z L-aminokyselin
+c) jsou složeny z D-aminokyselin
+d) jsou všechny dobře rozpustné ve vodě
+Správná odpověď: c
+
+Primární strukturou bílkovin rozumíme:
+a) uspořádání β-skládaného listu
+b) uspořádání α-helixu
+c) posloupnost nukleosidů v polypeptidovém řetězci
+d) posloupnost aminokyselin v polypeptidovém řetězci
+Správná odpověď: b
+
+Sekundární strukturou bílkovin rozumíme:
+a) uspořádání polypeptidového řetězce do podoby např. α-helixu či β-skládaného listu
+b) posloupnost aminokyselin v peptidovém řetězci
+c) celkové prostorové uspořádání polypeptidového řetězce
+d) vzájemnou orientaci podjednotek v molekule oligomerního proteinu
+Správná odpověď: a
+
+Terciární strukturou bílkovin rozumíme:
+a) vzájemnou orientaci podjednotek v molekule oligomerního proteinu
+b) plošné uspořádání polypeptidového řetězce (β-skládaný list)
+c) posloupnost aminokyselin v polypeptidovém řetězci
+d) prostorové uspořádání celého polypeptidového řetězce
+Správná odpověď: c
+
+Které vazby se mohou vyskytovat v terciární struktuře bílkovin?
+a) iontové vazby
+b) pouze peptidové vazby
+c) van der Waalsovy síly
+d) vodíkové vazby
+Správná odpověď: c
+
+Kvartérní strukturou bílkovin rozumíme:
+a) formu β-skládaného listu nebo α-helixu
+b) posloupnost aminokyselin v peptidovém řetězci
+c) prostorové uspořádání celého polypeptidového řetězce
+d) vzájemnou orientaci podjednotek v molekule oligomerního proteinu
+Správná odpověď: b
+
+Součástí molekuly chlorofylu a hemu (v hemoglobinu) je heterocyklický uhlovodík:
+a) purin
+b) pyrimidin
+c) pyrrol
+d) pyridin
+Správná odpověď: c
+
+Nebílkovinnou složku glykoproteinů tvoří:
+a) vitaminy
+b) sacharidy
+c) lipidy
+d) nukleové kyseliny
+Správná odpověď: c
+
+Globulární bílkoviny:
+a) jsou složeny z D-aminokyselin
+b) mají víceméně kompaktní, kulovitý tvar
+c) jsou většinou rozpustné ve vodě nebo v roztocích solí
+d) jsou většinou nerozpustné ve vodě nebo v roztocích solí
+Správná odpověď: a
+
+Mezi globulární bílkoviny řadíme:
+a) kolagen
+b) fibrinogen
+c) keratin
+d) albumin
+Správná odpověď: d
+
+Denaturací bílkoviny se neporuší její:
+a) terciární struktura
+b) kvartérní struktura
+c) sekundární struktura
+d) primární struktura
+Správná odpověď: b
+
+Denaturace je proces, při kterém se:
+a) mění primární struktura bílkovinné molekuly
+b) nemění primární struktura bílkovinné molekuly
+c) mění konformace bílkovinné molekuly
+d) nemění konformace bílkovinné molekuly
+Správná odpověď: a
+
+Albuminy jsou bílkoviny:
+a) kůže a šlach
+b) buněčných jader
+c) nehtů a peří
+d) mléka a krevního séra
+Správná odpověď: b
+
+Fibrilární bílkoviny:
+a) jsou rozpustné ve vodě nebo v roztocích solí
+b) mají vláknitou strukturu
+c) jsou nerozpustné ve vodě
+d) jsou složeny z D-aminokyselin
+Správná odpověď: a
+
+Mezi fibrilární bílkoviny řadíme:
+a) albumin
+b) kolagen
+c) fibrinogen
+d) keratin
+Správná odpověď: c
+
+Kolagen se nachází především v:
+a) kůži a šlachách
+b) krvi a moči
+c) přírodním hedvábí
+d) mléce
+Správná odpověď: b
+
+Fibroin se nachází:
+a) v přírodním hedvábí
+b) v mléce
+c) v krvi
+d) ve vaječném bílku
+Správná odpověď: c
+
+Keratin patří mezi:
+a) lipoproteiny
+b) globulární bílkoviny
+c) fibrilární bílkoviny
+d) glykoproteiny
+Správná odpověď: c
+
+Z následujících bílkovin nemá fibrilární strukturu:
+a) albumin
+b) kolagen
+c) keratin
+d) fibroin
+Správná odpověď: b
+
+Biuretovou reakcí lze v biologickém materiálu prokázat přítomnost:
+a) bílkovin
+b) redukujících sacharidů
+c) peptidové vazby
+d) ketonů
+Správná odpověď: a
+
+Biuret vzniká:
+a) ze dvou molekul monosacharidů
+b) ze dvou molekul terpenů
+c) ze dvou molekul močoviny
+d) ze dvou molekul kyseliny močové
+Správná odpověď: b

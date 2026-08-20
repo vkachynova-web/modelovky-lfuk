@@ -1,0 +1,62 @@
+Při elektrolýze taveniny KCl se na katodě vylučuje:
+a) K
+b) O2
+c) H2
+d) Cl2
+Správná odpověď: a
+
+Při elektrolýze taveniny KCl se na anodě vylučuje:
+a) Cl2
+b) O2
+c) K
+d) H2
+Správná odpověď: a
+
+Při elektrolýze taveniny NaCl se na katodě vylučuje:
+a) Na
+b) O2
+c) Cl2
+d) H2
+Správná odpověď: a
+
+Elektrolýzou taveniny NaCl se může vyrábět:
+a) vodík
+b) chlorid
+c) kyslík
+d) sodík
+Správná odpověď: d
+
+Určete konečné produkty elektrolýzy taveniny KCl a vodného roztoku KCl: tavenina vodný roztok katoda anoda katoda anoda
+a) K Cl2 K Cl2
+b) Cl2 K Cl2 K
+c) Cl2 K Cl2 H2 (KOH)
+d) K Cl2 H2 (KOH) Cl2
+Správná odpověď: d
+
+Při elektrolýze vodného roztoku chloridu sodného vzniká na katodě:
+a) vodík
+b) hydroxid sodný
+c) kyslík
+d) chlor
+Správná odpověď: a, b
+
+Při elektrolýze vodného roztoku chloridu draselného vzniká na katodě:
+a) vodík
+b) hydroxid draselný
+c) kyslík
+d) chlor
+Správná odpověď: a, b
+
+Při elektrolýze vodného roztoku chloridu sodného se na anodě vylučuje:
+a) vodík
+b) sodík
+c) kyslík
+d) chlor
+Správná odpověď: d
+
+Při elektrolýze probíhá:
+a) na anodě redukce
+b) na katodě redukce
+c) na anodě oxidace
+d) na katodě oxidace
+Správná odpověď: b, c

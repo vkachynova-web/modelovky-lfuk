@@ -1,0 +1,223 @@
+Z uvedených mastných kyselin obsahuje 16 atomů uhlíku:
+a) kyselina stearová
+b) kyselina palmitová
+c) kyselina olejová
+d) kyselina hexadecenová
+Správná odpověď: b
+
+Z uvedených mastných kyselin obsahuje 18 atomů uhlíku:
+a) kyselina stearová
+b) kyselina palmitová
+c) kyselina hexadecenová
+d) kyselina linolová
+Správná odpověď: d
+
+Kyselina palmitová je:
+a) oktadekanová kyselina
+b) cis-9-oktadecenová kyselina
+c) hexadekanová kyselina
+d) cis-8-hexadekadiová kyselina
+Správná odpověď: b
+
+Kyselina stearová je:
+a) hexadekanová kyselina
+b) cis-9-oktadecenová kyselina
+c) oktadekanová kyselina
+d) cis-8-hexadekadiová kyselina
+Správná odpověď: a
+
+Oktadekanová kyselina je kyselina:
+a) linolová
+b) palmitová
+c) olejová
+d) stearová
+Správná odpověď: c
+
+Kyselina olejová je kyselina:
+a) nasycená
+b) s krátkým řetězcem
+c) nenasycená
+d) aromatická
+Správná odpověď: d
+
+Kyselina olejová je kyselina:
+a) cis-9-oktadekanová
+b) cis-9-hexadecenová
+c) cis-9-oktadecenová
+d) cis-8-oktadekadienová
+Správná odpověď: a
+
+Kolik dvojných vazeb obsahuje ve svém uhlíkovém řetězci molekula kyseliny linolové?
+a) žádnou
+b) jednu
+c) čtyři
+d) dvě
+Správná odpověď: c
+
+Z následujících mastných kyselin obsahuje ve svém uhlíkovém řetězci pouze jednu dvojnou vazbu:
+a) kyselina palmitová
+b) kyselina linolová
+c) kyselina stearová
+d) kyselina olejová
+Správná odpověď: b
+
+Z následujících mastných kyselin obsahuje ve svém uhlíkovém řetězci dvě dvojné vazby:
+a) kyselina olejová
+b) kyselina stearová
+c) kyselina palmitová
+d) kyselina linolová
+Správná odpověď: d
+
+Nenasycené mastné kyseliny:
+a) mají ve srovnání s nasycenými mastnými kyselinami o stejném počtu uhlíků vyšší teplotu tání
+b) se v organizmu většinou vyskytují v trans-formě
+c) se v organizmu většinou vyskytují v cis-formě
+d) podléhají snadno redukci vzdušným kyslíkem
+Správná odpověď: d
+
+Acylglyceroly řadíme mezi:
+a) fenoly
+b) polysacharidy
+c) tuky
+d) hormony
+Správná odpověď: c
+
+Základním typem vazby mezi glycerolem a zbytkem mastné kyseliny v acylglycerolu je vazba:
+a) glykosidová
+b) hydrolytická
+c) etherová
+d) esterová
+Správná odpověď: c
+
+Hydrolýzou acylglycerolů účinkem hydroxidů alkalických kovů vzniká:
+a) aldehyd
+b) ester
+c) ether
+d) mýdlo
+Správná odpověď: a
+
+Mýdla jsou:
+a) soli karboxylových kyselin s malým počtem uhlíků
+b) soli vyšších mastných kyselin
+c) estery vyšších mastných kyselin
+d) soli aromatických karboxylových kyselin
+Správná odpověď: b
+
+Ke zmýdelnění esterů vyšších karboxylových kyselin dochází:
+a) při kysele katalyzované hydrolýze těchto esterů
+b) při alkalicky katalyzované hydrolýze těchto esterů
+c) při reakci tuků s glycerolem
+d) při alkalické hydrolýze acylglycerolů
+Správná odpověď: d
+
+Reakce hydroxidu sodného s acylglycerolem se nazývá:
+a) zmýdelnění
+b) esterifikace
+c) dehydrogenace
+d) eliminace
+Správná odpověď: d
+
+Vyberte správné/správná tvrzení o mýdlech:
+a) sodná mýdla jsou tuhá
+b) mýdla jsou soli vyšších mastných kyselin
+c) sodná mýdla jsou kapalná
+d) draselná mýdla jsou tuhá
+Správná odpověď: d
+
+Ke zmýdelnění acylglycerolů dochází při:
+a) jejich reakci se silnými kyselinami
+b) reakci tuků s glycerolem
+c) jejich reakci s alkalickými hydroxidy
+d) kyselé hydrolýze tuků
+Správná odpověď: a
+
+Při kyselé hydrolýze acylglycerolů vznikají:
+a) volné mastné kyseliny
+b) estery vyšších mastných kyselin
+c) mýdla
+d) soli vyšších mastných kyselin
+Správná odpověď: a
+
+Při alkalické hydrolýze acylglycerolů vznikají:
+a) soli vyšších mastných kyselin
+b) estery vyšších mastných kyselin
+c) volné mastné kyseliny
+d) anhydridy mastných kyselin
+Správná odpověď: d
+
+Tzv. žluknutí tuků a olejů je:
+a) podstatou ztužování tuků
+b) způsobeno účinkem bakterií
+c) způsobeno oxidací dvojných vazeb a štěpením mastných kyselin
+d) měřítkem biologické hodnoty tuků
+Správná odpověď: b
+
+Mezi esenciální složky potravy řadíme:
+a) kyselinu palmitovou
+b) kyselinu stearovou
+c) kyselinu linolovou
+d) kyselinu linolenovou
+Správná odpověď: d
+
+Ztužování tuků se provádí jejich:
+a) katalytickou dehydrogenací
+b) katalytickou hydratací
+c) katalytickou hydrogenací
+d) tepelným rozkladem
+Správná odpověď: b
+
+Kyselina cholová:
+a) je žlučová kyselina
+b) má molekulu odvozenou od steranu
+c) patří mezi mastné kyseliny
+d) je důležitým vitaminem
+Správná odpověď: c
+
+Kyselinu cholovou řadíme mezi:
+a) steroidy
+b) limoneny
+c) puriny
+d) pyridiny
+Správná odpověď: c
+
+Steroidy jsou odvozeny od tetracyklického uhlíkatého systému zvaného steran nebo též:
+a) cyklopentanoperhydronaftalen
+b) cyklopentanoperhydroanthracen
+c) cyklohexanoperhydrofenanthren
+d) cyklopentanoperhydrofenanthren
+Správná odpověď: b
+
+Mezi deriváty steranu řadíme:
+a) kyselinu cholovou
+b) limonen
+c) cholesterol
+d) kyselinu barbiturovou
+Správná odpověď: a
+
+Mezi sloučeniny se steroidní strukturou řadíme:
+a) adrenalin
+b) kortikoidy
+c) kyselinu cholovou
+d) retinol
+Správná odpověď: b
+
+Cyklopentanoperhydrofenanthren je strukturním základem:
+a) přírodního kaučuku
+b) vitaminu C
+c) cholesterolu
+d) testosteronu
+Správná odpověď: a
+
+Žlučové kyseliny jsou deriváty:
+a) steranu
+b) pyrimidinu
+c) purinu
+d) stearinu
+Správná odpověď: c
+
+Cholesterol je:
+a) sterol
+b) monoterpen
+c) karoten
+d) acylglycerol
+Správná odpověď: d

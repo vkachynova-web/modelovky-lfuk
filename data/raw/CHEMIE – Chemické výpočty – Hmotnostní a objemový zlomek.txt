@@ -1,0 +1,279 @@
+10% roztok KCl obsahuje:
+a) 10 gramů KCl v 90 gramech roztoku
+b) 10 gramů KCl v 90 gramech vody
+c) 10 gramů KCl v 1000 gramech vody
+d) 10 gramů KCl ve 100 gramech vody
+Správná odpověď: b
+
+1% roztok glukózy obsahuje:
+a) 1 gram glukózy v 1 litru roztoku
+b) 1 gram glukózy v 99 gramech vody
+c) 1 grammolekulu glukózy v 1000 gramech vody
+d) 1 gram glukózy v 10 gramech vody
+Správná odpověď: b
+
+5% roztok Na2CO3 obsahuje:
+a) 5 gramů Na2CO3 v 1000 g roztoku
+b) 5 gramů Na2CO3 v 1000 gramech vody
+c) 5 gramů Na2CO3 v 95 gramech vody
+d) 5 gramů Na2CO3 v  995 gramech vody
+Správná odpověď: c
+
+Kolik gramů chloridu sodného je třeba pro přípravu 1,5 kg fyziologického roztoku, ve kterém je hmotnostní zlomek w(NaCl) = 0,009? Ar(Na) = 23, Ar(Cl) = 35
+a) 13,5 g
+b) 1,35 g
+c) 9 g
+d) 0,9 g
+Správná odpověď: a
+
+Kolik gramů chloridu sodného je třeba pro přípravu 0,5 kg fyziologického roztoku, ve kterém je 0,9 % NaCl? Ar(Na) = 23, Ar(Cl) = 35
+a) 9 g
+b) 29,2 g
+c) 4,5 g
+d) 1,35 g
+Správná odpověď: c
+
+Jakou hmotnost má chlorid sodný, potřebný pro přípravu 250 g fyziologického roztoku?
+a) 0,9 g
+b) 14,6 g
+c) 25 g
+d) 2,25 g
+Správná odpověď: d
+
+Kolik gramů chloridu sodného obsahuje 150 gramů  fyziologického roztoku?
+a) 1,35 g
+b) 0,09 g
+c) 0,135 g
+d) 0,9 g
+Správná odpověď: a
+
+Kolik gramů chloridu sodného obsahuje 50 gramů fyziologického roztoku?
+a) 1,35 g
+b) 2,92 g
+c) 0,45 g
+d) 0,9 g
+Správná odpověď: c
+
+Kolik gramů hydroxidu sodného je třeba pro přípravu 350 gramů roztoku s hmotnostním zlomkem w(NaOH) = 0,08?
+a) 35 g
+b) 28 g
+c) 8 g
+d) 16 g
+Správná odpověď: b
+
+Kolik gramů chloridu draselného je třeba pro přípravu 250 gramů roztoku s hmotnostním zlomkem w(KCl) = 0,05?
+a) 1,2 g
+b) 10 g
+c) 5 g
+d) 12,5 g
+Správná odpověď: d
+
+Kolik gramů dusičnanu sodného je třeba pro přípravu 1500 gramů roztoku s hmotnostním zlomkem w(NaNO3) = 0,15?
+a) 37,5 g
+b) 225 g
+c) 45 g
+d) 22,5 g
+Správná odpověď: b
+
+Kolik gramů chloridu vápenatého je třeba, chceme-li připravit 300 gramů roztoku s hmotnostním zlomkem w(CaCl2) = 0,25? Ar(Ca) = 40, Ar(Cl) = 35
+a) 25 g
+b) 100 g
+c) 50 g
+d) 75 g
+Správná odpověď: d
+
+Kolik gramů jodidu draselného je obsaženo v 0,750 kg roztoku s hmotnostním zlomkem w(KI) = 0,04?
+a) 0,48 kg
+b) 61 g
+c) 30 g
+d) 48 mg
+Správná odpověď: c
+
+Jakou hmotnost má chlorid vápenatý, potřebný pro přípravu 3 kg roztoku s hmotnostním zlomkem w(CaCl2) = 0,025? Ar(Ca) = 40, Ar(Cl) = 35
+a) 50 g
+b) 75 g
+c) 25 g
+d) 100 g
+Správná odpověď: b
+
+K výplachům očí se někdy užívá tzv. „borová voda“, což je 3% roztok kyseliny borité. Kolik gramů kyseliny  borité je třeba pro přípravu 0,5 kg „borové vody“?
+a) 0,15 gramů
+b) 1,5 gramů
+c) 15 gramů
+d) 150 gramů
+Správná odpověď: c
+
+Kolik gramů 5% roztoku bromidu vápenatého je třeba, abychom jeho smísením s 19 gramy 28% roztoku bromidu vápenatého získali roztok 21%?
+a) 2,07 gramů
+b) 8,31 gramů
+c) 4,15 gramů
+d) 16,62 gramů
+Správná odpověď: b
+
+Kolik gramů 10% roztoku jodidu sodného je třeba, abychom jeho smísením s 21 gramy 14% roztoku jodidu sodného získali roztok 11%?
+a) 57,0 g
+b) 63,0 g
+c) 10,0 g
+d) 8,3 g
+Správná odpověď: b
+
+Kolik gramů síranu amonného je obsaženo ve 150 gramech 12% roztoku?
+a) 18 g
+b) 12 g
+c) 0,2 kg
+d) 150 g
+Správná odpověď: a
+
+Konzumní ocet je přibližně 8% roztok kyseliny octové. Smísíme-li 1000 gramů octa a 3500 gramů vody, bude ve výsledném roztoku procentová hmotnostní koncentrace kyseliny octové:
+a) 1,78 %
+b) 16 %
+c) 3,54 %
+d) 2,28 %
+Správná odpověď: a
+
+Smísíme-li 250 gramů kyseliny dusičné o hmotnostním zlomku w(HNO3) = 0,08 a 90 gramů vody, jaký bude ve výsledném roztoku hmotnostní zlomek kyseliny dusičné vyjádřený v %?
+a) 6,45 %
+b) 4,07 %
+c) 5,88 %
+d) 8,0 %
+Správná odpověď: c
+
+Přidáme-li ke 150 gramům 12% kyseliny octové 250 gramů vody, jaký bude hmotnostní zlomek kyseliny octové ve výsledném roztoku vyjádřený v %?
+a) 9,0 %
+b) 0,225 %
+c) 4,5 %
+d) 12,6 %
+Správná odpověď: c
+
+Přidáme-li ke 250 gramům kyseliny octové o w(CH3COOH) = 0,06 350 gramů vody, jaký bude hmotnostní zlomek kyseliny octové ve výsledném roztoku?
+a) 0,025
+b) 0,05
+c) 0,06
+d) 0,03
+Správná odpověď: a
+
+Smísíme-li 150 gramů kyseliny mravenčí o w(HCOOH) = 0,06 a 350 gramů vody, kolik hmotnostních procent kyseliny mravenčí bude obsahovat výsledný roztok?
+a) 1,8 %
+b) 6 %
+c) 2,5 %
+d) 3 %
+Správná odpověď: a
+
+Smísíme-li 25 gramů 3% kyseliny sírové a 35 gramů vody, jaký bude hmotnostní zlomek kyseliny sírové ve výsledném roztoku?
+a) 0,02
+b) 0,025
+c) 0,0233
+d) 0,0125
+Správná odpověď: d
+
+15 gramů kyseliny chlorovodíkové o hmotnostní procentové koncentraci 3 % smísíme s 30 gramy vody. Kolikaprocentní bude výsledný roztok kyseliny chlorovodíkové?
+a) 9 %
+b) 0,1 %
+c) 1 %
+d) 4,5 %
+Správná odpověď: c
+
+Zastoupení uhlíku v oxidu uhličitém, vyjádřené hmotnostním zlomkem uhlíku činí: Ar(c) = 12, Ar(O) = 16
+a) w(c) = 0,727
+b) w(c) = 0,12
+c) w(c) = 0,428
+d) w(c) = 0,273
+Správná odpověď: d
+
+Zastoupení síry v oxidu siřičitém, vyjádřené hmotnostním zlomkem síry činí: Ar(S) = 32, Ar(O) = 16
+a) w(S) = 0,5
+b) w(S) = 0,42
+c) w(S) = 0,457
+d) w(S) = 0,67
+Správná odpověď: a
+
+Vodný roztok peroxidu vodíku se používá jako bělicí a dezinfekční prostředek. Vypočítejte, kolik gramů peroxidu vodíku je obsaženo v 15 gramech 3% roztoku:
+a) 0,45 g
+b) 5,0 g
+c) 0,2 g
+d) 3,0 g
+Správná odpověď: a
+
+Vodný roztok peroxidu vodíku se používá jako bělicí a dezinfekční prostředek. Vypočítejte, kolik gramů peroxidu vodíku je obsaženo v 5 gramech 3% roztoku:
+a) 0,15 g
+b) 1,66 g
+c) 1,5 g
+d) 0,60 g
+Správná odpověď: a
+
+Hladina glukózy u hladovějícího člověka klesla na hodnotu 5 mg dl–1. Kolik gramů glukózy obsahuje jeden litr krve?
+a) 0,65 g
+b) 6,5 g
+c) 0,065 g
+d) 65 g
+Správná odpověď: a
+
+Kolik gramů cholesterolu obsahuje litr krve pacienta, u kterého byla zjištěna koncentrace cholesterolu 325 mg dl–1?
+a) 3,25 g dm–3
+b) 32,5 g dm–3
+c) 0,325 g dm–3
+d) 325 g dm–3
+Správná odpověď: a
+
+Jaký objem vody potřebujeme k přípravě 0,45 dm3 roztoku kyseliny octové, má-li být ve výsledném roztoku objemový zlomek kyseliny octové 30 %?
+a) 315 cm3
+b) 450 cm3
+c) 300 cm3
+d) 135 cm3
+Správná odpověď: a
+
+Jaký objem vody je třeba k přípravě 0,200 dm3 roztoku kyseliny octové, má-li být objemový zlomek kyseliny octové v tomto roztoku roven 0,05?
+a) 5 cm3
+b) 10 cm3
+c) 95 cm3
+d) 190 cm3
+Správná odpověď: d
+
+Jaký je objem vody, který potřebujeme k přípravě roztoku kyseliny octové o objemu 500 cm3, má-li být objemový zlomek kyseliny v tomto roztoku roven 0,4?
+a) 300 cm3
+b) 200 dm3
+c) 200 cm3
+d) 400 cm3
+Správná odpověď: a
+
+Jaký je objem vody, který potřebujeme k přípravě 1000 ml roztoku kyseliny octové, má-li být výsledný objemový zlomek kyseliny octové 40 %?
+a) 600 ml
+b) 400 ml
+c) 800 ml
+d) 700 ml
+Správná odpověď: a
+
+Jaký objem vody je třeba pro přípravu 250 ml roztoku kyseliny octové, má-li být ve výsledném roztoku objemový zlomek kyseliny octové 35 %?
+a) 180 ml
+b) 160,5 ml
+c) 150,5 ml
+d) 162,5 ml
+Správná odpověď: d
+
+Jaký je objem kyseliny octové, který potřebujeme k přípravě roztoku o objemu 0,200 dm3, má-li být objemový zlomek kyseliny octové ve výsledném roztoku roven 0,1?
+a) 90 cm3
+b) 20 cm3
+c) 190 cm3
+d) 10 cm3
+Správná odpověď: b
+
+Jaký objem kyseliny octové je třeba pro přípravu roztoku o objemu 0,45 dm3, má-li být výsledný objemový zlomek kyseliny octové 30 %?
+a) 315 cm3
+b) 135 cm3
+c) 300 cm3
+d) 450 cm3
+Správná odpověď: b
+
+Jaký je objem kyseliny sírové o hmotnosti 115 gramů a hustotě 1,05 g cm–3?
+a) 109,5 cm3
+b) 115 cm3
+c) 105 cm3
+d) 1,06 cm3
+Správná odpověď: a
+
+Jaký je objem kyseliny sírové o hmotnosti 10,5 gramů a hustotě 1,03 g cm–3?
+a) 1,03 cm3
+b) 10,81 cm3
+c) 10,5 cm3
+d) 10,2 cm3
+Správná odpověď: d
