@@ -1,4 +1,4 @@
-const QUESTION_PATH = '../data/questions.json';
+const QUESTION_PATH = '/data/questions.json';
 
 const state = {
   topics: [],
