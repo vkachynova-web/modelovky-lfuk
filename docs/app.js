@@ -97,7 +97,7 @@ function renderSubjectOverview() {
     <section class="panel">
       <div class="subject-header">
         <h2>Vyberte předmět</h2>
-        <p>Vyberte si předmět nebo spustit souhrnný test přes všechny okruhy.</p>
+        <p>Vyberte si předmět nebo spusťte souhrnný test zahrnující všechny okruhy.</p>
       </div>
 
       <div class="subject-grid">

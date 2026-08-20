@@ -1,5 +1,5 @@
 :root {
-  --bg: #f3f6fb;
+  --bg: #e1222278;
   --panel: #ffffff;
   --panel-strong: #edf3ff;
   --border: #d9e2f2;
@@ -213,6 +213,7 @@ select {
 }
 
 .primary-btn {
+
   background: var(--primary);
   color: white;
 }
