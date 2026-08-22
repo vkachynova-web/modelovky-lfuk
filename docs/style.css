@@ -214,7 +214,7 @@ select {
 
 .primary-btn {
   background: var(--primary);
-  color: #10315f;
+  color: #14365d;
 }
 
 .primary-btn:hover,
@@ -229,8 +229,8 @@ select {
 }
 
 .ghost-btn {
-  background: #dfefff;
-  color: var(--primary-dark);
+  background: #dfeeff;
+  color: #14365d;
 }
 
 /* Disabled state for answers */
