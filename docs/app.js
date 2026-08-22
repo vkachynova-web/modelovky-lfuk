@@ -21,6 +21,46 @@ function escapeHtml(value) {
     .replace(/'/g, '&#039;');
 }
 
+function formatChemicalFormulaUnicode(formula) {
+  const digits = {
+    0: '₀', 1: '₁', 2: '₂', 3: '₃', 4: '₄', 5: '₅', 6: '₆', 7: '₇', 8: '₈', 9: '₉',
+  };
+
+  return String(formula).replace(/([A-Za-z]+)(\d+)/g, (match, letters, number) => {
+    const sub = [...number].map((char) => digits[char] ?? char).join('');
+    return `${letters}${sub}`;
+  });
+}
+
+function renderRichText(text) {
+  if (text === null || text === undefined) {
+    return '';
+  }
+
+  const rawText = String(text);
+  const formulaPattern = /(?:[A-Z][a-z]?\d*[A-Z][a-z]?\d*|[A-Z][a-z]?\d+)/g;
+  const matches = [...rawText.matchAll(formulaPattern)];
+
+  if (!matches.length) {
+    return escapeHtml(rawText);
+  }
+
+  let result = '';
+  let lastIndex = 0;
+
+  for (const match of matches) {
+    const start = match.index ?? 0;
+    const formula = match[0];
+
+    result += escapeHtml(rawText.slice(lastIndex, start));
+    result += escapeHtml(formatChemicalFormulaUnicode(formula));
+    lastIndex = start + formula.length;
+  }
+
+  result += escapeHtml(rawText.slice(lastIndex));
+  return result;
+}
+
 function getAllSelectedTopics() {
   return state.topics.filter((topic) => state.selectedTopicIds.has(topic.id));
 }
@@ -284,7 +324,13 @@ function renderTopicSelector(subjectKey = null) {
 }
 
 function startSummaryTest() {
-  const rawValue = Number(window.prompt('Zadejte počet otázek pro souhrnný test (1–50):', '20'));
+  let rawValue = 20;
+  try {
+    rawValue = Number(window.prompt('Zadejte počet otázek pro souhrnný test (1–50):', '20'));
+  } catch (error) {
+    rawValue = 20;
+  }
+
   const count = Number.isFinite(rawValue) ? Math.max(1, Math.min(50, rawValue)) : 20;
   const allQuestions = buildQuestionPool(state.topics, 'random');
   const questions = allQuestions.slice(0, Math.min(count, allQuestions.length));
@@ -316,20 +362,12 @@ function getCurrentQuestion() {
   return state.currentQuiz[state.currentIndex];
 }
 
-function selectedIndexesFromForm(question) {
-  const multiple = question.correctAnswers.length > 1;
+function selectedIndexesFromForm() {
   const selected = [];
-
-  if (multiple) {
-    document.querySelectorAll('input[name="answerOption"]:checked').forEach((checkbox) => {
-      selected.push(Number(checkbox.value));
-    });
-    return selected.sort((a, b) => a - b);
-  }
-
-  const checked = document.querySelector('input[name="answerOption"]:checked');
-  if (!checked) return [];
-  return [Number(checked.value)];
+  document.querySelectorAll('input[name="answerOption"]:checked').forEach((checkbox) => {
+    selected.push(Number(checkbox.value));
+  });
+  return selected.sort((a, b) => a - b);
 }
 
 function markAnswerState(question, selected) {
@@ -363,7 +401,6 @@ function renderQuiz() {
     return;
   }
 
-  const isMulti = question.correctAnswers.length > 1;
   const currentNumber = state.currentIndex + 1;
 
   container.innerHTML = `
@@ -375,7 +412,7 @@ function renderQuiz() {
         <div class="progress">Otázka ${currentNumber}/${state.currentQuiz.length}</div>
       </div>
 
-      <h2 class="question-text">${escapeHtml(question.question)}</h2>
+      <h2 class="question-text">${renderRichText(question.question)}</h2>
 
       <div class="answers-list">
         ${question.answers
@@ -383,9 +420,9 @@ function renderQuiz() {
             (answer, index) => `
               <div class="answer-option" data-index="${index}">
                 <label class="answer-label">
-                  <input type="${isMulti ? 'checkbox' : 'radio'}" name="answerOption" value="${index}" ${state.submitState && state.submitState.selected.includes(index) ? 'checked' : ''} ${state.submitState ? 'disabled' : ''} />
+                  <input type="checkbox" name="answerOption" value="${index}" ${state.submitState && state.submitState.selected.includes(index) ? 'checked' : ''} ${state.submitState ? 'disabled' : ''} />
                   <span class="letter">${String.fromCharCode(97 + index)}</span>
-                  <span>${escapeHtml(answer)}</span>
+                  <span>${renderRichText(answer)}</span>
                 </label>
               </div>
             `,
@@ -419,7 +456,7 @@ function renderQuiz() {
     });
   } else {
     document.getElementById('submitAnswerBtn').addEventListener('click', () => {
-      const selected = selectedIndexesFromForm(question);
+      const selected = selectedIndexesFromForm();
       if (!selected.length) {
         showQuestionError('Vyberte alespoň jednu možnost odpovědi.');
         return;
@@ -503,7 +540,7 @@ function renderSummary() {
               (result) => `
                 <li>
                   <div><strong>${escapeHtml(result.topicName)}</strong></div>
-                  <div>${escapeHtml(result.question)}</div>
+                  <div>${renderRichText(result.question)}</div>
                   <div><small>Správně: ${result.correctAnswers.map((index) => String.fromCharCode(97 + index)).join(', ')}</small></div>
                 </li>
               `,

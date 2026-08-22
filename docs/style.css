@@ -3,8 +3,8 @@
   --panel: #ffffff;
   --panel-strong: #edf3ff;
   --border: #d9e2f2;
-  --primary: #2d5bff;
-  --primary-dark: #1c42c8;
+  --primary: #a9d8ff;
+  --primary-dark: #7bbcf8;
   --success: #1f9d6a;
   --success-soft: #eafaf3;
   --danger: #d63a50;
@@ -213,9 +213,8 @@ select {
 }
 
 .primary-btn {
-
   background: var(--primary);
-  color: white;
+  color: #10315f;
 }
 
 .primary-btn:hover,
@@ -230,7 +229,7 @@ select {
 }
 
 .ghost-btn {
-  background: #eef3ff;
+  background: #dfefff;
   color: var(--primary-dark);
 }
 
@@ -264,6 +263,13 @@ button:disabled {
   font-size: clamp(1.2rem, 2vw, 1.7rem);
   line-height: 1.5;
   margin: 0;
+}
+
+.question-text .katex,
+.answer-label .katex,
+.wrong-list .katex {
+  font-size: 1em;
+  vertical-align: middle;
 }
 
 .answers-list {
