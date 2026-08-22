@@ -21,6 +21,36 @@ function escapeHtml(value) {
     .replace(/'/g, '&#039;');
 }
 
+function formatSubscript(value) {
+  const digits = {
+    0: '₀', 1: '₁', 2: '₂', 3: '₃', 4: '₄', 5: '₅', 6: '₆', 7: '₇', 8: '₈', 9: '₉',
+    '-': '₋',
+    '−': '₋',
+  };
+
+  return String(value)
+    .replace(/\{?([^{}]+)\}?/g, '$1')
+    .split('')
+    .map((char) => digits[char] ?? char)
+    .join('');
+}
+
+function formatSuperscript(value) {
+  const digits = {
+    0: '⁰', 1: '¹', 2: '²', 3: '³', 4: '⁴', 5: '⁵', 6: '⁶', 7: '⁷', 8: '⁸', 9: '⁹',
+    '-': '⁻',
+    '−': '⁻',
+    '+': '⁺',
+  };
+
+  return String(value)
+    .replace(/−/g, '-')
+    .replace(/\{?([^{}]+)\}?/g, '$1')
+    .split('')
+    .map((char) => digits[char] ?? char)
+    .join('');
+}
+
 function formatChemicalFormulaUnicode(formula) {
   const digits = {
     0: '₀', 1: '₁', 2: '₂', 3: '₃', 4: '₄', 5: '₅', 6: '₆', 7: '₇', 8: '₈', 9: '₉',
@@ -32,33 +62,133 @@ function formatChemicalFormulaUnicode(formula) {
   });
 }
 
+function convertUnitExponents(text) {
+  let result = text;
+
+  result = result.replace(/([A-Za-zµ]+(?:\s*[·/×]\s*[A-Za-zµ]+)*)\s*[-\u2212+]\s*(\d+)/g, (match, unitExpr, exponent) => {
+    const normalizedUnit = unitExpr.replace(/\s+/g, '');
+    if (!/[·/×]/.test(normalizedUnit) && !/^(?:s|m|rad|kg|N|J|W|Pa|Hz|C|A|V|K|mol|cd|L|l|g|Ω)$/i.test(normalizedUnit.split(/[·/×]/).pop())) {
+      return match;
+    }
+    return `${normalizedUnit}⁻${formatSuperscript(exponent)}`;
+  });
+
+  result = result.replace(/\/([A-Za-zµ]+)\s*[-\u2212+]\s*(\d+)/g, (_, unit, exponent) => `/${unit}⁻${formatSuperscript(exponent)}`);
+  result = result.replace(/\/([A-Za-zµ]+)\s*\+\s*(\d+)/g, (_, unit, exponent) => `/${unit}⁺${formatSuperscript(exponent)}`);
+  result = result.replace(/\/([A-Za-zµ]+)\s*(\d+)/g, (_, unit, exponent) => `/${unit}${formatSuperscript(exponent)}`);
+
+  return result;
+}
+
+function normalizeScientificText(text) {
+  let normalized = String(text);
+
+  normalized = normalized.replace(/\\mathrm\s*\{([^{}]+)\}/g, '$1');
+  normalized = normalized.replace(/\\text\s*\{([^{}]+)\}/g, '$1');
+  normalized = normalized.replace(/\\left|\\right|\\bigg|\\Bigg|\\big|\\Big|\\!|\\,/g, '');
+  normalized = normalized.replace(/\\cdot/g, '·');
+  normalized = normalized.replace(/\\times/g, '×');
+  normalized = normalized.replace(/\\frac\s*\{([^{}]+)\}\s*\{([^{}]+)\}/g, '$1/$2');
+  normalized = normalized.replace(/\\approx/g, '≈');
+  normalized = normalized.replace(/\\pm/g, '±');
+  normalized = normalized.replace(/\\mu/g, 'µ');
+
+  normalized = convertUnitExponents(normalized);
+
+  normalized = normalized.replace(/([A-Za-zµ]+)\s*_{\s*([^{}]+)\s*}/g, (_, base, sub) => `${base}${formatSubscript(sub)}`);
+  normalized = normalized.replace(/([A-Za-zµ]+)\s*\^\s*\{\s*([^{}]+)\s*\}/g, (_, base, exp) => `${base}${formatSuperscript(exp)}`);
+  normalized = normalized.replace(/([A-Za-zµ]+)\s*\^\s*([-−+]?\d+)/g, (_, base, exp) => `${base}${formatSuperscript(exp)}`);
+  normalized = normalized.replace(/\/([A-Za-zµ]+)\s*\^\s*([-−+]?\d+)/g, (_, unit, exp) => `/${unit}${formatSuperscript(exp)}`);
+  normalized = normalized.replace(/([A-Za-zµ]+(?:[·/×][A-Za-zµ]+)*)\^([−-]?)(\d+)/g, (match, unitExpr, sign, exponent) => {
+    const normalizedUnit = unitExpr.replace(/\s+/g, '');
+    const signChar = sign === '-' || sign === '−' ? '⁻' : sign === '+' ? '⁺' : '';
+    return `${normalizedUnit}${signChar}${formatSuperscript(exponent)}`;
+  });
+
+  normalized = normalized.replace(/10\s*\^\s*\{?\s*([-+]?\d+)\s*\}?/g, (_, exp) => `10${formatSuperscript(exp)}`);
+  normalized = normalized.replace(/10\s*[-−]\s*(\d+)/g, (_, exp) => `10⁻${exp.split('').map((char) => ({ '0': '⁰', '1': '¹', '2': '²', '3': '³', '4': '⁴', '5': '⁵', '6': '⁶', '7': '⁷', '8': '⁸', '9': '⁹' }[char] ?? char)).join('')}`);
+  normalized = normalized.replace(/10\s*\+\s*(\d+)/g, (_, exp) => `10⁺${exp.split('').map((char) => ({ '0': '⁰', '1': '¹', '2': '²', '3': '³', '4': '⁴', '5': '⁵', '6': '⁶', '7': '⁷', '8': '⁸', '9': '⁹' }[char] ?? char)).join('')}`);
+
+  normalized = normalized.replace(/(?<!\/)\b([A-Za-z]+)(\d+)/g, (match, letters, number) => formatChemicalFormulaUnicode(match));
+
+  normalized = normalized.replace(/([a-zA-Zµ]+)\s*·\s*([a-zA-Zµ]+)/g, '$1·$2');
+  normalized = normalized.replace(/\s*×\s*/g, ' × ');
+  normalized = normalized.replace(/\s*·\s*/g, '·');
+
+  return normalized;
+}
+
+function toMathJaxExpression(segment) {
+  let expression = String(segment).trim();
+  if (!expression) {
+    return '';
+  }
+
+  expression = expression
+    .replace(/\\cdot/g, '\\cdot ')
+    .replace(/\\times/g, '\\times ')
+    .replace(/·/g, ' \\cdot ')
+    .replace(/×/g, ' \\times ')
+    .replace(/µ/g, '\\mu ')
+    .replace(/([A-Za-zµ]+)\s*[-−]\s*(\d+)/g, '$1^{-}{$2}')
+    .replace(/([A-Za-zµ]+)\s*\^\s*([-+]?\d+)/g, '$1^{$2}')
+    .replace(/([A-Za-zµ]+)\s*\^\s*\{\s*([-+]?\d+)\s*\}/g, '$1^{$2}')
+    .replace(/([A-Za-zµ]+)\s*\^\s*\{?\s*([-+]?\d+)\s*\}?/g, '$1^{$2}')
+    .replace(/\s+/g, ' ')
+    .trim();
+
+  return expression;
+}
+
+function renderMathJax(container = document.getElementById('app')) {
+  if (!container || !window.MathJax || typeof window.MathJax.typesetPromise !== 'function') {
+    return;
+  }
+
+  window.MathJax.typesetPromise([container]).catch((error) => {
+    console.warn('MathJax render failed:', error);
+  });
+}
+
 function renderRichText(text) {
   if (text === null || text === undefined) {
     return '';
   }
 
-  const rawText = String(text);
-  const formulaPattern = /(?:[A-Z][a-z]?\d*[A-Z][a-z]?\d*|[A-Z][a-z]?\d+)/g;
-  const matches = [...rawText.matchAll(formulaPattern)];
+  const source = String(text);
+  const mathFragmentPattern = /(?<![A-Za-zµ])(?:\d[\d.,]*\s*(?:·|\\cdot)\s*10\s*(?:\^|[-−+])\s*[-+]?\d+|(?:[A-Za-zµ]{1,4}(?:\s*(?:·|\/|×)\s*[A-Za-zµ]{1,4})*)\s*(?:\^\s*[-+]?\d+|[-−+]\s*\d+)|(?:[A-Za-zµ]{1,4}\s*\/\s*[A-Za-zµ]{1,4})(?:\s*\^\s*[-+]?\d+)?|(?:[A-Za-zµ]{1,4}\s*\^\s*[-+]?\d+))(?![A-Za-zµ])/gi;
 
+  const matches = [...source.matchAll(mathFragmentPattern)];
   if (!matches.length) {
-    return escapeHtml(rawText);
+    return escapeHtml(normalizeScientificText(source));
   }
 
-  let result = '';
+  let output = '';
   let lastIndex = 0;
 
-  for (const match of matches) {
-    const start = match.index ?? 0;
-    const formula = match[0];
+  matches.forEach((match) => {
+    const start = match.index;
+    const end = start + match[0].length;
 
-    result += escapeHtml(rawText.slice(lastIndex, start));
-    result += escapeHtml(formatChemicalFormulaUnicode(formula));
-    lastIndex = start + formula.length;
+    if (start > lastIndex) {
+      output += escapeHtml(source.slice(lastIndex, start));
+    }
+
+    const mathExpression = toMathJaxExpression(match[0]);
+    if (mathExpression) {
+      output += `\\(${mathExpression}\\)`;
+    } else {
+      output += escapeHtml(match[0]);
+    }
+
+    lastIndex = end;
+  });
+
+  if (lastIndex < source.length) {
+    output += escapeHtml(source.slice(lastIndex));
   }
 
-  result += escapeHtml(rawText.slice(lastIndex));
-  return result;
+  return output;
 }
 
 function getAllSelectedTopics() {
@@ -124,6 +254,127 @@ function buildQuestionPool(selectedTopics, mode) {
   return pool;
 }
 
+function getQuestionOverviewList(subjectKey = 'all', topicId = 'all') {
+  const relevantTopics = subjectKey === 'all'
+    ? state.topics
+    : getSubjectTopics(subjectKey);
+
+  const filteredTopics = topicId === 'all'
+    ? relevantTopics
+    : relevantTopics.filter((topic) => topic.id === topicId);
+
+  return filteredTopics.flatMap((topic) => topic.questions.map((question) => ({
+    ...question,
+    topicName: topic.name,
+    subjectKey: getTopicSubject(topic.id),
+  })));
+}
+
+function renderQuestionOverview(subjectKey = 'all', topicId = 'all') {
+  const container = document.getElementById('app');
+  const relevantTopics = subjectKey === 'all' ? state.topics : getSubjectTopics(subjectKey);
+  const questions = getQuestionOverviewList(subjectKey, topicId);
+
+  const subjectOptions = [
+    '<option value="all">Všechny předměty</option>',
+    '<option value="chemie">Chemie</option>',
+    '<option value="fyzika">Fyzika</option>',
+    '<option value="biologie">Biologie</option>',
+  ].join('');
+
+  const topicOptions = relevantTopics.length
+    ? [
+        '<option value="all">Všechny okruhy</option>',
+        ...relevantTopics.map((topic) => `<option value="${topic.id}" ${topic.id === topicId ? 'selected' : ''}>${escapeHtml(topic.name)}</option>`),
+      ].join('')
+    : '<option value="all">Žádné okruhy</option>';
+
+  container.innerHTML = `
+    <section class="panel overview-panel">
+      <div class="subject-header">
+        <h2>Přehled otázek</h2>
+        <p>Vyberte předmět a okruh pro zobrazení všech otázek v tomto rozsahu.</p>
+      </div>
+
+      <div class="overview-filter">
+        <label class="field compact-field">
+          <span>Předmět</span>
+          <select id="overviewSubjectSelect">
+            ${subjectOptions}
+          </select>
+        </label>
+
+        <label class="field compact-field">
+          <span>Okruh</span>
+          <select id="overviewTopicSelect">
+            ${topicOptions}
+          </select>
+        </label>
+
+        <div class="action-bar">
+          <button id="showQuestionOverviewBtn" class="primary-btn" type="button">Zobrazit otázky</button>
+          <button id="backToSubjectsFromOverviewBtn" class="ghost-btn" type="button">Zpět na předměty</button>
+        </div>
+      </div>
+
+      <div class="overview-count">${questions.length} otázek</div>
+
+      <div class="question-overview-list">
+        ${questions.length
+          ? questions
+              .map(
+                (question, index) => `
+                  <article class="question-overview-item">
+                    <div class="question-overview-header">
+                      <span class="question-overview-number">${index + 1}.</span>
+                      <span class="question-overview-topic">${escapeHtml(question.topicName)}</span>
+                    </div>
+                    <div class="question-overview-question">${renderRichText(question.question)}</div>
+                    <ol class="question-overview-answers">
+                      ${question.answers
+                        .map((answer, answerIndex) => {
+                          const isCorrect = question.correctAnswers.includes(answerIndex);
+                          return `
+                            <li class="question-overview-answer ${isCorrect ? 'is-correct' : ''}">
+                              ${renderRichText(answer)}
+                              ${isCorrect ? '<span class="correct-pill">✅</span>' : ''}
+                            </li>
+                          `;
+                        })
+                        .join('')}
+                    </ol>
+                  </article>
+                `,
+              )
+              .join('')
+          : '<p>Žádné otázky pro zvolený předmět a okruh.</p>'}
+      </div>
+    </section>
+  `;
+
+  const overviewSubjectSelect = document.getElementById('overviewSubjectSelect');
+  if (overviewSubjectSelect) {
+    overviewSubjectSelect.value = subjectKey;
+    overviewSubjectSelect.addEventListener('change', (event) => {
+      const selectedSubject = event.target.value;
+      const nextTopic = selectedSubject === 'all' ? 'all' : getSubjectTopics(selectedSubject)[0]?.id || 'all';
+      renderQuestionOverview(selectedSubject, nextTopic);
+    });
+  }
+
+  document.getElementById('showQuestionOverviewBtn').addEventListener('click', () => {
+    const selectedSubject = document.getElementById('overviewSubjectSelect').value;
+    const selectedTopic = document.getElementById('overviewTopicSelect').value;
+    renderQuestionOverview(selectedSubject, selectedTopic);
+  });
+
+  document.getElementById('backToSubjectsFromOverviewBtn').addEventListener('click', () => {
+    renderSubjectOverview();
+  });
+
+  renderMathJax(container);
+}
+
 function renderSubjectOverview() {
   const container = document.getElementById('app');
   const subjectConfig = [
@@ -173,9 +424,60 @@ function renderSubjectOverview() {
             `;
           })
           .join('')}
+
+        <div class="subject-card overview-card">
+          <div class="subject-card-header">
+            <h3>Přehled otázek</h3>
+            <span>Všechny otázky</span>
+          </div>
+
+          <label class="field compact-field">
+            <span>Vyberte předmět</span>
+            <select id="overviewEntrySubjectSelect">
+              <option value="all">Všechny předměty</option>
+              <option value="chemie">Chemie</option>
+              <option value="fyzika">Fyzika</option>
+              <option value="biologie">Biologie</option>
+            </select>
+          </label>
+
+          <label class="field compact-field">
+            <span>Vyberte okruh</span>
+            <select id="overviewEntryTopicSelect">
+              <option value="all">Všechny okruhy</option>
+            </select>
+          </label>
+
+          <button id="overviewQuestionsBtn" class="primary-btn" type="button">Zobrazit přehled</button>
+        </div>
       </div>
     </section>
   `;
+
+  renderMathJax(container);
+
+  const overviewEntrySubjectSelect = document.getElementById('overviewEntrySubjectSelect');
+  const overviewEntryTopicSelect = document.getElementById('overviewEntryTopicSelect');
+
+  const updateOverviewTopics = (subjectValue) => {
+    const topics = subjectValue === 'all' ? state.topics : getSubjectTopics(subjectValue);
+    overviewEntryTopicSelect.innerHTML = [
+      '<option value="all">Všechny okruhy</option>',
+      ...topics.map((topic) => `<option value="${topic.id}">${escapeHtml(topic.name)}</option>`),
+    ].join('');
+  };
+
+  overviewEntrySubjectSelect.addEventListener('change', (event) => {
+    updateOverviewTopics(event.target.value);
+  });
+
+  updateOverviewTopics('all');
+
+  document.getElementById('overviewQuestionsBtn').addEventListener('click', () => {
+    const selectedSubject = overviewEntrySubjectSelect.value;
+    const selectedTopic = overviewEntryTopicSelect.value;
+    renderQuestionOverview(selectedSubject, selectedTopic);
+  });
 
   document.querySelectorAll('.open-subject-btn').forEach((button) => {
     button.addEventListener('click', () => {
@@ -269,6 +571,8 @@ function renderTopicSelector(subjectKey = null) {
       </div>
     </section>
   `;
+
+  renderMathJax(container);
 
   document.querySelectorAll('[data-topic-id]').forEach((checkbox) => {
     checkbox.addEventListener('change', (event) => {
@@ -443,6 +747,8 @@ function renderQuiz() {
     </section>
   `;
 
+  renderMathJax(container);
+
   if (state.submitState) {
     markAnswerState(question, state.submitState.selected);
     document.getElementById('nextQuestionBtn').addEventListener('click', () => {
@@ -550,6 +856,8 @@ function renderSummary() {
       ` : '<p>Všechny odpovědi byly správně.</p>'}
     </section>
   `;
+
+  renderMathJax(document.getElementById('app'));
 
   document.getElementById('restartQuizBtn').addEventListener('click', () => {
     state.currentIndex = 0;
