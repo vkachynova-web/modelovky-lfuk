@@ -12709,7 +12709,8 @@
             "CaO"
           ],
           "correctAnswers": [
-            1, 3
+            1,
+            3
           ]
         },
         {
@@ -12722,7 +12723,8 @@
             "B2O3"
           ],
           "correctAnswers": [
-            0, 1
+            0,
+            1
           ]
         },
         {
@@ -12761,7 +12763,8 @@
             "Na2O"
           ],
           "correctAnswers": [
-            1, 2
+            1,
+            2
           ]
         },
         {
@@ -12774,7 +12777,8 @@
             "N2O"
           ],
           "correctAnswers": [
-            1, 2
+            1,
+            2
           ]
         },
         {
@@ -12787,7 +12791,8 @@
             "CuO"
           ],
           "correctAnswers": [
-            0, 2
+            0,
+            2
           ]
         },
         {
@@ -12800,7 +12805,8 @@
             "CO"
           ],
           "correctAnswers": [
-            0, 2
+            0,
+            2
           ]
         },
         {
@@ -13372,7 +13378,8 @@
             "sody"
           ],
           "correctAnswers": [
-            1, 2
+            1,
+            2
           ]
         },
         {
@@ -13424,7 +13431,8 @@
             "ledku amonného"
           ],
           "correctAnswers": [
-            0, 3
+            0,
+            3
           ]
         },
         {
@@ -13632,6 +13640,7 @@
             "K3[Fe(CN)6]"
           ],
           "correctAnswers": [
+            0,
             2
           ]
         },
@@ -13684,7 +13693,8 @@
             "CaCO3"
           ],
           "correctAnswers": [
-            0, 3
+            0,
+            3
           ]
         },
         {
@@ -13840,7 +13850,8 @@
             "nerozpouští síru"
           ],
           "correctAnswers": [
-            1, 2
+            1,
+            2
           ]
         },
         {
@@ -14022,7 +14033,9 @@
             "její roztok se používá ke snížení kyselosti žaludku"
           ],
           "correctAnswers": [
-            0, 1, 3
+            0,
+            1,
+            3
           ]
         },
         {
@@ -14061,7 +14074,8 @@
             "COCl2"
           ],
           "correctAnswers": [
-            2, 3
+            2,
+            3
           ]
         },
         {
@@ -14074,7 +14088,8 @@
             "K4[Fe(CN)6]"
           ],
           "correctAnswers": [
-            1, 2
+            1,
+            2
           ]
         },
         {
@@ -14087,7 +14102,8 @@
             "Cl2"
           ],
           "correctAnswers": [
-            1, 3
+            1,
+            3
           ]
         },
         {
@@ -14165,7 +14181,8 @@
             "chlorid rtuťnatý"
           ],
           "correctAnswers": [
-            0, 3
+            0,
+            3
           ]
         },
         {
@@ -14198,7 +14215,8 @@
             "Na2SO3"
           ],
           "correctAnswers": [
-            1, 3
+            1,
+            3
           ]
         },
         {
@@ -14224,7 +14242,8 @@
             "CH3COONa"
           ],
           "correctAnswers": [
-            0, 3
+            0,
+            3
           ]
         },
         {
@@ -14237,7 +14256,8 @@
             "NH4NO3"
           ],
           "correctAnswers": [
-            1, 3
+            1,
+            3
           ]
         },
         {
@@ -14276,7 +14296,8 @@
             "NaCl"
           ],
           "correctAnswers": [
-            0, 1
+            0,
+            1
           ]
         }
       ],
@@ -14478,7 +14499,8 @@
             "kyselina chloritá"
           ],
           "correctAnswers": [
-            1, 3
+            1,
+            3
           ]
         },
         {
@@ -14543,7 +14565,8 @@
             "HCl"
           ],
           "correctAnswers": [
-            2, 3
+            2,
+            3
           ]
         },
         {
@@ -14556,7 +14579,8 @@
             "HCN"
           ],
           "correctAnswers": [
-            0, 2
+            0,
+            2
           ]
         },
         {
@@ -14699,7 +14723,8 @@
             "má silné redukční vlastnosti"
           ],
           "correctAnswers": [
-            0, 1
+            0,
+            1
           ]
         },
         {
@@ -14712,7 +14737,8 @@
             "rozkládá se na oxid dusnatý"
           ],
           "correctAnswers": [
-            1, 3
+            1,
+            3
           ]
         },
         {
@@ -14790,7 +14816,8 @@
             "je součástí lučavky královské"
           ],
           "correctAnswers": [
-            0, 3
+            0,
+            3
           ]
         },
         {
@@ -14803,7 +14830,8 @@
             "pasivuje kovy"
           ],
           "correctAnswers": [
-            0, 2
+            0,
+            2
           ]
         },
         {
@@ -14816,7 +14844,8 @@
             "oxidační číslo dusíku v této sloučenině je –III"
           ],
           "correctAnswers": [
-            1, 3
+            1,
+            3
           ]
         }
       ],
@@ -14901,7 +14930,8 @@
             "chlor"
           ],
           "correctAnswers": [
-            0, 1
+            0,
+            1
           ]
         },
         {
@@ -14914,7 +14944,8 @@
             "chlor"
           ],
           "correctAnswers": [
-            0, 1
+            0,
+            1
           ]
         },
         {
@@ -14940,7 +14971,8 @@
             "na katodě oxidace"
           ],
           "correctAnswers": [
-            1, 2
+            1,
+            2
           ]
         }
       ],
@@ -14986,7 +15018,8 @@
             "H2SO4"
           ],
           "correctAnswers": [
-            2, 3
+            2,
+            3
           ]
         },
         {
@@ -15038,7 +15071,8 @@
             "NH4OH"
           ],
           "correctAnswers": [
-            0, 2
+            0,
+            2
           ]
         },
         {
@@ -15051,7 +15085,8 @@
             "H3PO4"
           ],
           "correctAnswers": [
-            2, 3
+            2,
+            3
           ]
         },
         {
@@ -15103,7 +15138,8 @@
             "H3PO3"
           ],
           "correctAnswers": [
-            0, 2
+            0,
+            2
           ]
         },
         {
@@ -15116,7 +15152,8 @@
             "H4P2O5"
           ],
           "correctAnswers": [
-            0, 3
+            0,
+            3
           ]
         },
         {
@@ -15155,7 +15192,8 @@
             "Cl2O5"
           ],
           "correctAnswers": [
-            2, 3
+            2,
+            3
           ]
         },
         {
@@ -15194,7 +15232,8 @@
             "Mg(IO)2"
           ],
           "correctAnswers": [
-            1, 2
+            1,
+            2
           ]
         },
         {
@@ -15324,7 +15363,7 @@
             "přijímá elektrony"
           ],
           "correctAnswers": [
-            0, 2
+            1
           ]
         },
         {
@@ -15350,7 +15389,7 @@
             "chlor"
           ],
           "correctAnswers": [
-            1
+            0
           ]
         },
         {
@@ -15376,7 +15415,7 @@
             "předává elektrony"
           ],
           "correctAnswers": [
-            1, 2
+            1
           ]
         },
         {
@@ -15402,7 +15441,7 @@
             "neutralizováno"
           ],
           "correctAnswers": [
-            0
+            2
           ]
         },
         {
@@ -15415,7 +15454,7 @@
             "sodík"
           ],
           "correctAnswers": [
-            1, 2
+            2
           ]
         },
         {
@@ -15428,7 +15467,7 @@
             "oxidace"
           ],
           "correctAnswers": [
-            1
+            3
           ]
         },
         {
@@ -15441,7 +15480,7 @@
             "disociace"
           ],
           "correctAnswers": [
-            0
+            1
           ]
         },
         {
@@ -15454,7 +15493,7 @@
             "neutralizace"
           ],
           "correctAnswers": [
-            0
+            1
           ]
         },
         {
@@ -15480,7 +15519,8 @@
             "se zinek redukuje a chlor se oxiduje"
           ],
           "correctAnswers": [
-            0, 2
+            0,
+            2
           ]
         },
         {
@@ -15493,7 +15533,8 @@
             "se kationt měďnatý oxiduje a železo se redukuje"
           ],
           "correctAnswers": [
-            0, 2
+            0,
+            2
           ]
         },
         {
@@ -15558,7 +15599,8 @@
             "ztrátu elektronů"
           ],
           "correctAnswers": [
-            0, 3
+            0,
+            3
           ]
         },
         {
@@ -15571,7 +15613,8 @@
             "dehydrogenaci"
           ],
           "correctAnswers": [
-            0, 1
+            0,
+            1
           ]
         },
         {
@@ -15584,7 +15627,8 @@
             "hydrataci"
           ],
           "correctAnswers": [
-            0, 1
+            0,
+            1
           ]
         },
         {
@@ -15636,7 +15680,8 @@
             "má dehydratační účinky"
           ],
           "correctAnswers": [
-            1, 3
+            1,
+            3
           ]
         },
         {
@@ -15819,7 +15864,7 @@
             "metaloproteiny"
           ],
           "correctAnswers": [
-            2
+            0
           ]
         },
         {
@@ -15832,7 +15877,7 @@
             "lysin"
           ],
           "correctAnswers": [
-            2, 3
+            3
           ]
         },
         {
@@ -15845,7 +15890,7 @@
             "methionin"
           ],
           "correctAnswers": [
-            1
+            0
           ]
         },
         {
@@ -15858,7 +15903,7 @@
             "glycin"
           ],
           "correctAnswers": [
-            1
+            2
           ]
         },
         {
@@ -15871,7 +15916,7 @@
             "kyselinu asparagovou"
           ],
           "correctAnswers": [
-            0, 3
+            3
           ]
         },
         {
@@ -15897,7 +15942,7 @@
             "značí, že aminokyselina otáčí rovinu polarizovaného světla pouze doleva"
           ],
           "correctAnswers": [
-            1
+            3
           ]
         },
         {
@@ -15923,7 +15968,7 @@
             "konfigurací"
           ],
           "correctAnswers": [
-            1, 3
+            2
           ]
         },
         {
@@ -15936,7 +15981,7 @@
             "0"
           ],
           "correctAnswers": [
-            1
+            2
           ]
         },
         {
@@ -15962,7 +16007,7 @@
             "z iminosloučenin"
           ],
           "correctAnswers": [
-            0
+            1
           ]
         },
         {
@@ -15975,7 +16020,7 @@
             "vznikají dehydrogenací oxokyselin"
           ],
           "correctAnswers": [
-            2
+            1
           ]
         },
         {
@@ -16001,7 +16046,7 @@
             "cystein"
           ],
           "correctAnswers": [
-            2
+            1
           ]
         },
         {
@@ -16014,7 +16059,7 @@
             "heterocyklická"
           ],
           "correctAnswers": [
-            2
+            0
           ]
         },
         {
@@ -16027,7 +16072,7 @@
             "alifatická"
           ],
           "correctAnswers": [
-            3
+            2
           ]
         },
         {
@@ -16040,7 +16085,7 @@
             "fenylalanin"
           ],
           "correctAnswers": [
-            1, 3
+            0
           ]
         },
         {
@@ -16053,7 +16098,7 @@
             "serin"
           ],
           "correctAnswers": [
-            2
+            1
           ]
         },
         {
@@ -16066,7 +16111,7 @@
             "valin"
           ],
           "correctAnswers": [
-            1
+            3
           ]
         },
         {
@@ -16079,7 +16124,7 @@
             "fenylalanin"
           ],
           "correctAnswers": [
-            1, 3
+            0
           ]
         },
         {
@@ -16092,7 +16137,7 @@
             "methionin"
           ],
           "correctAnswers": [
-            1, 3
+            3
           ]
         },
         {
@@ -16118,7 +16163,7 @@
             "histidin"
           ],
           "correctAnswers": [
-            2, 3
+            2
           ]
         },
         {
@@ -16131,7 +16176,7 @@
             "valin"
           ],
           "correctAnswers": [
-            0
+            3
           ]
         },
         {
@@ -16144,7 +16189,7 @@
             "asparagin"
           ],
           "correctAnswers": [
-            0
+            2
           ]
         },
         {
@@ -16157,7 +16202,7 @@
             "lysin"
           ],
           "correctAnswers": [
-            0
+            3
           ]
         },
         {
@@ -16323,7 +16368,7 @@
             "kyselina 2-aminopropanová"
           ],
           "correctAnswers": [
-            3
+            0
           ]
         },
         {
@@ -16336,7 +16381,7 @@
             "kyselina 2-aminopropanová"
           ],
           "correctAnswers": [
-            2
+            1
           ]
         },
         {
@@ -16349,7 +16394,7 @@
             "kyselina 2-amino-3-ethylpropanová"
           ],
           "correctAnswers": [
-            0
+            3
           ]
         },
         {
@@ -16362,7 +16407,7 @@
             "kyselina 2-aminoethanová"
           ],
           "correctAnswers": [
-            1
+            0
           ]
         },
         {
@@ -16375,7 +16420,7 @@
             "kyselina 2-amino-4-hydroxypropanová"
           ],
           "correctAnswers": [
-            2
+            1
           ]
         },
         {
@@ -16388,7 +16433,7 @@
             "kyselina 2-amino-3-hydroxybutanová"
           ],
           "correctAnswers": [
-            3
+            1
           ]
         },
         {
@@ -16401,7 +16446,7 @@
             "kyselina 2-aminopentandiová"
           ],
           "correctAnswers": [
-            0
+            1
           ]
         },
         {
@@ -16414,7 +16459,7 @@
             "kyselina 2-aminoethandiová"
           ],
           "correctAnswers": [
-            1
+            0
           ]
         },
         {
@@ -16427,7 +16472,7 @@
             "kyselina 2-amino-3-fenylpropanová"
           ],
           "correctAnswers": [
-            3
+            2
           ]
         },
         {
@@ -16440,7 +16485,7 @@
             "kyselina 2-amino-3-(4-hydroxyfenyl)propanová"
           ],
           "correctAnswers": [
-            3
+            0
           ]
         },
         {
@@ -16466,7 +16511,7 @@
             "alanin"
           ],
           "correctAnswers": [
-            3
+            2
           ]
         },
         {
@@ -16492,7 +16537,7 @@
             "serin"
           ],
           "correctAnswers": [
-            0
+            1
           ]
         },
         {
@@ -16505,7 +16550,7 @@
             "cystein"
           ],
           "correctAnswers": [
-            2
+            3
           ]
         },
         {
@@ -16518,7 +16563,7 @@
             "tyrosin"
           ],
           "correctAnswers": [
-            3
+            0
           ]
         },
         {
@@ -16532,7 +16577,8 @@
             "prolin"
           ],
           "correctAnswers": [
-            0, 2
+            0,
+            2
           ]
         },
         {
@@ -16546,7 +16592,8 @@
             "threonin"
           ],
           "correctAnswers": [
-            0, 2
+            0,
+            2
           ]
         },
         {
@@ -16594,7 +16641,7 @@
             "jsou všechny nerozpustné ve vodě"
           ],
           "correctAnswers": [
-            2
+            3
           ]
         },
         {
@@ -16607,7 +16654,7 @@
             "pouze γ-aminokyseliny"
           ],
           "correctAnswers": [
-            0
+            3
           ]
         },
         {
@@ -16620,7 +16667,7 @@
             "pouze β-aminokyseliny"
           ],
           "correctAnswers": [
-            2
+            0
           ]
         },
         {
@@ -16687,7 +16734,8 @@
             "hořčík"
           ],
           "correctAnswers": [
-            0, 1
+            0,
+            1
           ]
         },
         {
@@ -16700,7 +16748,8 @@
             "uhlík"
           ],
           "correctAnswers": [
-            2, 3
+            2,
+            3
           ]
         },
         {
@@ -16713,7 +16762,8 @@
             "jsou všechny dobře rozpustné ve vodě"
           ],
           "correctAnswers": [
-            0, 1
+            0,
+            1
           ]
         },
         {
@@ -16752,7 +16802,7 @@
             "prostorové uspořádání celého polypeptidového řetězce"
           ],
           "correctAnswers": [
-            3
+            2
           ]
         },
         {
@@ -16765,7 +16815,7 @@
             "vodíkové vazby"
           ],
           "correctAnswers": [
-            0, 2, 3
+            2
           ]
         },
         {
@@ -16778,7 +16828,7 @@
             "vzájemnou orientaci podjednotek v molekule oligomerního proteinu"
           ],
           "correctAnswers": [
-            3
+            1
           ]
         },
         {
@@ -16804,7 +16854,7 @@
             "nukleové kyseliny"
           ],
           "correctAnswers": [
-            1
+            2
           ]
         },
         {
@@ -16817,7 +16867,7 @@
             "jsou většinou nerozpustné ve vodě nebo v roztocích solí"
           ],
           "correctAnswers": [
-            1, 2
+            0
           ]
         },
         {
@@ -16843,7 +16893,7 @@
             "primární struktura"
           ],
           "correctAnswers": [
-            3
+            1
           ]
         },
         {
@@ -16856,7 +16906,7 @@
             "nemění konformace bílkovinné molekuly"
           ],
           "correctAnswers": [
-            1, 2
+            0
           ]
         },
         {
@@ -16869,7 +16919,7 @@
             "mléka a krevního séra"
           ],
           "correctAnswers": [
-            3
+            1
           ]
         },
         {
@@ -16882,7 +16932,7 @@
             "jsou složeny z D-aminokyselin"
           ],
           "correctAnswers": [
-            1, 2
+            0
           ]
         },
         {
@@ -16895,7 +16945,7 @@
             "keratin"
           ],
           "correctAnswers": [
-            1, 3
+            2
           ]
         },
         {
@@ -16908,7 +16958,7 @@
             "mléce"
           ],
           "correctAnswers": [
-            0
+            1
           ]
         },
         {
@@ -16921,7 +16971,7 @@
             "ve vaječném bílku"
           ],
           "correctAnswers": [
-            0
+            2
           ]
         },
         {
@@ -16947,7 +16997,7 @@
             "fibroin"
           ],
           "correctAnswers": [
-            0
+            1
           ]
         },
         {
@@ -16960,7 +17010,7 @@
             "ketonů"
           ],
           "correctAnswers": [
-            2
+            0
           ]
         },
         {
@@ -16973,7 +17023,7 @@
             "ze dvou molekul kyseliny močové"
           ],
           "correctAnswers": [
-            2
+            1
           ]
         }
       ],
@@ -17006,7 +17056,7 @@
             "aktivátor enzymu"
           ],
           "correctAnswers": [
-            2
+            1
           ]
         },
         {
@@ -17019,7 +17069,7 @@
             "nebílkovinná molekula nezbytná pro funkci enzymu"
           ],
           "correctAnswers": [
-            3
+            0
           ]
         },
         {
@@ -17058,7 +17108,7 @@
             "destrukci vazebného místa"
           ],
           "correctAnswers": [
-            1
+            2
           ]
         },
         {
@@ -17084,7 +17134,7 @@
             "hydrolytické štěpení substrátu"
           ],
           "correctAnswers": [
-            2
+            1
           ]
         },
         {
@@ -17097,7 +17147,7 @@
             "lyázy"
           ],
           "correctAnswers": [
-            2
+            3
           ]
         },
         {
@@ -17110,7 +17160,7 @@
             "lyázy"
           ],
           "correctAnswers": [
-            0
+            3
           ]
         },
         {
@@ -17136,7 +17186,7 @@
             "redoxní reakce"
           ],
           "correctAnswers": [
-            2
+            1
           ]
         },
         {
@@ -17149,7 +17199,7 @@
             "přenos charakteristické skupiny mezi dvěma substráty"
           ],
           "correctAnswers": [
-            2
+            1
           ]
         },
         {
@@ -17188,7 +17238,7 @@
             "vůbec neprobíhá"
           ],
           "correctAnswers": [
-            0
+            2
           ]
         },
         {
@@ -17201,7 +17251,7 @@
             "ethanol a oxid uhličitý"
           ],
           "correctAnswers": [
-            3
+            0
           ]
         },
         {
@@ -17214,7 +17264,7 @@
             "rozklad glukózy na ethanol a CO2"
           ],
           "correctAnswers": [
-            3
+            1
           ]
         },
         {
@@ -17227,7 +17277,7 @@
             "methanol a voda"
           ],
           "correctAnswers": [
-            2
+            1
           ]
         },
         {
@@ -17253,7 +17303,7 @@
             "oxidu uhelnatého a vody"
           ],
           "correctAnswers": [
-            0
+            1
           ]
         },
         {
@@ -17266,7 +17316,7 @@
             "kyselina citrónová"
           ],
           "correctAnswers": [
-            0
+            2
           ]
         },
         {
@@ -17279,7 +17329,7 @@
             "močovina"
           ],
           "correctAnswers": [
-            2
+            0
           ]
         },
         {
@@ -17292,7 +17342,7 @@
             "kyselina palmitová"
           ],
           "correctAnswers": [
-            2
+            1
           ]
         },
         {
@@ -17318,7 +17368,7 @@
             "cukrů"
           ],
           "correctAnswers": [
-            1
+            3
           ]
         },
         {
@@ -17331,7 +17381,7 @@
             "monoacylglycerolu"
           ],
           "correctAnswers": [
-            2
+            1
           ]
         },
         {
@@ -17344,7 +17394,7 @@
             "acylglycerol"
           ],
           "correctAnswers": [
-            0
+            2
           ]
         },
         {
@@ -17357,7 +17407,7 @@
             "druhém uhlíku glycerolu"
           ],
           "correctAnswers": [
-            1
+            2
           ]
         },
         {
@@ -17370,7 +17420,7 @@
             "hydrolýzou"
           ],
           "correctAnswers": [
-            0
+            2
           ]
         },
         {
@@ -17383,7 +17433,7 @@
             "plazmě"
           ],
           "correctAnswers": [
-            1
+            2
           ]
         },
         {
@@ -17396,7 +17446,7 @@
             "ketony"
           ],
           "correctAnswers": [
-            0
+            1
           ]
         },
         {
@@ -17409,7 +17459,7 @@
             "hydrolázami"
           ],
           "correctAnswers": [
-            3
+            0
           ]
         },
         {
@@ -17507,7 +17557,7 @@
             "pyran"
           ],
           "correctAnswers": [
-            2
+            1
           ]
         },
         {
@@ -17533,7 +17583,7 @@
             "pyrazol"
           ],
           "correctAnswers": [
-            2
+            0
           ]
         },
         {
@@ -17546,7 +17596,7 @@
             "tři"
           ],
           "correctAnswers": [
-            2
+            1
           ]
         },
         {
@@ -17559,7 +17609,7 @@
             "šestičlenné heterocyklické sloučeniny"
           ],
           "correctAnswers": [
-            0, 2
+            2
           ]
         },
         {
@@ -17572,7 +17622,7 @@
             "thiofen"
           ],
           "correctAnswers": [
-            1, 2
+            1
           ]
         },
         {
@@ -17585,7 +17635,7 @@
             "imidazol"
           ],
           "correctAnswers": [
-            2, 3
+            3
           ]
         },
         {
@@ -17637,7 +17687,7 @@
             "chlorofyl"
           ],
           "correctAnswers": [
-            3
+            0
           ]
         },
         {
@@ -17676,7 +17726,7 @@
             "furanů"
           ],
           "correctAnswers": [
-            2
+            0
           ]
         },
         {
@@ -17702,7 +17752,7 @@
             "kondenzované heterocyklické sloučeniny"
           ],
           "correctAnswers": [
-            2
+            1
           ]
         },
         {
@@ -17715,7 +17765,7 @@
             "tři"
           ],
           "correctAnswers": [
-            1
+            2
           ]
         },
         {
@@ -17728,7 +17778,7 @@
             "šestičlenná heterocyklická sloučenina s jedním heteroatomem dusíku"
           ],
           "correctAnswers": [
-            3
+            2
           ]
         },
         {
@@ -17754,7 +17804,7 @@
             "pyridinu s alkoholy"
           ],
           "correctAnswers": [
-            0
+            2
           ]
         },
         {
@@ -17767,7 +17817,7 @@
             "počtem heteroatomů"
           ],
           "correctAnswers": [
-            3
+            0
           ]
         },
         {
@@ -17780,7 +17830,7 @@
             "furanu"
           ],
           "correctAnswers": [
-            1
+            3
           ]
         },
         {
@@ -17793,7 +17843,7 @@
             "purin"
           ],
           "correctAnswers": [
-            0, 1
+            1
           ]
         },
         {
@@ -17806,7 +17856,7 @@
             "deaminací"
           ],
           "correctAnswers": [
-            2
+            1
           ]
         },
         {
@@ -17819,7 +17869,7 @@
             "pyrimidinu"
           ],
           "correctAnswers": [
-            0
+            1
           ]
         },
         {
@@ -17845,7 +17895,7 @@
             "šestičlenná heterocyklická sloučenina s jedním heteroatomem dusíku"
           ],
           "correctAnswers": [
-            2
+            3
           ]
         },
         {
@@ -17858,7 +17908,7 @@
             "guanin"
           ],
           "correctAnswers": [
-            1, 2
+            1
           ]
         },
         {
@@ -17871,7 +17921,7 @@
             "adenin"
           ],
           "correctAnswers": [
-            3
+            2
           ]
         },
         {
@@ -17884,7 +17934,7 @@
             "šestičlenné"
           ],
           "correctAnswers": [
-            0
+            2
           ]
         },
         {
@@ -17897,7 +17947,7 @@
             "žádný"
           ],
           "correctAnswers": [
-            0
+            1
           ]
         },
         {
@@ -17955,7 +18005,6 @@
         {
           "id": "chemie_biochemie_heterocyklicke_slouceniny_a_jejich_derivaty_036",
           "question": "Sloučenina s tímto strukturním vzorcem se nazývá:",
-          "image": "../../images/Screenshot 2026-08-27 at 17.32.00.png",
           "answers": [
             "furan",
             "tetrahydrofuran",
@@ -17963,13 +18012,12 @@
             "pyrrol"
           ],
           "correctAnswers": [
-            0
+            1
           ]
         },
         {
           "id": "chemie_biochemie_heterocyklicke_slouceniny_a_jejich_derivaty_037",
           "question": "Sloučenina s tímto strukturním vzorcem se nazývá:",
-          "image": "../../images/Screenshot 2026-08-27 at 17.32.10.png",
           "answers": [
             "pyrimidin",
             "pyrrol",
@@ -17983,7 +18031,6 @@
         {
           "id": "chemie_biochemie_heterocyklicke_slouceniny_a_jejich_derivaty_038",
           "question": "Sloučenina s tímto strukturním vzorcem se nazývá:",
-          "image": "../../images/Screenshot 2026-08-27 at 17.32.23.png",
           "answers": [
             "furan",
             "pyran",
@@ -17991,13 +18038,12 @@
             "thiazol"
           ],
           "correctAnswers": [
-            2
+            0
           ]
         },
         {
           "id": "chemie_biochemie_heterocyklicke_slouceniny_a_jejich_derivaty_039",
           "question": "Sloučenina s tímto strukturním vzorcem se nazývá:",
-          "image": "../../images/Screenshot 2026-08-27 at 17.32.32.png",
           "answers": [
             "pyrimidin",
             "pyrrol",
@@ -18005,13 +18051,12 @@
             "pyridin"
           ],
           "correctAnswers": [
-            3
+            2
           ]
         },
         {
           "id": "chemie_biochemie_heterocyklicke_slouceniny_a_jejich_derivaty_040",
           "question": "Sloučenina s tímto strukturním vzorcem se nazývá:",
-          "image": "../../images/Screenshot 2026-08-27 at 17.32.41.png",
           "answers": [
             "pyrimidin",
             "pyridin",
@@ -18019,13 +18064,12 @@
             "pyrrolidin"
           ],
           "correctAnswers": [
-            2
+            3
           ]
         },
         {
           "id": "chemie_biochemie_heterocyklicke_slouceniny_a_jejich_derivaty_041",
           "question": "Sloučenina s tímto strukturním vzorcem se nazývá:",
-          "image": "../../images/Screenshot 2026-08-27 at 17.32.49.png",
           "answers": [
             "nikotin",
             "kyselina nikotinová",
@@ -18039,7 +18083,6 @@
         {
           "id": "chemie_biochemie_heterocyklicke_slouceniny_a_jejich_derivaty_042",
           "question": "Sloučenina s tímto strukturním vzorcem se nazývá:",
-          "image": "../../images/Screenshot 2026-08-27 at 17.32.57.png",
           "answers": [
             "purin",
             "pyrimidin",
@@ -18053,7 +18096,6 @@
         {
           "id": "chemie_biochemie_heterocyklicke_slouceniny_a_jejich_derivaty_043",
           "question": "Sloučenina s tímto strukturním vzorcem se nazývá:",
-          "image": "../../images/Screenshot 2026-08-27 at 17.33.06.png",
           "answers": [
             "purin",
             "pyridin",
@@ -18061,7 +18103,7 @@
             "uracil"
           ],
           "correctAnswers": [
-            2
+            1
           ]
         }
       ],
@@ -18081,7 +18123,7 @@
             "bílkoviny a peptidy"
           ],
           "correctAnswers": [
-            0, 1, 3
+            3
           ]
         },
         {
@@ -18094,7 +18136,7 @@
             "testosteron"
           ],
           "correctAnswers": [
-            0, 2, 3
+            3
           ]
         },
         {
@@ -18107,7 +18149,7 @@
             "testosteron"
           ],
           "correctAnswers": [
-            0, 3
+            3
           ]
         },
         {
@@ -18120,7 +18162,7 @@
             "liberin"
           ],
           "correctAnswers": [
-            2
+            3
           ]
         },
         {
@@ -18133,7 +18175,7 @@
             "thyroxin"
           ],
           "correctAnswers": [
-            2, 3
+            1
           ]
         },
         {
@@ -18146,7 +18188,7 @@
             "adrenalin"
           ],
           "correctAnswers": [
-            0, 1
+            0
           ]
         },
         {
@@ -18172,7 +18214,7 @@
             "adrenokortikotropin"
           ],
           "correctAnswers": [
-            1
+            2
           ]
         },
         {
@@ -18185,7 +18227,7 @@
             "parathormon je produkován hypothalamem"
           ],
           "correctAnswers": [
-            0, 1, 2
+            0
           ]
         },
         {
@@ -18198,7 +18240,7 @@
             "pankreatu"
           ],
           "correctAnswers": [
-            1
+            2
           ]
         },
         {
@@ -18211,7 +18253,7 @@
             "inzulin zvyšuje průnik D-glukózy do buňky"
           ],
           "correctAnswers": [
-            1, 2, 3
+            1
           ]
         }
       ],
@@ -18244,7 +18286,7 @@
             "kyselina linolová"
           ],
           "correctAnswers": [
-            0, 3
+            3
           ]
         },
         {
@@ -18283,7 +18325,7 @@
             "stearová"
           ],
           "correctAnswers": [
-            3
+            2
           ]
         },
         {
@@ -18296,7 +18338,7 @@
             "aromatická"
           ],
           "correctAnswers": [
-            2
+            3
           ]
         },
         {
@@ -18309,7 +18351,7 @@
             "cis-8-oktadekadienová"
           ],
           "correctAnswers": [
-            2
+            0
           ]
         },
         {
@@ -18322,7 +18364,7 @@
             "dvě"
           ],
           "correctAnswers": [
-            3
+            2
           ]
         },
         {
@@ -18335,7 +18377,7 @@
             "kyselina olejová"
           ],
           "correctAnswers": [
-            3
+            1
           ]
         },
         {
@@ -18361,7 +18403,7 @@
             "podléhají snadno redukci vzdušným kyslíkem"
           ],
           "correctAnswers": [
-            2
+            3
           ]
         },
         {
@@ -18387,7 +18429,7 @@
             "esterová"
           ],
           "correctAnswers": [
-            3
+            2
           ]
         },
         {
@@ -18400,7 +18442,7 @@
             "mýdlo"
           ],
           "correctAnswers": [
-            3
+            0
           ]
         },
         {
@@ -18439,7 +18481,7 @@
             "eliminace"
           ],
           "correctAnswers": [
-            0
+            3
           ]
         },
         {
@@ -18452,7 +18494,7 @@
             "draselná mýdla jsou tuhá"
           ],
           "correctAnswers": [
-            0, 1
+            3
           ]
         },
         {
@@ -18465,7 +18507,7 @@
             "kyselé hydrolýze tuků"
           ],
           "correctAnswers": [
-            2
+            0
           ]
         },
         {
@@ -18491,7 +18533,7 @@
             "anhydridy mastných kyselin"
           ],
           "correctAnswers": [
-            0
+            3
           ]
         },
         {
@@ -18504,7 +18546,7 @@
             "měřítkem biologické hodnoty tuků"
           ],
           "correctAnswers": [
-            2
+            1
           ]
         },
         {
@@ -18517,7 +18559,7 @@
             "kyselinu linolenovou"
           ],
           "correctAnswers": [
-            2, 3
+            3
           ]
         },
         {
@@ -18530,7 +18572,7 @@
             "tepelným rozkladem"
           ],
           "correctAnswers": [
-            2
+            1
           ]
         },
         {
@@ -18543,7 +18585,7 @@
             "je důležitým vitaminem"
           ],
           "correctAnswers": [
-            0, 1
+            2
           ]
         },
         {
@@ -18556,7 +18598,7 @@
             "pyridiny"
           ],
           "correctAnswers": [
-            0
+            2
           ]
         },
         {
@@ -18569,7 +18611,7 @@
             "cyklopentanoperhydrofenanthren"
           ],
           "correctAnswers": [
-            3
+            1
           ]
         },
         {
@@ -18582,7 +18624,7 @@
             "kyselinu barbiturovou"
           ],
           "correctAnswers": [
-            0, 2
+            0
           ]
         },
         {
@@ -18595,7 +18637,7 @@
             "retinol"
           ],
           "correctAnswers": [
-            1, 2
+            1
           ]
         },
         {
@@ -18608,7 +18650,7 @@
             "testosteronu"
           ],
           "correctAnswers": [
-            2, 3
+            0
           ]
         },
         {
@@ -18621,7 +18663,7 @@
             "stearinu"
           ],
           "correctAnswers": [
-            0
+            2
           ]
         },
         {
@@ -18634,7 +18676,7 @@
             "acylglycerol"
           ],
           "correctAnswers": [
-            0
+            3
           ]
         }
       ],
@@ -18654,7 +18696,7 @@
             "galaktózu"
           ],
           "correctAnswers": [
-            0
+            1
           ]
         },
         {
@@ -18680,7 +18722,7 @@
             "se vztahuje na prostorovou konfiguraci odvozenou od"
           ],
           "correctAnswers": [
-            3
+            1
           ]
         },
         {
@@ -18719,7 +18761,7 @@
             "škrob"
           ],
           "correctAnswers": [
-            2
+            3
           ]
         },
         {
@@ -18771,7 +18813,7 @@
             "D-galaktopyranóza a D-glukopyranóza"
           ],
           "correctAnswers": [
-            3
+            1
           ]
         },
         {
@@ -18784,7 +18826,7 @@
             "z molekuly glukózy a molekuly galaktózy"
           ],
           "correctAnswers": [
-            3
+            0
           ]
         },
         {
@@ -18797,7 +18839,7 @@
             "β (1→2)"
           ],
           "correctAnswers": [
-            1
+            2
           ]
         },
         {
@@ -18810,7 +18852,7 @@
             "dvě molekuly α-D-glukopyranózy"
           ],
           "correctAnswers": [
-            2
+            0
           ]
         },
         {
@@ -18823,7 +18865,7 @@
             "z molekuly glukózy a molekuly fruktózy"
           ],
           "correctAnswers": [
-            3
+            1
           ]
         },
         {
@@ -18836,7 +18878,7 @@
             "laktózu"
           ],
           "correctAnswers": [
-            0
+            1
           ]
         },
         {
@@ -18862,7 +18904,7 @@
             "amylázu"
           ],
           "correctAnswers": [
-            0, 2
+            2
           ]
         },
         {
@@ -18875,7 +18917,7 @@
             "amylázu"
           ],
           "correctAnswers": [
-            0, 2
+            1
           ]
         },
         {
@@ -18888,7 +18930,7 @@
             "glucitol"
           ],
           "correctAnswers": [
-            1, 3
+            3
           ]
         },
         {
@@ -18901,7 +18943,7 @@
             "inzulin"
           ],
           "correctAnswers": [
-            1, 3
+            2
           ]
         },
         {
@@ -18914,7 +18956,7 @@
             "obsahuje amylózu a amylopektin"
           ],
           "correctAnswers": [
-            2, 3
+            0
           ]
         },
         {
@@ -18927,7 +18969,7 @@
             "celulóza"
           ],
           "correctAnswers": [
-            2
+            1
           ]
         },
         {
@@ -18940,7 +18982,7 @@
             "polyamid"
           ],
           "correctAnswers": [
-            0
+            2
           ]
         },
         {
@@ -18966,7 +19008,7 @@
             "disacharid"
           ],
           "correctAnswers": [
-            1
+            2
           ]
         },
         {
@@ -18979,7 +19021,7 @@
             "β-D-glukopyranóza"
           ],
           "correctAnswers": [
-            2
+            3
           ]
         },
         {
@@ -18992,7 +19034,7 @@
             "vytváří se v játrech"
           ],
           "correctAnswers": [
-            1, 3
+            1
           ]
         },
         {
@@ -19005,7 +19047,7 @@
             "α (1→4) a α (1→6)"
           ],
           "correctAnswers": [
-            3
+            2
           ]
         },
         {
@@ -19018,7 +19060,7 @@
             "celulóza"
           ],
           "correctAnswers": [
-            2
+            3
           ]
         },
         {
@@ -19031,7 +19073,7 @@
             "jeho D-glukózové jednotky jsou spojeny vazbou α (1→4)"
           ],
           "correctAnswers": [
-            0, 1
+            1
           ]
         },
         {
@@ -19044,7 +19086,7 @@
             "β-D-fruktofuranózových jednotek"
           ],
           "correctAnswers": [
-            2
+            3
           ]
         },
         {
@@ -19057,7 +19099,7 @@
             "je více větvená"
           ],
           "correctAnswers": [
-            0
+            1
           ]
         },
         {
@@ -19083,7 +19125,7 @@
             "redukcí Cu2+"
           ],
           "correctAnswers": [
-            3
+            2
           ]
         }
       ],
@@ -19129,7 +19171,8 @@
             "L-ribóza"
           ],
           "correctAnswers": [
-            0, 1
+            0,
+            1
           ]
         },
         {
@@ -19155,7 +19198,9 @@
             "thymin"
           ],
           "correctAnswers": [
-            0, 1, 3
+            0,
+            1,
+            3
           ]
         },
         {
@@ -19168,7 +19213,8 @@
             "guanin"
           ],
           "correctAnswers": [
-            0, 3
+            0,
+            3
           ]
         },
         {
@@ -19214,7 +19260,7 @@
             "riboflavin"
           ],
           "correctAnswers": [
-            2, 3
+            2
           ]
         },
         {
@@ -19227,7 +19273,7 @@
             "niacin"
           ],
           "correctAnswers": [
-            1, 2
+            0
           ]
         },
         {
@@ -19266,7 +19312,7 @@
             "vitaminu B"
           ],
           "correctAnswers": [
-            1
+            3
           ]
         },
         {
@@ -19279,7 +19325,7 @@
             "riboflavin"
           ],
           "correctAnswers": [
-            1, 3
+            1
           ]
         },
         {
@@ -19305,7 +19351,7 @@
             "naftochinonu"
           ],
           "correctAnswers": [
-            3
+            2
           ]
         },
         {
@@ -19318,7 +19364,7 @@
             "jako ochranu před kurdějemi"
           ],
           "correctAnswers": [
-            0
+            3
           ]
         },
         {
@@ -19331,7 +19377,7 @@
             "isoprenu"
           ],
           "correctAnswers": [
-            0
+            2
           ]
         },
         {
@@ -19344,7 +19390,7 @@
             "pyridinu"
           ],
           "correctAnswers": [
-            3
+            0
           ]
         },
         {
@@ -19357,7 +19403,7 @@
             "syntetizován rostlinami a mikroorganizmy"
           ],
           "correctAnswers": [
-            0, 1
+            2
           ]
         },
         {
@@ -19370,7 +19416,7 @@
             "je retinol"
           ],
           "correctAnswers": [
-            2, 3
+            3
           ]
         },
         {
@@ -19383,7 +19429,7 @@
             "syntetizovány rostlinami a mikroorganizmy"
           ],
           "correctAnswers": [
-            0, 2
+            1
           ]
         },
         {
@@ -19396,7 +19442,7 @@
             "deriváty nikotinu"
           ],
           "correctAnswers": [
-            2
+            0
           ]
         }
       ],
@@ -19943,7 +19989,7 @@
             "g mol–1"
           ],
           "correctAnswers": [
-            0
+            1
           ]
         },
         {
@@ -19956,7 +20002,7 @@
             "g mol–1"
           ],
           "correctAnswers": [
-            1
+            0
           ]
         },
         {
@@ -19969,7 +20015,7 @@
             "g mol–1"
           ],
           "correctAnswers": [
-            3
+            1
           ]
         },
         {
@@ -19982,7 +20028,7 @@
             "molární hmotnost"
           ],
           "correctAnswers": [
-            2
+            1
           ]
         },
         {
@@ -19995,7 +20041,7 @@
             "molární hmotnost"
           ],
           "correctAnswers": [
-            3
+            0
           ]
         },
         {
@@ -20008,7 +20054,8 @@
             "hustoty"
           ],
           "correctAnswers": [
-            1
+            0,
+            3
           ]
         },
         {
@@ -20021,7 +20068,7 @@
             "v g mol–1"
           ],
           "correctAnswers": [
-            3
+            2
           ]
         },
         {
@@ -20606,7 +20653,7 @@
             "2,4·1024"
           ],
           "correctAnswers": [
-            0
+            1
           ]
         },
         {
@@ -20619,7 +20666,7 @@
             "2,5 mol"
           ],
           "correctAnswers": [
-            3
+            1
           ]
         },
         {
@@ -20645,7 +20692,7 @@
             "0,03 mol"
           ],
           "correctAnswers": [
-            0
+            1
           ]
         },
         {
@@ -20658,7 +20705,7 @@
             "0,01 mol"
           ],
           "correctAnswers": [
-            1
+            3
           ]
         },
         {
@@ -20671,7 +20718,7 @@
             "27 g"
           ],
           "correctAnswers": [
-            3
+            2
           ]
         },
         {
@@ -20684,7 +20731,7 @@
             "0,5 g"
           ],
           "correctAnswers": [
-            0
+            1
           ]
         }
       ],
@@ -20756,7 +20803,8 @@
             "56 dm3"
           ],
           "correctAnswers": [
-            1
+            1,
+            2
           ]
         },
         {
@@ -20821,6 +20869,7 @@
             "0,56 dm3"
           ],
           "correctAnswers": [
+            0,
             1
           ]
         },
@@ -21121,7 +21170,9 @@
             "látková koncentrace OH– je v něm rovna 1·10–12 mol dm–3"
           ],
           "correctAnswers": [
-            0, 2, 3
+            0,
+            2,
+            3
           ]
         },
         {
@@ -21134,7 +21185,9 @@
             "jeho pH je 1"
           ],
           "correctAnswers": [
-            0, 1, 2
+            0,
+            1,
+            2
           ]
         },
         {
@@ -21147,7 +21200,9 @@
             "látková koncentrace HNO3 je v něm rovna 1·10–4  mol dm–3"
           ],
           "correctAnswers": [
-            0, 2, 3
+            0,
+            2,
+            3
           ]
         },
         {
@@ -21160,7 +21215,8 @@
             "jeho pH je 3"
           ],
           "correctAnswers": [
-            2, 3
+            2,
+            3
           ]
         },
         {
@@ -21173,7 +21229,9 @@
             "jeho pH je 1"
           ],
           "correctAnswers": [
-            0, 1, 2
+            0,
+            1,
+            2
           ]
         },
         {
@@ -21186,7 +21244,9 @@
             "jeho pH je 1"
           ],
           "correctAnswers": [
-            0, 1, 2
+            0,
+            1,
+            2
           ]
         },
         {
@@ -21199,7 +21259,9 @@
             "látková koncentrace HCl je v něm rovna 1·10–1 mol dm–3"
           ],
           "correctAnswers": [
-            1, 2, 3
+            1,
+            2,
+            3
           ]
         },
         {
@@ -21212,7 +21274,8 @@
             "látková koncentrace c(OH–) je v něm rovna 1·10–10 mol dm–3"
           ],
           "correctAnswers": [
-            1, 2
+            1,
+            2
           ]
         },
         {
@@ -21459,7 +21522,8 @@
             "jeho pH je 11"
           ],
           "correctAnswers": [
-            1, 3
+            1,
+            3
           ]
         },
         {
@@ -21472,7 +21536,8 @@
             "jeho pH je 1"
           ],
           "correctAnswers": [
-            0, 2
+            0,
+            2
           ]
         },
         {
@@ -21863,7 +21928,8 @@
             "kyselina trihydrogenfosforečná"
           ],
           "correctAnswers": [
-            0, 1
+            0,
+            1
           ]
         },
         {
@@ -21902,7 +21968,8 @@
             "HCl"
           ],
           "correctAnswers": [
-            0, 2
+            0,
+            2
           ]
         },
         {
@@ -21915,7 +21982,8 @@
             "PO4 3–"
           ],
           "correctAnswers": [
-            0, 2
+            0,
+            2
           ]
         }
       ],
@@ -21961,7 +22029,8 @@
             "hořčíkem"
           ],
           "correctAnswers": [
-            0
+            0,
+            2
           ]
         },
         {
@@ -21974,7 +22043,7 @@
             "HO"
           ],
           "correctAnswers": [
-            1
+            3
           ]
         },
         {
@@ -21987,7 +22056,7 @@
             "H3N2O2"
           ],
           "correctAnswers": [
-            0
+            1
           ]
         },
         {
@@ -22000,7 +22069,7 @@
             "H4N2O3"
           ],
           "correctAnswers": [
-            0
+            3
           ]
         },
         {
@@ -22065,7 +22134,9 @@
             "I2"
           ],
           "correctAnswers": [
-            1, 3
+            0,
+            1,
+            2
           ]
         },
         {
@@ -22078,7 +22149,7 @@
             "C2H2"
           ],
           "correctAnswers": [
-            1, 2
+            2
           ]
         },
         {
@@ -22091,7 +22162,7 @@
             "HF"
           ],
           "correctAnswers": [
-            1, 3
+            3
           ]
         },
         {
@@ -22104,7 +22175,8 @@
             "iontová"
           ],
           "correctAnswers": [
-            2
+            1,
+            3
           ]
         },
         {
@@ -22117,7 +22189,7 @@
             "koordinačně kovalentní"
           ],
           "correctAnswers": [
-            1, 2, 3
+            2
           ]
         },
         {
@@ -22130,7 +22202,7 @@
             "koordinačně kovalentní"
           ],
           "correctAnswers": [
-            1, 2, 3
+            3
           ]
         },
         {
@@ -22176,7 +22248,8 @@
             "mosaz"
           ],
           "correctAnswers": [
-            1, 2
+            1,
+            2
           ]
         },
         {
@@ -22189,7 +22262,8 @@
             "pěna"
           ],
           "correctAnswers": [
-            1, 2
+            1,
+            2
           ]
         },
         {
@@ -22215,7 +22289,8 @@
             "při denaturaci"
           ],
           "correctAnswers": [
-            0, 1
+            0,
+            1
           ]
         }
       ],
@@ -22261,7 +22336,8 @@
             "B"
           ],
           "correctAnswers": [
-            0, 1
+            0,
+            1
           ]
         },
         {
@@ -22690,7 +22766,8 @@
             "s prvky"
           ],
           "correctAnswers": [
-            0, 3
+            0,
+            3
           ]
         },
         {
@@ -22742,7 +22819,8 @@
             "s1 prvky mají nízkou teplotu tání v porovnání s ostatními kovy"
           ],
           "correctAnswers": [
-            2, 3
+            2,
+            3
           ]
         },
         {
@@ -22755,7 +22833,8 @@
             "křemík"
           ],
           "correctAnswers": [
-            0, 1
+            0,
+            1
           ]
         },
         {
@@ -22768,7 +22847,8 @@
             "baryum"
           ],
           "correctAnswers": [
-            2, 3
+            2,
+            3
           ]
         },
         {
@@ -22781,7 +22861,8 @@
             "hliník"
           ],
           "correctAnswers": [
-            0, 1
+            0,
+            1
           ]
         },
         {
@@ -22794,7 +22875,8 @@
             "arsen"
           ],
           "correctAnswers": [
-            1, 3
+            1,
+            3
           ]
         },
         {
@@ -22846,7 +22928,8 @@
             "křemík"
           ],
           "correctAnswers": [
-            0, 1
+            0,
+            1
           ]
         },
         {
@@ -22859,7 +22942,8 @@
             "hliník"
           ],
           "correctAnswers": [
-            0
+            0,
+            2
           ]
         },
         {
@@ -22885,7 +22969,8 @@
             "Fe"
           ],
           "correctAnswers": [
-            0, 1, 2
+            1,
+            2
           ]
         },
         {
@@ -22950,7 +23035,8 @@
             "iridium"
           ],
           "correctAnswers": [
-            1, 2
+            1,
+            2
           ]
         },
         {
@@ -22963,7 +23049,10 @@
             "má ve svých sloučeninách oxidační číslo III"
           ],
           "correctAnswers": [
-            0, 1, 2, 3
+            0,
+            1,
+            2,
+            3
           ]
         },
         {
@@ -23067,7 +23156,8 @@
             "Rb"
           ],
           "correctAnswers": [
-            0, 3
+            0,
+            3
           ]
         },
         {
@@ -23080,7 +23170,8 @@
             "F"
           ],
           "correctAnswers": [
-            0, 1
+            0,
+            1
           ]
         },
         {
@@ -23093,7 +23184,8 @@
             "Cs"
           ],
           "correctAnswers": [
-            1, 3
+            1,
+            3
           ]
         },
         {
@@ -23132,7 +23224,8 @@
             "B"
           ],
           "correctAnswers": [
-            0, 1
+            0,
+            1
           ]
         },
         {
@@ -23145,7 +23238,8 @@
             "Ba"
           ],
           "correctAnswers": [
-            2, 3
+            2,
+            3
           ]
         },
         {
@@ -23223,7 +23317,7 @@
             "O, S, Tl"
           ],
           "correctAnswers": [
-            0
+            1
           ]
         },
         {
@@ -23301,7 +23395,8 @@
             "Ca"
           ],
           "correctAnswers": [
-            1, 2
+            1,
+            2
           ]
         },
         {
@@ -23477,7 +23572,8 @@
             "tím je koncentrace iontů v roztoku větší"
           ],
           "correctAnswers": [
-            1, 3
+            1,
+            3
           ]
         },
         {
@@ -23490,7 +23586,8 @@
             "tím je koncentrace iontů v roztoku větší"
           ],
           "correctAnswers": [
-            0, 1
+            0,
+            1
           ]
         },
         {
@@ -23770,7 +23867,8 @@
             "5s"
           ],
           "correctAnswers": [
-            1, 2
+            1,
+            2
           ]
         },
         {
@@ -23783,7 +23881,8 @@
             "1p"
           ],
           "correctAnswers": [
-            1, 3
+            1,
+            3
           ]
         },
         {
@@ -23796,7 +23895,8 @@
             "3s"
           ],
           "correctAnswers": [
-            0, 1
+            0,
+            1
           ]
         },
         {
@@ -23991,7 +24091,8 @@
             "mají stejné protonové číslo"
           ],
           "correctAnswers": [
-            1, 3
+            1,
+            3
           ]
         },
         {
@@ -24017,7 +24118,8 @@
             "1 0 n"
           ],
           "correctAnswers": [
-            0, 2
+            0,
+            2
           ]
         },
         {
@@ -24043,6 +24145,7 @@
             "v několika skupenstvích"
           ],
           "correctAnswers": [
+            1,
             2
           ]
         },
@@ -24304,7 +24407,7 @@
             "sekundární alkoholy"
           ],
           "correctAnswers": [
-            1
+            2
           ]
         },
         {
@@ -24317,7 +24420,7 @@
             "methanolu"
           ],
           "correctAnswers": [
-            3
+            1
           ]
         },
         {
@@ -24330,7 +24433,7 @@
             "acetaldehydu"
           ],
           "correctAnswers": [
-            1
+            2
           ]
         },
         {
@@ -24343,7 +24446,7 @@
             "kyselina salicylová"
           ],
           "correctAnswers": [
-            0
+            1
           ]
         },
         {
@@ -24369,7 +24472,7 @@
             "fenol"
           ],
           "correctAnswers": [
-            1
+            3
           ]
         },
         {
@@ -24382,7 +24485,7 @@
             "butan-1-ol"
           ],
           "correctAnswers": [
-            3
+            0
           ]
         },
         {
@@ -24395,7 +24498,7 @@
             "CH3−CO−O−CH3"
           ],
           "correctAnswers": [
-            0
+            3
           ]
         },
         {
@@ -24408,13 +24511,12 @@
             "schopnosti polymerovat"
           ],
           "correctAnswers": [
-            1
+            0
           ]
         },
         {
           "id": "chemie_organicka_chemie_aldehydy_010",
           "question": "Sloučenina s tímto vzorcem se nazývá:",
-          "image": "../../images/Screenshot 2026-08-27 at 17.55.08.png",
           "answers": [
             "fenol",
             "fenyl",
@@ -24422,13 +24524,12 @@
             "cyklohexanol"
           ],
           "correctAnswers": [
-            0
+            3
           ]
         },
         {
           "id": "chemie_organicka_chemie_aldehydy_011",
           "question": "Sloučenina s tímto vzorcem se nazývá:",
-          "image": "../../images/Screenshot 2026-08-27 at 17.58.05.png",
           "answers": [
             "o-benzendiol",
             "benzen-1,2-diol",
@@ -24436,16 +24537,12 @@
             "resorcinol"
           ],
           "correctAnswers": [
-            0,
-            1,
-            2
-            
+            0
           ]
         },
         {
           "id": "chemie_organicka_chemie_aldehydy_012",
           "question": "Sloučenina s tímto vzorcem se nazývá:",
-          "image": "../../images/Screenshot 2026-08-27 at 17.58.11.png",
           "answers": [
             "fenol",
             "benzaldehyd",
@@ -24453,13 +24550,12 @@
             "acetylbenzen"
           ],
           "correctAnswers": [
-            1
+            3
           ]
         },
         {
           "id": "chemie_organicka_chemie_aldehydy_013",
           "question": "Sloučenina s tímto vzorcem se nazývá:",
-          "image": "../../images/Screenshot 2026-08-27 at 17.58.19.png",
           "answers": [
             "hydrochinon",
             "m-benzendiol",
@@ -24467,15 +24563,12 @@
             "benzen-1,3-diol"
           ],
           "correctAnswers": [
-            1,
-            2,
-            3
+            1
           ]
         },
         {
           "id": "chemie_organicka_chemie_aldehydy_014",
           "question": "Sloučenina s tímto vzorcem se nazývá:",
-          "image": "../../images/Screenshot 2026-08-27 at 17.58.33.png",
           "answers": [
             "1,3-dihydroxybenzen",
             "p-benzendiol",
@@ -24483,9 +24576,7 @@
             "hydrochinon"
           ],
           "correctAnswers": [
-            1,
-            2,
-            3
+            0
           ]
         }
       ],
@@ -24544,7 +24635,7 @@
             "acetaldehydu"
           ],
           "correctAnswers": [
-            0, 2
+            2
           ]
         },
         {
@@ -24609,7 +24700,7 @@
             "tři"
           ],
           "correctAnswers": [
-            0
+            1
           ]
         },
         {
@@ -24641,7 +24732,6 @@
         {
           "id": "chemie_organicka_chemie_alifaticke_a_alicyklicke_uhlovodiky_a_jejich_derivaty_012",
           "question": "Sloučenina s tímto vzorcem se nazývá:",
-          "image": "../../images/Screenshot 2026-08-27 at 18.14.14.png",
           "answers": [
             "brombutan",
             "2-brom-methylpropan",
@@ -24655,7 +24745,6 @@
         {
           "id": "chemie_organicka_chemie_alifaticke_a_alicyklicke_uhlovodiky_a_jejich_derivaty_013",
           "question": "Sloučenina s tímto vzorcem se nazývá:",
-          "image": "../../images/Screenshot 2026-08-27 at 18.14.22.png",
           "answers": [
             "2-ethylbutan",
             "3-methylpentan",
@@ -24683,7 +24772,6 @@
         {
           "id": "chemie_organicka_chemie_alifaticke_a_alicyklicke_uhlovodiky_a_jejich_derivaty_015",
           "question": "Sloučenina s tímto vzorcem se nazývá:",
-          "image": "../../images/Screenshot 2026-08-27 at 18.14.29.png",
           "answers": [
             "1,1,1-trimethyl-3,3-diethylpropan",
             "4-ethyl-2,2,3,3-tetramethylhexan",
@@ -24697,7 +24785,6 @@
         {
           "id": "chemie_organicka_chemie_alifaticke_a_alicyklicke_uhlovodiky_a_jejich_derivaty_016",
           "question": "Uhlovodík s tímto vzorcem se nazývá:",
-          "image": "../../images/Screenshot 2026-08-27 at 18.14.35.png",
           "answers": [
             "isopentan",
             "isobutan",
@@ -24705,7 +24792,7 @@
             "2-methylbutan"
           ],
           "correctAnswers": [
-            1, 
+            0,
             3
           ]
         },
@@ -24823,7 +24910,8 @@
             "se liší fyzikálními vlastnostmi"
           ],
           "correctAnswers": [
-            1
+            1,
+            3
           ]
         },
         {
@@ -24836,7 +24924,7 @@
             "alkohol"
           ],
           "correctAnswers": [
-            2
+            0
           ]
         },
         {
@@ -24849,7 +24937,7 @@
             "radikálová substituční reakce"
           ],
           "correctAnswers": [
-            3
+            1
           ]
         },
         {
@@ -24862,7 +24950,7 @@
             "halogen vázán na benzenové jádro"
           ],
           "correctAnswers": [
-            2
+            3
           ]
         },
         {
@@ -24875,7 +24963,7 @@
             "sodíkem"
           ],
           "correctAnswers": [
-            2
+            1
           ]
         },
         {
@@ -24888,7 +24976,8 @@
             "propin"
           ],
           "correctAnswers": [
-            1
+            0,
+            2
           ]
         },
         {
@@ -24901,7 +24990,7 @@
             "násobných vazeb"
           ],
           "correctAnswers": [
-            3
+            2
           ]
         },
         {
@@ -24927,7 +25016,7 @@
             "areny"
           ],
           "correctAnswers": [
-            1
+            3
           ]
         },
         {
@@ -24953,7 +25042,7 @@
             "ethan"
           ],
           "correctAnswers": [
-            3
+            1
           ]
         },
         {
@@ -24966,7 +25055,7 @@
             "eliminační"
           ],
           "correctAnswers": [
-            0
+            2
           ]
         },
         {
@@ -24979,7 +25068,7 @@
             "alkyny"
           ],
           "correctAnswers": [
-            2
+            3
           ]
         },
         {
@@ -24992,7 +25081,7 @@
             "1-bromethan"
           ],
           "correctAnswers": [
-            0
+            2
           ]
         },
         {
@@ -25005,7 +25094,7 @@
             "alkeny"
           ],
           "correctAnswers": [
-            3
+            0
           ]
         },
         {
@@ -25018,7 +25107,7 @@
             "1-chlorpropan"
           ],
           "correctAnswers": [
-            1
+            3
           ]
         },
         {
@@ -25031,7 +25120,7 @@
             "dibrommethan"
           ],
           "correctAnswers": [
-            0
+            1
           ]
         },
         {
@@ -25044,13 +25133,12 @@
             "oxidaci alkenů"
           ],
           "correctAnswers": [
-            2
+            0
           ]
         },
         {
           "id": "chemie_organicka_chemie_alifaticke_a_alicyklicke_uhlovodiky_a_jejich_derivaty_043",
           "question": "Sloučenina s tímto vzorcem se nazývá:",
-          "image": "../../images/Screenshot 2026-08-27 at 18.28.04.png",
           "answers": [
             "3-methyl-1,3-butan",
             "2-methylbuta-1,3-dien",
@@ -25084,7 +25172,7 @@
             "alkyny"
           ],
           "correctAnswers": [
-            3
+            2
           ]
         },
         {
@@ -25097,7 +25185,7 @@
             "C5H8"
           ],
           "correctAnswers": [
-            3
+            1
           ]
         },
         {
@@ -25110,7 +25198,7 @@
             "methylacetylen"
           ],
           "correctAnswers": [
-            1
+            2
           ]
         },
         {
@@ -25123,7 +25211,7 @@
             "jednu"
           ],
           "correctAnswers": [
-            1
+            0
           ]
         },
         {
@@ -25136,7 +25224,7 @@
             "CH≡CH"
           ],
           "correctAnswers": [
-            3
+            0
           ]
         },
         {
@@ -25155,7 +25243,6 @@
         {
           "id": "chemie_organicka_chemie_alifaticke_a_alicyklicke_uhlovodiky_a_jejich_derivaty_051",
           "question": "Sloučenina s tímto vzorcem se nazývá:",
-          "image": "../../images/Screenshot 2026-08-27 at 18.29.17.png",
           "answers": [
             "cyklohexan",
             "cyklohexen",
@@ -25169,7 +25256,6 @@
         {
           "id": "chemie_organicka_chemie_alifaticke_a_alicyklicke_uhlovodiky_a_jejich_derivaty_052",
           "question": "Uhlovodíkový zbytek s tímto vzorcem se nazývá:",
-          "image": "../../images/Screenshot 2026-08-27 at 18.30.04.png",
           "answers": [
             "fenyl",
             "cyklohexenyl",
@@ -25177,13 +25263,12 @@
             "benzyl"
           ],
           "correctAnswers": [
-            2
+            0
           ]
         },
         {
           "id": "chemie_organicka_chemie_alifaticke_a_alicyklicke_uhlovodiky_a_jejich_derivaty_053",
           "question": "Sloučenina s tímto vzorcem se nazývá:",
-          "image": "../../images/Screenshot 2026-08-27 at 18.30.12.png",
           "answers": [
             "pyrrolin",
             "cyklopentan",
@@ -25191,7 +25276,7 @@
             "cyklopenten"
           ],
           "correctAnswers": [
-            3
+            1
           ]
         }
       ],
@@ -25237,7 +25322,7 @@
             "jednosytný alkohol"
           ],
           "correctAnswers": [
-            0
+            1
           ]
         },
         {
@@ -25250,7 +25335,7 @@
             "pouze na sekundárních uhlících"
           ],
           "correctAnswers": [
-            0
+            2
           ]
         },
         {
@@ -25263,7 +25348,7 @@
             "jednosytný alkohol"
           ],
           "correctAnswers": [
-            0
+            1
           ]
         },
         {
@@ -25276,7 +25361,7 @@
             "butanol"
           ],
           "correctAnswers": [
-            0
+            1
           ]
         },
         {
@@ -25289,7 +25374,7 @@
             "dvojsytný alkohol"
           ],
           "correctAnswers": [
-            0
+            3
           ]
         },
         {
@@ -25302,7 +25387,8 @@
             "ketony"
           ],
           "correctAnswers": [
-            2
+            0,
+            3
           ]
         },
         {
@@ -25341,7 +25427,7 @@
             "kyselina propionová"
           ],
           "correctAnswers": [
-            0
+            3
           ]
         },
         {
@@ -25354,7 +25440,7 @@
             "acetaldehyd"
           ],
           "correctAnswers": [
-            0
+            1
           ]
         },
         {
@@ -25393,7 +25479,7 @@
             "aldehydy"
           ],
           "correctAnswers": [
-            0
+            2
           ]
         },
         {
@@ -25419,7 +25505,7 @@
             "alkoholát sodný"
           ],
           "correctAnswers": [
-            3
+            0
           ]
         },
         {
@@ -25445,7 +25531,7 @@
             "formaldehyd"
           ],
           "correctAnswers": [
-            0
+            1
           ]
         },
         {
@@ -25458,7 +25544,7 @@
             "nasycených a nenasycených uhlovodíků"
           ],
           "correctAnswers": [
-            0
+            2
           ]
         },
         {
@@ -25471,7 +25557,7 @@
             "thioethery"
           ],
           "correctAnswers": [
-            2
+            3
           ]
         },
         {
@@ -25484,7 +25570,7 @@
             "oxidací thiolů"
           ],
           "correctAnswers": [
-            3
+            2
           ]
         },
         {
@@ -25497,7 +25583,7 @@
             "disulfidy"
           ],
           "correctAnswers": [
-            3
+            2
           ]
         }
       ],
@@ -25530,7 +25616,7 @@
             "RNH2"
           ],
           "correctAnswers": [
-            1
+            3
           ]
         },
         {
@@ -25543,7 +25629,7 @@
             "R2NH"
           ],
           "correctAnswers": [
-            0
+            1
           ]
         },
         {
@@ -25556,7 +25642,7 @@
             "anilin"
           ],
           "correctAnswers": [
-            2
+            0
           ]
         },
         {
@@ -25582,7 +25668,8 @@
             "p-fenylendiamin"
           ],
           "correctAnswers": [
-            3
+            0,
+            2
           ]
         },
         {
@@ -25595,7 +25682,7 @@
             "nitrobenzen"
           ],
           "correctAnswers": [
-            1
+            3
           ]
         },
         {
@@ -25621,7 +25708,7 @@
             "nitrofenol"
           ],
           "correctAnswers": [
-            2
+            1
           ]
         },
         {
@@ -25634,7 +25721,7 @@
             "redukcí hydrochinonu"
           ],
           "correctAnswers": [
-            1
+            0
           ]
         },
         {
@@ -25647,13 +25734,12 @@
             "N(CH4)3"
           ],
           "correctAnswers": [
-            1
+            3
           ]
         },
         {
           "id": "chemie_organicka_chemie_aminy_amidy_alkaloidy_012",
           "question": "Sloučenina s tímto vzorcem se nazývá:",
-          "image": "../../images/Screenshot 2026-08-27 at 19.16.02.png",
           "answers": [
             "benzenamin",
             "nitrobenzen",
@@ -25661,14 +25747,12 @@
             "azobenzen"
           ],
           "correctAnswers": [
-            0,
             2
           ]
         },
         {
           "id": "chemie_organicka_chemie_aminy_amidy_alkaloidy_013",
           "question": "Sloučenina s tímto vzorcem se nazývá:",
-          "image": "../../images/Screenshot 2026-08-27 at 19.16.09.png",
           "answers": [
             "anilin",
             "p-fenylendiamin",
@@ -25676,8 +25760,7 @@
             "benzen-1,4-diamin"
           ],
           "correctAnswers": [
-            1,
-            3
+            2
           ]
         },
         {
@@ -25690,7 +25773,7 @@
             "nitridy"
           ],
           "correctAnswers": [
-            2
+            1
           ]
         },
         {
@@ -25703,7 +25786,7 @@
             "kyselina benzoová"
           ],
           "correctAnswers": [
-            3
+            1
           ]
         },
         {
@@ -25716,7 +25799,7 @@
             "dehydratací amidů"
           ],
           "correctAnswers": [
-            3
+            1
           ]
         },
         {
@@ -25729,7 +25812,7 @@
             "octové"
           ],
           "correctAnswers": [
-            2
+            3
           ]
         },
         {
@@ -25742,7 +25825,7 @@
             "diamid kyseliny octové"
           ],
           "correctAnswers": [
-            2
+            3
           ]
         },
         {
@@ -25768,7 +25851,7 @@
             "deriváty steranu"
           ],
           "correctAnswers": [
-            1
+            0
           ]
         },
         {
@@ -25781,7 +25864,7 @@
             "jsou pouze živočišného původu"
           ],
           "correctAnswers": [
-            0, 1, 2
+            3
           ]
         },
         {
@@ -25794,7 +25877,7 @@
             "kyseliny benzoové"
           ],
           "correctAnswers": [
-            3
+            1
           ]
         },
         {
@@ -25827,7 +25910,7 @@
             "CH3−CH2−CH2−CH2−"
           ],
           "correctAnswers": [
-            2
+            1
           ]
         },
         {
@@ -25840,7 +25923,7 @@
             "fenol"
           ],
           "correctAnswers": [
-            2
+            1
           ]
         },
         {
@@ -25853,7 +25936,7 @@
             "CH3−CH2−CH2−CH2−"
           ],
           "correctAnswers": [
-            1
+            3
           ]
         },
         {
@@ -25866,7 +25949,7 @@
             "1,4-dimethylbenzenu"
           ],
           "correctAnswers": [
-            0
+            2
           ]
         },
         {
@@ -25905,7 +25988,7 @@
             "je polární rozpouštědlo"
           ],
           "correctAnswers": [
-            0, 1
+            2
           ]
         },
         {
@@ -25918,7 +26001,7 @@
             "m-"
           ],
           "correctAnswers": [
-            3
+            0
           ]
         },
         {
@@ -25931,7 +26014,7 @@
             "katalytickou oxidací kyslíkem"
           ],
           "correctAnswers": [
-            0
+            2
           ]
         },
         {
@@ -25944,7 +26027,7 @@
             "naftalen a anthracen"
           ],
           "correctAnswers": [
-            1
+            3
           ]
         },
         {
@@ -25957,7 +26040,7 @@
             "cyklohexanu"
           ],
           "correctAnswers": [
-            0
+            2
           ]
         },
         {
@@ -25970,7 +26053,7 @@
             "anhydrid kyseliny malonové"
           ],
           "correctAnswers": [
-            2
+            0
           ]
         },
         {
@@ -25983,7 +26066,7 @@
             "anilin"
           ],
           "correctAnswers": [
-            2
+            1
           ]
         },
         {
@@ -25996,6 +26079,7 @@
             "2-methyl-4-ethylbenzen"
           ],
           "correctAnswers": [
+            0,
             1
           ]
         },
@@ -26009,6 +26093,7 @@
             "2-methyl-4-ethylbenzen"
           ],
           "correctAnswers": [
+            0,
             2
           ]
         },
@@ -26022,7 +26107,7 @@
             "substitucí benzenu vinylem"
           ],
           "correctAnswers": [
-            1
+            0
           ]
         },
         {
@@ -26035,7 +26120,7 @@
             "anthracen"
           ],
           "correctAnswers": [
-            3
+            1
           ]
         },
         {
@@ -26061,7 +26146,7 @@
             "styren"
           ],
           "correctAnswers": [
-            0, 2
+            3
           ]
         },
         {
@@ -26074,7 +26159,7 @@
             "styren"
           ],
           "correctAnswers": [
-            1
+            2
           ]
         },
         {
@@ -26087,7 +26172,7 @@
             "kumen"
           ],
           "correctAnswers": [
-            2
+            0
           ]
         },
         {
@@ -26100,13 +26185,12 @@
             "kondenzované areny"
           ],
           "correctAnswers": [
-            3
+            2
           ]
         },
         {
           "id": "chemie_organicka_chemie_aromaticke_uhlovodiky_jejich_reakce_a_derivaty_023",
           "question": "Sloučenina s tímto vzorcem se nazývá:",
-          "image": "../../images/Screenshot 2026-08-27 at 19.20.26.png",
           "answers": [
             "cyklohexan",
             "benzyl",
@@ -26114,13 +26198,12 @@
             "fenyl"
           ],
           "correctAnswers": [
-            2
+            1
           ]
         },
         {
           "id": "chemie_organicka_chemie_aromaticke_uhlovodiky_jejich_reakce_a_derivaty_024",
           "question": "Sloučenina s tímto vzorcem se nazývá:",
-          "image": "../../images/Screenshot 2026-08-27 at 19.20.35.png",
           "answers": [
             "fenanthren",
             "anthracen",
@@ -26134,7 +26217,6 @@
         {
           "id": "chemie_organicka_chemie_aromaticke_uhlovodiky_jejich_reakce_a_derivaty_025",
           "question": "Sloučenina s tímto vzorcem se nazývá:",
-          "image": "../../images/Screenshot 2026-08-27 at 19.20.42.png",
           "answers": [
             "naftalen",
             "fenanthren",
@@ -26142,13 +26224,12 @@
             "anthracen"
           ],
           "correctAnswers": [
-            3
+            1
           ]
         },
         {
           "id": "chemie_organicka_chemie_aromaticke_uhlovodiky_jejich_reakce_a_derivaty_026",
           "question": "Sloučenina s tímto vzorcem se nazývá:",
-          "image": "../../images/Screenshot 2026-08-27 at 19.20.52.png",
           "answers": [
             "anthracen",
             "naftalen",
@@ -26156,13 +26237,12 @@
             "fenanthren"
           ],
           "correctAnswers": [
-            3
+            2
           ]
         },
         {
           "id": "chemie_organicka_chemie_aromaticke_uhlovodiky_jejich_reakce_a_derivaty_027",
           "question": "Uhlovodíkový zbytek s tímto vzorcem se nazývá:",
-          "image": "../../images/Screenshot 2026-08-27 at 19.21.02.png",
           "answers": [
             "2-naftyl",
             "naftol",
@@ -26170,13 +26250,12 @@
             "1-naftyl"
           ],
           "correctAnswers": [
-            0
+            2
           ]
         },
         {
           "id": "chemie_organicka_chemie_aromaticke_uhlovodiky_jejich_reakce_a_derivaty_028",
           "question": "Uhlovodíkový zbytek s tímto vzorcem se nazývá:",
-          "image": "../../images/Screenshot 2026-08-27 at 19.21.10.png",
           "answers": [
             "2-naftyl",
             "naftol",
@@ -26184,13 +26263,12 @@
             "1-naftyl"
           ],
           "correctAnswers": [
-            3
+            1
           ]
         },
         {
           "id": "chemie_organicka_chemie_aromaticke_uhlovodiky_jejich_reakce_a_derivaty_029",
           "question": "Uhlovodíkový zbytek s tímto vzorcem se nazývá:",
-          "image": "../../images/Screenshot 2026-08-27 at 19.21.16.png",
           "answers": [
             "benzoyl",
             "benzyl",
@@ -26198,13 +26276,12 @@
             "vinyl"
           ],
           "correctAnswers": [
-            1
+            2
           ]
         },
         {
           "id": "chemie_organicka_chemie_aromaticke_uhlovodiky_jejich_reakce_a_derivaty_030",
           "question": "Sloučenina s tímto vzorcem se nazývá:",
-          "image": "../../images/Screenshot 2026-08-27 at 19.21.21.png",
           "answers": [
             "m-xylen",
             "methylbenzen",
@@ -26212,14 +26289,12 @@
             "benzyl"
           ],
           "correctAnswers": [
-            1,
-            2
+            3
           ]
         },
         {
           "id": "chemie_organicka_chemie_aromaticke_uhlovodiky_jejich_reakce_a_derivaty_031",
           "question": "Uhlovodíkový zbytek s tímto vzorcem se nazývá:",
-          "image": "../../images/Screenshot 2026-08-27 at 19.21.27.png",
           "answers": [
             "benzyl",
             "benzoyl",
@@ -26227,13 +26302,12 @@
             "naftyl"
           ],
           "correctAnswers": [
-            2
+            1
           ]
         },
         {
           "id": "chemie_organicka_chemie_aromaticke_uhlovodiky_jejich_reakce_a_derivaty_032",
           "question": "Sloučenina s tímto vzorcem se nazývá:",
-          "image": "../../images/Screenshot 2026-08-27 at 19.21.33.png",
           "answers": [
             "p-xylen",
             "m-xylen",
@@ -26241,14 +26315,12 @@
             "1,3-dimethylbenzen"
           ],
           "correctAnswers": [
-            1,
             3
           ]
         },
         {
           "id": "chemie_organicka_chemie_aromaticke_uhlovodiky_jejich_reakce_a_derivaty_033",
           "question": "Sloučenina s tímto vzorcem se nazývá:",
-          "image": "../../images/Screenshot 2026-08-27 at 19.21.40.png",
           "answers": [
             "o-xylen",
             "m-xylen",
@@ -26256,14 +26328,12 @@
             "1,3-dimethylbenzen"
           ],
           "correctAnswers": [
-            0,
-            2
+            3
           ]
         },
         {
           "id": "chemie_organicka_chemie_aromaticke_uhlovodiky_jejich_reakce_a_derivaty_034",
           "question": "Sloučenina s tímto vzorcem se nazývá:",
-          "image": "../../images/Screenshot 2026-08-27 at 19.21.46.png",
           "answers": [
             "vinylbenzen",
             "benzyl",
@@ -26271,14 +26341,12 @@
             "kumen"
           ],
           "correctAnswers": [
-            0,
-            2
+            3
           ]
         },
         {
           "id": "chemie_organicka_chemie_aromaticke_uhlovodiky_jejich_reakce_a_derivaty_035",
           "question": "Sloučenina s tímto vzorcem se nazývá:",
-          "image": "../../images/Screenshot 2026-08-27 at 19.21.52.png",
           "answers": [
             "2-nitrotoluen",
             "2-nitrobenzen",
@@ -26286,7 +26354,7 @@
             "TNT"
           ],
           "correctAnswers": [
-            0
+            3
           ]
         }
       ],
@@ -26319,7 +26387,7 @@
             "umělé sladidlo"
           ],
           "correctAnswers": [
-            0, 2
+            1
           ]
         },
         {
@@ -26332,7 +26400,7 @@
             "cyklohexanol"
           ],
           "correctAnswers": [
-            0, 2
+            2
           ]
         },
         {
@@ -26345,7 +26413,7 @@
             "sekundární alkohol"
           ],
           "correctAnswers": [
-            1
+            3
           ]
         },
         {
@@ -26358,7 +26426,7 @@
             "1-hydroxynaftalen"
           ],
           "correctAnswers": [
-            3
+            1
           ]
         },
         {
@@ -26371,7 +26439,7 @@
             "oxidací fenolů s jednou skupinou −OH"
           ],
           "correctAnswers": [
-            0, 1
+            0
           ]
         },
         {
@@ -26384,6 +26452,7 @@
             "chinony"
           ],
           "correctAnswers": [
+            0,
             3
           ]
         },
@@ -26397,7 +26466,7 @@
             "kresol"
           ],
           "correctAnswers": [
-            0
+            2
           ]
         },
         {
@@ -26449,7 +26518,7 @@
             "benzen-1,3-diol"
           ],
           "correctAnswers": [
-            3
+            1
           ]
         }
       ],
@@ -26521,7 +26590,8 @@
             "mají stejné fyzikální vlastnosti"
           ],
           "correctAnswers": [
-            0, 2
+            0,
+            2
           ]
         },
         {
@@ -26534,7 +26604,8 @@
             "jsou tautomery"
           ],
           "correctAnswers": [
-            2, 3
+            2,
+            3
           ]
         },
         {
@@ -26683,7 +26754,6 @@
         {
           "id": "chemie_organicka_chemie_izomerie_konformace_konfigurace_018",
           "question": "Sloučenina s tímto vzorcem se nazývá:",
-          "image": "../../images/Screenshot 2026-08-27 at 19.33.07.png",
           "answers": [
             "3-chlor-prop-2-en",
             "cis-1-chlor-prop-1-en",
@@ -26691,7 +26761,7 @@
             "1-methyl-3-chlor-eth-1-en"
           ],
           "correctAnswers": [
-            1
+            2
           ]
         },
         {
@@ -26736,7 +26806,6 @@
         {
           "id": "chemie_organicka_chemie_izomerie_konformace_konfigurace_022",
           "question": "Tyto vzorce představují izomery:",
-          "image": "../../images/Screenshot 2026-08-27 at 19.33.21.png",
           "answers": [
             "polohové",
             "skupinové",
@@ -26744,14 +26813,13 @@
             "řetězcové"
           ],
           "correctAnswers": [
-            0,
-            2
+            2,
+            3
           ]
         },
         {
           "id": "chemie_organicka_chemie_izomerie_konformace_konfigurace_023",
           "question": "Sloučenina s tímto vzorcem se nazývá:",
-          "image": "../../images/Screenshot 2026-08-27 at 19.33.30.png",
           "answers": [
             "trans-1-chlor-prop-1-en",
             "3-chlor-prop-2-en",
@@ -26772,7 +26840,8 @@
             "jsou za pokojové teploty kapaliny"
           ],
           "correctAnswers": [
-            0, 1
+            0,
+            1
           ]
         },
         {
@@ -26785,7 +26854,8 @@
             "primární alkoholy"
           ],
           "correctAnswers": [
-            1, 3
+            1,
+            3
           ]
         },
         {
@@ -26818,7 +26888,7 @@
             "kyselina askorbová"
           ],
           "correctAnswers": [
-            0
+            2
           ]
         },
         {
@@ -26831,7 +26901,7 @@
             "kyselina citrónová"
           ],
           "correctAnswers": [
-            3
+            1
           ]
         },
         {
@@ -26844,7 +26914,7 @@
             "kyseliny mléčné"
           ],
           "correctAnswers": [
-            0, 1
+            2
           ]
         },
         {
@@ -26857,7 +26927,7 @@
             "kyselina octová"
           ],
           "correctAnswers": [
-            0
+            3
           ]
         },
         {
@@ -26883,7 +26953,7 @@
             "esterifikace, jde-li o karboxylovou kyselinu."
           ],
           "correctAnswers": [
-            3
+            0
           ]
         },
         {
@@ -26896,7 +26966,7 @@
             "esterifikace, jde-li o karboxylovou kyselinu."
           ],
           "correctAnswers": [
-            3
+            2
           ]
         },
         {
@@ -26909,7 +26979,7 @@
             "karboxylových kyselin se silnými zásadami"
           ],
           "correctAnswers": [
-            1
+            3
           ]
         },
         {
@@ -26922,7 +26992,7 @@
             "karboxylová kyselina a alkohol"
           ],
           "correctAnswers": [
-            3
+            2
           ]
         },
         {
@@ -26935,7 +27005,7 @@
             "kyselina octová a ether"
           ],
           "correctAnswers": [
-            0
+            3
           ]
         },
         {
@@ -26961,7 +27031,7 @@
             "CH3−CO−O−CH3"
           ],
           "correctAnswers": [
-            3
+            0
           ]
         },
         {
@@ -26987,7 +27057,7 @@
             "kyselinu šťavelovou"
           ],
           "correctAnswers": [
-            2
+            1
           ]
         },
         {
@@ -27000,7 +27070,7 @@
             "adice"
           ],
           "correctAnswers": [
-            2
+            0
           ]
         },
         {
@@ -27013,7 +27083,7 @@
             "CH3−COO−CH=CH2"
           ],
           "correctAnswers": [
-            3
+            1
           ]
         },
         {
@@ -27026,7 +27096,7 @@
             "kyseliny šťavelové"
           ],
           "correctAnswers": [
-            2
+            1
           ]
         },
         {
@@ -27052,7 +27122,8 @@
             "kyselina mléčná"
           ],
           "correctAnswers": [
-            3
+            0,
+            1
           ]
         },
         {
@@ -27065,7 +27136,7 @@
             "kyselina β-hydroxypropionová"
           ],
           "correctAnswers": [
-            1
+            2
           ]
         },
         {
@@ -27091,7 +27162,7 @@
             "dekarboxylací"
           ],
           "correctAnswers": [
-            1
+            3
           ]
         },
         {
@@ -27104,7 +27175,7 @@
             "dehydrogenací"
           ],
           "correctAnswers": [
-            3
+            1
           ]
         },
         {
@@ -27143,7 +27214,7 @@
             "oxid uhličitý a kyselina octová"
           ],
           "correctAnswers": [
-            3
+            2
           ]
         },
         {
@@ -27182,7 +27253,7 @@
             "dehydrogenací"
           ],
           "correctAnswers": [
-            3
+            0
           ]
         },
         {
@@ -27195,7 +27266,7 @@
             "počtem uhlíků v molekule"
           ],
           "correctAnswers": [
-            1
+            3
           ]
         },
         {
@@ -27208,7 +27279,7 @@
             "izomer kyseliny malonové"
           ],
           "correctAnswers": [
-            1
+            2
           ]
         },
         {
@@ -27234,7 +27305,7 @@
             "xylenu"
           ],
           "correctAnswers": [
-            2
+            3
           ]
         },
         {
@@ -27247,7 +27318,8 @@
             "hydrolýzou anhydridu kyseliny ftalové"
           ],
           "correctAnswers": [
-            0
+            0,
+            3
           ]
         },
         {
@@ -27260,7 +27332,7 @@
             "kyselina benzoová"
           ],
           "correctAnswers": [
-            2
+            3
           ]
         },
         {
@@ -27286,7 +27358,7 @@
             "hydrochinon"
           ],
           "correctAnswers": [
-            2
+            3
           ]
         },
         {
@@ -27325,7 +27397,7 @@
             "amidy"
           ],
           "correctAnswers": [
-            1
+            0
           ]
         },
         {
@@ -27338,7 +27410,7 @@
             "o-xylen"
           ],
           "correctAnswers": [
-            3
+            2
           ]
         },
         {
@@ -27364,7 +27436,7 @@
             "snižuje rozpustnost kyseliny"
           ],
           "correctAnswers": [
-            2
+            1
           ]
         },
         {
@@ -27377,13 +27449,12 @@
             "CCl3−COOH"
           ],
           "correctAnswers": [
-            3
+            0
           ]
         },
         {
           "id": "chemie_organicka_chemie_karboxylove_kyseliny_jejich_reakce_a_derivaty_045",
           "question": "Sloučenina s tímto vzorcem se nazývá:",
-          "image": "../../images/Screenshot 2026-08-27 at 19.42.08.png",
           "answers": [
             "kyselina sulfanilová",
             "kyselina benzensulfonová",
@@ -27397,7 +27468,6 @@
         {
           "id": "chemie_organicka_chemie_karboxylove_kyseliny_jejich_reakce_a_derivaty_046",
           "question": "Sloučenina s tímto vzorcem se nazývá:",
-          "image": "../../images/Screenshot 2026-08-27 at 19.42.16.png",
           "answers": [
             "kyselina salicylová",
             "kyselina benzoová",
@@ -27405,13 +27475,12 @@
             "kyselina tereftalová"
           ],
           "correctAnswers": [
-            2
+            1
           ]
         },
         {
           "id": "chemie_organicka_chemie_karboxylove_kyseliny_jejich_reakce_a_derivaty_047",
           "question": "Sloučenina s tímto vzorcem se nazývá:",
-          "image": "../../images/Screenshot 2026-08-27 at 19.42.21.png",
           "answers": [
             "anhydrid kyseliny fumarové",
             "anhydrid kyseliny o-ftalové",
@@ -27419,14 +27488,12 @@
             "anhydrid kyseliny benzoové"
           ],
           "correctAnswers": [
-            1,
-            2
+            0
           ]
         },
         {
           "id": "chemie_organicka_chemie_karboxylove_kyseliny_jejich_reakce_a_derivaty_048",
           "question": "Sloučenina s tímto vzorcem se nazývá:",
-          "image": "../../images/Screenshot 2026-08-27 at 19.42.26.png",
           "answers": [
             "kyselina benzoová",
             "kyselina ftalová",
@@ -27434,13 +27501,12 @@
             "kyselina tereftalová"
           ],
           "correctAnswers": [
-            0
+            1
           ]
         },
         {
           "id": "chemie_organicka_chemie_karboxylove_kyseliny_jejich_reakce_a_derivaty_049",
           "question": "Sloučenina s tímto vzorcem se nazývá:",
-          "image": "../../images/Screenshot 2026-08-27 at 19.42.33.png",
           "answers": [
             "kyselina o-hydroxybenzoová",
             "kyselina m-hydroxybenzoová",
@@ -27448,14 +27514,12 @@
             "kyselina salicylová"
           ],
           "correctAnswers": [
-            0,
-            3
+            1
           ]
         },
         {
           "id": "chemie_organicka_chemie_karboxylove_kyseliny_jejich_reakce_a_derivaty_050",
           "question": "Sloučenina s tímto vzorcem se nazývá:",
-          "image": "../../images/Screenshot 2026-08-27 at 19.42.38.png",
           "answers": [
             "kyselina o-ftalová",
             "kyselina tereftalová",
@@ -27463,8 +27527,7 @@
             "kyselina benzoová"
           ],
           "correctAnswers": [
-            1,
-            2
+            1
           ]
         }
       ],
@@ -27497,7 +27560,7 @@
             "methylester kyseliny octové"
           ],
           "correctAnswers": [
-            0, 1
+            1
           ]
         },
         {
@@ -27536,7 +27599,7 @@
             "sekundární alkohol"
           ],
           "correctAnswers": [
-            3
+            1
           ]
         },
         {
@@ -27549,7 +27612,7 @@
             "sekundární alkohol"
           ],
           "correctAnswers": [
-            3
+            2
           ]
         },
         {
@@ -27562,7 +27625,7 @@
             "aldehydy"
           ],
           "correctAnswers": [
-            2
+            1
           ]
         },
         {
@@ -27575,7 +27638,7 @@
             "oxidací cyklohexanu"
           ],
           "correctAnswers": [
-            1
+            0
           ]
         },
         {
@@ -27601,7 +27664,7 @@
             "ketonů, v nichž jsou uhlovodíkové zbytky vázány na skupinu C=O"
           ],
           "correctAnswers": [
-            0
+            3
           ]
         },
         {
@@ -27614,7 +27677,7 @@
             "CH3−CO−O−CH3"
           ],
           "correctAnswers": [
-            1
+            3
           ]
         }
       ],
@@ -27686,7 +27749,8 @@
             "ke vzniku dvojných nebo trojných vazeb v molekule"
           ],
           "correctAnswers": [
-            0, 3
+            0,
+            3
           ]
         },
         {
@@ -27751,7 +27815,8 @@
             "elektrofilní"
           ],
           "correctAnswers": [
-            0, 1
+            0,
+            1
           ]
         },
         {
@@ -27777,7 +27842,8 @@
             "NH3"
           ],
           "correctAnswers": [
-            2, 3
+            2,
+            3
           ]
         },
         {
@@ -27803,7 +27869,8 @@
             "aniontů"
           ],
           "correctAnswers": [
-            2, 3
+            2,
+            3
           ]
         },
         {
@@ -27914,7 +27981,7 @@
             "dvě"
           ],
           "correctAnswers": [
-            3
+            1
           ]
         },
         {
@@ -27940,7 +28007,7 @@
             "čtyři"
           ],
           "correctAnswers": [
-            3
+            2
           ]
         },
         {
@@ -27966,7 +28033,7 @@
             "alkaloidy"
           ],
           "correctAnswers": [
-            1
+            0
           ]
         },
         {
@@ -27979,7 +28046,7 @@
             "přírodní kaučuk"
           ],
           "correctAnswers": [
-            0, 3
+            2
           ]
         },
         {
@@ -27992,7 +28059,7 @@
             "je monoterpen"
           ],
           "correctAnswers": [
-            3
+            0
           ]
         }
       ],

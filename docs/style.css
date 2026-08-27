@@ -480,6 +480,18 @@ button:disabled {
   margin-top: 12px;
 }
 
+.question-image {
+  margin: 1.5rem 0;
+  text-align: center;
+}
+
+.question-image img {
+  max-width: 100%;
+  max-height: 400px;
+  border-radius: 8px;
+  box-shadow: 0 4px 16px rgba(26, 47, 86, 0.12);
+}
+
 @media (max-width: 900px) {
   .selection-layout {
     grid-template-columns: 1fr;
@@ -524,5 +536,14 @@ button:disabled {
 
   .question-text {
     font-size: 1.25rem;
+  }
+
+  .question-image {
+    margin: 1rem 0;
+  }
+
+  .question-image img {
+    max-width: 100%;
+    max-height: 300px;
   }
 }

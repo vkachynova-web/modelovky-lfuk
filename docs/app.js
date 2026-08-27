@@ -330,6 +330,7 @@ function renderQuestionOverview(subjectKey = 'all', topicId = 'all') {
                       <span class="question-overview-topic">${escapeHtml(question.topicName)}</span>
                     </div>
                     <div class="question-overview-question">${renderRichText(question.question)}</div>
+                    ${question.image ? `<div class="question-image"><img src="${escapeHtml(question.image)}" alt="" /></div>` : ''}
                     <ol class="question-overview-answers">
                       ${question.answers
                         .map((answer, answerIndex) => {
@@ -717,6 +718,8 @@ function renderQuiz() {
       </div>
 
       <h2 class="question-text">${renderRichText(question.question)}</h2>
+
+      ${question.image ? `<div class="question-image"><img src="${escapeHtml(question.image)}" alt="" /></div>` : ''}
 
       <div class="answers-list">
         ${question.answers
