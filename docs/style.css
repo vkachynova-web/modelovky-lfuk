@@ -416,6 +416,11 @@ button:disabled {
   border-color: transparent;
 }
 
+.box {
+ background-color: white;;
+ text-align: center;
+}
+
 .result-box {
   border-radius: 12px;
   padding: 16px;
