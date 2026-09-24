@@ -18677,7 +18677,7 @@
             "značí, že sacharid otáčí rovinu polarizovaného světla pouze doprava",
             "označuje konfiguraci odvozenou od D-serinu",
             "značí, že sacharid otáčí rovinu polarizovaného světla pouze doleva",
-            "se vztahuje na prostorovou konfiguraci odvozenou od"
+            "se vztahuje na prostorovou konfiguraci odvozenou od D-glyceraldehydu "
           ],
           "correctAnswers": [
             3
@@ -18685,7 +18685,7 @@
         },
         {
           "id": "chemie_biochemie_monosacharidy_disacharidy_polysacharidy_004",
-          "question": "D-glyceraldehydu O racemické směsi cukrů ve vodném roztoku platí, že:",
+          "question": "O racemické směsi cukrů ve vodném roztoku platí, že:",
           "answers": [
             "směr otáčení roviny polarizovaného světla závisí na příslušnosti k D- nebo L-řadě",
             "otáčí rovinu polarizovaného světla doleva",
@@ -18732,7 +18732,7 @@
             "D-manóza"
           ],
           "correctAnswers": [
-            0
+            2
           ]
         },
         {
